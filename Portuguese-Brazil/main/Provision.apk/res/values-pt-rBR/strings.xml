@@ -82,7 +82,7 @@
     <string name="carrier_introduction_china">Para lhe fornecer melhores serviços, os processos em execução no seu dispositivo (incluindo SystemHelper, RegService e Carrier Services) podem enviar periodicamente as informações relacionadas do seu dispositivo e cartão SIM (incluindo IMEI, IMSI, MSISDN, MEID, ICCID, endereço MAC, Versão do OS, Versão do Android, modelo do dispositivo e especificações básicas de hardware), bem como informações de localização aproximada (incluindo região, coordenadas, identificador de área e ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS. A operadora promete analisar informações relevantes apenas para melhorar a qualidade dos serviços ou fornecer serviços ou tecnologias personalizadas e não divulgará informações relevantes a terceiros de qualquer forma que o identifique pessoalmente. A declaração específica da operadora deve prevalecer. Consulte sua operadora sobre o custo de utilização deste serviço.</string>
     <string name="carrier_introduction_china_rothko">Para lhe fornecer melhores serviços, os processos em execução no seu dispositivo (incluindo SystemHelper, RegService e Carrier Services) podem enviar periodicamente as informações relacionadas do seu dispositivo e cartão SIM (incluindo IMEI, IMSI, MSISDN, MEID, ICCID, endereço MAC, Versão do OS, Versão do Android, modelo do dispositivo e especificações básicas de hardware), bem como informações de localização aproximada (incluindo região, coordenadas, identificador de área e ID da estação base) para a operadora via Wi-Fi, rede de dados móveis ou SMS. Ao fazer chamadas, o DCService se conectará à rede. As operadoras de celular garantem que essas informações serão utilizadas apenas para análise, melhoria da qualidade do serviço ou fornecimento de serviços ou tecnologias customizadas e nunca serão compartilhadas com ninguém de forma que possa permitir identificá-lo pessoalmente. Consulte a declaração relevante da sua operadora para obter detalhes. Você pode perguntar sobre todas as taxas de serviço relacionadas diretamente com sua operadora.</string>
     <string name="check_box_label">"&lt;Data>Ao ativar este recurso, você aceita a nossa &lt;a href=%1$s>Política de Privacidade&lt;/a >.&lt;/Data>"</string>
-    <string name="check_box_label_new"><Data>"Você pode usar a Interconectividade Xiaomi para controlar e transferir dados entre dispositivos. Aceite a &lt;a href=%1$s>Política de Privacidade&lt;/a > da Interconectividade Xiaomi antes de usar seus recursos. Este app precisa se conectar à internet e requer as seguintes permissões:"</Data></string>
+    <string name="check_box_label_new"><Data>Com a Interconectividade, você pode transferir itens entre dispositivos e usar controles entre dispositivos. Ativar este recurso indica que você concorda com a &lt;a href=%1$s>Política de Privacidade&lt;/a >. Este serviço precisa se conectar à internet e acessar as seguintes permissões:</Data></string>
     <string name="check_network_status">"Não foi possível verificar a conta devido a um erro de rede"</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="clock_introduction">Você pode usar este app para ver as horas, bem como usar o timer, relógio mundial, cronômetro, definir alarmes, entre outros.</string>
@@ -128,7 +128,7 @@
     <string name="disagreement_function">"Caso não aceite em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este recurso. Você pode optar por não usar este recurso em tais casos."</string>
     <string name="disagreement_location_service">"Caso não aceite em conceder tais permissões ou compartilhar e fazer upload de suas informações pessoais, você não poderá usar este serviço."</string>
     <string name="disagreement_location_service_abnormal">"Caso não aceite em conceder essas permissões, não poderá usar os serviços de localização. Você pode ativar ou desativar os serviços de localização a qualquer momento em Configurações > Proteção de privacidade."</string>
-    <string name="disagreement_mi_account_abnormal">"Caso não aceite em conceder essas permissões, não poderá usar os serviços Mi Account. Você pode ativar ou desativar os serviços da Conta Xiaomi a qualquer momento em Configurações > Conta Xiaomi."</string>
+    <string name="disagreement_mi_account_abnormal">Você pode começar ou parar de usar os serviços da Conta Xiaomi em Configurações > Conta Xiaomi.</string>
     <string name="disagreement_service_not_working_properly">"Caso não aceite em conceder essas permissões, não poderá usar este app."</string>
     <string name="disagreement_service_not_working_properly_settings">"Se você não aceitar em conceder essas permissões, este serviço não funcionará normalmente."</string>
     <string name="disagreement_service_not_working_properly_with_media_storage">"Se você optar por não conceder essas permissões, o serviço não funcionará normalmente."</string>
@@ -229,9 +229,9 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="intent_filter_verification_service">Serviço de verificação de filtro de intenção</string>
     <string name="interconnection_communication_introduction">Os serviços de comunicação pela internet da Xiaomi permitem descobrir, conectar e se comunicar com outros dispositivos.</string>
     <string name="interconnection_service_global_item_title">Interconectividade Xiaomi</string>
-    <string name="interconnection_service_global_label">"&lt;Data>A Interconectividade Xiaomi permite que seus dispositivos interajam entre si sem fio. Ao ativar esta opção, você aceita a &lt;a href=%1$s>Política de Privacidade da Interconectividade Xiaomi&lt;/a >.&lt;/Data>"</string>
+    <string name="interconnection_service_global_label"><Data>Com a Interconectividade, você pode transferir itens entre dispositivos e usar controles entre dispositivos. Ativar este recurso indica que você concorda com a &lt;a href=%1$s>Política de Privacidade&lt;/a >.</Data></string>
     <string name="interconnection_service_permission1">Ativar e desativar o Bluetooth</string>
-    <string name="interconnection_service_permission10">Para descobrir dispositivos próximos</string>
+    <string name="interconnection_service_permission10">Para reconhecer dispositivos conectados</string>
     <string name="interconnection_service_permission11">Transferir dados entre dispositivos</string>
     <string name="interconnection_service_permission12">Para transferir dados entre dispositivos conectados</string>
     <string name="interconnection_service_permission13">Acessar o conteúdo da tela</string>
@@ -248,8 +248,8 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="interconnection_service_permission7">Acessar e editar fotos e arquivos no seu dispositivo</string>
     <string name="interconnection_service_permission8">Para transmitir e transferir conteúdo deste dispositivo</string>
     <string name="interconnection_service_permission9">Acessar o identificador do dispositivo</string>
-    <string name="interconnection_service_summary_china">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. %1$s Os serviços de interconectividade disponíveis podem variar dependendo da versão do sistema e do modelo do dispositivo. Encontre mais informações em %2$s.</string>
-    <string name="interconnection_service_summary_china_fragment1">Esses serviços incluem Xiaomi Smart Play, transmissão, transferência de app, Tela inicial+, área de transferência compartilhada, tethering sem fio (incluindo sincronização de rede), controles entre dispositivos, câmera entre dispositivos e Xiaomi Smart Hub. Para poder funcionar normalmente, os Serviços de Interconectividade Xiaomi precisam se conectar à internet e exigir as seguintes permissões:</string>
+    <string name="interconnection_service_summary_china">Os recursos de interconectividade podem variar dependendo do modelo do dispositivo e da versão do sistema. Visite (%1$s) para saber mais.</string>
+    <string name="interconnection_service_summary_china_fragment1">Esses serviços incluem Xiaomi Smart Play, transmissão, continuidade de apps, Tela inicial+, área de transferência compartilhada, tethering sem fio (incluindo sincronização de rede), controles entre dispositivos, câmera entre dispositivos e Xiaomi Smart Hub. Para funcionar normalmente, os Serviços de Interconectividade Xiaomi precisam se conectar à internet e requerem as seguintes permissões:</string>
     <string name="interconnection_service_summary_china_fragment10">Para acessar as informações de dispositivos próximos</string>
     <string name="interconnection_service_summary_china_fragment11">Gravar áudio do dispositivo interno</string>
     <string name="interconnection_service_summary_china_fragment12">Para transferir e reproduzir áudio entre dispositivos durante a transmissão e espelhamento</string>
@@ -311,8 +311,8 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="interconnection_service_summary_china_fragment8">Para estabelecer uma conexão Bluetooth entre dispositivos e transferir itens</string>
     <string name="interconnection_service_summary_china_fragment9">Acessar informações de localização</string>
     <string name="interconnection_service_summary_china_new">%1$s Os recursos de Interconectividade Xiaomi disponíveis no seu dispositivo podem variar devido a diferenças nas versões do sistema e nos modelos do dispositivo. Consulte nosso site oficial (%2$s) para mais informações.</string>
-    <string name="interconnection_service_summary_global">"Os recursos de Interconectividade Xiaomi podem variar dependendo do modelo do dispositivo e da versão do sistema. Visite o site oficial do sistema para saber mais."</string>
-    <string name="interconnection_service_title">Serviços de Interconectividade Xiaomi</string>
+    <string name="interconnection_service_summary_global">"Os recursos de interconectividade podem variar dependendo do modelo do dispositivo e da versão do sistema. Visite o site oficial do sistema para saber mais."</string>
+    <string name="interconnection_service_title">Interconectividade</string>
     <string name="item_contents_wwarning">Se seu dispositivo for perdido, você não poderá impedir que outras pessoas o utilizem e acessem seus dados, a menos que defina um bloqueio de tela. Ignorar mesmo assim?</string>
     <string name="item_facerecognition">Desbloqueio facial</string>
     <string name="item_fingerprint">Digital</string>
@@ -458,7 +458,7 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="other_settings_ad_dialog_disagree">Desativar</string>
     <string name="other_settings_ad_disable_summary">Ative para personalizar os anúncios</string>
     <string name="other_settings_ad_enable">Anúncios personalizados</string>
-    <string name="other_settings_ad_enable_summary">Personalizar anúncios com base em seus interesses</string>
+    <string name="other_settings_ad_enable_summary">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos aplicativos do sistema de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="other_settings_alarm_assistance">Localzação de emergência</string>
     <string name="other_settings_alarm_assistance_privacy">Política de Privacidade</string>
     <string name="other_settings_alarm_assistance_summary">"Você pode enviar suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga para os números 110, 120, 119 ou 122. Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</string>
@@ -514,7 +514,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="permission_device_desktop_summary">Para acessar informações do dispositivo (ex.: nome da operadora);</string>
     <string name="permission_device_fast_pairing_summary">Para acessar o status do dispositivo e comunicá-lo aos dispositivos vestíveis;</string>
     <string name="permission_device_message_summary">Para enviar e receber SMS e MMS;</string>
-    <string name="permission_device_mi_account_summary">Para garantir a segurança do ambiente de login.</string>
+    <string name="permission_device_mi_account_summary">Para login rápido através do seu número de telefone</string>
     <string name="permission_different_device_introduction">Para identificar serviços associados a diferentes dispositivos</string>
     <string name="permission_different_info_introduction">Para identificar dispositivos diferentes</string>
     <string name="permission_direct_call">Fazer chamadas</string>
@@ -636,7 +636,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="protect_persoanl_info_statement">Protegeremos suas informações pessoais de acordo com as leis, regulamentos e políticas de privacidade relevantes.</string>
     <string name="provide_date_management_service">Este serviço permite verificar a data e gerenciar eventos.</string>
     <string name="provision_back">Voltar</string>
-    <string name="provision_complete_text">Continuar</string>
+    <string name="provision_complete_text">Tudo pronto</string>
     <string name="provision_inputmethod_policy_description"><Data>Veja a &lt;a href=%1$s>Política de Privacidade&lt;/a > do teclado selecionado.</Data></string>
     <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
     <string name="provision_next">Avançar</string>
@@ -661,7 +661,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="require_telephone_imei">Ler IMEI e IMSI</string>
     <string name="require_telephone_imei_summary">Para acessar o IMEI</string>
     <string name="require_telephone_location">Acessar a localização</string>
-    <string name="require_telephone_location_summary">Para acessar a localização aproximada e fornecer serviços de otimização de rede baseados em localização</string>
+    <string name="require_telephone_location_summary">Para acessar sua localização aproximada para fornecer serviços de otimização de rede baseados na localização e calibração de fuso horário</string>
     <string name="require_telephone_statement">Para fornecer serviços básicos, as seguintes permissões são necessárias:</string>
     <string name="safe_open_service">Serviços abertos seguros</string>
     <string name="safe_open_service_introduction">Serviços abertos seguros auxiliam os desenvolvedores e fornecem recursos de segurança em nível de sistema para proteger os usuários e sua privacidade.</string>
@@ -925,4 +925,13 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="withdraw_consent">Se você retirar o consentimento, os serviços do Carrossel de planos de fundo serão desativados.</string>
     <string name="yesterday">Ontem</string>
     <string name="zone_picker_title">Escolher fuso horário</string>
+    <string name="accessibility_settings">Acessibilidade</string>
+    <string name="interconnection_service_permission19">Acessar e usar notificações</string>
+    <string name="interconnection_service_permission20">Para acessar as notificações do dispositivo, incluindo nome do aplicativo, título e conteúdo</string>
+    <string name="other_settings_upload_debug_log_detail_cn">"Ajude a melhorar sua experiência enviando automaticamente dados de diagnóstico, do dispositivo e de uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, a estabilidade do sistema e dos apps, e mais.
+Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o utiliza (por exemplo, nível da bateria, atividade do sistema e dos apps e erros). Os dados serão usados para melhorar os dispositivos Xiaomi.
+Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.
+Você pode controlar este recurso em Configurações > Privacidade e segurança > Segurança > Configurações adicionais > Uso e diagnóstico."</string>
+    <string name="permission_mi_account">Acessar status da chamada</string>
+    <string name="sub_screen_boot_tip">Conclua a configuração na tela principal</string>
 </resources>

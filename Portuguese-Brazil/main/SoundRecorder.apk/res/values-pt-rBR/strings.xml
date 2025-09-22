@@ -923,4 +923,8 @@ Atualmente pausado. A análise será retomada quando você não estiver usando s
     <string name="year_month_day_hour_minute_format">dd-MM-yyyy hh.mm aaa</string>
     <string name="year_month_format">"MMMM 'de' yyyy"</string>
     <string name="yesterday">Ontem</string>
+    <string name="close_voice_enhancement">Desativar</string>
+    <string name="closed_voice_enhancement">Voz aprimorada desativada</string>
+    <string name="open_voice_enhancement">Melhorar voz</string>
+    <string name="opened_voice_enhancement">Voz aprimorada ativada</string>
 </resources>

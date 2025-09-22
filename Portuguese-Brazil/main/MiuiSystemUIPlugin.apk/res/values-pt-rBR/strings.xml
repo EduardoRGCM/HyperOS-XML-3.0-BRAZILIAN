@@ -626,4 +626,12 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="wordless_mode_subtitle_text">Ative para exibir os nomes dos ícones na Central de Controle.</string>
     <string name="wordless_mode_title_text">Exibir nomes dos ícones na Central de Controle.</string>
     <string name="yesterday">Ontem</string>
+    <string name="flashlight_notification_btn_close">Desativar</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Fechar</string>
+    <string name="phone_case_disassembly_prompt">Remova a capa do seu telefone para usar o carregamento sem fio reverso</string>
+    <string name="qs_item_drag_and_sort">Arraste para reorganizar</string>
+    <string name="quick_settings_carsickness">Alívio de enjoo de movimento</string>
+    <string name="send">Enviar</string>
+    <string name="super_volume_initial_remind_toast">O aumento de volume está ativado. Seu dispositivo pode aquecer e usar mais energia.</string>
+    <string name="super_volume_nearly_full_toast">O aumento de volume está ativado</string>
 </resources>

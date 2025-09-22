@@ -361,7 +361,7 @@
     <string name="notification_on_hold">Em espera</string>
     <string name="notification_ongoing_call">Chamada em andamento</string>
     <string name="notification_requesting_video_call">Solicitação de vídeo recebida</string>
-    <string name="offline_call_chat_text">Comunicação entre dispositivos</string>
+    <string name="offline_call_chat_text">Comunicação Offline Xiaomi</string>
     <string name="offline_call_rssi_great_text">Sinal forte</string>
     <string name="offline_call_rssi_poor_text">Sinal fraco</string>
     <string name="offline_call_rssi_poor_toast">Sinal de Bluetooth fraco. Isso pode afetar a qualidade da chamada.</string>
@@ -619,4 +619,17 @@ VoLTE"</string>
 WiFi"</string>
     <string name="xiaoai_assistant">Assistente de chamada Mi AI</string>
     <string name="yesterday">Ontem</string>
+    <string name="onscreen_open_preview_camera">Abrir câmera</string>
+    <string name="relay_cal_focus_notification_device_name">%1$s está atendendo</string>
+    <string name="relay_cal_focus_notification_release_relay">Voltar para este dispositivo</string>
+    <string name="rtt_call_back_talkback">Voltar</string>
+    <string name="rtt_call_incoming">Chamada RTT recebida</string>
+    <string name="rtt_call_mute_talkback">Silenciar</string>
+    <string name="rtt_call_timer_text">Chamada RTT</string>
+    <string name="rtt_call_waiting">Aguardando o outro dispositivo aceitar a chamada RTT…</string>
+    <string name="rtt_error_toast">"Não foi possível estabelecer a chamada RTT. Alternado para chamada de voz."</string>
+    <string name="rtt_input_hint">Digite a mensagem aqui</string>
+    <string name="rtt_message_submit_talkback">Enviar</string>
+    <string name="upgrade_rtt_accept">Aceitar</string>
+    <string name="upgrade_rtt_prompt">Aceitar a solicitação para mudar para RTT?</string>
 </resources>

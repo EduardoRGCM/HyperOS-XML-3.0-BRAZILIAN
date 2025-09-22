@@ -681,4 +681,7 @@
     <string name="wireless_transmission_definition">"Transmita o sinal do seu microfone a um dispositivo Bluetooth externo"</string>
     <string name="wireless_transmission_prompt">Para transmitir áudio, o alto-falante sem fio precisa ativar o Bluetooth. Ativar agora?</string>
     <string name="yesterday">Ontem</string>
+    <string name="distance_perception">Percepção de distância</string>
+    <string name="distance_perception_summary">Quando o som imersivo está ativado, ajusta dinamicamente o volume e o campo sonoro de acordo com sua distância da tela</string>
+
 </resources>

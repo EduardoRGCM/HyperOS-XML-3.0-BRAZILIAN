@@ -264,7 +264,7 @@
     <string name="bind_simcard_no_dual">"Não foi possível encontrar o Dual SIM"</string>
     <string name="bind_simcard_not_set">Não definido</string>
     <string name="bind_simcard_title">SIM padrão para chamadas</string>
-    <string name="bluetooth_chat">Comunicação entre dispositivos</string>
+    <string name="bluetooth_chat">Comunicação Offline Xiaomi</string>
     <string name="bluetooth_connection_failed_toast">Conexão Bluetooth interrompida</string>
     <string name="blurbJoinContactDataWith">Escolha o contato que deseja mesclar com %s:</string>
     <string name="btn_split_contact">Separar</string>
@@ -383,7 +383,7 @@
     <string name="callrecordview_menu_xiaoaiphone">Assistente de chamada Mi AI</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">Descartar as alterações?</string>
-    <string name="cancel_confirmation_dialog_title">Cancelar</string>
+    <string name="cancel_confirmation_dialog_title">Descartar alterações</string>
     <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
     <string name="cancel_import_confirmation_message">Cancelar a importação de %s?</string>
     <string name="cancel_import_dialog_message">Parar a importação dos contatos?</string>
@@ -1326,7 +1326,7 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="redirect_calls_to_vm_confirm_message">Antes de configurar sua caixa de correio, verifique os termos e condições de seu contrato com sua operadora móvel.</string>
     <string name="redirect_calls_to_vm_confirm_text">"OK"</string>
     <string name="relationLabelsGroup">Relacionamento</string>
-    <string name="removePhoto">Remover foto</string>
+    <string name="removePhoto">Excluir</string>
     <string name="remove_blacklist">Desbloquear</string>
     <string name="remove_blacklist_dialog_message">Mostrar chamadas e mensagens deste número?</string>
     <string name="remove_blacklist_dialog_title">Desbloquear este número de telefone?</string>
@@ -1493,7 +1493,9 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="special_code_security_exception">"Não foi possível concluir a ação. Este não é o seu discador padrão."</string>
     <string name="splitConfirmation_title">Separar contato?</string>
-    <string name="split_screen_fab_toast">Arraste para usar o teclado de discagem</string>
+    <string name="call_recording_seekbar">Barra de progresso da gravação de chamada</string>
+    <string name="cancel_confirmation_dialog_separate">Continuar editando</string>
+    <string name="split_screen_fab_toast">Arraste para discagem em tela cheia</string>
     <string name="starredList">Com estrela</string>
     <string name="starred_contacts">Favoritos</string>
     <string name="status_available">Disponível</string>

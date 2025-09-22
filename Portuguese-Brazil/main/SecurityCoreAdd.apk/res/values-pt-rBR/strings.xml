@@ -1433,4 +1433,6 @@ merece seu próprio app"</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Ontem</string>
+    <string name="freeform_side_app_bar">Barra lateral</string>
+
 </resources>

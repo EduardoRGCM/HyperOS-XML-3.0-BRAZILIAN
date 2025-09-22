@@ -259,10 +259,10 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_controlphone_button_hint">Visualizar tela</string>
     <string name="circulate_controlphone_title">Gerenciar dispositivo</string>
     <string name="circulate_cta_agree">Aceitar</string>
-    <string name="circulate_cta_app_name">"Interconectividade Xiaomi"</string>
-    <string name="circulate_cta_desc_lite_phone">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
-    <string name="circulate_cta_desc_phone">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
-    <string name="circulate_cta_desc_phone_global">Os Serviços de Interconectividade Xiaomi permitem que seus dispositivos interajam entre si sem fio.</string>
+    <string name="circulate_cta_app_name">"Interconectividade"</string>
+    <string name="circulate_cta_desc_lite_phone">Os Serviços de Interconectividade permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
+    <string name="circulate_cta_desc_phone">Os Serviços de Interconectividade permitem que seus dispositivos interajam entre si sem fio. Para poder funcionar normalmente, esses serviços precisam estar conectados à internet e exigem as seguintes permissões:</string>
+    <string name="circulate_cta_desc_phone_global">Os Serviços de Interconectividade permitem que seus dispositivos interajam entre si sem fio.</string>
     <string name="circulate_cta_exit">Discordo</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Para conectar dispositivos e transferir dados entre eles</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Para acessar a lista de apps instalados em um dispositivo móvel e espelhamento de tela em computadores</string>
@@ -443,10 +443,10 @@ seus dispositivos?"</string>
     <string name="connect_settings_category_hyper_mind">HyperMind</string>
     <string name="connect_settings_category_hyper_mind_new">Controles inteligentes</string>
     <string name="connect_settings_category_personal_device">Dispositivos pessoais</string>
-    <string name="connect_settings_communication_sharing">Tethering sem fio</string>
+    <string name="connect_settings_communication_sharing">Compartilhamento de conectividade</string>
     <string name="connect_settings_connect_permission">Interconectividade e permissões</string>
     <string name="connect_settings_connect_privacy">Privacidade</string>
-    <string name="connect_settings_connection_service">Interconectividade Xiaomi</string>
+    <string name="connect_settings_connection_service">Interconectividade</string>
     <string name="connect_settings_corp_network">Assistência de rede</string>
     <string name="connect_settings_corp_phone">Sincronização de chamadas</string>
     <string name="connect_settings_nfc_share">Transferir itens via NFC</string>
@@ -460,10 +460,10 @@ seus dispositivos?"</string>
     <string name="connect_settings_share_file">Acesso a arquivos</string>
     <string name="connect_settings_share_launcher">Tela inicial+</string>
     <string name="connect_settings_share_notification">Notificações</string>
-    <string name="connect_settings_summary"><Data>Descubra automaticamente dispositivos próximos conectados à sua Conta Xiaomi e conecte-os entre si para executar uma variedade de tarefas em vários dispositivos. &lt;a href=%1$s>Saiba mais&lt;/a></Data></string>
+    <string name="connect_settings_summary"><Data>Descubra dispositivos próximos conectados à sua Conta Xiaomi e adicione-os ao Xiaomi Smart Hub. &lt;a href=%1$s>Saiba mais&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Permita que seus dispositivos interajam entre si sem fio</string>
     <string name="connect_settings_summary_corp_phone">Atenda chamadas em tablets ou computadores próximos conectados à sua Conta Xiaomi</string>
-    <string name="connect_settings_summary_global"><Data>Descubra dispositivos próximos conectados à sua Conta Xiaomi e adicione-os ao Xiaomi Smart Hub</Data></string>
+    <string name="connect_settings_summary_global">Descubra dispositivos próximos conectados à sua Conta Xiaomi e adicione-os ao Xiaomi Smart Hub</string>
     <string name="connect_settings_summary_hyper_mind">Este recurso aprende seus padrões e os utiliza para controlar seus dispositivos domésticos inteligentes. Desenvolvido por Mi AI.</string>
     <string name="connect_settings_summary_hyper_mind_new">Deixe o Xiaomi HyperMind controlar seus dispositivos próximos de acordo com seus hábitos</string>
     <string name="connect_settings_summary_relay_app">Continue tarefas no mesmo app em outro dispositivo</string>
@@ -537,7 +537,7 @@ seus dispositivos?"</string>
     <string name="dialog_miplay_permission_positive">Configurações</string>
     <string name="dialog_miplay_permission_title">Permissões necessárias</string>
     <string name="dialog_nearbydevice_permission_message">Permita que este dispositivo acesse dispositivos próximos para poder usar os recursos de transmissão.</string>
-    <string name="dialog_nearbydevice_permission_message_connectivity">"O recurso de Interconectividade Xiaomi que você está usando precisa de permissão para se conectar a dispositivos próximos. Sem ele, esse recurso não pode funcionar normalmente. Você pode conceder essa permissão nas Configurações."</string>
+    <string name="dialog_nearbydevice_permission_message_connectivity">"O recurso de Interconectividade que você está usando precisa de permissão para se conectar a dispositivos próximos. Sem ele, esse recurso não pode funcionar normalmente. Você pode conceder essa permissão nas Configurações."</string>
     <string name="dialog_nearbydevice_permission_title">Permissões necessárias</string>
     <string name="dialog_nearbydevice_permission_title_connectivity">Permissões necessárias</string>
     <string name="dialog_nfc_cast_wifi_off">Ative o Wi-Fi para poder transmitir usando NFC. Ativar agora?</string>
@@ -649,7 +649,7 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="friday_shortest">Sex</string>
     <string name="global_dialog_cancle">Cancelar</string>
     <string name="global_dialog_miplay_permission_positive">Configurações</string>
-    <string name="global_dialog_nearbydevice_permission_message">Os Serviços de Interconectividade Xiaomi precisam de permissão para se conectar a dispositivos próximos para poder descobri-los. Conceda esta permissão nas Configurações para poder usar os Serviços de Interconectividade Xiaomi normalmente.</string>
+    <string name="global_dialog_nearbydevice_permission_message">A Interconectividade precisa de permissão para se conectar a dispositivos próximos para descobri-los. Conceda esta permissão em Configurações para poder usar a Interconectividade normalmente.</string>
     <string name="global_dialog_nearbydevice_permission_title">Permissões necessárias</string>
     <string name="global_privacy">Termos e condições</string>
     <string name="global_privacy_detail"><Data>"Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> antes de usar este app.&lt;br> Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, suas funções básicas ainda estarão disponíveis para você.</Data></string>
@@ -749,8 +749,8 @@ Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede W
 Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel."</string>
     <string name="help_page_text_15">Funcionalidade Miracast em diferentes dispositivos</string>
     <string name="help_page_text_16">Xiaomi TV/Mi Projector</string>
-    <string name="help_page_text_17">"Você pode projetar itens do seu dispositivo Mi na maioria dos modelos de Mi TV com recursos Bluetooth sem ativar o Miracast manualmente.
-Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus apps > Transmissão > Miracast."</string>
+    <string name="help_page_text_17">"Você pode projetar itens do seu celular Xiaomi na maioria dos modelos de TV Xiaomi com Bluetooth, sem precisar ativar o Miracast manualmente.
+Se você precisar ativar o Miracast, pressione o botão [MENU] e selecione Meus apps > Transmitir > Miracast."</string>
     <string name="help_page_text_17_1">Suporte ao cliente Xiaomi: 400-100-5678</string>
     <string name="help_page_text_17_content">Você pode projetar itens do seu dispositivo Xiaomi na maioria dos modelos de TV Xiaomi com recursos Bluetooth sem ativar o Miracast manualmente. Se precisar ativar o Miracast, pressione o botão [MENU] e comece a transmitir usando a opção para outros dispositivos Android.</string>
     <string name="help_page_text_18">TV Samsung</string>
@@ -1078,7 +1078,7 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="onehop_mirror_guide_message_button">Entendi</string>
     <string name="onehop_mirror_guide_message_text_1">Transmita a exibição do dispositivo para o computador com um toque.</string>
     <string name="onehop_mirror_guide_message_text_2">Selecione fotos, vídeos e outros arquivos da Galeria ou do Arquivos para transferir para o seu computador.</string>
-    <string name="onehop_mirror_guide_message_title">Interconectividade Xiaomi</string>
+    <string name="onehop_mirror_guide_message_title">Interconectividade</string>
     <string name="open_game_accelerate">Ative o Game Turbo</string>
     <string name="open_wlan">Ativar Wi-Fi</string>
     <string name="open_wlan_china">Ativar Wi-Fi</string>
@@ -1308,15 +1308,15 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="privacy_permission_wlan_china">Ativar e desativar o Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Para encontrar dispositivos disponíveis próximos</string>
     <string name="privacy_permission_wlan_desc_china">Para encontrar dispositivos disponíveis próximos</string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi&lt;/a>&lt;/font>\"."</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_positive">Aceitar</string>
     <string name="privacy_read_statement">Aceite os termos e condições primeiro</string>
     <string name="privacy_revoke_agree_detail_content">"%1$d. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
 %2$d. Após retirar o consentimento, as informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como os serviços de interconectividade são fornecidos com base na recolha das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar serviços de interconectividade. A retirada do seu consentimento não afetará o uso normal de outros recursos e serviços.
 %3$d. A retirada de consentimento é uma ação irreversível. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado."</string>
-    <string name="privacy_revoke_agree_detail_prompt">Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi</string>
-    <string name="privacy_revoke_agree_detail_title">Leia e aceite a Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade Xiaomi antes de retirar seu consentimento.</string>
-    <string name="privacy_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade da Interconectividade Xiaomi. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como os serviços de interconectividade são fornecidos com base na recolha das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar serviços de interconectividade. A retirada do seu consentimento não afetará o uso normal de outros recursos e serviços."</string>
+    <string name="privacy_revoke_agree_detail_prompt">Declaração sobre a retirada de consentimento para a Política de Privacidade da Interconectividade</string>
+    <string name="privacy_revoke_agree_detail_title">Leia e concorde com a \"Declaração sobre a Retirada de Consentimento à Política de Privacidade da Interconectividade\" antes de retirar seu consentimento.</string>
+    <string name="privacy_revoke_agree_introduce">"Se você continuar, retirará seu consentimento à Política de Privacidade da Interconectividade. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma. Como os serviços de interconectividade são fornecidos com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como recusa em aceitar os serviços de interconectividade. Sua retirada de consentimento não afetará o uso normal de outros recursos e serviços."</string>
     <string name="privacy_revoke_agree_warning_map_text">Atenção!</string>
     <string name="privacy_revoke_confirm_cancel">Cancelar</string>
     <string name="privacy_revoke_confirm_message">"Você não poderá continuar usando os recursos de transmissão a menos que nos permita fornecer nossos serviços com base na coleta das informações pessoais necessárias. Retirar o consentimento para a Política de Privacidade do HappyCast mesmo assim?"</string>
@@ -1544,7 +1544,7 @@ Leia e aceite o nosso &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="tile_label">Transmitir</string>
-    <string name="tile_label_v2">Serviços de interconectividade</string>
+    <string name="tile_label_v2">Interconectividade</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>

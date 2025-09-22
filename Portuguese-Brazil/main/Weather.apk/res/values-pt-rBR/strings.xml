@@ -735,4 +735,11 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="yes_vote_ratio">Para %1$s%%</string>
     <string name="yesterday">Ontem</string>
     <string name="your_location">Sua localização</string>
+    <string name="act_find_city_no_location_text">Nenhuma informação de localização</string>
+    <string name="aqi_title_pad">Qualidade do ar: %1$s</string>
+    <string name="daily_forecast_card_title">Previsão para %d dias</string>
+    <string name="daily_forecast_next_15_days">Previsão para os próximos 15 dias</string>
+    <string name="pad_keyboard_add_city">Adicionar localização</string>
+    <string name="pad_keyboard_left_switch">Localização anterior</string>
+    <string name="pad_keyboard_right_switch">Próxima localização</string>
 </resources>

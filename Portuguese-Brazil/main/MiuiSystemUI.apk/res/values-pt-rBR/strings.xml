@@ -3839,4 +3839,9 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_admin_restricted_network">Não permitido pela sua organização</string>
     <string name="wifitrackerlib_checking_for_internet_access">Verificando acesso à internet…</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Indisponível com as configurações de segurança atuais</string>
+    <string name="format_week_day_style2">dd EE</string>
+    <string name="gxzw_icon_access_tips">Ícone de impressão digital</string>
+    <string name="kg_wrong_pattern">Padrão incorreto</string>
+    <string name="miui_depth_pets_moth_format">d 'de' MMM</string>
+    <string name="stream_assistant">Assistente de voz</string>
 </resources>

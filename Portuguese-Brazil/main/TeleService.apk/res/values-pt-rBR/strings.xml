@@ -2378,10 +2378,10 @@ Interface UT: %5$s"</string>
     <string name="satellite_ct_business_summary">Serviços fornecidos por China Telecom</string>
     <string name="satellite_display_insert_support_card_message">Para poder usar as comunicações do Tiantong Satellite, insira um cartão SIM ativado para satélite da China Telecom.</string>
     <string name="satellite_display_insert_support_card_title">Insira um cartão SIM ativado para satélite</string>
-    <string name="satellite_display_message">"Parece que o seu cartão SIM não suporta comunicações via Tiantong Satellite. Para poder usar esse recurso, insira um cartão SIM ativado para satélite da China Telecom. Continuar mesmo assim?"</string>
+    <string name="satellite_display_message">"Não foi possível encontrar o cartão SIM Tiantong. Para poder usar este recurso, insira um cartão SIM com comunicações via satélite Tiantong."</string>
     <string name="satellite_display_search_star">Continuar</string>
-    <string name="satellite_enable_message">Para ativar a comunicação via satélite, deslize para baixo para abrir o centro de controle, ative o Modo satélite e siga as instruções para conectar. Observe que apenas os cartões SIM da China Telecom com assinatura do Tiantong Satellite suportam esse recurso.</string>
-    <string name="satellite_enable_title">Como eu ativo a comunicação via satélite?</string>
+    <string name="satellite_enable_message">"Ative as comunicações via satélite Tiantong em Configurações > Rede via satélite, ou deslize para baixo para abrir a Central de controle e toque no botão Satélite Tiantong, depois siga as instruções para conectar.
+Apenas cartões SIM de satélite dedicados ou planos com serviço de satélite são suportados. Contate sua operadora se o serviço não estiver habilitado."</string>    <string name="satellite_enable_title">Como eu ativo a comunicação via satélite?</string>
     <string name="satellite_environment_requirement_message">"A comunicação via satélite é adequada para áreas sem sinal terrestre e recomendamos utilizá-la somente quando não houver rede disponível. Para evitar interferência de sinal, as caixas que contêm metal devem ser removidas antes do uso. Mantenha uma distância superior a %1$d mm entre a parte superior do dispositivo e seu corpo ou outras obstruções durante o uso. Este recurso ficará indisponível quando a bateria do dispositivo estiver abaixo de %2$s e você não poderá usá-lo para fazer chamadas se a temperatura do dispositivo estiver muito alta."</string>
     <string name="satellite_environment_requirement_title">Quais são os requisitos ambientais para usar este recurso?</string>
     <string name="satellite_exit_now_battery">Desativar</string>
@@ -2398,16 +2398,16 @@ Interface UT: %5$s"</string>
     <string name="satellite_low_battery_message">A bateria está muito fraca para ativar as comunicações via Tiantong Satellite.</string>
     <string name="satellite_low_battery_super_save_power_message">A bateria está fraca. Ative a Ultra economia de bateria para usar as comunicações via satélite normalmente. Ligue agora?</string>
     <string name="satellite_low_battery_title">Bateria fraca</string>
-    <string name="satellite_mobile_settings_summary">Suporta apenas cartões SIM ativados para satélite da China Telecom ou de outras operadoras suportadas</string>
-    <string name="satellite_mobile_settings_title">Ativar comunicações via satélite</string>
+    <string name="satellite_mobile_settings_summary">Disponível apenas com um SIM de satélite dedicado ou um plano que inclua serviço de satélite</string>
+    <string name="satellite_mobile_settings_title">Comunicações via satélite Tiantong</string>
     <string name="satellite_not_show_again">"Não mostrar novamente"</string>
     <string name="satellite_notification_text">Você ainda pode fazer chamadas e enviar SMS sem sinal usando comunicações via Tiantong Satellite. Ative este serviço primeiro.</string>
     <string name="satellite_notification_title">"Você está em uma área de sinal fraco"</string>
     <string name="satellite_open_tiantong_business_title">Ative as comunicações via Tiantong Satellite</string>
     <string name="satellite_point_title">Ative as comunicações via Tiantong Satellite</string>
-    <string name="satellite_privacy_statement_message">"Para fornecer serviços do Tiantong Satellite, precisamos acessar sua localização e procurar satélites.
-Depois de se conectar ao satélite, a China Telecom precisa acessar sua localização para localizá-lo em caso de emergência. Para obter detalhes sobre como processamos suas informações pessoais, consulte a "<a href="https://privacy.mi.com/TianTong-dianxin/en_US/">Declaração de Privacidade das Comunicações via Tiantong Satellite</a>".
-Toque em \"Aceitar\" abaixo para indicar que você leu e aceitou esta declaração de privacidade."</string>
+    <string name="satellite_privacy_statement_message">"Para conectar à rede de satélite Tiantong, precisamos da sua localização para procurar satélites localmente.
+Após a conexão, a operadora também precisa da sua localização para que os socorristas possam encontrá-lo rapidamente em uma emergência. Para detalhes, leia a "<a href="https://privacy.mi.com/TianTong-dianxin/zh_CN/">Declaração sobre Comunicações via Satélite Tiantong e Privacidade</a>".
+Ao tocar em \"Concordar\", você confirma que leu e aceitou esta declaração."</string>
     <string name="satellite_privacy_statement_negative">"Não aceitar"</string>
     <string name="satellite_privacy_statement_positive">Aceitar</string>
     <string name="satellite_privacy_statement_title">Declaração de privacidade</string>
@@ -2432,7 +2432,9 @@ Cancelar serviços agora?"</string>
     <string name="satellite_use_phone_message">"Depois que o Modo satélite estiver ativado, você poderá fazer e receber chamadas via satélite. Siga as instruções na tela para garantir a qualidade da chamada e manter a conexão via satélite durante a chamada. O viva-voz estará ativado por padrão. Fique parado e não mude a posição do seu dispositivo durante a chamada para evitar interrupções."</string>
     <string name="satellite_use_phone_title">Como uso a comunicação via satélite para fazer chamadas?</string>
     <string name="satellite_use_title">Por que usar comunicação via satélite?</string>
-    <string name="satellite_user_reminder">As comunicações do Tiantong Satellite precisam acessar sua localização. Dados móveis, câmera e Desbloqueio facial ficarão temporariamente indisponíveis. Este recurso está disponível apenas para cartões SIM da China Telecom compatíveis com o satélite.</string>
+    <string name="satellite_user_reminder">"As chamadas via satélite Tiantong precisam da sua localização. Dados móveis, Câmera e Desbloqueio facial serão temporariamente desativados.
+Ative primeiro as comunicações via satélite Tiantong. Contate sua operadora se não estiver habilitado.
+A disponibilidade do serviço depende da sua operadora local."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -3206,4 +3208,8 @@ O armazenamento de credenciais pode não estar ativo"</string>
     <string name="zen_mode_forever">Até você desativar</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ativar o Não perturbe</string>
+    <string name="beidou_mobile_settings_summary_all">Disponível apenas para usuários com serviço de comunicação via satélite BeiDou ativo</string>
+    <string name="beidou_satellite_enable_message_all">Contate sua operadora para ativar o serviço.</string>
+    <string name="convert_to_esim_title">Converter para eSIM</string>
+    <string name="telocation_auto_country_code_summary_while_roaming">Adicionar automaticamente o código do país aos números de contato ao discar em roaming. Números que já contêm um código de país serão discados como estão.</string>
 </resources>

@@ -340,7 +340,8 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="nfc_account_number_is_inconsistent">Parece que seu dispositivo e tablet estão usando Contas Mi diferentes. Para transferir itens, entre na mesma Conta Xiaomi em ambos os dispositivos.</string>
-    <string name="nfc_check_the_touch_device_china">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
+    <string name="nfc_check_the_touch_device">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique também se a Interconectividade está ativada para o outro dispositivo em Configurações e tente novamente.</string>
+    <string name="nfc_check_the_touch_device_china">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique também se a Interconectividade está ativada para o outro dispositivo em Configurações e tente novamente.</string>
     <string name="nfc_check_wifi_and_bluetooth_china">Verifique o status do Wi-Fi e do Bluetooth</string>
     <string name="nfc_circulation_failed">"Não foi possível transferir"</string>
     <string name="nfc_connect_fail">"Não foi possível conectar. Tente mais tarde."</string>
@@ -534,7 +535,7 @@ execute esta ação no seu dispositivo."</string>
     <string name="settings_pad">"Tablet"</string>
     <string name="settings_pad_handoff_title">Conectar automaticamente</string>
     <string name="settings_page">Tela inicial+</string>
-    <string name="settings_page_default_seat">Posição da tela do dispositivo</string>
+    <string name="settings_page_default_seat">Posição da tela inicial+</string>
     <string name="settings_pc">Computador</string>
     <string name="settings_pc_handoff_title">Conectar ao computador</string>
     <string name="settings_pc_use_tile">Sobre este recurso</string>
@@ -563,8 +564,8 @@ execute esta ação no seu dispositivo."</string>
     <string name="share_pc_folder_multi_error_dialog_ok">Entendi</string>
     <string name="share_pc_folder_multi_error_dialog_title">"Não foi possível transferir todos os itens"</string>
     <string name="share_stop_share_to_start_screen">Pare de transmitir para poder compartilhar sua tela</string>
-    <string name="share_to_settings_phone_content">Ativar a Interconectividade Xiaomi agora?</string>
-    <string name="share_to_settings_title">Interconectividade Xiaomi</string>
+    <string name="share_to_settings_phone_content">Ativar a Interconectividade agora?</string>
+    <string name="share_to_settings_title">Interconectividade</string>
     <string name="sink_pc_click_again_to_finish_extent">Toque novamente para desativar a extensão da tela</string>
     <string name="sink_pc_click_again_to_finish_mirror">Toque novamente para parar de espelhar a tela</string>
     <string name="size_byte">"B"</string>

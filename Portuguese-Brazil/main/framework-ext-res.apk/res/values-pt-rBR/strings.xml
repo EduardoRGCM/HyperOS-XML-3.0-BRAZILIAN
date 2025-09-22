@@ -461,6 +461,13 @@
     <string name="resource_select">Selecionar</string>
     <string name="reveries">Devaneios (estéreo)</string>
     <string name="robot">Robô</string>
+    <string name="softap_notification_enable">Ativado</string>
+    <string name="softap_notification_new_device">Novo dispositivo conectado</string>
+    <string name="softap_notification_unknown_device">Dispositivo sem fio</string>
+    <string name="softap_notification_usage">Hotspot está ativo</string>
+    <string name="wallpaper_and_signature_title">Planos de fundo e assinaturas</string>
+    <string name="wallpaper_bright_title">Brilho</string>
+    <string name="wallpaper_manying_title">Sombras</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Telefone Samsung</string>
     <string name="sc_notification_warning_content">"Se o app não for exibido corretamente, você poderá restaurar a visualização padrão ou alterar as preferências de exibição do app nas Configurações."</string>
@@ -492,7 +499,7 @@
     <string name="security_permission_failed_text">Ocorreu um erro. Tente novamente mais tarde.</string>
     <string name="security_permission_network_failed_text">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="security_permission_open_wifi_settings">Abrir configurações do Wi-Fi</string>
-    <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar o HyperOS!</string>
+    <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar o sistema!</string>
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ativados</string>
     <string name="security_permission_xiaomi_account_missed_text">Digite seu ID da Conta Xiaomi</string>
     <string name="security_share_text">Proteção de privacidade</string>

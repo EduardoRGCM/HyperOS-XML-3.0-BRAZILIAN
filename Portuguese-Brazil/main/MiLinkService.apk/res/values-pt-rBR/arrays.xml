@@ -28,39 +28,64 @@
         <item>Privacidade e interconectividade, Privacidade</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Interconectividade Xiaomi</item>
-        <item>Interconectividade/Interconectividade Xiaomi</item>
-        <item>Serviços de Interconectividade Xiaomi, Interconectividade Xiaomi</item>
+        <item>Interconectividade</item>
+        <item>Interconectividade/Interconectividade</item>
+        <item>Serviços de Interconectividade, Interconectividade Xiaomi</item>
     </string-array>
+    <string-array name="settings_search_mi_share">
+        <item>Xiaomi Share</item>
+        <item>Interconectividade/Xiaomi Share</item>
+        <item>Xiaomi Share</item>
+     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Handoff de app</item>
         <item>Interconectividade/Apps</item>
-        <item>Transferir apps, handoff, transferência</item>
+        <item>App handoff</item>
     </string-array>
     <string-array name="settings_search_relay_call">
         <item>Sincronização de chamadas</item>
+        <item>Sincronização de chamadas chamadas entre dispositivos, handoff de chamadas, chamadas</item>
         <item>Interconectividade/Sincronização de chamadas</item>
-        <item>Sincronização de chamadas, chamadas entre dispositivos, handoff de chamadas, chamadas</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Assistência de rede</item>
         <item>Interconectividade/Assistência de rede</item>
-        <item>Assistência de rede, tethering, compartilhamento de hotspot, tethering sem fio</item>
+        <item>Assistência de rede</item>
     </string-array>
     <string-array name="settings_search_relay_network_2">
-        <item>Tethering sem fio</item>
-        <item>Interconectividade/Tethering sem fio</item>
-        <item>Assistência de rede, tethering, compartilhamento de hotspot, tethering sem fio</item>
+        <item>Compartilhamento de conectividade</item>
+        <item>Interconectividade/Compartilhamento de conectividade</item>
+        <item>Compartilhamento de conectividade</item>
     </string-array>
     <string-array name="settings_search_relay_network_global">
         <item>Sincronização de rede</item>
         <item>Interconectividade/Sincronização de rede</item>
-        <item>Assistência de rede, tethering, compartilhamento de hotspot, Tethering sem fio</item>
+        <item>Sincronização de rede.</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast">
+        <item>Transmitir</item>
+        <item>Interconectividade/Transmitir</item>
+        <item>Transmitir, Minimizar janela, Transmitir com a tela desligada</item>
+    </string-array>
+    <string-array name="settings_search_screen_cast_help">
+        <item>Ajuda</item>
+        <item>Interconectividade/Transmitir/Ajuda</item>
+        <item>Ajuda</item>
+    </string-array>
+    <string-array name="settings_search_share_camera">
+        <item>Câmera entre dispositivos</item>
+        <item>Interconectividade/Câmera entre dispositivos</item>
+        <item>Câmera entre dispositivos</item>
+    </string-array>
+    <string-array name="settings_search_upay">
+        <item>Pagamentos entre dispositivos</item>
+        <item>Interconectividade/Pagamentos entre dispositivos</item>
+        <item>Pagamentos entre dispositivos;pagar através de dispositivos</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Tela inicial+</item>
         <item>Interconectividade/Tela inicial+</item>
-        <item>Tela inicial+, Xiaomi Smart Hub, compartilhamento de tela</item>
+        <item>Tela inicial+</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Área de transferência</item>
@@ -68,9 +93,9 @@
         <item>Área de transferência</item>
     </string-array>
     <string-array name="settings_search_share_file">
-        <item>Acesso a arquivos entre dispositivos</item>
-        <item>Interconectividade/Acesso a arquivos</item>
-        <item>Acesso a arquivos entre dispositivos, Acesso cruzado a arquivos, Arquivo entre dispositivos, acesso a arquivos, arquivo distribuído, Letra de unidade distribuída</item>
+        <item>Arquivos entre dispositivos</item>
+        <item>Interconectividade/Acesso entre dispositivos</item>
+        <item>Arquivos entre dispositivos</item>
     </string-array>
     <string-array name="settings_search_share_notify">
         <item>Notificações entre dispositivos</item>

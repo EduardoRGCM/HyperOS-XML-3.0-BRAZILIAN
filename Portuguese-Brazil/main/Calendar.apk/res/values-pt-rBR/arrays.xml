@@ -256,7 +256,7 @@
     <string-array name="repeat_choose_end">
         <item>Nunca</item>
         <item>Hora</item>
-        <item>Contagem</item>
+        <item>"Contagem "</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>"Jan"</item>

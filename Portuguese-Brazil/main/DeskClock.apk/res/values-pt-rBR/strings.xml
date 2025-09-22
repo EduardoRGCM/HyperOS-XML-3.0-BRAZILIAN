@@ -883,4 +883,22 @@ mm"</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="yesterday">Ontem</string>
     <string name="your_sounds">Meus sons</string>
+
+    <string name="alarm_snooze_island">Soneca</string>
+    <string name="snooze_count_entries_five">%d vezes</string>
+    <string name="snooze_count_entries_one">%d vez</string>
+    <string name="snooze_count_entries_ten">%d vezes</string>
+    <string name="snooze_count_entries_three">%d vezes</string>
+    <string name="snooze_count_entries_two">%d vezes</string>
+    <string name="snooze_duration_count">Contagem de sonecas</string>
+    <string name="snooze_interval_entries_fifteen">%d min</string>
+    <string name="snooze_interval_entries_five">%d min</string>
+    <string name="snooze_interval_entries_one">%d min</string>
+    <string name="snooze_interval_entries_ten">%d min</string>
+    <string name="snooze_interval_entries_thirty">%d min</string>
+    <string name="snooze_interval_entries_twenty">%d min</string>
+    <string name="snooze_interval_entries_twenty_five">%d min</string>
+    <string name="timer_end_island">Cronômetro parado</string>
+    <string name="timer_pause_island">Cronômetro pausado</string>
+    <string name="timer_running_island">Cronômetro</string>
 </resources>

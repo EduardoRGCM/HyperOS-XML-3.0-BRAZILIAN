@@ -183,9 +183,9 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="default_popup_window_title">Janela pop-up</string>
     <string name="delete_bank_card_message">Os cartões bancários do Mi Pay e cartões NFC serão excluídos após você sair.</string>
     <string name="delete_bank_card_title">Atenção!</string>
-    <string name="delete_device_btn">Remover dispositivo</string>
+    <string name="delete_device_btn">Remover</string>
     <string name="delete_device_failed">"Não é possível remover o dispositivo"</string>
-    <string name="delete_device_notice">"Se você remover este dispositivo, sua conta Xiaomi também será desconectada. Você não conseguirá mais acessar os itens armazenados na nuvem depois de removê-lo."</string>
+    <string name="delete_device_notice">"Após a remoção do dispositivo, ele será desconectado automaticamente da sua Conta Xiaomi. Você não poderá usar este dispositivo para acessar as fotos, mensagens ou outro conteúdo armazenado em sua conta."</string>
     <string name="deny">Recusar</string>
     <string name="device_delete_success_message">"Caso não tenha feito o login neste dispositivo, troque sua senha imediatamente."</string>
     <string name="device_delete_success_title">Desconectado</string>
@@ -661,7 +661,7 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="passport_privacy_policy">Política de Privacidade</string>
     <string name="passport_privacy_policy_required">Política de Privacidade (obrigatória)</string>
     <string name="passport_provision_input_email_register_prompt">Seus dados pessoais serão armazenados de acordo com as leis e regulamentos da região que você selecionar.</string>
-    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caracteres de pelo menos <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dos seguintes tipos: letras, números, símbolos.</string>
+    <string name="passport_provision_password_req_notice"><xliff refersto="8" id="min_pwd_len">%1$d</xliff>-<xliff refersto="16" id="max_pwd_len">%2$d</xliff> caracteres de pelo menos <xliff refersto="2" id="min_pwd_type">%3$d</xliff> dos seguintes tipos: letras, números, símbolos.</string>
     <string name="passport_qq_login_btn_content_description">Fazer login com QQ</string>
     <string name="passport_querying_phone_info">Solicitando informações da conta…</string>
     <string name="passport_quick_login">Entrar</string>

@@ -733,7 +733,7 @@ Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo 
     <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Aplicar</string>
     <string name="kg_dialog_apply_link_video_wallpaper_wallpaper_confirm">"Você está usando um conjunto de plano de fundo agora. Se você aplicar um novo tema, os planos de fundo da Tela de bloqueio e da Tela inicial serão substituídos e a Tela ambiente será restaurada para o estilo anterior. Aplicar mesmo assim?"</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Esta Tela de bloqueio não suporta Super plano de fundo. O plano de fundo nas telas inicial e de bloqueio será substituído se você continuar. Continuar mesmo assim?"</string>
-    <string name="kg_dialog_apply_super_wallpaper_confirm">"Você está usando um Super plano de fundo. Ele será substituído por um novo plano de fundo nas telas inicial e de bloqueio se você continuar. Continuar mesmo assim?"</string>
+    <string name="kg_dialog_apply_super_wallpaper_confirm">"Você está usando um Super plano de fundo agora. Se aplicar um novo tema, tanto os planos de fundo da Tela de bloqueio quanto da Tela inicial serão substituídos, e a Tela sempre ativa será restaurada para o padrão. Aplicar agora?"</string>
     <string name="kg_dialog_apply_super_wallpaper_negative_button">Cancelar</string>
     <string name="kg_dialog_apply_super_wallpaper_positive_button">"OK"</string>
     <string name="kg_dialog_fashion_gallery_button_abandon">Descartar</string>

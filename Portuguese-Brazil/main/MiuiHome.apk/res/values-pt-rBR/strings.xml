@@ -842,4 +842,11 @@ Tamanho da atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_update_sdk_update_dialog_ok">Atualizar</string>
     <string name="yesterday">Ontem</string>
+    <string name="home_search_bar_change_cancle">Cancelar</string>
+    <string name="home_search_bar_change_confirm">Alterar</string>
+    <string name="home_search_bar_change_content">Se você alterar o estilo da barra de pesquisa, o layout da sua Tela inicial também será alterado. Alterar agora?</string>
+    <string name="home_search_bar_change_title">Alterar estilo da barra de pesquisa</string>
+    <string name="large_search_bar">Pesquisa padrão</string>
+    <string name="none">Nenhum</string>
+    <string name="small_search_bar">Pesquisa compacta</string>
 </resources>

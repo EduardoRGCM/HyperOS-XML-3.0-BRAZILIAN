@@ -165,4 +165,12 @@
         <item quantity="other">SpO₂: %1$d%% (%2$s)</item>
         <item quantity="one">SpO₂: %1$d%% (%2$s)</item>
     </plurals>
+    <plurals name="notification_multiple_satellite">
+        <item quantity="one">%s mensagem via satélite</item>
+        <item quantity="other">%s mensagens via satélite</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="one">Retirar (%ds)</item>
+        <item quantity="other">Retirar (%ds)</item>
+    </plurals>
 </resources>

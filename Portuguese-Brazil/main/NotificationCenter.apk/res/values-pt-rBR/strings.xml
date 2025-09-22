@@ -364,4 +364,15 @@ A Xiaomi processará o conteúdo das notificações e mensagens (incluindo quais
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="yesterday">Ontem</string>
+    <string name="ai_enhanced_summary_pad">"Obtenha resumos das informações mais importantes das notificações"</string>
+    <string name="ai_notification_illustrate_text_pad">"Obtenha resumos inteligentes para as notificações exibidas na lista de pré-visualização para fácil referência.
+O conteúdo do resumo, incluindo qualquer informação privada nele contida, será processado pela Xiaomi, mas não armazenaremos esses dados."</string>
+    <string name="aon_message_owner">"Quando este recurso está ativado, a câmera frontal verificará quem está olhando para a tela quando uma notificação chega. Se o telefone detectar que você não é o único a visualizar a tela, ele ocultará automaticamente o conteúdo da notificação. Todos os dados de imagem e rosto são processados localmente no seu dispositivo e nunca são enviados para a nuvem."</string>
+    <string name="aon_message_owner_comment">"O acesso à câmera é necessário para verificar se você está olhando para a tela."</string>
+    <string name="aon_need_set_face_cancel">Cancelar</string>
+    <string name="aon_need_set_face_message">Para poder usar este recurso, configure primeiro o Desbloqueio facial.</string>
+    <string name="aon_need_set_face_title">Desbloqueio facial necessário</string>
+    <string name="aon_need_set_face_to_settings">Configurações</string>
+    <string name="fingerprint_face_password_unlock_new">Impressões digitais, dados faciais e bloqueio de tela</string>
+    <string name="notification_aon_summary_owner">O conteúdo da notificação só será mostrado quando o dono do dispositivo estiver olhando para a tela</string>
 </resources>

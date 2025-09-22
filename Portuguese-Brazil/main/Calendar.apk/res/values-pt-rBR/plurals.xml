@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ndays_v1">
+        <item quantity="one">%d dia antes</item>
+        <item quantity="other">%d dias antes</item>
+    </plurals>
+    <plurals name="Nhours_v1">
+        <item quantity="one">%d h antes</item>
+        <item quantity="other">%d h antes</item>
+    </plurals>
+    <plurals name="Nminutes_v1">
+        <item quantity="one">%d min antes</item>
+        <item quantity="other">%d min antes</item>
+    </plurals>
+    <plurals name="Nweeks_v1">
+        <item quantity="one">%d semana antes</item>
+        <item quantity="other">%d semanas antes</item>
+     </plurals>
+    <plurals name="countdown_hour">
+        <item quantity="one">Começa em %1$s h</item>
+        <item quantity="other">Começa em %1$s h</item>
+    </plurals>
+    <plurals name="countdown_minute">
+        <item quantity="one">Começa em %1$s min</item>
+        <item quantity="other">Começa em %1$s min</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="one">%1$s h</item>
+        <item quantity="other">%1$s h</item>
+    </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d dias antes do evento</item>
         <item quantity="one">%d dia antes do evento</item>
