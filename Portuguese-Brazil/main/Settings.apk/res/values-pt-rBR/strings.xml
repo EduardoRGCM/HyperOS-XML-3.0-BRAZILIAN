@@ -4943,7 +4943,12 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="headset_toast_tip_disconnect_others">O fone de ouvido não pode ser configurado no momento, seu fone de ouvido pode estar conectado a outro telefone</string>
     <string name="headset_unsaved_device">Remova o dispositivo</string>
     <string name="headset_unsaved_devices">Usado em outros dispositivos</string>
+    <string name="headset_voice_control_assistant_summary">Ative para ativar o Mi AI, ajustar o volume, reproduzir e pausar música e alternar para a música anterior ou seguinte por voz</string>
+    <string name="headset_voice_control_assistant_summary_fixed">Ative para ativar o Mi AI, ajustar o volume, reproduzir e pausar música, alternar o modo de cancelamento de ruído e alternar para a música anterior ou seguinte por voz</string>
+    <string name="health_use_of_pad">Uso saudável do dispositivo</string>
+    <string name="health_use_of_phone">Uso saudável do dispositivo</string>
     <string name="hearing_aids_category">Ferramentas de assistência auditiva</string>
+    <string name="hearing_stream_option">Opções de áudio</string>
     <string name="heavy_weight_stop_description">Não é possível interromper este app com segurança. Se ele for interrompido, alguns de seus trabalhos atuais podem ser perdidos.</string>
     <string name="height_light_list_text">Uma lista de itens importantes</string>
     <string name="help_and_feedback_title">Ajuda e feedback</string>
@@ -6093,7 +6098,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="main_netcheck_summary">Testar conexão por problemas de rede</string>
     <string name="main_running_process_description">Processo principal em uso.</string>
     <string name="main_toolbar_statistic">Estatísticas de uso de dados</string>
-    <string name="maintenance_title">Modo de reparo</string>
+    <string name="maintenance_title">Modo reparo</string>
     <string name="make_sure_cancel_update">Cancelar atualização?</string>
     <string name="man_add_application">Adicionar apps de início automático</string>
     <string name="manage_conversations">Gerenciar conversas</string>
@@ -8237,6 +8242,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="privacy_password_settings_titles_elder_mode">A Senha de proteção de privacidade protege suas fotos, arquivos e notas.</string>
     <string name="privacy_password_settings_titles_second_space">A Senha de proteção de privacidade protege suas mensagens, fotos e notas.</string>
     <string name="privacy_password_title">Senha de proteção de privacidade</string>
+    <string name="privacy_password_title_summary">Controle o tipo de senha usado para recursos privados</string>
     <string name="privacy_password_toggle_summary">Exige a senha sempre que itens privados forem acessados.</string>
     <string name="privacy_password_use_finger_dialog_mess">Você também pode usar sua impressão digital com a Senha de proteção de privacidade.</string>
     <string name="privacy_password_use_finger_dialog_open">Configurações</string>
@@ -13044,7 +13050,6 @@ Se você não definiu um bloqueio de tela, será solicitado a defini-lo primeiro
     <string name="privacy_password_setup_next">Próximo</string>
     <string name="privacy_password_setup_not_match">"Os PINs não correspondem. Tente novamente."</string>
     <string name="privacy_password_setup_process">Definir senha de proteção à privacidade</string>
-    <string name="privacy_password_title_summary">Controle o tipo de senha usado para recursos privados</string>
     <string name="privacy_password_update_cancel">Cancelar</string>
     <string name="privacy_password_update_desc">"Você poderá aplicar sua senha de proteção à privacidade ou o bloqueio de tela a recursos específicos."</string>
     <string name="privacy_password_update_message">Agora você pode proteger itens com a senha de proteção à privacidade como uma alternativa ao seu bloqueio de tela. Ao ativar este recurso, as versões antigas do Bloqueio de apps ou da senha de proteção à privacidade serão substituídas pela nova senha de proteção à privacidade, e todos os itens privados serão protegidos por ela. Definir uma senha de proteção à privacidade agora?</string>

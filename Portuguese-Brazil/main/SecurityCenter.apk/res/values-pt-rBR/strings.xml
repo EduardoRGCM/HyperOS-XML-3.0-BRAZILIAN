@@ -422,7 +422,7 @@
     <string name="app_behavior_recognition_single">Este app acessou as informações de suas atividades</string>
     <string name="app_behavior_record_cancel">Cancelar</string>
     <string name="app_behavior_record_close">Desativar</string>
-    <string name="app_behavior_record_close_title">Parar de gravar</string>
+    <string name="app_behavior_record_close_title">Parar de registrar</string>
     <string name="app_behavior_record_hide_system">Ocultar apps do sistema</string>
     <string name="app_behavior_record_open">Ativar</string>
     <string name="app_behavior_record_open_content_text">Os registros de comportamento do app mostram o que os apps fazem e ajudam a evitar riscos de segurança.</string>
