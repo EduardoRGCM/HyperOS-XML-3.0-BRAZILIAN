@@ -1046,7 +1046,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="beauty_fc_fill_lamp">Luz de preenchimento</string>
     <string name="beauty_fc_fill_lamp_new">Luz de preenchimento dianteira</string>
     <string name="beauty_fc_light">Brilho da luz de preenchimento</string>
-    <string name="beauty_fc_video_call">Embelezar para videochamadas</string>
+    <string name="beauty_fc_video_call">"Embelezamento para videochamadas"</string>
     <string name="beauty_fc_video_call_summary">Exibe opções de embelezamento durante videochamadas WeChat</string>
     <string name="beauty_fun_filter">Embelezar</string>
     <string name="beauty_fun_front_light">Luz de preenchimento dianteira</string>
@@ -2753,6 +2753,10 @@ das suas sessões de jogos"</string>
     <string name="gd_app_edit_done">Concluído</string>
     <string name="gd_app_edit_title">Adicionar apps</string>
     <string name="gd_app_edit_title_new">Edite os atalhos da barra lateral</string>
+    <string name="gd_beauty_manage_summary">Abra na barra lateral durante chamadas de vídeo para usar este recurso.</string>
+    <string name="gd_beauty_manage_title">Embelezamento para chamadas de vídeo</string>
+    <string name="gd_dock_shortcut_fullscreen">Tela cheia</string>
+    <string name="gd_dock_shortcut_splitescreen">Tela dividida</string>
     <string name="gd_setting_conversation">Ferramentas de conferência</string>
     <string name="gd_setting_conversation_desc">Fornece uma variedade de recursos para uso em chamadas de áudio e vídeo em tela cheia</string>
     <string name="gd_setting_dock_activity_title">Caixa de ferramentas lateral</string>
@@ -2765,6 +2769,7 @@ das suas sessões de jogos"</string>
     <string name="gd_setting_dock_title">Barra lateral</string>
     <string name="gd_setting_dock_video_summary">Use efeitos como Dolby Atmos enquanto assiste vídeos</string>
     <string name="gd_setting_dock_video_summary_new">Use ferramentas e efeitos enquanto assiste vídeos</string>
+    <string name="gd_setting_group_custom_beauty_new">Gerenciar o Embelezamento para chamadas de vídeo</string>
     <string name="gd_setting_group_custom_conversation_apps">Grave impressão de voz para chamadas</string>
     <string name="gd_setting_desc_action1">Abrir janela flutuante</string>
     <string name="gd_setting_desc_action2">Use um atalho</string>
@@ -3969,6 +3974,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_search_keywords_capacity">Capacidade da bateria</string>
     <string name="pc_search_keywords_property">Desempenho</string>
     <string name="pc_settings_title">Bateria</string>
+    <string name="pc_side_road_charge_notifiy_on_time_title">Carregamento inteligente ativado</string>
+    <string name="pc_side_road_charge_notifiy_ontime_button_text">Desativar</string>
+    <string name="pc_side_road_charge_notifiy_ontime_summary">A velocidade de carregamento foi reduzida para evitar o aquecimento do dispositivo, lentidão ou perda de quadros</string>
+    <string name="pc_side_road_charge_preference_title">Carregamento inteligente</string>
+    <string name="pc_side_road_charge_prerference_summary">Ajusta a velocidade de carregamento automaticamente com base no nível da bateria, temperatura e uso do app. Este recurso torna o carregamento mais rápido com a bateria fraca e mantém o desempenho fluido quando ela está em um nível alto.</string>
     <string name="pc_smart_charge_button_summary">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s</string>
     <string name="pc_smart_charge_button_summary_new">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o seu dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s em situações aplicáveis.</string>
     <string name="pc_smart_charge_notify_summary_high_temp">Seu dispositivo esquentou. O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
@@ -6655,8 +6665,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="gb_super_shake">Algoritmo de estabilização</string>
     <string name="gb_super_shake_msg">Torne gestos menores mais responsivos usando o algoritmo dedicado</string>
     <string name="gcm_defaultSenderId">436805358632</string>
-    <string name="gd_dock_shortcut_fullscreen">Tela cheia</string>
-    <string name="gd_dock_shortcut_splitescreen">Tela dividida</string>
     <string name="grant_dialog_button_allow_onetime">Uma vez</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">"Negue e não pergunte de novo"</string>
     <string name="grant_dialog_button_onetime">Permitir uma vez</string>

@@ -1738,7 +1738,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_msg_fold">Agrupar todas as notificações de %1$s juntas?</string>
     <string name="miui_notification_menu_msg_not_allow">Restringir todas as notificações de %1$s?</string>
     <string name="miui_notification_menu_msg_unfold">Exibir notificações de %1$s separadamente?</string>
-    <string name="miui_notification_menu_msg_unfocus">"Você está prestes a desativar o destaque de notificação para %1$s. Essas notificações serão exibidas normalmente. Desligue agora?"</string>
+    <string name="miui_notification_menu_msg_unfocus">"Você está prestes a desativar o destaque de notificação para o %1$s. Essas notificações serão exibidas normalmente. Desativar agora?"</string>
     <string name="miui_notification_menu_setting_success">Concluído</string>
     <string name="miui_notification_menu_snooze">Suspender</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>

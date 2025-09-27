@@ -522,8 +522,8 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="adaptive_brightness_main_switch_title">Use o brilho adaptativo</string>
     <string name="adaptive_connectivity_main_switch_title">Use conectividade adaptativa</string>
     <string name="adaptive_connectivity_summary">Estende a vida útil da bateria e melhora o desempenho do dispositivo gerenciando automaticamente suas conexões de rede</string>
-    <string name="adaptive_connectivity_switch_off">Desligar</string>
-    <string name="adaptive_connectivity_switch_on">Ligar</string>
+    <string name="adaptive_connectivity_switch_off">Desativar</string>
+    <string name="adaptive_connectivity_switch_on">Ativar</string>
     <string name="adaptive_connectivity_title">Conectividade adaptativa</string>
     <string name="adaptive_sampling_rate">Adaptável (padrão)</string>
     <string name="adaptive_sleep_camera_lock_summary">A câmera deve ser desbloqueada para a atenção da tela</string>
@@ -778,6 +778,60 @@ Widget: %2$s
     <string name="aod_style_description">Exibir o relógio, data, hora, notificações e outros itens com a tela desligada</string>
     <string name="aod_style_title">Estilo</string>
     <string name="aod_to_close">Desativar</string>
+    <string name="aon_gesture_cue_tone_summary">Reproduz um som de confirmação sempre que sua palma da mão for detectada</string>
+    <string name="aon_gesture_cue_tone_title">Reproduzir som de confirmação</string>
+    <string name="aon_gesture_dialog_message">"Quando este recurso estiver ativado, este dispositivo detectará e analisará seus gestos. Suas informações pessoais não serão processadas, e nenhum dado será armazenado localmente ou na nuvem."</string>
+    <string name="aon_gesture_dialog_title">Declaração de privacidade</string>
+    <string name="aon_gesture_double_press_diagram_summary" formatted="false">Posicione sua mão a %d–%d cm de distância da câmera, com os dedos para cima e, em seguida, faça uma pausa. Quando o ícone de mão aparecer, realize um movimento de toque duplo para reproduzir ou pausar a mídia.</string>
+    <string name="aon_gesture_double_press_diagram_title">Faça um movimento de toque duplo em frente à tela</string>
+    <string name="aon_gesture_double_press_summary">Reproduzir e pausar a reprodução</string>
+    <string name="aon_gesture_down_waving_diagram_summary" formatted="false">Posicione sua mão a %d–%d cm de distância da câmera com os dedos para cima e, em seguida, faça uma pausa. Quando o ícone de mão aparecer, acene com a mão para baixo.</string>
+    <string name="aon_gesture_down_waving_diagram_title">Acene para baixo em frente à tela</string>
+    <string name="aon_gesture_draw_circle_summary_pad">Atende ou encerra chamadas transferidas para o tablet</string>
+    <string name="aon_gesture_draw_circle_summary_phone">Atende e encerra chamadas</string>
+    <string name="aon_gesture_draw_circle_title">Desenhar um círculo</string>
+    <string name="aon_gesture_enable_summary" formatted="false">Mantenha sua mão de %d a %d cm de distância da câmera e realize os gestos depois que o ícone de mão aparecer no topo da tela.</string>
+    <string name="aon_gesture_learn_double_press_title">Aprenda o gesto de \"movimento de toque duplo\"</string>
+    <string name="aon_gesture_learn_left_right_waving_title">Aprenda o gesto de \"aceno horizontal\"</string>
+    <string name="aon_gesture_learn_title">Aprender gestos</string>
+    <string name="aon_gesture_learn_up_down_waving_title">Aprenda o gesto de "\aceno vertical\"</string>
+    <string name="aon_gesture_learning_dialog_title">Aprender gestos agora?</string>
+    <string name="aon_gesture_learning_toast">Você pode sempre aprender gestos aqui mais tarde.</string>
+    <string name="aon_gesture_left_right_waving_summary">Ajuste o progresso da reprodução e alterne entre as músicas.</string>
+    <string name="aon_gesture_left_right_waving_title">Aceno horizontal</string>
+    <string name="aon_gesture_left_waving_diagram_summary" formatted="false">Posicione sua mão a %d–%d cm de distância da câmera com os dedos para a direita e, em seguida, faça uma pausa. Quando o ícone de mão aparecer, acene com a mão para a esquerda.</string>
+    <string name="aon_gesture_left_waving_diagram_title">Acene para a esquerda em frente à tela.</string>
+    <string name="aon_gesture_right_waving_diagram_summary" formatted="false">Posicione sua mão a %d–%d cm de distância da câmera com os dedos para a esquerda e, em seguida, faça uma pausa. Quando o ícone de mão aparecer, acene com a mão para a direita.</string>
+    <string name="aon_gesture_right_waving_diagram_title">Acene para a direita em frente à tela.</string>
+    <string name="aon_gesture_settings">Gestos sem contato</string>
+    <string name="aon_gesture_status_close">Desativado</string>
+    <string name="aon_gesture_status_not_open">Desativado</string>
+    <string name="aon_gesture_status_open">Ativado</string>
+    <string name="aon_gesture_supported_app_title">Apps compatíveis</string>
+    <string name="aon_gesture_supported_title">Gestos disponíveis</string>
+    <string name="aon_gesture_up_down_waving_summary">Ajuste o volume da mídia, alterne entre vídeos curtos e vire as páginas em documentos</string>
+    <string name="aon_gesture_up_down_waving_title">Aceno vertical</string>
+    <string name="aon_gesture_up_waving_diagram_summary" formatted="false">Posicione sua mão a %d–%d cm de distância da câmera com os dedos para baixo e, em seguida, faça uma pausa. Quando o ícone de mão aparecer, acene com a mão para cima.</string>
+    <string name="aon_gesture_up_waving_diagram_title">Acene para cima em frente à tela</string>
+    <string name="aon_scanner_default_payment_method_title">Método de pagamento padrão</string>
+    <string name="aon_scanner_dialog_message">"Quando você ativa o Scanner rápido, os códigos QR que você escaneia serão compartilhados com o Scanner Mi AI. Certifique-se de que você entende e concorda com isso antes de continuar. Os códigos QR que você escaneia não serão armazenados localmente nem enviados para a nuvem. Observe que usar este recurso pode aumentar levemente o consumo geral de energia."</string>
+    <string name="aon_scanner_dialog_message_new">"Ao usar o Scanner rápido, os códigos QR que você escaneia serão compartilhados com o Scanner IA. Esta informação não será armazenada no seu dispositivo, nem enviada para a nuvem. Ativar este recurso aumentará levemente o consumo de energia."</string>
+    <string name="aon_scanner_dialog_title">Declaração de privacidade</string>
+    <string name="aon_scanner_disclaimer_message">"O Scanner rápido oferece uma forma rápida e fácil de escanear códigos QR. Depois de ativar este recurso, você pode escanear códigos QR rapidamente e ir diretamente para a página correspondente. Antes de escanear, certifique-se de que você entende completamente o conteúdo e os serviços fornecidos pelo código QR. Decida se você quer escaneá-lo ou prosseguir com o link do serviço de terceiros. Se você optar por acessar o serviço de terceiros, quaisquer consequências e riscos legais são de sua responsabilidade. Observe que a Xiaomi não oferece quaisquer garantias expressas ou implícitas para o conteúdo do código QR, produtos e serviços oferecidos por terceiros."</string>
+    <string name="aon_scanner_disclaimer_title">Termo de responsabilidade</string>
+    <string name="aon_scanner_download_message">O Scanner rápido usa o Scanner Mi AI para fornecer seus serviços. Isso significa que os códigos QR que você escaneia serão compartilhados com o Scanner Mi AI. Certifique-se de que você entende e concorda com isso antes de continuar com a instalação.</string>
+    <string name="aon_scanner_download_message_new">Como os serviços do Scanner rápido são fornecidos pelo Scanner IA, precisamos compartilhar os códigos QR que você escaneia com o Scanner IA. Instale o Scanner IA antes de continuar.</string>
+    <string name="aon_scanner_download_title">Instalar Scanner de Mi AI</string>
+    <string name="aon_scanner_download_title_new">Instalar Scanner IA</string>
+    <string name="aon_scanner_first_summary">Na Tela inicial, após dobrar o dispositivo, aponte a câmera para um código QR. Mantenha-o a uma distância de %1$d–%2$d cm e segure para escanear.</string>
+    <string name="aon_scanner_first_title">Scanner rápido da tela externa</string>
+    <string name="aon_scanner_second_summary">Na Tela inicial, aponte a câmera para um código QR. Mantenha-o a uma distância de %1$d–%2$d cm até que um aviso apareça e, em seguida, segure por %3$d segundos para escanear.</string>
+    <string name="aon_scanner_second_title">Scanner rápido da tela interna</string>
+    <string name="aon_scanner_settings">Scanner rápido</string>
+    <string name="aon_scanner_settings_summary">Na Tela inicial, aponte a câmera traseira para um código QR para escanear</string>
+    <string name="aon_scanner_status_close">Desativado</string>
+    <string name="aon_scanner_status_open">Ativado</string>
+    <string name="aon_scanner_summary" formatted="false">Na Tela inicial, aponte seu dispositivo para um código QR a uma distância de %d cm até que um aviso apareça, e segure por %d segundos para escanear.</string>
     <string name="ap_connect_failed">Não foi possível conectar</string>
     <string name="ap_connected_battery_level">" | Bateria %1$s"</string>
     <string name="ap_p2p_dialog_message">"A conexão Wi-Fi compartilhada atual já está sendo usada. Certifique-se de não estar usando Wi-Fi Direct, Xiaomi Share, transmissão ou outros serviços de transferência sem fio antes de ativar seu hotspot pessoal."</string>
@@ -1927,6 +1981,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_notif_message">Toque para parear com %1$s.</string>
     <string name="bluetooth_notif_ticker">Solicitação de pareamento Bluetooth</string>
     <string name="bluetooth_notif_title">Solicitação de pareamento</string>
+    <string name="bluetooth_notification_title">Notificações</string>
     <string name="bluetooth_off_footer">Ative o Bluetooth para se conectar a outros dispositivos.</string>
     <string name="bluetooth_on_time">Tempo de ativação da rede Wi-Fi</string>
     <string name="bluetooth_only_visible_to_paired_devices">Visível somente para dispositivos pareados</string>
@@ -2227,6 +2282,10 @@ Se você já fez tudo descrito acima, adicione sua Conta Xiaomi novamente; senã
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="bottomsheet_drag_handle_clicked">Arraste a alça com um toque duplo</string>
     <string name="bottomsheet_drag_handle_content_description">Arrastar alça</string>
+    <string name="bounce_keys">Teclas de filtro</string>
+    <string name="bounce_keys_dialog_subtitle">Escolha por quanto tempo o teclado ignora toques repetidos.</string>
+    <string name="bounce_keys_dialog_title">Atraso da tecla de filtro</string>
+    <string name="bounce_keys_summary">Ignore pressionamentos repetidos e rápidos da mesma tecla</string>
     <string name="breathing_light_color_menu_title">Cor do LED</string>
     <string name="breathing_light_color_summary">Cor do LED ao receber novas notificações</string>
     <string name="breathing_light_freq_summary">Definir intervalo de pulso para trackball</string>
@@ -2540,6 +2599,14 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="cellular_data_summary">Permitir uso de dados pela rede móvel</string>
     <string name="cellular_data_usage">Uso de dados móveis</string>
     <string name="cellular_network_title">Depuração de rede celular</string>
+    <string name="cellular_security_notifications">Notificações</string>
+    <string name="cellular_security_notifications_controller_summary">Receba notificações quando seu dispositivo se conectar a uma rede não criptografada, ou quando uma rede registrar seu ID de dispositivo ou de SIM exclusivo.</string>
+    <string name="cellular_security_notifications_controller_title">Notificações de rede</string>
+    <string name="cellular_security_settings_encryption_title">Criptografia</string>
+    <string name="cellular_security_settings_title">Segurança da rede móvel</string>
+    <string name="cellular_security_summary">Tipo de rede, criptografia, controles de notificação.</string>
+    <string name="cellular_security_title">Segurança da rede móvel</string>
+    <string name="cellular_security_top_intro">Essas configurações ajudam a proteger suas chamadas, mensagens e dados de redes desatualizadas ou não criptografadas que podem expor você a roubo de dados ou vigilância.</string>
     <string name="celsius_temperature_unit">Celsius (℃)</string>
     <string name="cert_not_installed">Certificado não instalado</string>
     <string name="certificate_management_app">App de gerenciamento de certificados</string>
@@ -2946,6 +3013,10 @@ Toque em \"Apagar e converter…\" para continuar."</string>
     <string name="credman_error_message">Você pode ter até 5 senhas, chaves de acesso e serviços de dados ativos ao mesmo tempo. Desative um serviço para adicionar mais.</string>
     <string name="credman_error_message_title">Limite de senhas, chaves de acesso e serviços de dados</string>
     <string name="credman_keywords">dados, senha, senha</string>
+    <string name="credman_limit_error_msg">Desative pelo menos 1 serviço para adicionar outro</string>
+    <string name="credman_limit_error_msg_title">Você só pode ter 5 serviços ativados</string>
+    <string name="credman_main_settings_intro_text">"Escolha o seu serviço preferido para salvar os dados para login e sugestões de preenchimento automático. Ative serviços adicionais caso queira que eles também forneçam sugestões."</string>
+    <string name="credman_on_off_switch_content_description">%1$s ativado/desativado</string>
     <string name="credman_picker_title">Senhas, chaves de acesso e serviços de dados</string>
     <string name="crisp_text">As altas frequências adicionam mais nitidez aos detalhes de cada ação</string>
     <string name="critical_feedback">Feedback críticos</string>
@@ -3266,6 +3337,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="date_time_24hour_auto">Usar o padrão do local</string>
     <string name="date_time_24hour_title">Formato de 24 horas</string>
     <string name="date_time_auto">Usar horário fornecido pela rede</string>
+    <string name="date_time_auto_summary">Definir automaticamente usando a sua rede e sinais wi-fi</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="date_time_search_region">Região de pesquisa</string>
     <string name="date_time_select_fixed_offset_time_zones">Selecionar compensação UTC</string>
@@ -4642,6 +4714,9 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="general_notification_header">Gerenciar</string>
     <string name="general_text">Campo de texto</string>
     <string name="general_time">"Tempo: %1$d:%2$d. Vibrações longas representam horas, vibrações curtas representam minutos. Haverá uma pequena pausa entre horas e minutos. Toque duas vezes para tentar."</string>
+    <string name="generic_accessibility_feature_shortcut_off">Desativado</string>
+    <string name="generic_accessibility_service_off">Desativado</string>
+    <string name="generic_accessibility_service_on">Ativado</string>
     <string name="gentle_notifications_also_display">Também exibir em</string>
     <string name="gentle_notifications_display_lock">Tela de bloqueio</string>
     <string name="gentle_notifications_display_status">Barra de status</string>
@@ -4756,6 +4831,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="guest_exit_guest">Remover convidado</string>
     <string name="guest_exit_quick_settings_button">Saída</string>
     <string name="guest_exit_save_data_button">Salvar</string>
+    <string name="guest_name_category_title">Convidados</string>
     <string name="guest_new_guest">Adicionar convidado</string>
     <string name="guest_nickname">Convidado</string>
     <string name="guest_notification_ephemeral">Todas as atividades serão excluídas na saída</string>
@@ -5255,6 +5331,9 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="key_settings_title">Botões e atalhos por gestos</string>
     <string name="key_shortcut_settings_title">Botões de atalho</string>
     <string name="key_system_control">Controle de sistema</string>
+    <string name="keyboard_a11y_category">Acessibilidade</string>
+    <string name="keyboard_a11y_settings">Acessibilidade do teclado físico</string>
+    <string name="keyboard_a11y_settings_summary">Teclas de aderência, Teclas de repetição, Teclas do mouse</string>
     <string name="keyboard_and_input_methods_category">Teclado</string>
     <string name="keyboard_assistance_category">Assistência do teclado</string>
     <string name="keyboard_back_light">Luz de fundo do teclado</string>
@@ -6062,6 +6141,7 @@ Conecte pelo menos 4 pontos."</string>
     <string name="magic_list_empty_text_pad">Nenhum app compatível com janelas paralelas foi encontrado</string>
     <string name="magic_window_name">Janelas paralelas</string>
     <string name="magic_window_name_pad">Janelas paralelas</string>
+    <string name="magnification_feature_summary">Aumenta o zoom na tela</string>
     <string name="mah">"%d mAh"</string>
     <string name="main_clear_accounts">"
 
@@ -6711,6 +6791,11 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_type_style_title">Estilo de digitação</string>
     <string name="miui_updater">Atualização do sistema</string>
     <string name="miui_userguide">Guia do usuário</string>
+    <string name="miui_user_add_user_message">"Você pode adicionar perfis de usuário para compartilhar este dispositivo com outras pessoas. Elas precisarão configurar seus perfis depois que você os criar.
+Qualquer usuário pode conceder permissões em nome de todos os perfis de usuário que existem neste dispositivo."</string>
+    <string name="miui_user_add_user_title">Adicionar perfil de usuário</string>
+    <string name="miui_visual_perception_summary">Faça com que seu dispositivo sinta sua presença e selecione opções mais convenientes de bloqueio e desbloqueio</string>
+    <string name="miui_visual_perception_title">Percepção visual ativa</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
@@ -7030,6 +7115,7 @@ Selecione seu sistema operacional:"</string>
     <string name="natural_haptic">Vibrações naturais</string>
     <string name="natural_haptic_summary">O novo padrão de resposta tátil traz uma dimensão adicional a tudo que você interage na tela</string>
     <string name="natural_scroll">Rolagem natural</string>
+    <string name="natural_scroll_summary">O conteúdo rola junto com o seu dedo</string>
     <string name="nature_color">Padrão</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Deslize para cima a partir da parte inferior da tela, então deslize para a esquerda ou direita</string>
     <string name="navigation_guide_app_quick_switch_summary">Deslize para a esquerda ou direita a partir do indicador da tela infinita na parte inferior da tela</string>
@@ -7378,6 +7464,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="notification_app_permissions">Permissões de notificação</string>
     <string name="notification_app_settings_button">Configurações de notificação</string>
     <string name="notification_app_switch_label">Todas as notificações do app %1$s</string>
+    <string name="notification_app_title">Notificações</string>
     <string name="notification_assistant_security_warning_summary">"Notificações aprimoradas substituíram as Notificações adaptativas do Android no Android 12. Este recurso mostra ações e respostas sugeridas e organiza suas notificações. 
 
 As notificações aprimoradas podem acessar o conteúdo da notificação, incluindo informações pessoais como nomes de contato e mensagens. Esse recurso também pode ignorar ou responder a notificações, como atender chamadas e controlar o Não perturbe."</string>
@@ -9858,6 +9945,8 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="slight_pause">,</string>
     <string name="slot_number">" (Slot %1$d)"</string>
     <string name="slot_status_title">Informação do IMEI</string>
+    <string name="slow_keys">Teclas lentas</string>
+    <string name="slow_keys_summary">"Ajuste o tempo que você precisa segurar uma tecla antes que ela seja registrada."</string>
     <string name="small_window_not_support_add_data_toast">"Não é possível gravar dados em janelas flutuantes. Mude para tela inteira e tente novamente."</string>
     <string name="smallwindow_smartcover_title">Capa flip com abertura frontal</string>
     <string name="smart_battery_footer">Quando o Gerenciador de bateria detectar que apps estão descarregando a bateria, você terá a opção de restringi-los. Apps com restrição podem não funcionar corretamente e é possível que as notificações atrasem.</string>
@@ -10134,6 +10223,14 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_up_time">Tempo em atividade</string>
     <string name="status_voice_network_type">Tipo de rede de voz móvel</string>
     <string name="status_wifi_mac_address">Endereço MAC do Wi-Fi</string>
+    <string name="stay_awake_on_fold_summary">A tela frontal é ativada quando você dobra o dispositivo.</string>
+    <string name="stay_awake_on_fold_title">Sempre</string>
+    <string name="stay_awake_on_lockscreen_summary">Dobre o seu telefone e deslize a tela frontal para cima para continuar usando o app, ou espere alguns segundos para que a tela seja bloqueada. Jogos e apps de vídeo continuarão automaticamente.</string>
+    <string name="stay_awake_on_lockscreen_title">Deslize para cima para continuar</string>
+    <string name="sticky_keys">Teclas de aderência</string>
+    <string name="sticky_keys_summary">Pressione uma tecla de cada vez para atalhos, em vez de segurar as teclas juntas.</string>
+    <string name="stop_app_dlg_text">O app será interrompido para aplicar a configuração de compatibilidade de tamanho da página.</string>
+    <string name="stop_app_dlg_title">Parar app?</string>
     <string name="storage_apps">"Apps"</string>
     <string name="storage_audio">Áudio</string>
     <string name="storage_category">Armazenamento</string>
@@ -10815,6 +10912,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="time_format_entries_1">%d-horas 1:00 PM</string>
     <string name="time_format_entries_2">%d-horas 13:00</string>
     <string name="time_format_entries_3">Automático (com base no idioma do sistema)</string>
+    <string name="time_notifications_title">Notificações</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_hour_24h_suffix">%1$d horas</string>
     <string name="time_picker_hour_selection">Selecione a hora</string>
@@ -10831,6 +10929,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="time_zen_mode_turn_off">Término</string>
     <string name="time_zen_mode_turn_on">Início</string>
     <string name="time_zone_auto_stub">Selecione o fuso horário</string>
+    <string name="time_zone_change_notifications_toggle_summary">Receber uma notificação quando seu fuso horário for atualizado automaticamente</string>
+    <string name="time_zone_change_notifications_toggle_title">Mudança de fuso horário</string>
     <string name="timed_titlei">Temporizador %d</string>
     <string name="timezone_settings">Fuso horário</string>
     <string name="tip_remove_data">A redefinição para os dados de fábrica apagará estes itens do seu dispositivo</string>
@@ -11026,6 +11126,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="turn_on_wifi">Ativar Wi‑Fi</string>
     <string name="turn_screen_on_title">Ativar a tela</string>
     <string name="turn_update_keyguard_password_wait_dialog">Modificando a senha…</string>
+    <string name="twenty_four_select_time_format">Formato de 24-horas</string>
     <string name="twilight_mode_launch_location">Configurações de localização</string>
     <string name="twilight_mode_location_off_dialog_message">A localização do dispositivo é necessária para determinar as horas de nascer e pôr do sol.</string>
     <string name="twohours">1 hora</string>
@@ -12921,6 +13022,7 @@ Atualizar configurações para:
     <string name="zone_auto_summaryOff">Use a hora fornecida pela operadora de rede</string>
     <string name="zone_auto_summaryOn">Use a hora fornecida pela operadora de rede</string>
     <string name="zone_auto_title">Definir fuso horário automaticamente</string>
+    <string name="zone_auto_title_summary">Definido automaticamente com base nas redes móveis perto de você</string>
     <string name="zone_change_to_from_dst">O %1$s começa em: %2$s.</string>
     <string name="zone_info_footer">Usa o %1$s. %2$s começa em %3$s.</string>
     <string name="zone_info_footer_first_sentence">Usa %1$s. %2$s</string>
@@ -13061,7 +13163,7 @@ Se você não definiu um bloqueio de tela, será solicitado a defini-lo primeiro
     <string name="provision_flip_page_hint">Desdobre para ativar o dispositivo</string>
     <string name="provision_system_complete">Configuração concluída</string>
     <string name="provision_system_preparing">Preparando o sistema…</string>
-    <string name="serve_assistant">Assistente</string>
+    <string name="serve_assistant">Notificações</string>
     <string name="single_bds_summary">Serviços de posicionamento fornecidos pelo Sistema de Navegação por Satélite BeiDou</string>
     <string name="single_bds_switch_description">Conceda a este recurso permissão para se conectar à internet para poder usá-lo</string>
     <string name="single_bds_title">Posicionamento BeiDou</string>
