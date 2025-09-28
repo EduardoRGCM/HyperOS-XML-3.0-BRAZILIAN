@@ -6732,6 +6732,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_sos_emergency_failed_sms">Não foi possível enviar mensagem para %1$s (%2$s)</string>
     <string name="miui_sos_emergency_failed_sms_noname">Não foi possível enviar mensagem para %1s.</string>
     <string name="miui_sos_emergency_title">SOS de emergência</string>
+    <string name="miui_sos_enable_switch_summary_new"><Data>Em situações de emergência, pressione o botão [Liga/Desliga] &lt;font color=#3482FF>&lt;xliff:g id=number refersto=5>%d&lt;/xliff:g> vezes&lt;/font> seguidas, isso fará que seu dispositivo envie uma mensagem com sua localização para seus contatos de emergência.</Data></string>
     <string name="miui_sos_enable_switch_summary">Pressione rapidamente o botão [Liga/Desliga] 5 vezes para enviar uma mensagem de texto de SOS com a sua localização para os seus contatos de emergência</string>
     <string name="miui_sos_enable_switch_title">SOS de emergência</string>
     <string name="miui_sos_exit_dialog_cancel">Cancelar</string>

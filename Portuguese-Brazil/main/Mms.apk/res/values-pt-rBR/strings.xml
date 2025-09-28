@@ -32,6 +32,8 @@
     <string name="activity_not_found">Nenhum app encontrado para executar esta ação</string>
     <string name="activity_not_found_uri">Nenhum app foi encontrado para executar esta ação</string>
     <string name="ad_notification_title">Mensagens sem importância</string>
+    <string name="ad_settings">Configurações de anúncios</string>
+    <string name="ad_switch">Recomendações</string>
     <string name="add_attachment">Anexar</string>
     <string name="add_contact">"vCard"</string>
     <string name="add_miui_contact">Contato</string>
@@ -172,6 +174,7 @@ Tente novamente."</string>
     <string name="confirm_delete_message">Excluir esta mensagem?</string>
     <string name="confirm_dialog_locked_title">Excluir mensagem bloqueada?</string>
     <string name="confirm_dialog_title">Excluir?</string>
+    <string name="confirm_dialog_title_make_as_read">Marcar como lida</string>
     <string name="confirm_export_dialog_description">Conversas anteriores com este contato não serão mais ocultadas.</string>
     <string name="confirm_export_dialog_title">Remover dos contatos privados</string>
     <string name="confirm_no_block_positive">Desbloquear</string>
@@ -309,6 +312,10 @@ Tente novamente."</string>
     <string name="fake_cell_timeout_hint">"Não foi possível verificar a segurança"</string>
     <string name="favorite_at_time">Adicionado aos favoritos às: %1s</string>
     <string name="fdn_check_failure">Você só pode enviar mensagens para seus números de discagem fixa.</string>
+    <string name="feature_mx">Mi Mensagens</string>
+    <string name="feature_mx_summary"><b>O Mi Mensagens permite que você envie mensagens a outros usuários do Mi Mensagens pela internet sem custos.</b>. É necessário o envio de uma mensagem SMS para ativar este serviço. Sua operadora cobrará por esta mensagem. Leia e concorde com nossos <font color="#B3000000"><a href="http://url1">Acordo do Usuário</a></font> e a nossa <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar este recurso.</string>
+    <string name="feature_smart_sms">Mensagens inteligentes</string>
+    <string name="feature_smart_sms_summary"><b>O Mensagens Inteligentes oferece reconhecimento de ID de remetente e menus inteligentes.</b>". O Mensagens Inteligentes é fornecido em parte pela Yulore. Leia e concorde com a "<font color="#B3000000"><a href="http://url3">Política de Privacidade</a></font> da Yulore, antes de usar este recurso.</string>
     <string name="file_expired">Este arquivo expirou</string>
     <string name="file_name_too_long">"Não foi possível enviar. O nome do arquivo é muito longo."</string>
     <string name="fmt_date">D</string>
@@ -423,6 +430,7 @@ Tente novamente."</string>
     <string name="leave_mms_tips_context_email">Sair do Mensagens e abrir o cliente de e-mail?</string>
     <string name="leave_mms_tips_context_map">Sair do Mensagens e abrir o mapa?</string>
     <string name="loading_mms">Aguarde…</string>
+    <string name="make_as_read_tips">Marcar todas as notificações como lidas agora?</string>
     <string name="mark_number_by_own_dialog_subtitle">Marcado como %1$s</string>
     <string name="menu_add_contact">Adicionar a contato existente</string>
     <string name="menu_correct_as_ad">Mover para promocional</string>
@@ -994,6 +1002,9 @@ Confira chatbots recomendados!"</string>
     <string name="recipient_label">"Destinatário: "</string>
     <string name="recipients_contain_sub_sim_number">"Parece que há um número SIM secundário entre os destinatários. Enviar essa mensagem usando o SIM secundário."</string>
     <string name="recipients_over_size">Muitos destinatários.</string>
+    <string name="recommend_ad_summary">"Quando os anúncios personalizados estiverem desativados, você ainda verá a mesma quantidade de anúncios do que quando o recurso estiver ativado, mas eles não serão tão relevantes para você"</string>
+    <string name="recommend_ad_switch">Anúncios personalizados</string>
+    <string name="recommend_agree">Aceitar</string>
     <string name="recommend_bar_cancel">Ignorar</string>
     <string name="recommend_bar_message_mx">O Mi Mensagens permite que você envie mensagens a outros usuários Xiaomi sem a cobrança de tarifas.</string>
     <string name="recommend_bar_message_mx_rcs">O Mi Mensagens permite que você envie mensagens para outros usuários Xiaomi ou usuários da China Mobile na China sem a cobrança de tarifas.</string>
@@ -1002,6 +1013,29 @@ Confira chatbots recomendados!"</string>
     <string name="recommend_bar_ok">Ativar</string>
     <string name="recommend_bar_title_mx_rcs">Mi Mensagens</string>
     <string name="recommend_bar_title_smart_message">Mensagens inteligentes</string>
+    <string name="recommend_close">Desativar</string>
+    <string name="recommend_close_button">Fechar</string>
+    <string name="recommend_disagree">"Não concordo"</string>
+    <string name="recommend_free_internet_message">Mensagens gratuitas pela internet</string>
+    <string name="recommend_free_mi">Mi Mensagens</string>
+    <string name="recommend_free_smart_server">Reconhecimento inteligente de ID de remetente</string>
+    <string name="recommend_smart_sms_setting_summary">O Mensagens Inteligentes oferece reconhecimento de ID de remetente e menus inteligentes</string>
+    <string name="recommend_tip_1">O recurso de mensagens funciona melhor quando o Mi Mensagens está ativado. O Mi Mensagens permite que você envie mensagens SMS e MMS gratuitas pela internet e reconheça o ID do remetente automaticamente.</string>
+    <string name="recommend_tip_10">Reconheça o ID do remetente automaticamente para ver os nomes e imagens de perfil de fornecedores confiáveis.</string>
+    <string name="recommend_tip_14">"Se você desativar este recurso, não poderá enviar SMS e MMS para outros dispositivos Xiaomi pela internet sem custos. Desativar mesmo assim?"</string>
+    <string name="recommend_tip_16">"Se você desativar este recurso, o app Mensagens não poderá reconhecer o ID do remetente automaticamente, que permite que você veja os nomes e as imagens de perfil de fornecedores confiáveis. Desativar mesmo assim?"</string>
+    <string name="recommend_tip_2">"O recurso de mensagens gratuitas pela internet permite que você envie SMS e MMS para outros dispositivos Xiaomi sem custos quando estiver conectado à internet."</string>
+    <string name="recommend_tip_3">Mensagens de texto pagas serão enviadas para sua operadora para ativar o serviço de mensagens gratuitas pela internet, o Encontrar dispositivo, a sincronização com a nuvem e outros serviços relacionados.</string>
+    <string name="recommend_tip_4">O Mi Mensagens pode reconhecer o ID do remetente automaticamente, o que permite que você veja os nomes e as imagens de perfil de fornecedores confiáveis.</string>
+    <string name="recommend_tip_5">O recurso de reconhecimento inteligente de ID de remetente torna a sua caixa de entrada mais organizada e ajuda a identificar remetentes confiáveis.</string>
+    <string name="recommend_tip_6">Os serviços acima são fornecidos com suporte técnico da Yulore.</string>
+    <string name="recommend_tip_7">Leia e concorde com o <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a nossa <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font>, assim como a <font color="#B3000000"><a href="http://url3">Política de Privacidade da Yulore</a></font> antes de usar o Mi Mensagens.</string>
+    <string name="recommend_tip_8">Leia e concorde com o <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a nossa <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font>, assim como a <font color="#B3000000"><a href="http://url3">Política de Privacidade da Yulore</a></font> antes de usar mensagens de internet gratuitas fornecidas pelo Mi Mensagens.</string>
+    <string name="recommend_tip_9">Leia e concorde com o <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a nossa <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font>, assim como a <font color="#B3000000"><a href="http://url3">Política de Privacidade da Yulore</a></font> antes de usar o reconhecimento inteligente de ID do remetente.</string>
+    <string name="recommend_tip_9_2">Leia e concorde com o <font color="#B3000000"><a href="http://url1">Contrato do Usuário</a></font> e a nossa <font color="#B3000000"><a href="http://url2">Política de Privacidade</a></font> antes de usar nossos serviços.</string>
+    <string name="recommend_tip_default">Definir o app de Mensagens da Xiaomi como seu app de mensagens padrão para obter todos os benefícios de segurança que oferecemos</string>
+    <string name="recommend_tip_other">Ver outros apps de mensagens</string>
+    <string name="recommend_tip_smart">Proteção de privacidade. Reconhecimento inteligente.</string>
     <string name="recording_failed">"Não é possível gravar"</string>
     <string name="release_cancel">Solte para cancelar</string>
     <string name="release_end">Solte para parar</string>

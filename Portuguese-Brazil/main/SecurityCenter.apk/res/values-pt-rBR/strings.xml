@@ -1217,6 +1217,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="button_to_setting">Configurações</string>
     <string name="byteShort">"B"</string>
     <string name="call_address">Bloqueio de área</string>
+    <string name="call_all_number_block">Bloquear todas as chamadas</string>
     <string name="call_and_contact">Chamadas e contatos</string>
     <string name="call_blacklist">Bloqueio de chamadas</string>
     <string name="call_cloud_block">Bloqueio na nuvem</string>
@@ -3096,11 +3097,12 @@ Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a
     <string name="list_empty_text">Vazio</string>
     <string name="load_only_under_wlan">Carregar apenas em Wi-Fi</string>
     <string name="loading">Aguarde…</string>
-    <string formatted="false" name="loading_text_format">Verificando se as fotos contêm informações pessoais %d/%d</string>
+    <string name="loading_text_format" formatted="false">Verificando se as fotos contêm informações pessoais %d/%d</string>
     <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para relatar este erro à equipe de desenvolvimento do HyperOS, vá para o app Feedback e envie um registro de seu dispositivo.</string>
     <string name="lock_all_title">Bloquear todos os apps</string>
     <string name="lock_app_input_invalid_car">"Alguns símbolos não são suportados"</string>
     <string name="lock_mode_title">Configurações de bloqueio</string>
+    <string name="lock_screen_password_type">Bloqueio de tela</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s usado(s) na Tela de bloqueio</string>
     <string name="lock_screen_traffic_guide_notification_title">Toque para gerenciar uso de dados.</string>
     <string name="lock_screen_traffic_notify_body">Bloqueado por %2$s às %1$s, %3$s de dados usados</string>
@@ -3727,6 +3729,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">O app não foi encontrado</string>
     <string name="open_app">Abrir</string>
+    <string name="open_applock">Ativar Bloqueio de app</string>
+    <string name="open_applock_password_type">Tipo de senha</string>
+    <string name="open_applock_tips">Bloqueie apps e faça a verificação de sua identidade ao abri-los. O Bloqueio de app possui dois tipos de senha e suporta verificação biométrica.</string>
     <string name="open_callwait">Ativado</string>
     <string name="open_extreme_power_save_mode_title">Ativar a Economia extrema de bateria</string>
     <string name="open_game">Abrir</string>
@@ -4002,6 +4007,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_statistics_battery_use_title">Uso de bateria</string>
     <string name="pc_temperature_too_high">Dispositivo superaquecido</string>
     <string name="pc_this_time_charge_full">Carregar totalmente desta vez</string>
+    <string name="pc_this_time_charge_full_now">Carregar totalmente</string>
     <string name="pc_this_time_charge_full_work">Quase carregado</string>
     <string name="pc_timely_charging_summary">A bateria está abaixo de %1$s. Se o dispositivo superaquecer enquanto a bateria estiver fraca, isso poderá danificar a bateria.</string>
     <string name="pc_timely_charging_title">Carregue seu dispositivo</string>
@@ -4759,6 +4765,15 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_notification_title_mic">%1s está usando o microfone em 2º plano</string>
     <string name="privacy_other_permission_manage_summary">Gerencie outras permissões relacionadas à privacidade</string>
     <string name="privacy_other_permission_manage_title">Outras permissões</string>
+    <string name="privacy_password_setup_confirm">"OK"</string>
+    <string name="privacy_password_setup_hint">Digite sua senha</string>
+    <string name="privacy_password_setup_next">Próximo</string>
+    <string name="privacy_password_setup_not_match">Tentar novamente</string>
+    <string name="privacy_password_setup_process">Definir senha de proteção de privacidade</string>
+    <string name="privacy_password_update_desc">Você pode ajustar recursos específicos para serem protegidos pela senha da sua Tela de bloqueio ou pela senha de Proteção de privacidade.</string>
+    <string name="privacy_password_update_message">Agora você pode proteger itens com a Senha de proteção de privacidade como uma alternativa à sua Tela de bloqueio. Quando você ativar este recurso, as versões antigas do Bloqueio de app ou da Senha de proteção de privacidade serão substituídas pela nova Senha de proteção de privacidade, e todos os itens privados serão protegidos por ela. Definir uma Senha de proteção de privacidade agora?</string>
+    <string name="privacy_password_update_title">Senha de proteção de privacidade</string>
+    <string name="privacy_password_update_type">Selecionar tipo de senha</string>
     <string name="privacy_permission_call">Acessar ou editar o histórico de chamadas</string>
     <string name="privacy_permission_call_title">Proteger chamadas</string>
     <string name="privacy_permission_camera_title">Restringir uso de câmera em 2º plano</string>
@@ -4913,6 +4928,12 @@ Retirar o consentimento agora?"</string>
     <string name="privacy_using_record">Gravar áudio</string>
     <string name="privacyapp_number_masked_text">O conteúdo da notificação está oculto</string>
     <string name="privacyapp_number_unmasked_text">O conteúdo da notificação pode ser oculto</string>
+    <string name="private_file">Arquivos privados</string>
+    <string name="private_note">Notas ocultas</string>
+    <string name="private_password_type">Senha de proteção de privacidade</string>
+    <string name="private_password_type_tips">Você pode alterar sua senha em Impressões digitais, dados faciais e bloqueio de tela > Senha de proteção de privacidade.</string>
+    <string name="private_photo">Álbum privado</string>
+    <string name="private_sms">Mensagens privadas</string>
     <string name="process_mediaserver_label">Servidor de mídia</string>
     <string name="process_vpnsdkmanager_label">"Game Turbo"</string>
     <string name="promotion">Anúncio</string>
@@ -5373,6 +5394,7 @@ Retirar o consentimento agora?"</string>
     <string name="st_antispam_title_service_sms">Notificações de serviço</string>
     <string name="st_antispam_title_whitelist">Exceções</string>
     <string name="st_call_backsound_group">Som de bloqueio</string>
+    <string name="st_call_intercept_all">Bloquear todas as chamadas</string>
     <string name="st_call_intercept_contacts">Bloquear chamadas de contatos</string>
     <string name="st_call_intercept_forwarding">Bloquear chamadas encaminhadas</string>
     <string name="st_call_intercept_oversea">Bloquear chamadas internacionais</string>
@@ -6746,9 +6768,11 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_current_power_mode">Modo atual</string>
     <string name="pc_cycle_count_protect_title">Ciclos</string>
     <string name="pc_have_no_battery_issue">Sem problemas</string>
+    <string name="pc_health_charge_default">Carregar totalmente</string>
     <string name="pc_health_charge_protect_noti_summary_title">O dispositivo irá parar de carregar quando o nível da bateria atingir %1$s</string>
     <string name="pc_health_charge_protect_notification_summary">Ative a Proteção da bateria para reduzir o envelhecimento da bateria</string>
     <string name="pc_health_charge_protect_summary">Para prolongar a vida útil da bateria, o dispositivo irá parar de carregar quando o nível da bateria atingir %1$s</string>
+    <string name="pc_health_charge_protect_summary_new">Para prolongar a vida útil da bateria, o dispositivo irá parar de carregar quando o nível da bateria atingir %1$s, e só fará a carga total quando programado.</string>
     <string name="pc_health_charge_protect_title">Proteção da bateria</string>
     <string name="pc_hide_more_power_rank_apps">Ocultar</string>
     <string name="pc_more_battery_feature">Recursos adicionais</string>

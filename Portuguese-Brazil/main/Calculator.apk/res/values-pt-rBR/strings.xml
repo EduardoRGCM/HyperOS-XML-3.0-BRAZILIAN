@@ -558,6 +558,12 @@ Um ano e cinco anos de TJPs serão cotados no dia 20 de cada mês (atrasos podem
     <string name="preference_has_allowed">Permitido</string>
     <string name="preference_help">Ajuda e feedback</string>
     <string name="preference_not_allowance">Não permitido</string>
+    <string name="preference_percentage">Percentual de adição e subtração</string>
+    <string name="preference_percentage_numericalvalue">Por valor</string>
+    <string name="preference_percentage_numericalvalue_comments">Converta a porcentagem em um decimal, e então adicione ou subtraia</string>
+    <string name="preference_percentage_proportion">Por proporção</string>
+    <string name="preference_percentage_proportion_comments">"Primeiro aplique a porcentagem ao resultado anterior e depois adicione ou subtraia.
+Perfeito para descontos"</string>
     <string name="preference_other">Outros</string>
     <string name="preference_permission_info">Detalhes das permissões</string>
     <string name="preference_privacy_setting">Privacidade</string>
