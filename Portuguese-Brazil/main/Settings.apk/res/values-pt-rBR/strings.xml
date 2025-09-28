@@ -3485,6 +3485,14 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_battery">Bateria</string>
     <string name="device_build_id">Número da versão</string>
     <string name="device_camera">Câmera</string>
+    <string name="device_class_car_kit">Sistema automotivo</string>
+    <string name="device_class_headset">Fones de ouvido</string>
+    <string name="device_class_hearing_aid">Aparelho auditivo</string>
+    <string name="device_class_other">Outro</string>
+    <string name="device_class_setting_summary">Especifique o tipo de dispositivo para otimizar ainda mais sua experiência</string>
+    <string name="device_class_setting_title">Tipo de dispositivo</string>
+    <string name="device_class_speaker">Alto-falante</string>
+    <string name="device_class_watch">Relógio</string>
     <string name="device_complete_parameters">Todas as especificações</string>
     <string name="device_controls_sentence">Controles do dispositivo</string>
     <string name="device_controls_setting_subtitle">Para acessar os controles dos dispositivos conectados, mantenha pressionado o botão de energia</string>
