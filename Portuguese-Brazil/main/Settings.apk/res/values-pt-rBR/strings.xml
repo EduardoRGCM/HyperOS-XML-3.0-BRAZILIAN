@@ -2613,6 +2613,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="certificate_management_app_description">Certificados verificarão quando você usar os apps e URLs abaixo</string>
     <string name="certificate_warning_dont_install">Não instalar</string>
     <string name="certificate_warning_install_anyway">Instalar assim mesmo</string>
+    <string name="circle_to_search_title">Circule para pesquisar</string>
     <string name="change">Alterar</string>
     <string name="change_brightness">Ajustar o brilho</string>
     <string name="change_lock_screen_password_title">Alterar bloqueio de tela</string>
@@ -9095,6 +9096,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_fluency_mode">Animações do sistema</string>
     <string name="search_font">Fonte do sistema;Fonte;Fontes;Tamanho da fonte;Tamanho da fonte</string>
     <string name="search_force_touch">"3D Touch"</string>
+    <string name="search_gesture_feature_title">Circule para pesquisar</string>
     <string name="search_gesture_wakeup_title">Dois toques na tela para ligá-la;Dois toques para ligar tela;Ligar tela;Dois toques na tela;Dois toques</string>
     <string name="search_gmscore_settings_title">Google;Serviços básicos do Google;GMS;Gmail</string>
     <string name="search_gps">GPS;Acesso à localização;Serviços de localização</string>
