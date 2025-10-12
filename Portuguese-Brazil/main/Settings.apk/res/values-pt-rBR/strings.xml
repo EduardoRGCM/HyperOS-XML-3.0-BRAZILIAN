@@ -4006,7 +4006,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="enable_wifi_display">Display sem fio</string>
     <string name="enabled">Ativado</string>
     <string name="enabled_5g_mode_title">Ativar o 5G</string>
-    <string name="enabled_authorised_apps_summary">Sua autorização será revogada após você alterar a posição da chave seletora para apps individuais.</string>
+    <string name="enabled_authorised_apps_summary">Sua autorização será revogada após você alterar a posição da chave seletora individualmente para os apps.</string>
     <string name="enabled_authorised_apps_title">Autorização concedida</string>
     <string name="enabled_by_admin">Ativado pelo administrador</string>
     <string name="enabled_locales_keyboard_layout">Disposição</string>
