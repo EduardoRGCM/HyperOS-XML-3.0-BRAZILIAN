@@ -425,9 +425,6 @@
         <item>Desativado</item>
         <item>Filtro habilitado</item>
         <item>Ativado</item>
-        <item>Filtrar cabeçalhos</item>
-        <item>Pacotes de mídia filtrados</item>
-        <item>Filtro de perfis habilitados</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Deixe apenas cabeçalhos ACL</item>
@@ -1674,7 +1671,6 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
     <string-array name="wifi_signal">
         <item>Ruim</item>
         <item>Fraca</item>
-        <item>Regular</item>
         <item>Boa</item>
         <item>Excelente</item>
     </string-array>

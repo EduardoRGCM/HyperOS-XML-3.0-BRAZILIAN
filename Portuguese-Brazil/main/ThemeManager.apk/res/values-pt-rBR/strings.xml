@@ -1300,9 +1300,9 @@ Sempre que você usar os itens armazenados neste dispositivo para personalizaç�
     <string name="privacy_phone_logoff_service_content">Cancelar serviços do Temas</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
     <string name="privacy_phone_logoff_theme_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Certifique-se de que você tem o direito de cancelar os serviços antes de continuar.
-2. O cancelamento dos serviços do Temas não afetará o uso normal de outros produtos Xiaomi.
-3. O cancelamento do serviço é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que os serviços forem cancelados. Os seguintes dados serão excluídos permanentemente ou anonimizados após o cancelamento do serviço (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"%d. Certifique-se de que você tem o direito de cancelar os serviços antes de continuar.
+%2$d. O cancelamento dos serviços de Temas não afetará o uso normal de outros produtos Xiaomi.
+%3$d. O cancelamento do serviço é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão após o cancelamento dos serviços. Os seguintes dados serão excluídos permanentemente ou anonimizados após o cancelamento do serviço (exceto conforme previsto por leis e regulamentos, ou conforme exigido por autoridades reguladoras):"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos em dispositivos Xiaomi. Você não poderá mais usar os itens que comprou.
 Todas as informações sobre suas curtidas, comentários, avaliações e seguidores gerados em dispositivos Xiaomi.
 Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.
@@ -1318,9 +1318,9 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
     <string name="privacy_phone_revoke_agree_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
-2. A retirada de consentimento à Política de Privacidade do Temas não afetará o uso normal de outros produtos Xiaomi.
-3. A retirada de consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão depois que seu consentimento for retirado. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada de consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):"</string>
+    <string formatted="false" name="privacy_phone_revoke_agree_detail_content_1">"%1$d. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
+%2$d. A retirada de consentimento à Política de Privacidade do Temas não afetará o uso normal de outros produtos Xiaomi.
+%d. A retirada do consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão após a retirada do seu consentimento. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto conforme previsto por leis e regulamentos, ou conforme exigido por autoridades reguladoras):"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos em dispositivos Xiaomi onde você usou sua Conta Xiaomi. Você não poderá mais usar os itens que comprou.
 Todas as informações sobre suas curtidas, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Xiaomi.
 Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.
@@ -1591,7 +1591,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_title_select_ringtone">Selecione o toque</string>
     <string name="resource_title_subject">Destaques</string>
     <string name="resource_trial_days">(teste: %1$d d)</string>
-    <string name="resource_trial_days_hours">(teste: %1$d d %2$d h)</string>
+    <string name="resource_trial_days_hours">" (teste: %1$s d %2$s h)"</string>
     <string name="resource_trial_end_get_mibi">Receber Mi Créditos</string>
     <string name="resource_trial_end_jump_hint">Redirecionando…</string>
     <string name="resource_trial_end_message">Teste de %1$s expirado. Conclua a compra caso tenha gostado.</string>
@@ -1605,7 +1605,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_trial_fail_message">Certifique-se de que o relógio do sistema está configurado corretamente.</string>
     <string name="resource_trial_fail_title">"Não foi possível configurar sessão de teste"</string>
     <string name="resource_trial_hours">(teste: %1$d h)</string>
-    <string name="resource_trial_hours_minutes">(teste: %1$d h e %2$d min)</string>
+    <string name="resource_trial_hours_minutes">" (teste: %1$s h e %2$s min)"</string>
     <string name="resource_trial_minutes">(teste: %1$d min)</string>
     <string name="resource_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="resource_update">Atualizar</string>
