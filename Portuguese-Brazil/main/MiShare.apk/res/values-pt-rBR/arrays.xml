@@ -13,13 +13,13 @@
         <item>Para transferir arquivos usando o Bluetooth e Wi-Fi</item>
         <item>Para encontrar dispositivos próximos usando o Bluetooth</item>
         <item>Para encontrar dispositivos disponíveis nas proximidades e transferir arquivos usando Wi-Fi</item>
-        <item>Para verificar se os apps estão instalados para abri-los após receber dados</item>
+        <item>Para verificar se apps estão instalados para abri-los após receber dados</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
         <item>Para enviar e receber arquivos</item>
         <item>Para transferir arquivos usando o Bluetooth e Wi-Fi</item>
         <item>Para encontrar dispositivos próximos usando o Bluetooth</item>
         <item>Para encontrar dispositivos disponíveis nas proximidades e transferir arquivos usando Wi-Fi</item>
-        <item>Para verificar se os apps estão instalados para abri-los após receber dados</item>
+        <item>Para verificar se apps estão instalados para abri-los após receber dados</item>
     </string-array>
 </resources>
