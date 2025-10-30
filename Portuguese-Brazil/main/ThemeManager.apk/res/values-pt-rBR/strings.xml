@@ -106,6 +106,7 @@
     <string name="ai_in_line_match">O servidor está ocupado</string>
     <string name="ai_inquire_apply_wallpaper">Aplicar este plano de fundo?</string>
     <string name="ai_moving_your_wallpaper">Veja como a IA pode dar vida aos seus planos de fundo</string>
+    <string name="ai_moving_your_wallpaper_new">Experimente novos estilos e adicione efeitos dinâmicos aos seus planos de fundo favoritos</string>
     <string name="ai_pic_unavailable_content">Certifique-se de que o objeto (ou pessoa) da foto esteja claro e desobstruído.</string>
     <string name="ai_pic_unavailable_title">"Esta foto não atende aos requisitos de geração"</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
@@ -129,6 +130,13 @@
     <string name="ai_wallpaper_desc">Este conteúdo é gerado por IA</string>
     <string name="ai_wallpaper_feedback">"Feedback"</string>
     <string name="ai_wallpaper_function_introduction">Transforme imagens de paisagens, cidades, plantas, carros e muito mais em vídeos dinâmicos.</string>
+    <string name="ai_wallpaper_function_introduction_new">Com os novos Planos de fundo com IA, você pode experimentar novos estilos e adicionar efeitos dinâmicos aos seus planos de fundo favoritos.</string>
+    <string name="ai_wallpaper_generate_error">"Não foi possível gerar o plano de fundo de IA."</string>
+    <string name="ai_wallpaper_generate_generating">Gerando…</string>
+    <string name="ai_wallpaper_generate_loading">Gerando planos de fundo com IA…</string>
+    <string name="ai_wallpaper_generate_waiting">Aguardando…</string>
+    <string name="ai_wallpaper_generation_time">Isso levará cerca de %d segundos</string>
+    <string name="ai_wallpaper_history_empty">Nada por aqui ainda</string>
     <string name="ai_wallpaper_i_know">Entendi</string>
     <string name="ai_wallpaper_inside_invitation">Teste beta do Planos de fundo dinâmicos IA</string>
     <string name="ai_wallpaper_inside_invitation_agree">Aceitar</string>

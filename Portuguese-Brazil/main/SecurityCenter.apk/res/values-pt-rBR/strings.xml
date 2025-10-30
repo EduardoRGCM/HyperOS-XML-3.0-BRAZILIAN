@@ -197,8 +197,8 @@
     <string name="afternoon">"PM"</string>
     <string name="ai_allow_all">Exibir notificação em todas as situações</string>
     <string name="ai_guard_post_brief_summary">Reconhece e alerta contra chamadas fraudulentas</string>
-    <string name="ai_guard_post_preference_summary">Envie um alerta quando uma suspeita de fraude ou falsificação de identidade for detectada durante chamadas telefônicas e videochamadas no WeChat ou QQ</string>
-    <string name="ai_guard_post_preference_summary_1">Envie um alerta quando houver suspeita de fraude durante chamadas telefônicas e videochamadas no WeChat ou QQ</string>
+    <string name="ai_guard_post_preference_summary">Envia um alerta quando uma suspeita de fraude ou falsificação de identidade for detectada durante chamadas telefônicas e videochamadas no WeChat ou QQ</string>
+    <string name="ai_guard_post_preference_summary_1">Envia um alerta quando houver suspeita de fraude durante chamadas telefônicas e videochamadas no WeChat ou QQ</string>
     <string name="ai_guard_post_preference_title">Prevenção de fraudes IA</string>
     <string name="ai_guard_settings_about_info">Sobre este recurso</string>
     <string name="ai_guard_settings_declaration">Aviso legal: Os alertas enviados por este recurso são apenas para sua referência. Use seu próprio julgamento ao avaliar riscos.</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="runtime_permission_desc">
+        <item>Reconhecimento de voz para funções como a tradução de voz</item>
+    </string-array>
+</resources>

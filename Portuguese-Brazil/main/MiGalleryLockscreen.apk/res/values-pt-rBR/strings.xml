@@ -46,6 +46,8 @@
     <string name="ad_btn_installing">Instalando</string>
     <string name="ad_btn_open">Abrir</string>
     <string name="ad_btn_pending">Pendente</string>
+    <string name="ad_download">Baixar</string>
+    <string name="ad_download_continue">Continuar</string>
     <string name="ad_download_now">Baixar</string>
     <string name="ad_feed_badge">Anúncio</string>
     <string name="ad_pop_btn_hidden">Ocultar</string>
