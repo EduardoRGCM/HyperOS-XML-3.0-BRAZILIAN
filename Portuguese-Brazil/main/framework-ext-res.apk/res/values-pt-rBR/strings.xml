@@ -464,7 +464,7 @@
     <string name="softap_notification_enable">Ativado</string>
     <string name="softap_notification_new_device">Novo dispositivo conectado</string>
     <string name="softap_notification_unknown_device">Dispositivo sem fio</string>
-    <string name="softap_notification_usage">Hotspot está ativo</string>
+    <string name="softap_notification_usage">Hotspot ativo</string>
     <string name="wallpaper_and_signature_title">Planos de fundo e assinaturas</string>
     <string name="wallpaper_bright_title">Brilho</string>
     <string name="wallpaper_manying_title">Sombras</string>
