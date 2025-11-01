@@ -128,6 +128,10 @@
     <string name="ai_wallpaper_cancel">Cancelar</string>
     <string name="ai_wallpaper_click_to">Toque para ver</string>
     <string name="ai_wallpaper_desc">Este conteúdo é gerado por IA</string>
+    <string name="ai_wallpaper_desc_new">Com os novos Planos de fundo com IA, você pode mudar o estilo de um plano de fundo existente ou gerar plano de fundo estáticos ou dinâmicos totalmente novos.</string>
+    <string name="ai_wallpaper_dynamic">Dinâmico</string>
+    <string name="ai_wallpaper_dynamic_new">Dinâmico</string>
+    <string name="ai_wallpaper_featured_title">Destaques</string>
     <string name="ai_wallpaper_feedback">"Feedback"</string>
     <string name="ai_wallpaper_function_introduction">Transforme imagens de paisagens, cidades, plantas, carros e muito mais em vídeos dinâmicos.</string>
     <string name="ai_wallpaper_function_introduction_new">Com os novos Planos de fundo com IA, você pode experimentar novos estilos e adicionar efeitos dinâmicos aos seus planos de fundo favoritos.</string>
@@ -143,6 +147,7 @@
     <string name="ai_wallpaper_inside_invitation_description">Este recurso usa recursos de modelos grandes para criar planos de fundo dinâmicos a partir de imagens estáticas. Toque em \"Aceitar\" para experimentar!</string>
     <string name="ai_wallpaper_inside_invitation_description_all">Este recurso usa recursos de modelos grandes para criar planos de fundo dinâmicos a partir de imagens estáticas. Toque em \"Aceitar\" para experimentar!</string>
     <string name="ai_wallpaper_inside_invitation_disagree">"Não aceitar"</string>
+    <string name="ai_wallpaper_local_title">Meus Planos de fundo</string>
     <string name="ai_wallpaper_network_connection_exception">"Não foi possível conectar-se à rede"</string>
     <string name="ai_wallpaper_network_exception">Ocorreu um erro de rede</string>
     <string name="ai_wallpaper_new">Planos de fundo IA</string>
@@ -270,6 +275,9 @@
     <string name="card_no_network">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="card_retry">Tentar novamente</string>
     <string name="carousel_no_set_wallpaper_effects">"Não é possível definir efeitos quando o Carrossel de planos de fundo está ativado"</string>
+    <string name="carousel_wallpaper">Alternar planos de fundo</string>
+    <string name="carousel_wallpaper_dlg_apply_home_btn">Somente a Tela inicial</string>
+    <string name="carousel_wallpaper_dlg_apply_lock_btn">Aplicar este conjunto de planos de fundo à Tela de bloqueio também?</string>
     <string name="change_host_hint">Alterar host</string>
     <string name="change_wallpaper">Plano de fundo</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
