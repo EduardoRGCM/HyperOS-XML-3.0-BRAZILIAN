@@ -3315,11 +3315,10 @@ Tamanho da atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
     <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
     <string name="yesterday">Ontem</string>
-    <string name="g7t">"Dê um toque duplo em um objeto (ou pessoa) no Modo vídeo para realçar o som dele. Permite a gravação de vídeo em até 4K/%1$dFPS, mas não é compatível com Dolby Vision ou microfones externos."</string>
-    <string name="g7u">"Dê um toque duplo no objeto (ou pessoa) no Modo vídeo ou Pro para realçar o áudio dele. Suporta a gravação de vídeo em até 4K/%1$dFPS, mas não é compatível com Dolby Vision ou microfones externos."</string>
-    <string name="g7v">"Dê um toque duplo em um objeto (ou pessoa) no Modo vídeo para realçar o som dele. Suporta a gravação de vídeo em até 4K/%1$dFPS, mas não é compatível com HDR10+ ou microfones externos."</string>
-    <string name="g7w">"Dê um toque duplo no objeto (ou pessoa) no Modo vídeo ou Pro para realçar o áudio dele. Ele suporta a gravação de vídeo em até 4K/%1$dFPS, mas não é compatível com HDR10+ ou microfones externos."</string>
-    <string name="g7x">"Dê um toque duplo em um objeto (ou pessoa) no Modo vídeo para realçar o som dele. Ele suporta a gravação de vídeo em até 4K/%1$dFPS, mas não é compatível com HDR, Dolby Vision ou microfones externos."</string>
+    <string name="g7t">Tipo de layout</string>
+    <string name="g7u">Alinhar à parte inferior</string>
+    <string name="g7v">Alinhar ao meio</string>
+    <string name="g7w">Alinhar ao topo</string>
     <string name="g7y">Zoom de áudio</string>
     <string name="g7z">"Realce o som do objeto principal no Modo vídeo. Não é compatível com microfones externos."</string>
     <string name="g8b">Coloque o seu objeto (ou pessoa) no enquadramento.</string>

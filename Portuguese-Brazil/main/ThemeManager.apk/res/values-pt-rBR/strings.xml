@@ -1316,7 +1316,7 @@ Sempre que você usar os itens armazenados neste dispositivo para personalizaç�
     <string name="privacy_phone_logoff_service_content">Cancelar serviços do Temas</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
     <string name="privacy_phone_logoff_theme_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">"%d. Certifique-se de que você tem o direito de cancelar os serviços antes de continuar.
+    <string formatted="false" name="privacy_phone_logoff_theme_service_detail_content_1">"%d. Certifique-se de que você tem o direito de cancelar os serviços antes de continuar.
 %2$d. O cancelamento dos serviços de Temas não afetará o uso normal de outros produtos Xiaomi.
 %3$d. O cancelamento do serviço é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão após o cancelamento dos serviços. Os seguintes dados serão excluídos permanentemente ou anonimizados após o cancelamento do serviço (exceto conforme previsto por leis e regulamentos, ou conforme exigido por autoridades reguladoras):"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Todos os pedidos (incluindo pedidos pagos) feitos em dispositivos Xiaomi. Você não poderá mais usar os itens que comprou.
