@@ -198,7 +198,7 @@
     <string name="download_language_model_exit_ai_subtitles_hint">%1$s estão desativados durante o processo de download</string>
     <string name="download_language_package_button_text">Baixar pacotes de idiomas</string>
     <string name="download_later_text">Agora não</string>
-    <string name="early_morning">Amanhecer</string>
+    <string name="early_morning">"AM"</string>
     <string name="edit_phrase">Editar frases</string>
     <string name="edit_speaker">Editar informações do interlocutor</string>
     <string name="en_to_cn">Inglês para Chinês</string>
@@ -208,7 +208,7 @@
     <string name="eras_bc">a.C</string>
     <string name="error_a11y_label">Erro: inválido</string>
     <string name="error_icon_content_description">Erro</string>
-    <string name="evening">Tarde</string>
+    <string name="evening">"PM"</string>
     <string name="exit_improvement_plan_dialog_content_cn">Se você cancelar sua inscrição no Programa de Experiência do Usuário do Tradutor, o Tradutor deixará de salvar áudio, texto e outros registros traduzidos usados para aprimorar esse recurso. As informações acima associadas ao OAID deste dispositivo serão excluídas dos servidores da Xiaomi. Uma pequena quantidade de dados de amostragem que já foi usada para melhorar o Tradutor não será mais associada a este dispositivo. Cancelar o registro agora?</string>
     <string name="exit_improvement_plan_dialog_content_global">Ao sair do Programa de Experiência do Usuário do Tradutor Mi AI, o Tradutor Mi AI deixará de salvar o áudio, texto e outros registros traduzidos para melhorar este recurso. As informações acima associadas ao OAID deste dispositivo serão excluídas dos servidores da Xiaomi. Uma pequena quantidade de dados de amostragem que já foram utilizados para melhorar o Tradutor Mi AI não será mais associada a este dispositivo. Sair agora?</string>
     <string name="exit_improvement_plan_dialog_title">Sair do Programa de Experiência do Usuário?</string>
@@ -256,7 +256,7 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="force_update_model_download_show_text_live_subtitle">Nossos modelos de idiomas foram atualizados. Baixe os pacotes de idiomas off-line mais recentes para continuar.</string>
     <string name="force_update_model_download_show_text_subtitle_transcription">Para poder distinguir as vozes dos interlocutores durante a transcrição, atualize primeiro os pacotes de idiomas off-line.</string>
     <string name="foregound_content">%1$s está trabalhando…</string>
-    <string name="friday">Sexta-feira</string>
+    <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="function">Recursos</string>
@@ -371,7 +371,7 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="mic_sound">Microfone</string>
     <string name="mic_sound_content">Ideal para palestras e outros cenários offline</string>
     <string name="microphone_in_use_unavailable">O microfone ou o alto-falante está em uso. Não é possível utilizar agora.</string>
-    <string name="midnight">Noite</string>
+    <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_accessibility_title">Título</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Recolhido</string>
@@ -424,7 +424,7 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="modify_nickname">Apelido</string>
     <string name="modify_speaker">Alterar interlocutor</string>
     <string name="modify_speaker_remind_txt">*Alterar o apelido do interlocutor alterará em todos os lugares onde ele falar</string>
-    <string name="monday">Segunda-feira</string>
+    <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
     <string name="month_april">Abril</string>
@@ -719,7 +719,7 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="thursday">Quinta-feira</string>
+    <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
@@ -746,7 +746,7 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="translate_type">Estilo da legenda</string>
     <string name="translation_card_edit_hint_text">Insira uma palavra ou frase</string>
     <string name="transparent_color">Transparente</string>
-    <string name="tuesday">Terça-feira</string>
+    <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="txt_contact_us">Fale conosco</string>
@@ -795,7 +795,7 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="waiting_sound_hint_from_mic">Ouvindo o áudio do microfone…</string>
     <string name="waiting_sound_hint_from_sys">Ouvindo o áudio do sistema…</string>
     <string name="web_interpretation">Da web</string>
-    <string name="wednesday">Quarta-feira</string>
+    <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="whether_to_transcription">Tradução</string>

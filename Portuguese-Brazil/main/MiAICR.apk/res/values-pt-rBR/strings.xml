@@ -388,12 +388,12 @@
     <string name="download_start">Baixar</string>
     <string name="download_updata">Atualizar</string>
     <string name="download_update">Atualizar</string>
-    <string name="early_morning">Amanhecer</string>
+    <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_a11y_label">Erro: inválido</string>
     <string name="error_icon_content_description">Erro</string>
-    <string name="evening">Tarde</string>
+    <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="fmt_date_long_month_day">"d 'de' MMMM"</string>
@@ -412,7 +412,7 @@
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="form_action_fill_failed">Não foi possível preencher. Aguarde alguns minutos e tente novamente.</string>
     <string name="form_action_partial_fill_failed">Algum conteúdo do formulário foi preenchido</string>
-    <string name="friday">Sexta-feira</string>
+    <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
@@ -428,7 +428,7 @@
     <string name="material_timepicker_minute">Minuto</string>
     <string name="material_timepicker_select_time">Selecionar horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
-    <string name="midnight">Noite</string>
+    <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_accessibility_title">Título</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Recolhido</string>
@@ -484,7 +484,7 @@
     <string name="model_notification">Baixando o modelo grande…</string>
     <string name="model_title">Modelo grande no dispositivo</string>
     <string name="model_unzip">Descompactando…</string>
-    <string name="monday">Segunda-feira</string>
+    <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
     <string name="month_april">Abril</string>
@@ -789,13 +789,13 @@
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="thursday">Quinta-feira</string>
+    <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="tuesday">Terça-feira</string>
+    <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="v7_preference_off">DESATIVADO</string>
@@ -804,7 +804,7 @@
 
 Dica: Você receberá um alerta de rotina do sistema quando você ativar recursos de acessibilidade. Tenha certeza que o Mecanismo Xiaomi HyperAI não infringirá nenhum dos seus direitos quando você utilizar estes recursos."</string>
     <string name="warning_delete_model">Se você excluir este modelo grande do seu dispositivo, você não poderá utilizar alguns recursos de IA no dispositivo a não ser que o baixe novamente. Excluir agora?</string>
-    <string name="wednesday">Quarta-feira</string>
+    <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="yesterday">Ontem</string>

@@ -93,13 +93,13 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_error_msg">Erro desconhecido</string>
     <string name="duplicate_passkey_creation">"Can't create duplicate passkeys"</string>
-    <string name="early_morning">Amanhecer</string>
+    <string name="early_morning">"AM"</string>
     <string name="empty_passkey_message">"Parece que você não tem uma chave de acesso. Faça o login na sua conta para criar uma."</string>
     <string name="empty_passkey_title">Sem chave de acesso</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_icon_content_description">Erro</string>
-    <string name="evening">Tarde</string>
+    <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="fido_client_permission_description">This application acts as a FIDO Client. It may access authentication devices available on the system, create and delete FIDO registrations on behalf of other applications.</string>
@@ -172,7 +172,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="friday">Sexta-feira</string>
+    <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="general_settings">GENERAL SETTINGS</string>
@@ -213,7 +213,7 @@
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecionar horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
-    <string name="midnight">Noite</string>
+    <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Index bar</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
@@ -241,7 +241,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">Isso é tudo por agora</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Não foi possível carregar os itens</string>
-    <string name="monday">Segunda-feira</string>
+    <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
     <string name="month_april">Abril</string>
@@ -429,7 +429,7 @@
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="thursday">Quinta-feira</string>
+    <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
@@ -448,7 +448,7 @@ Try again later."</string>
 Try again later."</string>
     <string name="touch_finger_hint">Verify your fingerprint</string>
     <string name="transaction_confirmation">Confirmar</string>			
-    <string name="tuesday">Terça-feira</string>
+    <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="tz_sign_error">"This device isn't secure. It might have been unlocked or flashed."</string>
@@ -462,7 +462,7 @@ Try again later."</string>
     <string name="web_help_back_btn">Back</string>
     <string name="web_help_forward_btn">Forward</string>
     <string name="web_help_refresh_btn">Refresh</string>
-    <string name="wednesday">Quarta-feira</string>
+    <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="wrong_finger_error_confirm_text">Confirm</string>
