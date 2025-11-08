@@ -745,6 +745,7 @@ Widget: %2$s
     <string name="ambient_display_wake_screen_title">Ativar a tela</string>
     <string name="anc_auto">"Auto"</string>
     <string name="anc_depth">Forte</string>
+    <string name="anc_intelligent">Cancelamento de ruído inteligente</string>
     <string name="anc_mild">Leve</string>
     <string name="android_beam_disabled_summary">Primeiro ative o NFC </string>
     <string name="android_beam_explained">Coloque este dispositivo próximo a outro dispositivo compatível com Mi Beam para compartilhar páginas da web, vídeos, contatos e muito mais.</string>
@@ -3389,6 +3390,9 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="default_digital_assistant_title">Assistente digital</string>
     <string name="default_document_title">Documentos</string>
     <string name="default_emergency_app">App de emergência</string>
+    <string name="default_error_message">Entrada inválida</string>
+    <string name="default_fingerprint_unlock_type">Selecione o método de desbloqueio padrão</string>
+    <string name="default_font_title_global">Padrão</string>
     <string name="default_for_calls">Padrão para chamadas</string>
     <string name="default_for_calls_and_sms">Padrão para chamadas e SMS</string>
     <string name="default_for_mobile_data">Padrão para dados móveis</string>
@@ -4922,6 +4926,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_recognizing_anim_f">Difusão</string>
     <string name="gxzw_vibrate_summary">A vibração não ocorrerá quando nenhuma animação de impressão digital for selecionada</string>
     <string name="gxzw_vibrate_title">Vibrar ao desbloquear</string>
+    <string name="handle_battery">Bateria com aderência</string>
     <string name="handle_ota_connect_first">Conecte a alça</string>
     <string name="handle_ota_finish_fw">Atualizado com sucesso</string>
     <string name="handle_ota_update_failed">"Não foi possível atualizar"</string>
@@ -8488,6 +8493,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="receiver_clean">Liberar espaço</string>
     <string name="recent_app_category_title">Apps abertos recentemente</string>
     <string name="recent_apps_label">Recentes</string>
+    <string name="recommend_press_type">\"Pressionar\" é recomendado para reduzir toques acidentais. Você pode alternar para \"Tocar\" a qualquer momento em Configurações.</string>
     <string name="recent_conversations">Conversas recentes</string>
     <string name="recent_convo_removed">Conversa removida</string>
     <string name="recent_convos_removed">Conversas recentes removidas</string>
@@ -9145,6 +9151,10 @@ Para usar a fixação de apps: \u0009
     <string name="search_page_layout_settings">Tamanho do texto;Tamanho da fonte;Fonte pequena;Fonte grande;Fonte média;Fonte EEG;Fonte enorme;Tamanho de fonte</string>
     <string name="search_permission_manager">Permissões;Acesso root;Baixar;Downloads</string>
     <string name="search_permission_settings_title">Permissões do app;Permissões;Acesso;Gerenciar apps;Baixar;Downloads</string>
+    <string name="search_phone_case">Capa de celular;capa;capa para jogos;capa de console</string>
+    <string name="search_pick_up_gesture_wakeup_title">Pegar;Levantar</string>
+    <string name="search_pointer_speed">Velocidade do ponteiro</string>
+    <string name="search_power_checker">Verificador de Energia</string>
     <string name="search_pick_up_gesture_wakeup_title">Pegar;Levantar</string>
     <string name="search_pointer_speed">Velocidade do ponteiro</string>
     <string name="search_power_checker">Verificação de energia</string>
@@ -9208,6 +9218,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_usb_tethering_button_text">Vínculo USB;Tethering;USB</string>
     <string name="search_user_agreement">Termos de Serviço;Contrato do Usuário</string>
     <string name="search_user_dict_settings_title">Dicionário pessoal;Dicionário</string>
+    <string name="search_user_guide">Sobre o visor traseiro;guia do usuário;tutorial</string>
     <string name="search_vibrate_in_silent_title">Vibrar no modo silencioso;vibrar;vibração</string>
     <string name="search_vibrate_on_touch_title">Ativar resposta táctil;vibrar no toque;vibrar;vibração</string>
     <string name="search_vibrate_when_ringing_title">Também vibrar para chamadas;vibrar;vibração</string>
@@ -13063,6 +13074,7 @@ Atualizar configurações para:
     <string name="gps_classic_mode_summary">Suporta múltiplos tipos de posicionamento por satélite (incluindo GPS, BeiDou, Galileo, GLONASS) para fornecer serviços de rede e posicionamento de fusão</string>
     <string name="gps_classic_mode_title">Posicionamento de fusão Xiaomi</string>
     <string name="headset_adaptive_volume_summary_gaia">Ajustar volume automaticamente com base no ambiente</string>
+    <string name="headset_autoswitch_switched">Alternado</string>
     <string name="miheadset_recording_translation">Gravação de áudio/Interpretação</string>
     <string name="miheadset_sound_mode_balanced_hearing">Equilibrado</string>
     <string name="miheadset_sound_mode_daily_mode">Modo diário</string>
@@ -13073,7 +13085,7 @@ Atualizar configurações para:
     <string name="miheadset_switch_play_mode_summary">1. Alternar modos de reprodução: Reproduzir via Bluetooth ou ouvir músicas armazenadas nos fones de ouvido.</string>
     <string name="miheadset_switch_play_oder_summary">2. Alternar ordem de reprodução: Repetir uma música, a playlist inteira ou aleatório. Este recurso se aplica apenas às músicas armazenadas nos fones de ouvido.</string>
     <string name="mimotion_pwm_enable">Taxa de atualização adaptativa Pro</string>
-    <string name="mimotion_pwm_enable_summary">Suporta mais níveis de taxa de atualização dinâmica para uma imagem mais suave e alterna do escurecimento DC para PWM</string>
+    <string name="mimotion_pwm_enable_summary">Obtém mais opções de taxa de atualização e alterna a dimerização de DC para PWM.</string>
     <string name="mimotion_pwm_message">Ativar o escurecimento PWM agora?</string>
     <string name="mimotion_pwm_title">Mimotion</string>
     <string name="mute_during_update">Pause a reprodução durante a atualização para uma instalação bem-sucedida</string>
@@ -13199,7 +13211,7 @@ Se você não definiu um bloqueio de tela, será solicitado a defini-lo primeiro
     <string name="swipe_add_fingerprint_up_text">Pressione e gire seu dedo ligeiramente</string>
     <string name="swipe_add_fingerprint_up_title">Pressione o centro da área da impressão digital</string>
     <string name="truetone_summary_new">Ajusta as cores automaticamente com base na luz ambiente para uma aparência mais natural</string>
-    <string name="user_guide">Guia do usuário</string>
+    <string name="user_guide">Sobre o visor traseiro</string>
     <string name="lyra_account_ap_summary_v2">"Tablets e computadores próximos conectados à mesma conta podem usar diretamente a rede do seu telefone"</string>
     <string name="lyra_auto_connect_summary_v2">"Tablets e computadores próximos conectados à mesma conta usarão automaticamente a rede do seu telefone quando não houver internet disponível"</string>
 

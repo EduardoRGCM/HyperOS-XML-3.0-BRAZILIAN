@@ -197,6 +197,10 @@
     <string name="afternoon">"PM"</string>
     <string name="ai_allow_all">Exibir notificação em todas as situações</string>
     <string name="ai_guard_post_brief_summary">Reconhece e alerta contra chamadas fraudulentas</string>
+    <string name="ai_guard_post_go">Iniciar</string>
+    <string name="ai_guard_post_preference_guidance_summary">"%1$d. Ir para Configurações > Privacidade e segurança > Segurança > Proteção antifraude > Proteção de chamadas.
+%2$d. Ativar a Proteção de Chamadas por IA e conceder as permissões necessárias."</string>
+    <string name="ai_guard_post_preference_guidance_title">Como usar</string>
     <string name="ai_guard_post_preference_summary">Envia um alerta quando uma suspeita de fraude ou falsificação de identidade for detectada durante chamadas telefônicas e videochamadas no WeChat ou QQ</string>
     <string name="ai_guard_post_preference_summary_1">Envia um alerta quando houver suspeita de fraude durante chamadas telefônicas e videochamadas no WeChat ou QQ</string>
     <string name="ai_guard_post_preference_title">Prevenção de fraudes IA</string>

@@ -103,7 +103,7 @@
     <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Envio de dados pessoais para a nuvem</string>
     <string name="aiSearch_privacy_dialog_permission_title_user_notice">Termos e condições</string>
     <string name="aiSearch_support_service">Serviços suportados</string>
-    <string name="aiSearch_support_service_connect">Ligar ao Windows</string>
+    <string name="aiSearch_support_service_connect">Vincular ao Windows</string>
     <string name="aiSearch_support_service_connect_computer">Conecte-se a um computador e use a Pesquisa por IA para obter resultados mais precisos</string>
     <string name="aiSearch_support_service_search">Pesquisar</string>
     <string name="aiSearch_support_service_search_aiSearch">Pesquise com IA para obter resultados mais precisos</string>

@@ -934,4 +934,6 @@ Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as i
 Você pode controlar este recurso em Configurações > Privacidade e segurança > Segurança > Configurações adicionais > Uso e diagnóstico."</string>
     <string name="permission_mi_account">Acessar status da chamada</string>
     <string name="sub_screen_boot_tip">Conclua a configuração na tela principal</string>
+    <string name="permission_read_apps">Acessar a lista de apps instalados neste dispositivo</string>
+    <string name="permission_read_apps_introduction">Para acesso à rede e estatísticas de uso de dados;</string>
 </resources>

@@ -736,7 +736,7 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="pref_summary_delivery_ringtone">Emite um som de notificação para mensagens entregues</string>
     <string name="pref_summary_enable_ad_notification">Ative para agrupar notificações de mensagens promocionais na Área de notificações</string>
     <string name="pref_summary_enable_classify">Mova as mensagens promocionais e financeiras para guias separadas</string>
-    <string name="pref_summary_notification_body_enabled">Mostre a mensagens na Tela de bloqueio e na Área de notificações</string>
+    <string name="pref_summary_notification_body_enabled">Exibe mensagens na Tela de bloqueio e na Área de notificações</string>
     <string name="pref_summary_off_system_mms_priority">Use apps de terceiros para enviar e receber MMS</string>
     <string name="pref_summary_on_system_mms_priority">"Defina o app Mensagens da Xiaomi como o app padrão para enviar e receber MMS"</string>
     <string name="pref_summary_privacy_authority">Alterne esta opção para conceder ou revogar sua autorização</string>

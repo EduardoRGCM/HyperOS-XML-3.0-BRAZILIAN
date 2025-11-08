@@ -478,10 +478,17 @@
     <string name="scanning_device_tips"><Data>Procurando dispositivos próximos. A outra pessoa precisa ativar o Xiaomi Share no centro de controle. &lt;a>Saiba mais&lt;/a></Data></string>
     <string name="screen_button_notification_text">Para reativá-los, pressione os botões Início e Liga/Desliga simultaneamente.</string>
     <string name="screen_button_notification_title">Botões de navegação desativados</string>
-    <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões Volume+ e Voltar.</string>
+    <string name="screen_on_cover_guide_summary_for_back_screen">"Pressione o botão [Ligar/Desligar]
+para desligar a tela principal"</string>
+    <string name="screen_on_cover_guide_summary_for_main_screen">"Pressione o botão [Ligar/Desligar]
+para continuar usando a tela principal"</string>
+    <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione simultaneamente os botões [Volume +] e Voltar.</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Para desativar este recurso, pressione o botão de [Volume +].</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Para desativar este recurso, pressione o botão de [Volume +].</string>
     <string name="screen_on_proximity_sensor_summary">"Não cubra a área dos fones de ouvido"</string>
+    <string name="screen_on_proximity_sensor_summary_for_back_screen">"Remova obstruções da área vermelha
+ou pressione o botão [Volume +]
+para desativar o Modo bolso"</string>
     <string name="screen_on_proximity_sensor_summary_for_kddi">"Não cubra o sensor de proximidade"</string>
     <string name="screen_on_proximity_sensor_summary_text">"Veja como você pode remover esta notificação:
 %1$s. Remova obstruções da área marcada em vermelho na imagem.
@@ -660,6 +667,8 @@ usar a câmera frontal"</string>
     <string name="wallpaper_group_red_mars_title">Marte</string>
     <string name="wallpaper_group_sgn_mountain_title">Monte Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria das sombras</string>
+    <string name="wallpaper_group_system_wallpaper_title">Planos de fundo do sistema</string>
+    <string name="wallpaper_group_time_watch_title">Relógios</string>
     <string name="wallpaper_overlapping_space_title">Forma e sombra</string>
     <string name="wallpaper_softlight_title">Luz suave</string>
     <string name="waterdrop_preview">Gotas</string>

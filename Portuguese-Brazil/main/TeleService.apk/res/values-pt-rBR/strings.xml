@@ -833,6 +833,9 @@ Seleção"</string>
     <string name="creating_new_user_dialog_message">Criando novo usuário…</string>
     <string name="crescendo_ringer_summary">O volume do toque irá aumentar gradualmente para o nível definido</string>
     <string name="crescendo_ringer_title">Volume de toque crescente</string>
+    <string name="current_ant_info">Obter Configurações ANT Atuais</string>
+    <string name="customized_message_emm_cause_6">"Este dispositivo não pode criar um perfil de rede porque carece da certificação exigida pelas autoridades locais."</string>
+    <string name="customized_title_emm_cause_6">"Não foi possível criar o perfil de rede"</string>
     <string name="ct_ut_not_support_close_4glte">O UT não está disponível, desative o Modo 4G LTE Avançado nas Configurações</string>
     <string name="ct_volte_no_voice_service_notification_channel">Sem serviço VoLTE</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
@@ -891,7 +894,7 @@ Seleção"</string>
     <string name="delete_blob_text">Excluir dados compartilhados</string>
     <string name="delete_fdn_contact">Excluir número de chamadas fixas</string>
     <string name="deleting_fdn_contact">Excluindo número de chamadas fixas…</string>
-    <string name="depopulated_zone_satellite_notification">Lembretes de comunicação via satélite</string>
+    <string name="depopulated_zone_satellite_notification">Sinal fraco da rede móvel</string>
     <string name="description_delete_button">Backspace</string>
     <string name="description_dial_button">discar</string>
     <string name="description_dialpad_back">Voltar</string>
@@ -2451,7 +2454,7 @@ Apenas cartões SIM de satélite dedicados ou planos com serviço de satélite s
     <string name="satellite_mobile_settings_summary">Disponível apenas com um SIM de satélite dedicado ou um plano que inclua serviço de satélite</string>
     <string name="satellite_mobile_settings_title">Comunicações via satélite Tiantong</string>
     <string name="satellite_not_show_again">"Não mostrar novamente"</string>
-    <string name="satellite_notification_text">Você ainda pode fazer chamadas e enviar SMS sem sinal usando comunicações via Tiantong Satellite. Ative este serviço primeiro.</string>
+    <string name="satellite_notification_text">Quando não houver sinal disponível, você pode usar o satélite para chamadas e mensagens. Toque para ativar as comunicações via satélite.</string>
     <string name="satellite_notification_title">"Você está em uma área de sinal fraco"</string>
     <string name="satellite_open_tiantong_business_title">Ative as comunicações via Tiantong Satellite</string>
     <string name="satellite_point_title">Ative as comunicações via Tiantong Satellite</string>
