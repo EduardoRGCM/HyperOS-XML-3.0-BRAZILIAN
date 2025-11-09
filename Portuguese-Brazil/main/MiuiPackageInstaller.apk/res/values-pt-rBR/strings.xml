@@ -198,6 +198,9 @@
     <string name="done">Concluído</string>
     <string name="download_pause">Pausar</string>
     <string name="early_morning">"AM"</string>
+    <string name="ecm_hint_content">O sistema bloqueou este app de usar permissões confidenciais. Alguns recursos podem não estar disponíveis.</string>
+    <string name="ecm_hint_jump_text">Permitir que este app use permissões</string>
+    <string name="ecm_hint_title">Permissões negadas</string>
     <string name="elder_mode_setting">Proteção aos idosos</string>
     <string name="elder_mode_setting_subtitle">Proteja-se contra a instalação de apps arriscados e violações de privacidade</string>
     <string name="elder_mode_subtitle">Proteja-se contra instalação de apps arriscados, violações de privacidade e golpes</string>

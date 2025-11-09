@@ -10052,6 +10052,12 @@ Toque duas vezes para abrir os Recentes."</string>
     <string name="sos_area_code_settings_hint">Inserir código de área</string>
     <string name="sos_area_code_settings_summary">Defina manualmente o código de área para o número de telefone do seu contato de emergência</string>
     <string name="sos_area_code_settings_title">Definir código de área</string>
+    <string name="sos_delete_emergency_contacts_dialog_message">Excluir este contato de emergência agora?</string>
+    <string name="sos_delete_emergency_contacts_dialog_title">Excluir contato de emergência</string>
+    <string name="sos_delete_last_emergency_contacts_dialog_message">O SOS de Emergência requer pelo menos um contato de emergência para funcionar. Se você excluir seu último contato de emergência, este recurso será desativado.</string>
+    <string name="sos_emergency_contacts_empty_text">Nada aqui ainda</string>
+    <string name="sos_navigation_guide_message">Pressione o botão [Volume -] para navegar e, em seguida, pressione e segure o [Volume +] para confirmar sua seleção</string>
+    <string name="sos_navigation_guide_title">Botões de volume no modo SOS de Emergência</string>
     <string name="sos_phone_call_privacy_dialog_message">"Para ligar para seus contatos de emergência e reproduzir gravações de SOS, este app precisa das seguintes permissões:
 • Fazer chamadas
 Para fazer chamadas para seus contatos de emergência
