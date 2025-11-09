@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="health_permission_header_description">Apps com esta permissão podem ler e gravar seus dados de saúde, preparo físico e bem-estar. Isso inclui dados rastreados de seus dispositivos e dados armazenados no Health Connect</string>
+    <string name="permgrouplab_health">Saúde, preparo físico e bem-estar</string>
+    <string name="request_fitness_permissions_data_access_type_read">Escolha quais dados de preparo físico e bem-estar este app pode acessar. Isso inclui dados rastreados e armazenados neste dispositivo, %1$s</string>
+    <string name="request_fitness_permissions_data_access_type_read_write">Escolha quais dados de preparo físico e bem-estar este app pode acessar. Isso inclui dados rastreados e armazenados neste dispositivo, %1$s</string>
+    <string name="request_fitness_permissions_data_access_type_write">Escolha quais dados de preparo físico e bem-estar este app pode acessar. Isso inclui dados rastreados e armazenados neste dispositivo, %1$s</string>
+    <string name="request_fitness_permissions_header_title">Permitir que %1$s acesse seus dados de preparo físico e bem-estar?</string>
+    <string name="request_learn_more">Saiba mais</string>
+    <string name="settings_combined_permissions">Saúde, preparo físico e bem-estar</string>
+    <string name="settings_fitness_permissions">Preparo físico e bem-estar</string>
+    <string name="settings_manage_permission">Saúde, preparo físico e bem-estar</string>
+    <string name="settings_medical_permissions">Registros de saúde</string>
+</resources>

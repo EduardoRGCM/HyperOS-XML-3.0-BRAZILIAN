@@ -318,7 +318,7 @@ Seleção"</string>
     <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de avaliação de rede</string>
     <string name="content_description_menu_button">"Menu"</string>
     <string name="copy">Copiar</string>
-    <string name="countdown_text_content_description">{seconds_left, plural, =1 {1 segundo} other {# segundos} }</string>
+    <string name="countdown_text_content_description">{seconds_left, plural, =1 {1 segundo} other {# segundos}}</string>
     <string name="creating_new_guest_dialog_message">Criando novo convidado…</string>
     <string name="creating_new_user_dialog_message">Criando novo usuário…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>

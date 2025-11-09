@@ -155,7 +155,7 @@
     <string name="additional_permissions">Outras permissões</string>
     <string name="additional_permissions_description">Permissões definidas por aplicativos.</string>
     <string name="additional_permissions_label">Outras permissões</string>
-    <string name="additional_permissions_more">{count, plural, =1 {Mais #} other {Mais #} }</string>
+    <string name="additional_permissions_more">{count, plural, =1 {Mais #} other {Mais #}}</string>
     <string name="adjust_user_sensitive_globally_summary">Mostrar apps do sistema que usam as permissões na barra de status, no painel e em outros lugares</string>
     <string name="adjust_user_sensitive_globally_title">Mostrar uso de apps do sistema</string>
     <string name="adjust_user_sensitive_per_app_header">Destacar uso para os apps a seguir</string>
@@ -345,8 +345,8 @@ As práticas de compartilhamento de dados podem variar de acordo com a versão d
     <string name="data_sharing_updates_title">Atualizações no compartilhamento de dados de local</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Defina a data e hora</string>
-    <string name="days">{count, plural, =1 {1 dia} other {# dias} }</string>
-    <string name="days_ago">{count, plural, =0 {Hoje} =1 {1 dia atrás} other {# dias atrás} }</string>
+    <string name="days">{count, plural, =1 {1 dia} other {# dias}}</string>
+    <string name="days_ago">{count, plural, =0 {Hoje} =1 {1 dia atrás} other {# dias atrás}}</string>
     <string name="default_app_no_apps">Nenhum app</string>
     <string name="default_app_none">Nenhum</string>
     <string name="default_app_others">Outros</string>
@@ -373,10 +373,10 @@ As práticas de compartilhamento de dados podem variar de acordo com a versão d
     <string name="dialog_close">Fechar</string>
     <string name="disabled_by_admin">Desativado pelo administrador</string>
     <string name="dropdown_menu">Menu suspenso</string>
-    <string name="duration_used_days">{count, plural, =1 {# dia} other {# dias} }</string>
-    <string name="duration_used_hours">{count, plural, =1 {# hora} other {# horas} }</string>
-    <string name="duration_used_minutes">{count, plural, =1 {# min} other {# min} }</string>
-    <string name="duration_used_seconds">{count, plural, =1 {#s} other {#s} }</string>
+    <string name="duration_used_days">{count, plural, =1 {# dia} other {# dias}}</string>
+    <string name="duration_used_hours">{count, plural, =1 {# hora} other {# horas}}</string>
+    <string name="duration_used_minutes">{count, plural, =1 {# min} other {# min}}</string>
+    <string name="duration_used_seconds">{count, plural, =1 {#s} other {#s}}</string>
     <string name="early_morning">"AM"</string>
     <string name="edit_photos_description">Editar fotos selecionadas para este app</string>
     <string name="enabled_by_admin">Ativado pelo administrador</string>
@@ -460,7 +460,7 @@ Golpistas podem pedir que você instale apps desconhecidos de uma nova fonte par
     <string name="history_preference_subtext_2">%1$s • %2$s</string>
     <string name="history_preference_subtext_3">%1$s • %2$s • %3$s</string>
     <string name="home_missing_work_profile_support">Não é compatível com perfil de trabalho</string>
-    <string name="hours">{count, plural, =1{# hora} other {# horas} }</string>
+    <string name="hours">{count, plural, =1{# hora} other {# horas}}</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="in_progress">Em andamento</string>
     <string name="incident_report_channel_name">Compartilhar dados de depuração</string>
@@ -478,7 +478,7 @@ Permitir que o app %4$s faça upload do relatório de bug?"</string>
     <string name="install_type_instant">App instantâneo</string>
     <string name="item_separator">", "</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="last_opened_category_title">{count, plural, =1{Usado pela última vez há mais de # mês} other {Usados pela última vez há mais de # meses} }</string>
+    <string name="last_opened_category_title">{count, plural, =1{Usado pela última vez há mais de # mês} other {Usados pela última vez há mais de # meses}}</string>
     <string name="last_opened_summary">App aberto pela última vez em %s</string>
     <string name="last_opened_summary_short">Aberto pela última vez em %s</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
@@ -575,7 +575,7 @@ Permitir que o app %4$s faça upload do relatório de bug?"</string>
     <string name="microphone_toggle_label_qs">Acesso ao microfone</string>
     <string name="microphone_usage_qs">Ver o uso recente do microfone</string>
     <string name="midnight">"AM"</string>
-    <string name="minutes">{count, plural, =1 {# minuto} other {# minutos} }</string>
+    <string name="minutes">{count, plural, =1 {# minuto} other {# minutos}}</string>
     <string name="miui_grant_dialog_button_allow_all">Permitir tudo</string>
     <string name="miui_grant_dialog_button_allow_always">Permitir o tempo todo</string>
     <string name="miui_grant_dialog_button_allow_foreground">Permitir apenas durante o uso do app</string>
@@ -965,18 +965,18 @@ Permitir que o app %4$s faça upload do relatório de bug?"</string>
     <string name="permission_usage_bar_chart_title_last_day">Uso da permissão nas últimas 24 horas</string>
     <string name="permission_usage_bar_chart_title_last_hour">Uso da permissão na última hora</string>
     <string name="permission_usage_bar_chart_title_last_minute">Uso da permissão no último minuto</string>
-    <string name="permission_usage_last_n_days">{count, plural, =1 {No último dia} other {Nos últimos # dias} }</string>
-    <string name="permission_usage_last_n_hours">{count, plural, =1 {Na última # hora} other {Nas últimas # horas} }</string>
-    <string name="permission_usage_last_n_minutes">{count, plural, =1 {No último # minuto} other {Nos últimos # minutos} }</string>
+    <string name="permission_usage_last_n_days">{count, plural, =1 {No último dia} other {Nos últimos # dias}}</string>
+    <string name="permission_usage_last_n_hours">{count, plural, =1 {Na última # hora} other {Nas últimas # horas}}</string>
+    <string name="permission_usage_last_n_minutes">{count, plural, =1 {No último # minuto} other {Nos últimos # minutos}}</string>
     <string name="permission_usage_list_title_any_time">Acesso mais recente em qualquer momento</string>
     <string name="permission_usage_list_title_last_15_minutes">Acesso mais recente nos últimos 15 minutos</string>
     <string name="permission_usage_list_title_last_7_days">Acesso mais recente nos últimos 7 dias</string>
     <string name="permission_usage_list_title_last_day">Acesso mais recente nas últimas 24 horas</string>
     <string name="permission_usage_list_title_last_hour">Acesso mais recente na última hora</string>
     <string name="permission_usage_list_title_last_minute">Acesso mais recente no último minuto</string>
-    <string name="permission_usage_preference_label">{count, plural, =1 {Permissões usadas por 1 app} other {Permissões usadas por # apps} }</string>
-    <string name="permission_usage_preference_summary_not_used_in_past_n_days">{count, plural, =1 {Não usado no último # dia} other {Não usado nos últimos # dias} }</string>
-    <string name="permission_usage_preference_summary_not_used_in_past_n_hours">{count, plural, =1 {Não usado na última # hora} other {Não usado nas últimas # horas} }</string>
+    <string name="permission_usage_preference_label">{count, plural, =1 {Permissões usadas por 1 app} other {Permissões usadas por # apps}}</string>
+    <string name="permission_usage_preference_summary_not_used_in_past_n_days">{count, plural, =1 {Não usado no último # dia} other {Não usado nos últimos # dias}}</string>
+    <string name="permission_usage_preference_summary_not_used_in_past_n_hours">{count, plural, =1 {Não usado na última # hora} other {Não usado nas últimas # horas}}</string>
     <string name="permission_usage_refresh">Atualizar</string>
     <string name="permission_usage_title">Painel de privacidade</string>
     <string name="permission_usage_view_details">Ver tudo no painel</string>
@@ -1121,7 +1121,7 @@ Alguns apps de segurança e emergência exigem acesso à sua localização em se
     <string name="search_menu_title">Pesquisar</string>
     <string name="searchview_clear_text_content_description">Limpar texto</string>
     <string name="searchview_navigation_content_description">Voltar</string>
-    <string name="seconds">{count, plural, =1 {# segundo} other {# segundos} }</string>
+    <string name="seconds">{count, plural, =1 {# segundo} other {# segundos}}</string>
     <string name="security_settings">Configurações de segurança</string>
     <string name="security_settings_button_label_qs">Mais configurações</string>
     <string name="selected">Selecionado</string>
@@ -1232,7 +1232,7 @@ Alguns apps de segurança e emergência exigem acesso à sua localização em se
     <string name="unused_apps_label_v2">Pausar atividade no app quando não usado</string>
     <string name="unused_apps_label_v3">Gerenciar app que não está sendo usado</string>
     <string name="unused_apps_notification_content">As permissões e os arquivos temporários foram removidos, e as notificações foram interrompidas. Toque para revisar.</string>
-    <string name="unused_apps_notification_title">{count, plural, =1 {# app não usado} other {# apps não usados} }</string>
+    <string name="unused_apps_notification_title">{count, plural, =1 {# app não usado} other {# apps não usados}}</string>
     <string name="unused_apps_page_summary">"Se um app fica sem uso por alguns meses:
 
 • as permissões são removidas para proteger seus dados
@@ -1257,7 +1257,7 @@ Se quiser conceder as permissões novamente, abra o app."</string>
     <string name="unused_apps_title">Apps não usados</string>
     <string name="unused_permissions_subtitle_many">%1$s, %2$s e mais %3$s</string>
     <string name="unused_permissions_subtitle_two">%1$s e %2$s</string>
-    <string name="updated_in_last_days">{count, plural, =0 {Atualizado no último dia} =1 {Atualizado no último dia} other {Atualizado em # dias.} }</string>
+    <string name="updated_in_last_days">{count, plural, =0 {Atualizado no último dia} =1 {Atualizado no último dia} other {Atualizado em # dias.}}</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="wear_app_perms_24h_access">Último acesso: %1$s</string>

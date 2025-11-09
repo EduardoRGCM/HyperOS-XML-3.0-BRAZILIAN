@@ -91,7 +91,7 @@ ID da sua conta: %s"</string>
     <string name="bind_sns_description">Fazer login com %s</string>
     <string name="bind_weixin">Conecte sua Conta do WeChat</string>
     <string name="binded">Conectada</string>
-    <string formatted="false" name="binded_description">"%s foi conectada à sua Conta Xiaomi.
+    <string formatted="false" name="binded_description">"%s foi conectado à sua Conta Xiaomi.
 Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="button_agree">Aceitar</string>
     <string name="button_close">Fechar</string>
@@ -315,7 +315,7 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="get_back_password">Redefinir senha</string>
-    <string name="get_back_pwd">Redefinindo senha</string>
+    <string name="get_back_pwd">Redefinir senha</string>
     <string name="get_identity_auth_url_failed">"Não foi possível verificar o ID"</string>
     <string name="get_phone_bind_exceed_limit">"Você pode associar até %d Contas Mi a um número de telefone. Não é possível adicionar mais contas."</string>
     <string name="get_phone_verifycode_exceed_limit">"Não é possível enviar mais códigos de verificação para este número."</string>

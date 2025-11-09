@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_checked">Marcado</string>
+    <string name="a11y_map_description">Rota de mapa do exercício disponível</string>
+    <string name="a11y_next_day">Próximo dia</string>
+    <string name="a11y_next_month">Próximo mês</string>
+    <string name="a11y_next_week">Próxima semana</string>
+    <string name="a11y_previous_day">Dia anterior</string>
+    <string name="a11y_previous_month">Mês anterior</string>
+    <string name="a11y_previous_week">Semana anterior</string>
+    <string name="a11y_unchecked">Não marcado</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_capital_off">DESATIVADO</string>
+    <string name="abc_capital_on">ATIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">espaço</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Pesquisar…</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_toolbar_collapse_description">Recolher</string>
+    <string name="access_sensor_note">Apps com esta permissão podem acessar dados de %s dos sensores do seu dispositivo.</string>
+    <string name="accessed">Acessado %1$s</string>
+    <string name="accessibility_banner_message_dismiss">Dispensar</string>
+    <string name="active_calories_burned">Ativo: %1$s</string>
+    <string name="active_calories_burned_lowercase_label">Calorias ativas queimadas</string>
+    <string name="active_calories_burned_read_content_description">Ler calorias ativas queimadas</string>
+    <string name="active_calories_burned_uppercase_label">Calorias ativas queimadas</string>
+    <string name="active_calories_burned_write_content_description">Gravar calorias ativas queimadas</string>
+    <string name="activity_category_lowercase">Atividade</string>
+    <string name="activity_category_uppercase">Atividade</string>
+    <string name="activity_intensity_lowercase_label">Intensidade da atividade</string>
+    <string name="activity_intensity_read_content_description">Ler intensidade da atividade</string>
+    <string name="activity_intensity_type_moderate">Moderada</string>
+    <string name="activity_intensity_type_vigorous">Vigorosa</string>
+    <string name="activity_intensity_uppercase_label">Intensidade da atividade</string>
+    <string name="activity_intensity_write_content_description">Gravar intensidade da atividade</string>
+    <string name="activity_type_australian_football">Futebol australiano</string>
+    <string name="additional_access_background_footer">Ative pelo menos uma permissão de leitura para ativar o acesso em segundo plano para este app</string>
+    <string name="additional_access_combined_footer">Ative pelo menos uma permissão de leitura para ativar o acesso em segundo plano ou a dados passados para este app</string>
+    <string name="additional_access_history_footer">Ative pelo menos uma permissão de leitura para ativar o acesso a dados passados para este app</string>
+    <string name="additional_access_label">Acesso adicional</string>
+    <string name="additional_access_medical_read_footer">%1$s já pode acessar dados passados de seus registros de saúde. Para mudar isso, desative as permissões de registro de saúde para este app</string>
+    <string name="additional_access_medical_read_footer_link">Gerenciar permissões de registro de saúde</string>
+    <string name="additional_access_summary">Dados passados, dados em segundo plano</string>
+    <string name="additional_permissions_combined_request_description">%1$s também quer acessar estas configurações do Health Connect</string>
+    <string name="additional_permissions_combined_request_title">Permitir acesso adicional para %1$s?</string>
+    <string name="all_app_data_selected_deletion_confirmation_dialog">Excluir permanentemente todos os dados de %s?</string>
+    <string name="all_app_entries_selected_day_deletion_confirmation_dialog">Excluir permanentemente todas as entradas de %1$s para %2$s?</string>
+    <string name="all_app_entries_selected_month_deletion_confirmation_dialog">Excluir permanentemente todas as entradas de %1$s para %2$s?</string>
+    <string name="all_app_entries_selected_week_deletion_confirmation_dialog">Excluir permanentemente todas as entradas de %1$s para a semana de %2$s?</string>
+    <string name="all_data_no_data_footer">Dados de apps com acesso ao Health Connect serão exibidos aqui</string>
+    <string name="all_data_selected_deletion_confirmation_dialog">Excluir permanentemente todos os dados?</string>
+    <string name="all_entries_selected_day_deletion_confirmation_dialog">Excluir permanentemente todas as entradas para %1$s?</string>
+    <string name="all_entries_selected_month_deletion_confirmation_dialog">Excluir permanentemente todas as entradas para %1$s?</string>
+    <string name="all_entries_selected_week_deletion_confirmation_dialog">Excluir permanentemente todas as entradas para a semana de %1$s?</string>
+    <string name="all_medical_data_content_description">Gravar todos os registros de saúde</string>
+    <string name="all_medical_data_lowercase_label">todos os registros de saúde</string>
+    <string name="all_medical_data_uppercase_label">Todos os registros de saúde</string>
+    <string name="allergies_intolerances_content_description">Ler alergias</string>
+    <string name="allergies_intolerances_lowercase_label">Alergias</string>
+    <string name="allergies_intolerances_uppercase_label">Alergias</string>
+    <string name="allow_all_the_time_prompt">Escolha quando %1$s pode acessar seus dados de preparo físico e bem-estar</string>
+    <string name="allowed">Permitido</string>
+    <string name="allowed_apps_count">%1$d de %2$d apps permitidos</string>
+    <string name="allowed_to_access">Permitido acessar</string>
+    <string name="allowed_to_read">Permitido ler</string>
+    <string name="amrap_performance_goal">Máximo de repetições possíveis</string>
+    <string name="app_access_title">Acesso do app</string>
+    <string name="app_data_no_data_footer">Dados de %1$s serão exibidos aqui</string>
+    <string name="app_data_title">Dados do app</string>
+    <string name="app_label">"Health Connect"</string>
+    <string name="app_perms_content_provider_24h">Acessado nas últimas 24 horas</string>
+    <string name="app_sources_header">Fontes do app</string>
+    <string name="app_update_needed_banner_button">Verificar se há atualizações</string>
+    <string name="app_update_needed_banner_description_multiple">Alguns apps precisam ser atualizados para continuar sincronizando com o Health Connect. As atualizações podem não estar disponíveis para todos os apps.</string>
+    <string name="app_update_needed_banner_description_single">%1$s precisa ser atualizado para continuar sincronizando com o Health Connect. As atualizações podem não estar disponíveis para todos os apps.</string>
+    <string name="app_update_needed_banner_learn_more_button">Saiba mais</string>
+    <string name="app_update_needed_banner_title">Atualização do app necessária</string>
+    <string name="arm_curl">Rosca direta</string>
+    <string name="auto_delete_confirmation_toast">{ count, plural, =1{Exclusão automática ativada. Dados com mais de # mês serão excluídos} other{Exclusão automática ativada. Dados com mais de # meses serão excluídos}}</string>
+    <string name="auto_delete_header">Controle por quanto tempo seus dados são armazenados no Health Connect agendando sua exclusão após um tempo definido</string>
+    <string name="auto_delete_learn_more">Saiba mais sobre a exclusão automática</string>
+    <string name="auto_delete_off_toast">Exclusão automática desativada</string>
+    <string name="auto_delete_rationale">Ao alterar estas configurações, o Health Connect exclui dados existentes para refletir suas novas preferências</string>
+    <string name="auto_delete_section">Excluir dados automaticamente</string>
+    <string name="auto_delete_title">Exclusão automática</string>
+    <string name="automatic_export_off">Desativado</string>
+    <string name="automatic_export_on">Ativado</string>
+    <string name="automatic_export_switch_text">Usar exportação agendada</string>
+    <string name="back_button">Voltar</string>
+    <string name="back_extension">Extensão das costas</string>
+    <string name="background_read_access_description">"Permitir que este app acesse dados do Health Connect quando você não estiver usando o app"</string>
+    <string name="background_read_access_title">Acessar dados em segundo plano</string>
+    <string name="background_read_combined_request_description">"Permitir que este app acesse dados do Health Connect quando você não estiver usando o app"</string>
+    <string name="background_read_combined_request_title">Acessar dados em segundo plano</string>
+    <string name="background_read_description">"Permitir que este app acesse dados do Health Connect quando você não estiver usando o app"</string>
+    <string name="background_read_medical_access_description_both_types_granted">"Permitir que este app acesse dados de preparo físico e bem-estar e registros de saúde quando você não estiver usando o app"</string>
+    <string name="background_read_medical_access_description_fitness_granted">"Permitir que este app acesse estes dados quando você não estiver usando o app"</string>
+    <string name="background_read_medical_access_description_medical_granted">"Permitir que este app acesse estes dados quando você não estiver usando o app"</string>
+    <string name="background_read_medical_access_title_both_types_granted">Acessar todos os dados em segundo plano</string>
+    <string name="background_read_medical_access_title_fitness_granted">Acessar dados de preparo físico e bem-estar em segundo plano</string>
+    <string name="background_read_medical_access_title_medical_granted">Acessar registros de saúde em segundo plano</string>
+    <string name="background_read_medical_combined_request_description_both_types_granted">"Permitir que este app acesse dados de preparo físico e bem-estar e registros de saúde quando você não estiver usando o app"</string>
+    <string name="background_read_medical_combined_request_description_fitness_granted">"Permitir que este app acesse estes dados quando você não estiver usando o app"</string>
+    <string name="background_read_medical_combined_request_description_medical_granted">"Permitir que este app acesse estes dados quando você não estiver usando o app"</string>
+    <string name="background_read_medical_combined_request_title_both_types_granted">Acessar todos os dados em segundo plano</string>
+    <string name="background_read_medical_combined_request_title_fitness_granted">Acessar dados de preparo físico e bem-estar em segundo plano</string>
+    <string name="background_read_medical_combined_request_title_medical_granted">Acessar registros de saúde em segundo plano</string>
+    <string name="background_read_medical_single_request_description_both_types_granted">"Se você permitir, este app pode acessar dados de preparo físico e bem-estar e registros de saúde quando você não estiver usando o app."</string>
+    <string name="background_read_medical_single_request_description_fitness_granted">"Se você permitir, este app pode acessar dados de preparo físico e bem-estar quando você não estiver usando o app."</string>
+    <string name="background_read_medical_single_request_description_medical_granted">"Se você permitir, este app pode acessar registros de saúde quando você não estiver usando o app."</string>
+    <string name="background_read_single_request_description">"Se você permitir, este app pode acessar dados do Health Connect quando você não estiver usando o app."</string>
+    <string name="background_read_single_request_title">Permitir que %1$s acesse dados em segundo plano?</string>
+    <string name="backup_and_restore_footer_body_text">A Exportação permite que você salve seus dados para poder transferi-los para um novo telefone</string>
+    <string name="backup_and_restore_footer_link_text">Sobre backup e restauração</string>
+    <string name="backup_and_restore_settings_screen_title">Backup e restauração</string>
+    <string name="backup_and_restore_settings_summary">Exportar e importar dados</string>
+    <string name="badminton">"Badminton"</string>
+    <string name="ball_slam">Lançamento de bola</string>
+    <string name="banner_group_fewer_items">Menos itens</string>
+    <string name="banner_group_more_items">Mais itens</string>
+    <string name="barbell_shoulder_press">Desenvolvimento com barra</string>
+    <string name="basal_body_temperature_lowercase_label">temperatura corporal basal</string>
+    <string name="basal_body_temperature_read_content_description">Ler temperatura corporal basal</string>
+    <string name="basal_body_temperature_uppercase_label">Temperatura corporal basal</string>
+    <string name="basal_body_temperature_write_content_description">Gravar temperatura corporal basal</string>
+    <string name="basal_metabolic_rate_lowercase_label">taxa metabólica basal</string>
+    <string name="basal_metabolic_rate_read_content_description">Ler taxa metabólica basal</string>
+    <string name="basal_metabolic_rate_uppercase_label">Taxa metabólica basal</string>
+    <string name="basal_metabolic_rate_write_content_description">Gravar taxa metabólica basal</string>
+    <string name="baseball">Beisebol</string>
+    <string name="basketball">Basquete</string>
+    <string name="bench_press">Supino</string>
+    <string name="bench_sit_up">Abdominal no banco</string>
+    <string name="biking">Ciclismo</string>
+    <string name="biking_stationary">Bicicleta ergométrica</string>
+    <string name="biotin">Biotina</string>
+    <string name="blood_glucose_after_meal">Após a refeição</string>
+    <string name="blood_glucose_before_meal">Antes da refeição</string>
+    <string name="blood_glucose_fasting">Jejum</string>
+    <string name="blood_glucose_general">Geral</string>
+    <string name="blood_glucose_lowercase_label">Glicemia</string>
+    <string name="blood_glucose_read_content_description">Ler glicemia</string>
+    <string name="blood_glucose_uppercase_label">Glicemia</string>
+    <string name="blood_glucose_write_content_description">Gravar glicemia</string>
+    <string name="blood_pressure">"%1$s/%2$s mmHg"</string>
+    <string name="blood_pressure_left_arm">Braço esquerdo</string>
+    <string name="blood_pressure_left_wrist">Pulso esquerdo</string>
+    <string name="blood_pressure_long">%1$s/%2$s milímetros de mercúrio</string>
+    <string name="blood_pressure_lowercase_label">Pressão arterial</string>
+    <string name="blood_pressure_read_content_description">Ler pressão arterial</string>
+    <string name="blood_pressure_right_arm">Braço direito</string>
+    <string name="blood_pressure_right_wrist">Pulso direito</string>
+    <string name="blood_pressure_uppercase_label">Pressão arterial</string>
+    <string name="blood_pressure_write_content_description">Gravar pressão arterial</string>
+    <string name="body_fat_lowercase_label">Gordura corporal</string>
+    <string name="body_fat_read_content_description">Ler gordura corporal</string>
+    <string name="body_fat_uppercase_label">Gordura corporal</string>
+    <string name="body_fat_write_content_description">Gravar gordura corporal</string>
+    <string name="body_measurements_category_lowercase">Medidas corporais</string>
+    <string name="body_measurements_category_uppercase">Medidas corporais</string>
+    <string name="body_position_lying_down">Deitado</string>
+    <string name="body_position_reclining">Reclinado</string>
+    <string name="body_position_sitting_down">Sentado</string>
+    <string name="body_position_standing_up">Em pé</string>
+    <string name="body_temperature_lowercase_label">Temperatura corporal</string>
+    <string name="body_temperature_read_content_description">Ler temperatura corporal</string>
+    <string name="body_temperature_uppercase_label">Temperatura corporal</string>
+    <string name="body_temperature_write_content_description">Gravar temperatura corporal</string>
+    <string name="body_water_mass_lowercase_label">massa de água corporal</string>
+    <string name="body_water_mass_read_content_description">Ler massa de água corporal</string>
+    <string name="body_water_mass_uppercase_label">Massa de água corporal</string>
+    <string name="body_water_mass_write_content_description">Gravar massa de água corporal</string>
+    <string name="bone_mass_lowercase_label">Massa óssea</string>
+    <string name="bone_mass_read_content_description">Ler massa óssea</string>
+    <string name="bone_mass_uppercase_label">Massa óssea</string>
+    <string name="bone_mass_write_content_description">Gravar massa óssea</string>
+    <string name="boot_camp">Treinamento intensivo</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="bottomsheet_drag_handle_content_description">Alça de arrastar</string>
+    <string name="boxing">"Boxe"</string>
+    <string name="browse_data_subtitle">Ver dados e quais apps podem acessá-los</string>
+    <string name="browse_health_records_intro">Isso inclui todos os registros de saúde sincronizados e adicionados ao Health Connect. Isso pode não ser seu registro médico completo e não inclui uma descrição médica de seus registros de saúde.</string>
+    <string name="browse_medical_data">Navegar nos registros de saúde</string>
+    <string name="browse_medical_data_subtitle">Visualizar seus registros de saúde e quais apps podem acessá-los</string>
+    <string name="burpee">"Burpee"</string>
+    <string name="caffeine">Cafeína</string>
+    <string name="calcium">Cálcio</string>
+    <string name="calisthenics">Calistenia</string>
+    <string name="calories">"{count, plural, =1 {1 Cal} other {# Cal}}"</string>
+    <string name="calories_long">{count, plural, =1 {1 caloria} other {# calorias}}</string>
+    <string name="can_read">Pode ler %s</string>
+    <string name="can_write">Pode gravar %s</string>
+    <string name="cant_see_all_your_apps_description">"Se você não consegue ver um app instalado, ele pode não ser compatível com o Health Connect ainda"</string>
+    <string name="cervical_mucus_lowercase_label">muco cervical</string>
+    <string name="cervical_mucus_read_content_description">Ler muco cervical</string>
+    <string name="cervical_mucus_uppercase_label">Muco cervical</string>
+    <string name="cervical_mucus_write_content_description">Gravar muco cervical</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de %2$d caracteres excedido em %1$d</string>
+    <string name="check_for_updates">Verificar se há atualizações</string>
+    <string name="check_for_updates_description">Certificar-se de que os apps instalados estão atualizados</string>
+    <string name="chloride">Cloreto</string>
+    <string name="cholesterol">Colesterol</string>
+    <string name="choose_frequency">Configurar exportação agendada</string>
+    <string name="choose_frequency_category">Mudar frequência</string>
+    <string name="choose_frequency_description">Escolha a frequência com que deseja exportar seus dados</string>
+    <string name="chromium">Cromo</string>
+    <string name="clear_text_end_icon_content_description">Limpar texto</string>
+    <string name="conditions_content_description">Ler condições</string>
+    <string name="conditions_lowercase_label">Condições</string>
+    <string name="conditions_uppercase_label">Condições</string>
+    <string name="confirming_message_x_months">"{count, plural, =1{Isso também exclui dados com mais de # mês do Health Connect.
+
+Se você quiser excluir completamente os dados dos seus apps conectados, verifique cada app onde seus dados podem estar salvos.} other{Isso também exclui dados com mais de # meses do Health Connect.
+
+Se você quiser excluir completamente os dados dos seus apps conectados, verifique cada app onde seus dados podem estar salvos.}}"</string>
+    <string name="confirming_question_app_remove_all_permissions">Também remover todas as permissões de %s do Health Connect</string>
+    <string name="confirming_question_delete_button">Excluir</string>
+    <string name="confirming_question_x_months">{count, plural, =1 {Excluir dados automaticamente após # mês?} other {Excluir dados automaticamente após # meses?}}</string>
+    <string name="connected_apps_button_no_permissions_subtitle">Nenhum</string>
+    <string name="connected_apps_button_subtitle">%1$s de %2$s apps têm acesso</string>
+    <string name="connected_apps_connected_subtitle">{count, plural, =1 {1 app tem acesso} other {# apps têm acesso}}</string>
+    <string name="connected_apps_empty_list_section_title">Nenhum app compatível instalado</string>
+    <string name="connected_apps_section_title">Acesso permitido</string>
+    <string name="connected_apps_text">Controle quais apps podem acessar os dados armazenados no Health Connect. Toque em um app para rever os dados que ele pode ler ou gravar.</string>
+    <string name="connected_apps_title">Permissões de app</string>
+    <string name="copper">Cobre</string>
+    <string name="copy">Copiar</string>
+    <string name="cricket">Críquete</string>
+    <string name="crunch">Abdominal</string>
+    <string name="current_access">%1$s tem acesso a %2$s.</string>
+    <string name="current_allow_mode_all_the_time">Atualmente, %1$s pode acessar dados de preparo físico e bem-estar o tempo todo</string>
+    <string name="current_allow_mode_while_in_use">Atualmente, %1$s pode acessar dados de preparo físico e bem-estar durante o uso</string>
+    <string name="cycle_tracking_category_lowercase">rastreamento de ciclo</string>
+    <string name="cycle_tracking_category_uppercase">Rastreamento de ciclo</string>
+    <string name="cycling_cadence_series_range_long">de %1$s a %2$s</string>
+    <string name="cycling_rpm">"{count, plural, =1 {1 rpm} other {# rpm}}"</string>
+    <string name="cycling_rpm_long">{count, plural, =1 {1 revolução por minuto} other {# revoluções por minuto}}</string>
+    <string name="dancing">Dançar</string>
+    <string name="data_restore_in_progress_content">O Health Connect está restaurando dados e permissões. Isso pode levar algum tempo para ser concluído.</string>
+    <string name="data_restore_in_progress_dialog_button">Entendido</string>
+    <string name="data_restore_in_progress_dialog_title">Restauração do Health Connect em andamento</string>
+    <string name="data_restore_in_progress_screen_title">Restauração em andamento</string>
+    <string name="data_restore_pending_banner_button">Atualizar agora</string>
+    <string name="data_restore_pending_banner_content">Antes de continuar a restauração dos seus dados, atualize o sistema do seu telefone.</string>
+    <string name="data_restore_pending_banner_title">Atualização necessária</string>
+    <string name="data_sources_add_app">Adicionar um app</string>
+    <string name="data_sources_and_priority_title">Fontes de dados e prioridade</string>
+    <string name="data_sources_empty_state">Nenhuma fonte de app</string>
+    <string name="data_sources_empty_state_footer">Depois que você der permissão a apps para gravar dados de %1$s, as fontes serão exibidas aqui.</string>
+    <string name="data_sources_footer">Adicione fontes de apps à lista para ver como os totais de dados podem mudar. Remover um app desta lista fará com que ele pare de contribuir para os totais, mas ele ainda terá permissões de gravação.</string>
+    <string name="data_sources_help_link">Como funcionam as fontes e a priorização</string>
+    <string name="data_title">Dados e acesso</string>
+    <string name="data_totals_header">Totais de dados</string>
+    <string name="date_picker_day">Dia</string>
+    <string name="date_picker_month">Mês</string>
+    <string name="date_picker_week">Semana</string>
+    <string name="deadlift">Levantamento de terra</string>
+    <string name="default_app_summary">Padrão do dispositivo</string>
+    <string name="default_error">Algo deu errado. Tente novamente.</string>
+    <string name="delete_button_content_description">Excluir dados</string>
+    <string name="delete_data_notification_title">Excluindo dados do Health Connect</string>
+    <string name="delete_dialog_failure_close_button">Fechar</string>
+    <string name="delete_dialog_failure_message">"Algo deu errado e o Health Connect não pôde excluir seus dados"</string>
+    <string name="delete_dialog_failure_title">"Não foi possível excluir os dados"</string>
+    <string name="delete_dialog_failure_try_again_button">Tentar novamente</string>
+    <string name="delete_dialog_see_connected_apps_button">Ver apps conectados</string>
+    <string name="delete_dialog_success_got_it_button">Concluído</string>
+    <string name="delete_dialog_success_message">Se você quiser excluir completamente os dados dos seus apps conectados, verifique cada app onde seus dados podem estar salvos.</string>
+    <string name="delete_dialog_success_title">Dados excluídos do Health Connect</string>
+    <string name="delete_progress_indicator">Excluindo seus dados</string>
+    <string name="deletion_confirmation_dialog_body">Os apps conectados não poderão mais ler estes dados do Health Connect</string>
+    <string name="dietary_fiber">Fibra dietética</string>
+    <string name="disconnect_all_app_permissions_dialog_checkbox">Também excluir todos os dados do Health Connect</string>
+    <string name="disconnect_all_apps">Remover acesso para todos os apps</string>
+    <string name="disconnect_all_fitness_or_medical_and_additional_permissions_dialog_message">"%1$s não poderá mais ler nem gravar estes dados do Health Connect, incluindo dados em segundo plano e passados.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_fitness_or_medical_and_background_permissions_dialog_message">"%1$s não poderá mais ler nem gravar estes dados do Health Connect, incluindo dados em segundo plano.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_fitness_or_medical_and_historical_permissions_dialog_message">"%1$s não poderá mais ler nem gravar estes dados do Health Connect, incluindo dados passados.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_fitness_or_medical_no_additional_permissions_dialog_message">"%1$s não poderá mais ler nem gravar estes dados do Health Connect.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_fitness_permissions_dialog_checkbox">Também excluir dados de preparo físico de %1$s do Health Connect</string>
+    <string name="disconnect_all_fitness_permissions_title">Remover todas as permissões de preparo físico e bem-estar?</string>
+    <string name="disconnect_all_health_and_additional_permissions_dialog_message">"%1$s não poderá mais ler nem gravar dados do Health Connect, incluindo dados em segundo plano e passados.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_health_and_background_permissions_dialog_message">"%1$s não poderá mais ler nem gravar dados do Health Connect, incluindo dados em segundo plano.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_health_and_historical_permissions_dialog_message">"%1$s não poderá mais ler nem gravar dados do Health Connect, incluindo dados passados.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_health_no_additional_permissions_dialog_message">"%1$s não poderá mais ler nem gravar dados do Health Connect.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="disconnect_all_health_permissions_dialog_checkbox">Também excluir dados de preparo físico e registros de saúde de %1$s do Health Connect</string>
+    <string name="disconnect_all_health_permissions_success_toast">Permissões removidas para este app</string>
+    <string name="disconnect_all_health_permissions_title">Remover todas as permissões?</string>
+    <string name="disconnect_all_medical_permissions_dialog_checkbox">Também excluir registros de saúde de %1$s do Health Connect</string>
+    <string name="disconnect_all_medical_permissions_title">Remover todas as permissões de registro de saúde?</string>
+    <string name="distance_km">"{dist, plural, =1 {1 km} other {# km}}"</string>
+    <string name="distance_km_long">{dist, plural, =1 {1 quilômetro} other {# quilômetros}}</string>
+    <string name="distance_lowercase_label">Distância</string>
+    <string name="distance_miles">{dist, plural, =1 {1 milha} other {# milhas}}</string>
+    <string name="distance_miles_long">{dist, plural, =1 {1 milha} other {# milhas}}</string>
+    <string name="distance_read_content_description">Ler distância</string>
+    <string name="distance_unit_kilometers_label">Quilômetros</string>
+    <string name="distance_unit_miles_label">Milhas</string>
+    <string name="distance_unit_title">Distância</string>
+    <string name="distance_uppercase_label">Distância</string>
+    <string name="distance_write_content_description">Gravar distância</string>
+    <string name="double_arm_triceps_extension">Extensão de tríceps com dois braços</string>
+    <string name="dumbbell_curl_left_arm">Rosca com halteres no braço esquerdo</string>
+    <string name="dumbbell_curl_right_arm">Rosca com halteres no braço direito</string>
+    <string name="dumbbell_front_raise">Elevação frontal com halteres</string>
+    <string name="dumbbell_lateral_raise">Elevação lateral com halteres</string>
+    <string name="dumbbell_row">Remada com halteres</string>
+    <string name="dumbbell_triceps_extension_left_arm">Extensão de tríceps com halteres no braço esquerdo</string>
+    <string name="dumbbell_triceps_extension_right_arm">Extensão de tríceps com halteres no braço direito</string>
+    <string name="dumbbell_triceps_extension_two_arm">Extensão de tríceps com halteres em dois braços</string>
+    <string name="elevation_gained_lowercase_label">Ganho de elevação</string>
+    <string name="elevation_gained_read_content_description">Ler ganho de elevação</string>
+    <string name="elevation_gained_uppercase_label">Ganho de elevação</string>
+    <string name="elevation_gained_write_content_description">Gravar ganho de elevação</string>
+    <string name="elevation_meters">"{count, plural, =1 {1 m} other {# m}}"</string>
+    <string name="elevation_meters_long">{count, plural, =1 {1 metro} other {# metros}}</string>
+    <string name="elliptical">Elíptico</string>
+    <string name="energy_consumed_from_fat">Energia da gordura</string>
+    <string name="energy_consumed_total">Energia</string>
+    <string name="energy_unit_calorie_label">Calorias</string>
+    <string name="energy_unit_kilojoule_label">Quilojoules</string>
+    <string name="energy_unit_title">Energia</string>
+    <string name="enter_deletion_button_content_description">Entrar na exclusão</string>
+    <string name="entry_details_title">Detalhes da entrada</string>
+    <string name="error_a11y_label">Erro: inválido</string>
+    <string name="error_icon_content_description">Erro</string>
+    <string name="exercise_class">Aula de exercício</string>
+    <string name="exercise_laps_header">Voltas</string>
+    <string name="exercise_lowercase_label">Exercício</string>
+    <string name="exercise_permission_dialog_disable_summary">%1$s requer acesso a exercícios para que as rotas de exercício sejam ativadas</string>
+    <string name="exercise_permission_dialog_disable_title">Desativar ambos os tipos de dados?</string>
+    <string name="exercise_permission_dialog_enable_title">Ativar ambos os tipos de dados?</string>
+    <string name="exercise_permission_dialog_enabled_summary">%1$s precisa de acesso de leitura a exercícios para que as rotas de exercício sejam ativadas</string>
+    <string name="exercise_permission_dialog_negative_button">Não</string>
+    <string name="exercise_permission_dialog_positive_button">Sim</string>
+    <string name="exercise_read_content_description">Ler exercício</string>
+    <string name="exercise_route_lowercase_label">Rota de exercício</string>
+    <string name="exercise_route_read_content_description">Ler rota de exercício</string>
+    <string name="exercise_route_uppercase_label">Rota de exercício</string>
+    <string name="exercise_route_write_content_description">Gravar rota de exercício</string>
+    <string name="exercise_routes_read_content_description">Ler rotas de exercício</string>
+    <string name="exercise_segments_header">Segmentos de exercício</string>
+    <string name="exercise_uppercase_label">Exercício</string>
+    <string name="exercise_write_content_description">Gravar exercício</string>
+    <string name="exit_deletion_button_content_description">Sair da exclusão</string>
+    <string name="expand_button_title">Avançado</string>
+    <string name="export_back_button">Voltar</string>
+    <string name="export_cancel_button">Cancelar</string>
+    <string name="export_default_file_name">Health Connect</string>
+    <string name="export_default_file_name_with_sequence">Health Connect (%1$s)</string>
+    <string name="export_destination_title">Escolha onde salvar a exportação agendada</string>
+    <string name="export_file_access_error_banner_button">Configurar</string>
+    <string name="export_file_access_error_banner_summary">Ocorreu um problema com a exportação para %1$s. Configure uma nova exportação agendada e tente novamente.</string>
+    <string name="export_file_access_error_banner_title">"Não foi possível exportar os dados"</string>
+    <string name="export_import_choose_account_cancel_button">Cancelar</string>
+    <string name="export_import_choose_account_done_button">Concluído</string>
+    <string name="export_import_choose_account_title">Escolha uma conta</string>
+    <string name="export_import_go_to_play_store_text">Ir para a Play Store</string>
+    <string name="export_import_install_apps_text">Para mais opções, instale apps de armazenamento em nuvem para vê-los aqui</string>
+    <string name="export_import_no_apps_text">Nenhum app disponível. Instale apps de armazenamento em nuvem para vê-los aqui</string>
+    <string name="export_import_tap_to_choose_account">Toque para selecionar uma conta</string>
+    <string name="export_invalid_storage">Escolha um app de armazenamento em nuvem para exportar seus dados</string>
+    <string name="export_next_button">Próximo</string>
+    <string name="export_notification_error_generic_error_body_text">Ocorreu um problema com a exportação para %1$s. Configure uma nova exportação agendada e tente novamente.</string>
+    <string name="export_notification_error_generic_error_title">"O Health Connect não pôde exportar os dados"</string>
+    <string name="export_notification_error_more_space_needed_body_text">O Health Connect precisa de %1$s de espaço de armazenamento no seu telefone para continuar a exportação agendada.</string>
+    <string name="export_notification_error_more_space_needed_title">Mais espaço necessário</string>
+    <string name="export_notification_free_up_space_intent_button">Liberar espaço</string>
+    <string name="export_notification_set_up_intent_button">Configurar</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
+    <string name="feet_inches_format">%1$s%2$s</string>
+    <string name="fencing">Esgrima</string>
+    <string name="fitness_and_wellness">Preparo físico e bem-estar</string>
+    <string name="fitness_permissions">Preparo físico e bem-estar</string>
+    <string name="fitness_permissions_summary">Exercício, sono, nutrição e outros</string>
+    <string name="floors_climbed">{count, plural, =1 {1 andar} other {# andares}}</string>
+    <string name="floors_climbed_lowercase_label">andares subidos</string>
+    <string name="floors_climbed_read_content_description">Ler andares subidos</string>
+    <string name="floors_climbed_uppercase_label">Andares subidos</string>
+    <string name="floors_climbed_write_content_description">Gravar andares subidos</string>
+    <string name="flow_heavy">Fluxo intenso</string>
+    <string name="flow_light">Fluxo leve</string>
+    <string name="flow_medium">Fluxo médio</string>
+    <string name="flow_unknown">Fluxo desconhecido</string>
+    <string name="folate">Folato</string>
+    <string name="folic_acid">Ácido fólico</string>
+    <string name="football_american">Futebol americano</string>
+    <string name="forward_twist">Torção para frente</string>
+    <string name="frequency_daily">Diário</string>
+    <string name="frequency_monthly">Mensal</string>
+    <string name="frequency_weekly">Semanal</string>
+    <string name="frisbee_disc">Frisbee</string>
+    <string name="front_raise">Elevação frontal</string>
+    <string name="give_permission_prompt">Estas permissões dão a %1$s acesso a dados dos sensores do seu dispositivo.</string>
+    <string name="golf">Golfe</string>
+    <string name="gram_long_format">{count, plural, =1 {1 grama} other {# gramas}}</string>
+    <string name="gram_short_format">{count, plural, =1 {1 g} other {# g}}</string>
+    <string name="guided_breathing">Respiração guiada</string>
+    <string name="gymnastics">Ginástica</string>
+    <string name="handball">Handebol</string>
+    <string name="health_connect_summary">Gerenciar acesso de apps a dados de saúde</string>
+    <string name="health_permission_header_description">Apps com esta permissão podem ler e gravar seus dados de saúde e preparo físico.</string>
+    <string name="heart_rate_long_value">{count, plural, =1 {1 batimento por minuto} other {# batimentos por minuto}}</string>
+    <string name="heart_rate_lowercase_label">Frequência cardíaca</string>
+    <string name="heart_rate_read_content_description">Ler frequência cardíaca</string>
+    <string name="heart_rate_series_range_long">de %1$s a %2$s</string>
+    <string name="heart_rate_uppercase_label">Frequência cardíaca</string>
+    <string name="heart_rate_value">"{count, plural, =1 {1 bpm} other {# bpm}}"</string>
+    <string name="heart_rate_variability_lowercase_label">variabilidade da frequência cardíaca</string>
+    <string name="heart_rate_variability_read_content_description">Ler variabilidade da frequência cardíaca</string>
+    <string name="heart_rate_variability_uppercase_label">Variabilidade da frequência cardíaca</string>
+    <string name="heart_rate_variability_write_content_description">Gravar variabilidade da frequência cardíaca</string>
+    <string name="heart_rate_write_content_description">Gravar frequência cardíaca</string>
+    <string name="height_cm">"{height, plural, =1 {1 cm} other {# cm}}"</string>
+    <string name="height_cm_long">{height, plural, =1 {1 centímetro} other {# centímetros}}</string>
+    <string name="height_ft_compacted">"{height, plural, =1 {1′} other {#′}}"</string>
+    <string name="height_ft_long">{height, plural, =1 {1 pé} other {# pés}}</string>
+    <string name="height_in_compacted">"{height, plural, =1 {1″} other {#″}}"</string>
+    <string name="height_in_long">{height, plural, =1 {1 polegada} other {# polegadas}}</string>
+    <string name="height_lowercase_label">Altura</string>
+    <string name="height_read_content_description">Ler altura</string>
+    <string name="height_unit_centimeters_label">Centímetros</string>
+    <string name="height_unit_feet_label">Pés e polegadas</string>
+    <string name="height_unit_title">Altura</string>
+    <string name="height_uppercase_label">Altura</string>
+    <string name="height_write_content_description">Gravar altura</string>
+    <string name="help">Ajuda</string>
+    <string name="help_and_feedback">Ajuda e feedback</string>
+    <string name="high_intensity_interval_training">Treino intervalado de alta intensidade</string>
+    <string name="hiking">Trilha</string>
+    <string name="hip_thrust">Elevação pélvica</string>
+    <string name="historic_access_description">Permitir que este app acesse todos os dados passados do Health Connect</string>
+    <string name="history_read_access_description">Permitir que este app acesse dados do Health Connect adicionados antes de %1$s</string>
+    <string name="history_read_access_description_fallback">Permitir que este app acesse todos os dados passados do Health Connect</string>
+    <string name="history_read_access_title">Acessar dados passados</string>
+    <string name="history_read_combined_request_description">Permitir que este app acesse dados do Health Connect adicionados antes de %1$s</string>
+    <string name="history_read_combined_request_description_fallback">Permitir que este app acesse todos os dados passados do Health Connect</string>
+    <string name="history_read_combined_request_title">Acessar dados passados</string>
+    <string name="history_read_medical_access_description">Permitir que este app acesse dados adicionados antes de %1$s</string>
+    <string name="history_read_medical_access_description_fallback">Permitir que este app acesse todos os dados passados</string>
+    <string name="history_read_medical_access_read_warning">Nenhum dado de preparo físico está sendo lido atualmente porque %1$s não tem permissões de leitura ativadas</string>
+    <string name="history_read_medical_access_title">Acessar dados passados de preparo físico e bem-estar</string>
+    <string name="history_read_medical_combined_request_description">Permitir que este app acesse dados adicionados antes de %1$s</string>
+    <string name="history_read_medical_combined_request_description_fallback">Permitir que este app acesse todos os dados passados</string>
+    <string name="history_read_medical_combined_request_footer">%1$s já pode acessar dados passados de seus registros de saúde</string>
+    <string name="history_read_medical_combined_request_footer_link">Leia mais sobre permissões</string>
+    <string name="history_read_medical_combined_request_title">Acessar dados passados de preparo físico e bem-estar</string>
+    <string name="history_read_medical_single_request_description">Se você permitir, este app pode acessar dados de preparo físico e bem-estar adicionados antes de %1$s.</string>
+    <string name="history_read_medical_single_request_description_fallback">Se você permitir, este app pode acessar todos os dados passados de preparo físico e bem-estar.</string>
+    <string name="history_read_single_request_description">Se você permitir, este app pode acessar dados do Health Connect adicionados antes de %1$s.</string>
+    <string name="history_read_single_request_description_fallback">Se você permitir, este app pode acessar todos os dados passados do Health Connect.</string>
+    <string name="history_read_single_request_title">Permitir que %1$s acesse dados passados?</string>
+    <string name="home_subtitle">Gerencie os dados de saúde e preparo físico no seu dispositivo e controle quais apps podem acessá-los</string>
+    <string name="hour_duration">%1$sh</string>
+    <string name="hour_duration_accessibility">{count, plural, =1 {1 hora} other {# horas}}</string>
+    <string name="hour_minute_duration_short">%1$sh e %2$sm</string>
+    <string name="hula_hoop">Bambolê</string>
+    <string name="hydration_lowercase_label">Hidratação</string>
+    <string name="hydration_read_content_description">Ler hidratação</string>
+    <string name="hydration_uppercase_label">Hidratação</string>
+    <string name="hydration_write_content_description">Gravar hidratação</string>
+    <string name="ice_hockey">Hóquei no gelo</string>
+    <string name="ice_skating">Patinação no gelo</string>
+    <string name="import_complete_toast_text">Concluída a restauração de dados</string>
+    <string name="import_confirmation_dialog_cancel_button">Cancelar</string>
+    <string name="import_confirmation_dialog_import_button">Importar</string>
+    <string name="import_confirmation_dialog_text">%1$s será importado para o Health Connect</string>
+    <string name="import_confirmation_dialog_title">Importar este arquivo?</string>
+    <string name="import_data">Importar dados</string>
+    <string name="import_data_description">Restaurar dados de um arquivo exportado anteriormente</string>
+    <string name="import_error_banner_title">"Não foi possível restaurar os dados"</string>
+    <string name="import_in_progress_toast_text">Restauração em andamento</string>
+    <string name="import_invalid_storage">Escolha um app de armazenamento em nuvem para importar seus dados</string>
+    <string name="import_notification_choose_file_intent_button">Escolher arquivo</string>
+    <string name="import_notification_error_generic_error_body_text">Ocorreu um problema ao restaurar os dados de sua exportação.</string>
+    <string name="import_notification_error_generic_error_title">"O Health Connect não pôde restaurar os dados"</string>
+    <string name="import_notification_error_invalid_file_body_text">"O arquivo que você selecionou não é compatível para restauração. Certifique-se de selecionar o arquivo exportado correto."</string>
+    <string name="import_notification_error_more_space_needed_body_text">O Health Connect precisa de %1$s de espaço de armazenamento no seu telefone para continuar a restauração dos seus dados.</string>
+    <string name="import_notification_error_more_space_needed_title">Mais espaço necessário</string>
+    <string name="import_notification_error_version_mismatch_body_text">Atualize seu sistema para que o Health Connect possa restaurar seus dados e, em seguida, tente novamente.</string>
+    <string name="import_notification_free_up_space_intent_button">Liberar espaço</string>
+    <string name="import_notification_import_complete_title">Restauração do Health Connect concluída</string>
+    <string name="import_notification_import_in_progress_title">Restauração do Health Connect em andamento</string>
+    <string name="import_notification_open_intent_button">Abrir</string>
+    <string name="import_notification_try_again_intent_button">Tentar novamente</string>
+    <string name="import_notification_update_now_intent_button">Atualizar agora</string>
+    <string name="import_other_error_banner_button">Tentar novamente</string>
+    <string name="import_other_error_banner_summary">Ocorreu um problema ao restaurar os dados de sua exportação.</string>
+    <string name="import_source_location_title">Importar de</string>
+    <string name="import_version_mismatch_error_banner_button">Atualizar agora</string>
+    <string name="import_version_mismatch_error_banner_summary">Atualize seu sistema para que o Health Connect possa restaurar seus dados e, em seguida, tente novamente.</string>
+    <string name="import_wrong_file_error_banner_button">Escolher arquivo</string>
+    <string name="import_wrong_file_error_banner_summary">"O arquivo que você selecionou não é compatível para restauração. Certifique-se de selecionar o arquivo exportado correto."</string>
+    <string name="in_progress">Em andamento</string>
+    <string name="inactive_app_data_selected_deletion_confirmation_dialog">Excluir permanentemente dados de %1$s para %2$s?</string>
+    <string name="inactive_apps">Apps inativos</string>
+    <string name="inactive_apps_message">Estes apps não podem mais ler ou gravar %s, mas ainda têm dados armazenados no Health Connect</string>
+    <string name="inactive_apps_section_message">Estes apps não têm mais acesso, mas ainda têm dados armazenados no Health Connect</string>
+    <string name="inactive_apps_section_title">Apps inativos</string>															 
+    <string name="indeterminate">Parcialmente selecionada</string>
+    <string name="install_type_instant">App instantâneo</string>
+    <string name="intermenstrual_bleeding_read_content_description">Ler sangramento intermenstrual</string>
+    <string name="intermenstrual_bleeding_write_content_description">Gravar sangramento intermenstrual</string>
+    <string name="iodine">Iodo</string>
+    <string name="iron">Ferro</string>
+    <string name="item_view_role_description">Aba</string>
+    <string name="jump_rope">Pular corda</string>
+    <string name="jumping_jack">Polichinelo</string>
+    <string name="kettlebell_swing">Balanço de kettlebell</string>
+    <string name="kilograms_long_label">{count, plural, =1 {1 quilograma} other {# quilogramas}}</string>
+    <string name="kilograms_short_label">"{count, plural, =1 {1 kg} other {# kg}}"</string>
+    <string name="kj">"{count, plural, =1 {1 kJ} other {# kJ}}"</string>
+    <string name="kj_long">{count, plural, =1 {1 quilojoule} other {# quilojoules}}</string>
+    <string name="laboratory_results_content_description">Ler resultados de laboratório</string>
+    <string name="laboratory_results_lowercase_label">resultados de laboratório</string>
+    <string name="laboratory_results_uppercase_label">Resultados de laboratório</string>
+    <string name="last_export_time">Última exportação: %1$s</string>
+    <string name="last_export_time_hours_ago">{count, plural, =1 {Última exportação: 1 hora atrás} other {Última exportação: # horas atrás}}</string>
+    <string name="last_export_time_minutes_ago">{count, plural, =1 {Última exportação: 1 minuto atrás} other {Última exportação: # minutos atrás}}</string>
+    <string name="last_export_time_now">Última exportação: agora</string>
+    <string name="last_month_header">Mês passado</string>
+    <string name="last_week_header">Semana passada</string>
+    <string name="lat_pull_down">Puxada alta</string>
+    <string name="lateral_raise">Elevação lateral</string>
+    <string name="lean_body_mass_lowercase_label">Massa corporal magra</string>
+    <string name="lean_body_mass_read_content_description">Ler massa corporal magra</string>
+    <string name="lean_body_mass_uppercase_label">Massa corporal magra</string>
+    <string name="lean_body_mass_write_content_description">Gravar massa corporal magra</string>
+    <string name="leg_curl">Flexão de perna</string>
+    <string name="leg_extension">Extensão de perna</string>
+    <string name="leg_press">"Leg press"</string>
+    <string name="leg_raise">Elevação de perna</string>
+    <string name="liter">"{count, plural, =1 {1 L} other {# L}}"</string>
+    <string name="liter_long">{count, plural, =1 {1 litro} other {# litros}}</string>
+    <string name="loading">Carregando…</string>
+    <string name="lock_screen_banner_button">Definir tela de bloqueio</string>
+    <string name="lock_screen_banner_content">Para maior segurança dos seus dados de saúde, defina um PIN, padrão ou senha para este dispositivo</string>
+    <string name="lock_screen_banner_title">Definir uma tela de bloqueio</string>
+    <string name="lunge">Avanço</string>
+    <string name="m3_loading_indicator_content_description">Carregando</string>
+    <string name="magnesium">Magnésio</string>
+    <string name="manage_data_category_title">Gerenciar dados</string>
+    <string name="manage_data_preferences_category_title">Preferências</string>
+    <string name="manage_data_section">Gerenciar dados</string>
+    <string name="manage_data_summary">Exclusão automática, fontes de dados, backup e restauração</string>
+    <string name="manage_fitness_and_wellness_permissions">Gerenciar permissões de preparo físico e bem-estar</string>
+    <string name="manage_permissions">Gerenciar permissões</string>
+    <string name="manage_permissions_learn_more">Ler política de privacidade</string>
+    <string name="manage_permissions_manage_app_header">Gerenciar app</string>
+    <string name="manage_permissions_rationale">"Você pode aprender como %1$s lida com seus dados na política de privacidade do desenvolvedor"</string>
+    <string name="manage_permissions_read_header">Permitido ler</string>
+    <string name="manage_permissions_time_frame">%1$s pode ler dados adicionados após %2$s</string>
+    <string name="manage_permissions_write_header">Permitido gravar</string>
+    <string name="manage_your_settings_text"><b>Gerenciar suas configurações e privacidade</b>"
+Altere as permissões do app e gerencie seus dados a qualquer momento"</string>
+    <string name="manganese">Manganês</string>
+    <string name="martial_arts">Artes marciais</string>
+    <string name="material_clock_toggle_content_description">Selecionar AM ou PM</string>
+    <string name="material_timepicker_am">"AM"</string>
+    <string name="material_timepicker_pm">"PM"</string>
+    <string name="meal_name">Nome</string>
+    <string name="mealtype_breakfast">Café da manhã</string>
+    <string name="mealtype_dinner">Jantar</string>
+    <string name="mealtype_label">Tipo de refeição</string>
+    <string name="mealtype_lunch">Almoço</string>
+    <string name="mealtype_snack">Lanche</string>
+    <string name="mealtype_unknown">Desconhecido</string>
+    <string name="medical_permissions">Registros de saúde</string>
+    <string name="medical_permissions_lowercase">registros de saúde</string>
+    <string name="medical_permissions_summary">Resultados de laboratório, medicamentos, vacinas e outros</string>
+    <string name="medical_request_about_health_records">Sobre registros de saúde</string>
+    <string name="medical_request_data_to_share">Dados para compartilhar incluem</string>
+    <string name="medical_request_footer">Sincronize seus registros de saúde de seus diferentes apps e fontes para mantê-los em um só lugar</string>
+    <string name="medical_request_header">Permitir que %1$s acesse seus registros de saúde?</string>
+    <string name="medical_request_header_access_info_read">"Se você der acesso, o app pode ler dados como alergias, resultados de laboratório, vacinas e mais
+%1$s"</string>
+    <string name="medical_request_header_access_info_read_write">"Se você der acesso, o app pode ler e gravar dados como alergias, resultados de laboratório, vacinas e mais
+%1$s"</string>
+    <string name="medical_request_summary">Se você permitir, %1$s pode compartilhar seus registros de saúde com o Health Connect.</string>
+    <string name="medications_content_description">Ler medicamentos</string>
+    <string name="medications_lowercase_label">Medicamentos</string>
+    <string name="medications_uppercase_label">Medicamentos</string>
+    <string name="menstruation_lowercase_label">Menstruação</string>
+    <string name="menstruation_read_content_description">Ler status da menstruação</string>
+    <string name="menstruation_uppercase_label">Menstruação</string>
+    <string name="menstruation_write_content_description">Gravar menstruação</string>
+    <string name="menu_hide_system">Ocultar sistema</string>
+    <string name="menu_show_system">Mostrar sistema</string>
+    <string name="migration_app_update_needed_action">Antes de continuar, atualize o app Health Connect para a versão mais recente.</string>
+    <string name="migration_in_progress_permissions_dialog_button_got_it">Entendido</string>
+    <string name="migration_in_progress_permissions_dialog_content">"O Health Connect está sendo integrado ao sistema Android.
+
+Você receberá uma notificação quando o processo for concluído e puder usar %1$s com o Health Connect."</string>
+    <string name="migration_in_progress_permissions_dialog_content_apps">"O Health Connect está sendo integrado ao sistema Android.
+
+Você receberá uma notificação quando o processo for concluído e puder usar o Health Connect."</string>
+    <string name="migration_in_progress_permissions_dialog_title">Integração do Health Connect em andamento</string>
+    <string name="migration_in_progress_screen_integration_details">"O Health Connect está sendo integrado ao sistema Android.
+
+Isso pode levar algum tempo enquanto seus dados e permissões são transferidos."</string>
+    <string name="migration_in_progress_screen_title">Integração em andamento</string>
+    <string name="migration_module_update_needed_action">Antes de continuar, atualize o sistema do seu telefone.</string>
+    <string name="migration_module_update_needed_notification_title">Atualização do sistema necessária</string>
+    <string name="migration_module_update_needed_restart">"Se você já atualizou o sistema do seu telefone, tente reiniciá-lo para continuar a integração"</string>
+    <string name="migration_not_complete_dialog_content">"Você receberá uma notificação quando ele estiver disponível novamente."</string>
+    <string name="migration_not_complete_dialog_title">"A integração do Health Connect não foi concluída"</string>
+    <string name="migration_paused_notification_content">O Health Connect está sendo integrado ao sistema Android. Toque para continuar</string>
+    <string name="migration_paused_notification_title">Integração pausada</string>
+    <string name="migration_paused_screen_details">"O app Health Connect foi fechado enquanto estava sendo integrado ao sistema Android.
+
+Clique em retomar para reabrir o app e continuar transferindo seus dados e permissões."</string>
+    <string name="migration_paused_screen_title">Integração pausada</string>
+    <string name="migration_pending_permissions_dialog_button_continue">Continuar</string>
+    <string name="migration_pending_permissions_dialog_button_start_integration">Iniciar integração</string>
+    <string name="migration_pending_permissions_dialog_content">O Health Connect está pronto para ser integrado ao seu sistema Android. Se você der acesso a %1$s agora, alguns recursos podem não funcionar até que a integração seja concluída.</string>
+    <string name="migration_pending_permissions_dialog_title">Integração do Health Connect</string>
+    <string name="migration_update_needed_notification_content">Inicie esta atualização para que o Health Connect possa continuar a integração com as configurações do seu sistema</string>
+    <string name="migration_update_needed_screen_details">O Health Connect está sendo integrado ao sistema Android para que você possa acessá-lo diretamente a partir de suas configurações.</string>
+    <string name="migration_update_needed_screen_title">Atualização necessária</string>
+    <string name="migration_whats_new_dialog_button">Entendido</string>
+    <string name="migration_whats_new_dialog_content">Agora você pode acessar o Health Connect diretamente a partir de suas configurações. Desinstale o app Health Connect a qualquer momento para liberar espaço de armazenamento.</string>
+    <string name="migration_whats_new_dialog_title">"O que há de novo"</string>
+    <string name="millimoles_per_liter">"{count, plural, =1 {1 mmol/L} other {# mmol/L}}"</string>
+    <string name="millimoles_per_liter_long">{count, plural, =1 {1 milimole por litro} other {# milimoles por litro}}</string>
+    <string name="milliseconds">"{count, plural, =1 {1 ms} other {# ms}}"</string>
+    <string name="milliseconds_long">{count, plural, =1 {1 milissegundo} other {# milissegundos}}</string>
+    <string name="mindfulness_lowercase_label">Atenção plena</string>
+    <string name="mindfulness_read_content_description">Ler atenção plena</string>
+    <string name="mindfulness_type_breathing">Respiração</string>
+    <string name="mindfulness_type_meditation">Meditação</string>
+    <string name="mindfulness_type_movement">Movimento</string>
+    <string name="mindfulness_type_music">Música</string>
+    <string name="mindfulness_type_other">Outro</string>
+    <string name="mindfulness_type_unguided">Não guiada</string>
+    <string name="mindfulness_uppercase_label">Atenção plena</string>
+    <string name="mindfulness_write_content_description">Gravar atenção plena</string>
+    <string name="minute_duration">%1$s minuto</string>
+    <string name="minute_duration_accessibility">{count, plural, =1 {1 minuto} other {# minutos}}</string>
+    <string name="molybdenum">Molibdênio</string>
+    <string name="monounsaturated_fat">Gordura monoinsaturada</string>
+    <string name="mountain_climber">Escalador</string>
+    <string name="move_down">Mover para baixo</string>
+    <string name="move_up">Mover para cima</string>
+    <string name="mtrl_checkbox_state_description_checked">Marcada</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Parcialmente marcada</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Desmarcada</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+    <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
+    <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
+    <string name="mtrl_picker_confirm">"OK"</string>
+    <string name="mtrl_picker_end_date_description">Data de término: %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Ir para o ano atual %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$d</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_start_date_description">Data de início: %1$s</string>
+    <string name="mtrl_picker_today_description">Hoje %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Mudar para o modo de entrada da agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar para a visualização de agenda</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a visualização \"Ano\"</string>
+    <string name="mtrl_picker_toggled_to_day_selection">Mudou para a visualização de Agenda</string>
+    <string name="mtrl_picker_toggled_to_year_selection">Mudou para a visualização de ano</string>
+    <string name="mucus_creamy">Cremoso</string>
+    <string name="mucus_dry">Seco</string>
+    <string name="mucus_egg_white">Clara de ovo</string>
+    <string name="mucus_heavy">Pesado</string>
+    <string name="mucus_light">Leve</string>
+    <string name="mucus_medium">Médio</string>
+    <string name="mucus_sticky">Pegajoso</string>
+    <string name="mucus_unusual">Incomum</string>
+    <string name="mucus_watery">Aquoso</string>
+    <string name="navigation_next_day">Próximo dia</string>
+    <string name="navigation_previous_day">Dia anterior</string>
+    <string name="navigation_selected_day">Dia selecionado</string>
+    <string name="needs_updating_apps_section_title">Precisa de atualização</string>
+    <string name="next_export_text">Próxima exportação começando em breve</string>
+    <string name="next_export_time">Próxima exportação: %1$s</string>
+    <string name="niacin">Niacina</string>
+    <string name="no_apps_allowed">Nenhum app permitido</string>
+    <string name="no_apps_denied">Nenhum app negado</string>
+    <string name="no_apps_requesting">Nenhum app solicitando</string>
+    <string name="no_data">Sem dados</string>
+    <string name="no_last_export_message">Última exportação: nenhuma</string>
+    <string name="no_recent_access">Nenhum app acessou o Health Connect recentemente</string>
+    <string name="no_results">Sem resultados</string>
+    <string name="not_allowed">Não permitido</string>
+    <string name="not_connected_apps_section_title">Acesso não permitido</string>
+    <string name="not_selected">Não selecionado</string>
+    <string name="not_set">Não definido</string>
+    <string name="not_used_in_past_24_hours">Não usado nas últimas 24 horas</string>
+    <string name="nutrition_category_lowercase">Nutrição</string>
+    <string name="nutrition_category_uppercase">Nutrição</string>
+    <string name="nutrition_lowercase_label">Nutrição</string>
+    <string name="nutrition_read_content_description">Ler nutrição</string>
+    <string name="nutrition_uppercase_label">Nutrição</string>
+    <string name="nutrition_write_content_description">Gravar nutrição</string>
+    <string name="off">Desativado</string>
+    <string name="on">Ativado</string>
+    <string name="onboarding_description">O Health Connect armazena seus dados de saúde e preparo físico, oferecendo uma forma simples de sincronizar os diferentes apps no seu dispositivo</string>
+    <string name="onboarding_description_health_records">"O Health Connect armazena e sincroniza seus dados de saúde e preparo físico de diferentes apps.
+
+"<b>Dados de preparo físico e bem-estar,</b>" incluindo sessões de exercício, passos, nutrição, sono e mais
+
+"<b>Registros de saúde,</b> incluindo vacinas, resultados de laboratório e mais</string>
+    <string name="onboarding_description_with_health_connect">Com o Health Connect você pode</string>
+    <string name="onboarding_get_started_button_text">Começar</string>
+    <string name="onboarding_go_back_button_text">Voltar</string>
+    <string name="onboarding_title">Comece a usar o Health Connect</string>
+    <string name="one_app_entry_selected_deletion_confirmation_dialog">Excluir permanentemente esta entrada de %s?</string>
+    <string name="one_entry_selected_deletion_confirmation_dialog">Excluir permanentemente esta entrada?</string>
+    <string name="only_one_connected_app_button_subtitle">%1$s de %2$s apps tem acesso</string>
+    <string name="other_android_permissions">Para gerenciar outras permissões do Android que este app pode acessar, vá para Configurações > Apps</string>
+    <string name="other_android_permissions_content_description">Para gerenciar outras permissões do Android que este app pode acessar, vá para Configurações e toque em Apps</string>
+    <string name="ovulation_high">Alto</string>
+    <string name="ovulation_inconclusive">Inconclusivo</string>
+    <string name="ovulation_negative">Negativo</string>
+    <string name="ovulation_positive">Positivo</string>
+    <string name="ovulation_test_lowercase_label">teste de ovulação</string>
+    <string name="ovulation_test_read_content_description">Ler teste de ovulação</string>
+    <string name="ovulation_test_uppercase_label">Teste de ovulação</string>
+    <string name="ovulation_test_write_content_description">Gravar teste de ovulação</string>
+    <string name="oxygen_saturation_lowercase_label">saturação de oxigênio</string>
+    <string name="oxygen_saturation_read_content_description">Ler saturação de oxigênio</string>
+    <string name="oxygen_saturation_uppercase_label">Saturação de oxigênio</string>
+    <string name="oxygen_saturation_write_content_description">Gravar saturação de oxigênio</string>
+    <string name="paddling">Remar</string>
+    <string name="pantothenic_acid">Ácido pantotênico</string>
+    <string name="paragliding">Parapente</string>
+    <string name="password_toggle_content_description">Exibir senha</string>
+    <string name="pause">Pausar</string>
+    <string formatted="false" name="percent">"{value, plural, =1 {1%} other {#%}}"</string>
+    <string name="percent_long">{value, plural, =1 {1 por cento} other {# por cento}}</string>
+    <string name="period_day">Dia do período: %1$d de %2$d</string>
+    <string name="period_length">{count, plural, =1 {Período (1 dia)} other {Período (# dias)}}</string>
+    <string name="permgroupdesc_health">Acessar seus dados de saúde</string>
+    <string name="permgrouplab_health">Health Connect</string>
+    <string name="permissions_and_data_header">Permissões e dados</string>
+    <string name="permissions_disconnect_all_dialog_disconnect">Remover todos</string>
+    <string name="permissions_disconnect_all_dialog_message">"Nenhum de seus apps poderá acessar ou adicionar novos dados ao Health Connect. Isso não exclui nenhum dado existente.
+
+Isso não afeta outras permissões que este app possa ter, como localização, câmera ou microfone."</string>
+    <string name="permissions_disconnect_all_dialog_title">Remover acesso para todos os apps?</string>
+    <string name="permissions_disconnect_dialog_checkbox">Também excluir dados de %1$s do Health Connect</string>
+    <string name="permissions_disconnect_dialog_disconnect">Remover todos</string>
+    <string name="permissions_disconnect_dialog_message">"%1$s não poderá mais ler nem gravar dados no Health Connect.
+
+Isso não afeta outras permissões que este app possa ter, como câmera, microfone ou localização."</string>
+    <string name="permissions_disconnect_dialog_message_background">"%1$s não poderá mais ler nem gravar dados no Health Connect, incluindo dados em segundo plano.
+
+Isso não afeta outras permissões que este app possa ter, como localização, câmera ou microfone."</string>
+    <string name="permissions_disconnect_dialog_message_combined">"%1$s não poderá mais ler nem gravar dados no Health Connect, incluindo dados em segundo plano e passados.
+
+Isso não afeta outras permissões que este app possa ter, como localização, câmera ou microfone."</string>
+    <string name="permissions_disconnect_dialog_message_history">"%1$s não poderá mais ler nem gravar dados no Health Connect, incluindo dados passados.
+
+Isso não afeta outras permissões que este app possa ter, como localização, câmera ou microfone."</string>
+    <string name="permissions_disconnect_dialog_title">Remover todas as permissões?</string>
+    <string name="permissions_header">Permissões</string>
+    <string name="personal_details_content_description">Ler detalhes pessoais</string>
+    <string name="personal_details_lowercase_label">Detalhes pessoais</string>
+    <string name="personal_details_uppercase_label">Detalhes pessoais</string>
+    <string name="phosphorus">Fósforo</string>
+    <string name="pilates">"Pilates"</string>
+    <string name="plank">Prancha</string>
+    <string name="planned_exercise_block_repetitions">{count, plural, =1 {1 vez} other {# vezes}}</string>
+    <string name="planned_exercise_lowercase_label">Planos de treino</string>
+    <string name="planned_exercise_read_content_description">Ler planos de treino</string>
+    <string name="planned_exercise_session_notes_title">Notas</string>
+    <string name="planned_exercise_uppercase_label">Planos de treino</string>
+    <string name="planned_exercise_write_content_description">Gravar planos de treino</string>
+    <string name="polyunsaturated_fat">Gordura poli-insaturada</string>
+    <string name="potassium">Potássio</string>
+    <string name="pounds_long_label">{count, plural, =1 {1 libra} other {# libras}}</string>
+    <string name="pounds_short_label">"{count, plural, =1 {1 lb} other {# lb}}"</string>
+    <string name="power_lowercase_label">Potência</string>
+    <string name="power_read_content_description">Ler potência</string>
+    <string name="power_uppercase_label">Potência</string>
+    <string name="power_write_content_description">Gravar potência</string>
+    <string name="practitioner_details_content_description">Ler detalhes do profissional</string>
+    <string name="practitioner_details_lowercase_label">Detalhes do profissional</string>
+    <string name="practitioner_details_uppercase_label">Detalhes do profissional</string>
+    <string name="pregnancy_content_description">Ler status da gravidez</string>
+    <string name="pregnancy_lowercase_label">Gravidez</string>
+    <string name="pregnancy_uppercase_label">Gravidez</string>
+    <string name="priority_list_item_content_description">%1$s na lista %2$s</string>
+    <string name="procedures_content_description">Ler procedimentos</string>
+    <string name="procedures_lowercase_label">Procedimentos</string>
+    <string name="procedures_uppercase_label">Procedimentos</string>
+    <string name="pull_up">Barra fixa</string>
+    <string name="punch">Soco</string>
+    <string name="racquetball">Raquetebol</string>
+    <string name="range_after_x_months">{count, plural, =1 {Após # mês} other {Após # meses}}</string>
+    <string name="range_never">Nunca</string>
+    <string name="range_off">Desativado</string>
+    <string name="rate_of_perceived_exertion_goal">Nível de esforço: %1$d/10</string>
+    <string name="raw_fhir_closed_bracket">%1$s Colchete fechado</string>
+    <string name="raw_fhir_content_description">Código-fonte detalhado: %1$s</string>
+    <string name="raw_fhir_field_value">%1$s Campo %2$s Valor</string>
+    <string name="raw_fhir_open_bracket">%1$s Colchete aberto</string>
+    <string name="raw_fhir_title">Dados de origem</string>
+    <string name="read_data_access_label">Ler: %s</string>
+    <string name="read_permission_category">Permitir que “%1$s” leia</string>
+    <string name="recent_access_empty_state_description">Os apps que acessaram recentemente seus dados serão exibidos automaticamente aqui</string>
+    <string name="recent_access_empty_state_title">Nenhum acesso recente</string>
+    <string name="recent_access_error">Não foi possível carregar o acesso recente</string>
+    <string name="recent_access_header">Acesso recente</string>
+    <string name="recent_access_inactive_app">Este app não está mais disponível</string>
+    <string name="recent_access_screen_description">Veja quais apps acessaram seus dados nas últimas 24 horas</string>
+    <string name="recent_access_time_content_descritption">Hora: %1$s</string>
+    <string name="recent_access_view_all_button">Ver todos</string>
+    <string name="remove">Remover</string>
+    <string name="remove_access_for_this_app">Remover acesso para este app</string>
+    <string name="remove_one_permission_for_all">Remover acesso a %s para todos os apps no seu relógio?</string>
+    <string name="removed_additional_permissions_toast">Permissões adicionais removidas para este app</string>
+    <string name="repetitions">"{count, plural, =1 {1 repetição} other {# repetições}}"</string>
+    <string name="repetitions_long">{count, plural, =1 {1 repetição} other {# repetições}}</string>
+    <string name="request_fitness_permissions_data_access_type_read">Escolha os dados que você deseja que este app leia do Health Connect</string>
+    <string name="request_fitness_permissions_data_access_type_read_write">Escolha os dados que você deseja que este app leia ou grave no Health Connect</string>
+    <string name="request_fitness_permissions_data_access_type_write">Escolha os dados que você deseja que este app grave no Health Connect</string>
+    <string name="request_fitness_permissions_header_title">Permitir que %1$s acesse o Health Connect?</string>
+    <string name="request_medical_permissions_data_access_type_read">Escolha os dados que você deseja que este app leia do Health Connect</string>
+    <string name="request_medical_permissions_data_access_type_read_write">Escolha os dados que você deseja que este app leia ou grave no Health Connect</string>
+    <string name="request_permissions_allow">Permitir</string>
+    <string name="request_permissions_allow_all">Permitir tudo</string>
+    <string name="request_permissions_allow_all_the_time">O tempo todo</string>
+    <string name="request_permissions_allow_selected">Permitir selecionados</string>
+    <string name="request_permissions_deny_all">Negar tudo</string>
+    <string name="request_permissions_dont_allow">"Não permitir"</string>
+    <string name="request_permissions_header_time_frame_desc">Se você der acesso de leitura, o app pode ler novos dados e dados dos últimos 30 dias</string>
+    <string name="request_permissions_header_time_frame_history_desc">Se você der acesso de leitura, o app pode ler dados novos e passados</string>
+    <string name="request_permissions_privacy_policy">Política de privacidade</string>
+    <string name="request_permissions_rationale">Você pode aprender como %1$s lida com seus dados na %2$s deles</string>
+    <string name="request_permissions_while_using_the_app">Durante o uso do app</string>
+    <string name="request_permissions_with_medical_header_title">Permitir que %1$s acesse dados de preparo físico e bem-estar?</string>
+    <string name="request_route_allow">Permitir esta rota</string>
+    <string name="request_route_allow_all">Permitir todas as rotas</string>
+    <string name="request_route_disclaimer_notice">Este app poderá ler sua localização passada na rota</string>
+    <string name="request_route_dont_allow">"Não permitir"</string>
+    <string name="request_route_header_title">Permitir que %1$s acesse esta rota de exercício no Health Connect?</string>
+    <string name="request_route_info_access_management_summary">Você pode gerenciar o acesso de apps a rotas de exercício nas configurações do Health Connect</string>
+    <string name="request_route_info_access_management_title">Como posso gerenciar o acesso?</string>
+    <string name="request_route_info_header_title">Rotas de exercício incluem informações de localização</string>
+    <string name="request_route_info_who_can_see_data_summary">Somente apps que você permitir que acessem suas rotas de exercício</string>
+    <string name="request_route_info_who_can_see_data_title">Quem pode ver estes dados?</string>
+    <string name="respiratory_rate_lowercase_label">Frequência respiratória</string>
+    <string name="respiratory_rate_read_content_description">Ler frequência respiratória</string>
+    <string name="respiratory_rate_uppercase_label">Frequência respiratória</string>
+    <string name="respiratory_rate_value">"{count, plural, =1 {1 rpm} other {# rpm}}"</string>
+    <string name="respiratory_rate_value_long">{count, plural, =1 {1 respiração por minuto} other {# respirações por minuto}}</string>
+    <string name="respiratory_rate_write_content_description">Gravar frequência respiratória</string>
+    <string name="rest">Descanso</string>
+    <string name="resting_heart_rate_lowercase_label">Frequência cardíaca em repouso</string>
+    <string name="resting_heart_rate_read_content_description">Ler frequência cardíaca em repouso</string>
+    <string name="resting_heart_rate_uppercase_label">Frequência cardíaca em repouso</string>
+    <string name="resting_heart_rate_write_content_description">Gravar frequência cardíaca em repouso</string>
+    <string name="resume_button">Retomar</string>
+    <string name="resume_migration_banner_button">Continuar</string>
+    <string name="resume_migration_banner_description_fallback">Toque para continuar integrando o Health Connect com o sistema Android.</string>
+    <string name="resume_migration_banner_title">Retomar integração</string>
+    <string name="riboflavin">Riboflavina</string>
+    <string name="rock_climbing">Escalada</string>
+    <string name="roller_hockey">Hóquei em patins</string>
+    <string name="route_permissions_always_allow">Sempre permitir</string>
+    <string name="route_permissions_ask">Perguntar sempre</string>
+    <string name="route_permissions_deny">"Não permitir"</string>
+    <string name="route_permissions_label">Acessar rotas de exercício</string>
+    <string name="route_permissions_summary">Permitir que %1$s acesse rotas</string>
+    <string name="rowing">Remo</string>
+    <string name="rowing_machine">Máquina de remo</string>
+    <string name="rugby">Rúgbi</string>
+    <string name="running">Corrida</string>
+    <string name="running_treadmill">Corrida em esteira</string>
+    <string name="sailing">Vela</string>
+    <string name="saturated_fat">Gordura saturada</string>
+    <string name="scheduled_export">Exportação agendada</string>
+    <string name="scheduled_export_on_toast_text">Exportação agendada ativada</string>
+    <string name="scheduled_export_settings_footer_text">"Se você desativar a exportação agendada, isso não excluirá dados exportados anteriormente de onde eles foram salvos"</string>
+    <string name="scuba_diving">Mergulho com cilindro</string>
+    <string name="search_breadcrumbs_data">Health Connect > Dados e acesso</string>
+    <string name="search_connected_apps">Pesquisar apps</string>
+    <string name="search_keywords_data">health connect, dados de saúde, categorias de saúde, acesso a dados, atividade, medidas corporais, rastreamento de ciclo, nutrição, sono, sinais vitais</string>
+    <string name="search_keywords_home">preparo físico, bem-estar</string>
+    <string name="see_actions_button_content_description">Botão para reordenar ou remover %s da lista de fontes do app</string>
+    <string name="see_all_compatible_apps">Ver todos os apps compatíveis</string>
+    <string name="see_all_compatible_apps_description">Encontrar apps no Google Play</string>
+    <string name="see_app_data">Ver dados do app</string>
+    <string name="select_all">Selecionar tudo</string>
+    <string name="selected">Selecionado</string>
+    <string name="selected_date_view_action_description">mudar</string>
+    <string name="selenium">Selênio</string>
+    <string name="send_feedback">Enviar feedback</string>
+    <string name="send_feedback_description">"Diga-nos quais apps de saúde e preparo físico você gostaria que funcionassem com o Health Connect"</string>
+    <string name="set_auto_delete_button">Definir exclusão automática</string>
+    <string name="set_units_title">Definir unidades</string>
+    <string name="settings_and_help_header">Configurações e ajuda</string>
+    <string name="settings_label">Configurações</string>
+    <string name="settingslib_expressive_text_collapse">Fechar</string>
+    <string name="settingslib_expressive_text_expand">Abrir</string>
+    <string name="settingslib_learn_more_text">Saiba mais</string>
+    <string name="sexual_activity_lowercase_label">Atividade sexual</string>
+    <string name="sexual_activity_protected">Protegida</string>
+    <string name="sexual_activity_read_content_description">Ler atividade sexual</string>
+    <string name="sexual_activity_unprotected">Não protegida</string>
+    <string name="sexual_activity_uppercase_label">Atividade sexual</string>
+    <string name="sexual_activity_write_content_description">Gravar atividade sexual</string>
+    <string name="share_data_text"><b>Compartilhar dados com seus apps</b>"
+Escolha os dados que cada app pode ler ou gravar no Health Connect"</string>
+    <string name="shoulder_press">Desenvolvimento de ombros</string>
+    <string name="show_recent_access_entries_button_title">Ver todo o acesso recente</string>
+    <string name="side_sheet_accessibility_pane_title">Página lateral</string>
+    <string name="single_arm_triceps_extension">Extensão de tríceps com um braço</string>
+    <string name="sit_up">Abdominal</string>
+    <string name="skating">Patinar</string>
+    <string name="skiing">Esquiar</string>
+    <string name="skin_temperature_baseline_title">Linha de base</string>
+    <string name="skin_temperature_delta_details_heading">Variação da linha de base</string>
+    <string name="skin_temperature_lowercase_label">temperatura da pele</string>
+    <string name="skin_temperature_measurement_location_title">Local de medição</string>
+    <string name="skin_temperature_read_content_description">Ler temperatura da pele</string>
+    <string name="skin_temperature_uppercase_label">Temperatura da pele</string>
+    <string name="skin_temperature_write_content_description">Gravar temperatura da pele</string>
+    <string name="sleep_category_lowercase">Sono</string>
+    <string name="sleep_category_uppercase">Sono</string>
+    <string name="sleep_lowercase_label">Sono</string>
+    <string name="sleep_read_content_description">Ler sono</string>
+    <string name="sleep_session_default">%1$s dormindo</string>
+    <string name="sleep_session_with_one_field">%1$s</string>
+    <string name="sleep_stage_awake">Acordado</string>
+    <string name="sleep_stage_awake_in_bed">Acordado na cama</string>
+    <string name="sleep_stage_deep">Sono profundo</string>
+    <string name="sleep_stage_default">%1$s %2$s</string>
+    <string name="sleep_stage_light">Sono leve</string>
+    <string name="sleep_stage_out_of_bed">fora da cama</string>
+    <string name="sleep_stage_rem">Sono REM</string>
+    <string name="sleep_stage_sleeping">Dormindo</string>
+    <string name="sleep_stage_unknown">Desconhecido</string>
+    <string name="sleep_uppercase_label">Sono</string>
+    <string name="sleep_write_content_description">Gravar sono</string>
+    <string name="snowboarding">Snowboard</string>
+    <string name="snowshoeing">Caminhada na neve</string>
+    <string name="soccer">Futebol</string>
+    <string name="social_history_content_description">Ler histórico social</string>
+    <string name="social_history_lowercase_label">Histórico social</string>
+    <string name="social_history_uppercase_label">Histórico social</string>
+    <string name="sodium">Sódio</string>
+    <string name="softball">Softbol</string>
+    <string name="some_app_data_selected_deletion_confirmation_dialog">Excluir permanentemente dados selecionados de %s?</string>
+    <string name="some_app_entries_selected_day_deletion_confirmation_dialog">Excluir permanentemente entradas selecionadas de %1$s para %2$s?</string>
+    <string name="some_app_entries_selected_month_deletion_confirmation_dialog">Excluir permanentemente entradas selecionadas de %1$s para %2$s?</string>
+    <string name="some_app_entries_selected_week_deletion_confirmation_dialog">Excluir permanentemente entradas selecionadas de %1$s para a semana de %2$s?</string>
+    <string name="some_data_selected_deletion_confirmation_dialog">Excluir permanentemente dados selecionados?</string>
+    <string name="some_entries_selected_day_deletion_confirmation_dialog">Excluir permanentemente entradas selecionadas para %1$s?</string>
+    <string name="some_entries_selected_month_deletion_confirmation_dialog">Excluir permanentemente entradas selecionadas para %1$s?</string>
+    <string name="some_entries_selected_week_deletion_confirmation_dialog">Excluir permanentemente entradas selecionadas para a semana de %1$s?</string>
+    <string name="specimen_source_capillary_blood">Sangue capilar</string>
+    <string name="specimen_source_interstitial_fluid">Fluido intersticial</string>
+    <string name="specimen_source_plasma">"Plasma"</string>
+    <string name="specimen_source_serum">Soro</string>
+    <string name="specimen_source_tears">Lágrimas</string>
+    <string name="specimen_source_whole_blood">Sangue total</string>
+    <string name="speed_lowercase_label">Velocidade</string>
+    <string name="speed_read_content_description">Ler velocidade</string>
+    <string name="speed_uppercase_label">Velocidade</string>
+    <string name="speed_write_content_description">Gravar velocidade</string>
+    <string name="spotting">"Spotting"</string>
+    <string name="spotting_lowercase_label">"Spotting"</string>
+    <string name="spotting_read_content_description">Ler spotting</string>
+    <string name="spotting_uppercase_label">"Spotting"</string>
+    <string name="spotting_write_content_description">Gravar spotting</string>
+    <string name="squash">"Squash"</string>
+    <string name="squat">Agachamento</string>
+    <string name="stair_climbing">Subida de escadas</string>
+    <string name="stair_climbing_machine">Máquina de subir escadas</string>
+    <string name="state_empty">Vazio</string>
+    <string name="state_off">Desativado</string>
+    <string name="state_on">Ativado</string>
+    <string name="steps_lowercase_label">Passos</string>
+    <string name="steps_per_minute">{value, plural, =1 {1 passo/min} other {# passos/min}}</string>
+    <string name="steps_per_minute_long">{value, plural, =1 {1 passo por minuto} other {# passos por minuto}}</string>
+    <string name="steps_read_content_description">Ler passos</string>
+    <string name="steps_uppercase_label">Passos</string>
+    <string name="steps_value">{count, plural, =1 {1 passo} other {# passos}}</string>
+    <string name="steps_write_content_description">Gravar passos</string>
+    <string name="stone_long_label">"{count, plural, =1 {1 stone} other {# stones}}"</string>
+    <string name="stone_pound_long_label">"{stone_part} {pound_part}"</string>
+    <string name="stone_pound_short_label">"{stone_part} {pound_part}"</string>
+    <string name="stone_short_label">"{count, plural, =1 {1 st} other {# st}}"</string>
+    <string name="strength_training">Treinamento de força</string>
+    <string name="stretching">Alongamento</string>
+    <string name="sugar">Açúcar</string>
+    <string name="surfing">Surf</string>
+    <string name="swimming_backstroke">Nado de costas</string>
+    <string name="swimming_breaststroke">Nado de peito</string>
+    <string name="swimming_butterfly">Nado borboleta</string>
+    <string name="swimming_freestyle">Nado livre</string>
+    <string name="swimming_mixed">Misto</string>
+    <string name="swimming_open_water">Natação em águas abertas</string>
+    <string name="swimming_other">Outro</string>
+    <string name="swimming_pool">Natação em piscina</string>
+    <string name="switch_role">Alternar</string>
+    <string name="tab">Aba</string>
+    <string name="tab_access">Acesso</string>
+    <string name="tab_entries">Entradas</string>
+    <string name="table_tennis">Tênis de mesa</string>
+    <string name="temperatureDelta_average_celsius">{value, plural, =1 {{formattedValue}℃ (variação média)} other {{formattedValue}℃ (variação média)}}</string>
+    <string name="temperatureDelta_average_celsius_long">{value, plural, =1 {{formattedValue} grau Celsius (variação média)} other {{formattedValue} graus Celsius (variação média)}}</string>
+    <string name="temperatureDelta_average_fahrenheit">{value, plural, =1 {{formattedValue}℉ (variação média)} other {{formattedValue}℉ (variação média)}}</string>
+    <string name="temperatureDelta_average_fahrenheit_long">{value, plural, =1 {{formattedValue} grau Fahrenheit (variação média)} other {{formattedValue} graus Fahrenheit (variação média)}}</string>
+    <string name="temperatureDelta_average_kelvin">{value, plural, =1 {{formattedValue}K (variação média)} other {{formattedValue}K (variação média)}}</string>
+    <string name="temperatureDelta_average_kelvin_long">{value, plural, =1 {{formattedValue} kelvin (variação média)} other {{formattedValue} kelvins (variação média)}}</string>
+    <string name="temperatureDelta_celsius">"{value, plural, =1 {{formattedValue}℃} other {{formattedValue}℃}}"</string>
+    <string name="temperatureDelta_celsius_long">{value, plural, =1 {{formattedValue} grau Celsius} other {{formattedValue} graus Celsius}}</string>
+    <string name="temperatureDelta_fahrenheit">"{value, plural, =1 {{formattedValue}℉} other {{formattedValue}℉}}"</string>
+    <string name="temperatureDelta_fahrenheit_long">{value, plural, =1 {{formattedValue} grau Fahrenheit} other {{formattedValue} graus Fahrenheit}}</string>
+    <string name="temperatureDelta_kelvin">"{value, plural, =1 {{formattedValue}K} other {{formattedValue}K}}"</string>
+    <string name="temperatureDelta_kelvin_long">"{value, plural, =1 {{formattedValue} kelvin} other {{formattedValue} kelvins}}"</string>
+    <string name="temperature_celsius">"{value, plural, =1 {1℃} other {#℃}}"</string>
+    <string name="temperature_celsius_long">{value, plural, =1 {1 grau Celsius} other {# graus Celsius}}"</string>
+    <string name="temperature_fahrenheit">"{value, plural, =1 {1℉} other {#℉}}"</string>
+    <string name="temperature_fahrenheit_long">{value, plural, =1 {1 grau Fahrenheit} other {# graus Fahrenheit}}"</string>
+    <string name="temperature_kelvin">"{value, plural, =1 {1K} other {#K}}"</string>
+    <string name="temperature_kelvin_long">"{value, plural, =1 {1 kelvin} other {# kelvins}}"</string>
+    <string name="temperature_location_armpit">Axila</string>
+    <string name="temperature_location_ear">Ouvido</string>
+    <string name="temperature_location_finger">Dedo</string>
+    <string name="temperature_location_forehead">Testa</string>
+    <string name="temperature_location_mouth">Boca</string>
+    <string name="temperature_location_rectum">Reto</string>
+    <string name="temperature_location_temporal_artery">Artéria temporal</string>
+    <string name="temperature_location_toe">Dedo do pé</string>
+    <string name="temperature_location_vagina">"Vagina"</string>
+    <string name="temperature_location_wrist">Pulso</string>
+    <string name="temperature_unit_celsius_label">"Celsius"</string>
+    <string name="temperature_unit_fahrenheit_label">"Fahrenheit"</string>
+    <string name="temperature_unit_kelvin_label">"Kelvin"</string>
+    <string name="temperature_unit_title">Temperatura</string>
+    <string name="template_percent">%1$d%%</string>
+    <string name="tennis">Tênis</string>
+    <string name="thiamin">Tiamina</string>
+    <string name="things_to_try">Coisas para tentar</string>
+    <string name="this_month_header">Este mês</string>
+    <string name="this_week_header">Esta semana</string>
+    <string name="time_range_long">de %1$s a %2$s</string>
+    <string name="today_header">Hoje</string>
+    <string name="total_calories_burned">"Total: %1$s"</string>
+    <string name="total_calories_burned_lowercase_label">Total de calorias queimadas</string>
+    <string name="total_calories_burned_read_content_description">Ler total de calorias queimadas</string>
+    <string name="total_calories_burned_uppercase_label">Total de calorias queimadas</string>
+    <string name="total_calories_burned_write_content_description">Gravar total de calorias queimadas</string>
+    <string name="total_carbohydrate">Carboidrato total</string>
+    <string name="total_fat">Gordura total</string>
+    <string name="trans_fat">Gordura trans</string>
+    <string name="units_cancel">Cancelar</string>
+    <string name="units_title">Unidades</string>
+    <string name="unknown_type">Tipo desconhecido</string>
+    <string name="unkwown_resource">(Sem título)</string>
+    <string name="unsaturated_fat">Gordura insaturada</string>
+    <string name="update_button">Atualizar</string>
+    <string name="upper_twist">Torção superior</string>
+    <string name="used_by_apps_count">{count, plural, =1 {Usado por 1 app} other {Usado por # apps}}</string>
+    <string name="v7_preference_off">DESATIVADO</string>
+    <string name="v7_preference_on">ATIVADO</string>
+    <string name="vaccines_content_description">Ler vacinas</string>
+    <string name="vaccines_lowercase_label">Vacinas</string>
+    <string name="vaccines_uppercase_label">Vacinas</string>
+    <string name="velocity_minute_km">"%1$s min/km"</string>
+    <string name="velocity_minute_km_long">%1$s minuto por quilômetro</string>
+    <string name="velocity_minute_miles">%1$s min/milha</string>
+    <string name="velocity_minute_miles_long">%1$s minuto por milha</string>
+    <string name="velocity_minute_per_one_hundred_meters">%1$s min/100 metros</string>
+    <string name="velocity_minute_per_one_hundred_meters_long">%1$s minuto por 100 metros</string>
+    <string name="velocity_minute_per_one_hundred_yards">%1$s min/100 jardas</string>
+    <string name="velocity_minute_per_one_hundred_yards_long">%1$s minuto por 100 jardas</string>
+    <string name="velocity_speed_km">"{value, plural, =1 {1 km/h} other {# km/h}}"</string>
+    <string name="velocity_speed_km_long">{value, plural, =1 {1 quilômetro por hora} other {# quilômetros por hora}}</string>
+    <string name="velocity_speed_miles">"{value, plural, =1 {1 mph} other {# mph}}"</string>
+    <string name="velocity_speed_miles_long">{value, plural, =1 {1 milha por hora} other {# milhas por hora}}</string>
+    <string name="view_permissions_all_the_time_cap">O tempo todo</string>
+    <string name="view_permissions_description_all_the_time">%1$s pode acessar todos os seus dados de preparo físico e bem-estar o tempo todo</string>
+    <string name="view_permissions_description_while_in_use">%1$s pode acessar todos os seus dados de preparo físico e bem-estar durante o uso</string>
+    <string name="view_permissions_while_in_use_cap">Durante o uso do app</string>
+    <string name="visits_content_description">Ler visitas</string>
+    <string name="visits_lowercase_label">Visitas</string>
+    <string name="visits_uppercase_label">Visitas</string>
+    <string name="vital_signs_content_description">Ler sinais vitais</string>
+    <string name="vital_signs_lowercase_label">Sinais vitais</string>
+    <string name="vital_signs_uppercase_label">Sinais vitais</string>
+    <string name="vitals_category_lowercase">Sinais vitais</string>
+    <string name="vitals_category_uppercase">Sinais vitais</string>
+    <string name="vitamin_a">Vitamina A</string>
+    <string name="vitamin_b12">Vitamina B12</string>
+    <string name="vitamin_b6">Vitamina B6</string>
+    <string name="vitamin_c">Vitamina C</string>
+    <string name="vitamin_d">Vitamina D</string>
+    <string name="vitamin_e">Vitamina E</string>
+    <string name="vitamin_k">Vitamina K</string>
+    <string name="vo2_cooper_test">Teste de Cooper</string>
+    <string name="vo2_heart_rate_ratio">Razão de frequência cardíaca</string>
+    <string name="vo2_max">"{value, plural, =1 {1 mL/(kg·min)} other {# mL/(kg·min)}}"</string>
+    <string name="vo2_max_long">{value, plural, =1 {1 mililitro de oxigênio por quilograma de massa corporal por minuto} other {# mililitros de oxigênio por quilograma de massa corporal por minuto}}</string>
+    <string name="vo2_max_lowercase_label">VO2 máximo</string>
+    <string name="vo2_max_read_content_description">Ler VO2 máximo</string>
+    <string name="vo2_max_uppercase_label">VO2 máximo</string>
+    <string name="vo2_max_write_content_description">Gravar VO2 máximo</string>
+    <string name="vo2_metabolic_cart">Carrinho metabólico</string>
+    <string name="vo2_multistage_fitness_test">Teste de aptidão multiestágio</string>
+    <string name="vo2_other">Outro</string>
+    <string name="vo2_rockport_fitness_test">Teste de aptidão de Rockport</string>
+    <string name="volleyball">Vôlei</string>
+    <string name="walking">Caminhada</string>
+    <string name="water_polo">Polo aquático</string>
+    <string name="watt_format">"{value, plural, =1 {1 W} other {# W}}"</string>
+    <string name="watt_format_long">"{value, plural, =1 {1 watt} other {# watts}}"</string>
+    <string name="wear_allow_app_access_fitness_and_wellness_data">Permitir que %1$s acesse dados de preparo físico e bem-estar?</string>
+    <string name="wear_m3c_alert_dialog_content_description_confirm_button">Confirmar</string>
+    <string name="wear_m3c_alert_dialog_content_description_dismiss_button">Dispensar</string>
+    <string name="wear_request_multiple_data_type_permissions">"%1$s está solicitando acesso a %2$s.
+
+Escolha permitir todos ou controlá-los individualmente."</string>
+    <string name="wear_request_single_data_type_permission">Permitir que %1$s acesse %2$s?</string>
+    <string name="weight_lowercase_label">Peso</string>
+    <string name="weight_read_content_description">Ler peso</string>
+    <string name="weight_unit_kilogram_label">Quilogramas</string>
+    <string name="weight_unit_pound_label">Libras</string>
+    <string name="weight_unit_stone_label">"Stones"</string>
+    <string name="weight_unit_title">Peso</string>
+    <string name="weight_uppercase_label">Peso</string>
+    <string name="weight_write_content_description">Gravar peso</string>
+    <string name="weightlifting">Halterofilismo</string>
+    <string name="wellness_category_lowercase">Bem-estar</string>
+    <string name="wellness_category_uppercase">Bem-estar</string>
+    <string name="wheelchair">Cadeira de rodas</string>
+    <string name="wheelchair_pushes">{count, plural, =1 {1 impulso de cadeira de rodas} other {# impulsos de cadeira de rodas}}</string>
+    <string name="wheelchair_pushes_lowercase_label">Impulsos de cadeira de rodas</string>
+    <string name="wheelchair_pushes_read_content_description">Ler impulsos de cadeira de rodas</string>
+    <string name="wheelchair_pushes_uppercase_label">Impulsos de cadeira de rodas</string>
+    <string name="wheelchair_pushes_write_content_description">Gravar impulsos de cadeira de rodas</string>
+    <string name="workout">Treino</string>
+    <string name="write_data_access_label">Gravar: %s</string>
+    <string name="write_permission_category">Permitir que “%1$s” grave</string>
+    <string name="yesterday_header">Ontem</string>
+    <string name="yoga">"Yoga"</string>
+    <string name="zinc">Zinco</string>
+</resources>

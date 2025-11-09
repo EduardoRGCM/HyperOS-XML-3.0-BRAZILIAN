@@ -311,7 +311,7 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="autofill_parish">Paróquia</string>
     <string name="autofill_picker_accessibility_title">Opções de preenchimento automático</string>
     <string name="autofill_picker_no_suggestions">Sem sugestões de preenchimento automático</string>
-    <string name="autofill_picker_some_suggestions">{count, plural, =1 {Uma sugestão de preenchimento automático} other {# Sugestões de preenchimento automático} }</string>
+    <string name="autofill_picker_some_suggestions">{count, plural, =1 {Uma sugestão de preenchimento automático} other {# Sugestões de preenchimento automático}}</string>
     <string name="autofill_postal_code">Código Postal</string>
     <string name="autofill_prefecture">Município</string>
     <string name="autofill_province">Distrito</string>
@@ -364,7 +364,7 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Use sua biometria ou bloqueio de tela para continuar</string>
     <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">O Bluetooth permanecerá ativado no Modo avião</string>
-    <string name="bugreport_countdown">{count, plural, =1 {Captura de tela para relatório de bug em # segundo.} other {Captura de tela para relatório de bug em # segundos.} }</string>
+    <string name="bugreport_countdown">{count, plural, =1 {Captura de tela para relatório de bug em # segundo.} other {Captura de tela para relatório de bug em # segundos.}}</string>
     <string name="bugreport_message">Isto coletará informações sobre o estado atual do dispositivo para enviá-las em uma mensagem de e-mail. Após iniciar o relatório de bugs, será necessário aguardar algum tempo até que esteja pronto para ser enviado.</string>
     <string name="bugreport_option_full_summary">Use esta opção para ter o mínimo de interferência do sistema quando seu dispositivo não estiver respondendo ou estiver muito lento, ou quando você precisar de todas as seções de relatórios. Ela não permite que você informe mais detalhes ou faça capturas de tela adicionais.</string>
     <string name="bugreport_option_full_title">Relatório completo</string>
@@ -538,20 +538,20 @@ usando %s"</string>
     <string name="dump_heap_system_text">O processo %1$s excedeu o limite de memória de %2$s. Um despejo de heap está disponível para compartilhamento. Tenha cuidado: esse despejo de heap pode conter informações pessoais confidenciais que o processo pode acessar, o que pode incluir os dados digitados.</string>
     <string name="dump_heap_text">O processo %1$s excedeu o limite de memória de %2$s. Um despejo de heap está disponível para compartilhamento com o desenvolvedor. Cuidado: esse despejo de heap pode conter informações que podem ser acessadas pelo app.</string>
     <string name="dump_heap_title">Compartilhar despejo de heap?</string>
-    <string name="duration_days_relative">{count, plural, =1 {# dia atrás} other {# dias atrás} }</string>
-    <string name="duration_days_relative_future">{count, plural, =1 {# dia} other {# dias} }</string>
+    <string name="duration_days_relative">{count, plural, =1 {# dia atrás} other {# dias atrás}}</string>
+    <string name="duration_days_relative_future">{count, plural, =1 {# dia} other {# dias}}</string>
     <string name="duration_days_shortest">%d d</string>
     <string name="duration_days_shortest_future">em %d d</string>
-    <string name="duration_hours_relative">{count, plural, =1 {# hora atrás} other {# horas atrás} }</string>
-    <string name="duration_hours_relative_future">{count, plural, =1 {# hora} other {# horas} }</string>
+    <string name="duration_hours_relative">{count, plural, =1 {# hora atrás} other {# horas atrás}}</string>
+    <string name="duration_hours_relative_future">{count, plural, =1 {# hora} other {# horas}}</string>
     <string name="duration_hours_shortest">"%d h"</string>
     <string name="duration_hours_shortest_future">em %d h</string>
-    <string name="duration_minutes_relative">{count, plural, =1 {# minuto atrás} other {# minutos atrás} }</string>
-    <string name="duration_minutes_relative_future">{count, plural, =1 {# minuto} other {# minutos} }</string>
+    <string name="duration_minutes_relative">{count, plural, =1 {# minuto atrás} other {# minutos atrás}}</string>
+    <string name="duration_minutes_relative_future">{count, plural, =1 {# minuto} other {# minutos}}</string>
     <string name="duration_minutes_shortest">"%d min"</string>
     <string name="duration_minutes_shortest_future">em %d min</string>
-    <string name="duration_years_relative">{count, plural, =1 {# ano atrás} other {# anos atrás} }</string>
-    <string name="duration_years_relative_future">{count, plural, =1 {# ano} other {# anos} }</string>
+    <string name="duration_years_relative">{count, plural, =1 {# ano atrás} other {# anos atrás}}</string>
+    <string name="duration_years_relative_future">{count, plural, =1 {# ano} other {# anos}}</string>
     <string name="duration_years_shortest">"%d ano(s)"</string>
     <string name="duration_years_shortest_future">em %d ano(s)</string>
     <string name="dynamic_mode_notification_channel_name">Notificação de informação do modo rotina</string>
@@ -690,7 +690,7 @@ Em caso de dúvidas, entre em contato com o administrador da sua organização."
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Código de recurso concluído.</string>
     <string name="fcError">Problema de conexão ou código de recurso inválido.</string>
-    <string name="file_count">{count, plural, =1 {{file_name} + # arquivo} other {{file_name} + # arquivos} }</string>
+    <string name="file_count">{count, plural, =1 {{file_name} + # arquivo} other {{file_name} + # arquivos}}</string>
     <string name="find">Localizar</string>
     <string name="find_next">Localizar próximo</string>
     <string name="find_on_page">Localizar na página</string>
@@ -975,7 +975,7 @@ Tente novamente em %2$d segundos."</string>
     <string name="language_picker_section_suggested_bilingual">Idiomas sugeridos</string>
     <string name="language_selection_title">Adicionar um idioma</string>
     <string name="last_month">Mês passado</string>
-    <string name="last_num_days">{ count, plural, =1 {Último dia #} other {# últimos dias} }</string>
+    <string name="last_num_days">{ count, plural, =1 {Último dia #} other {# últimos dias}}</string>
     <string name="launchBrowserDefault">Abrir Navegador?</string>
     <string name="launch_warning_original">%1$s foi iniciado.</string>
     <string name="launch_warning_replace">%1$s não está em execução.</string>
@@ -1081,7 +1081,7 @@ Se você não permitir que este app acesse todos os registros do dispositivo, el
     <string name="managed_profile_label_badge">Trabalho: %1$s</string>
     <string name="managed_profile_label_badge_2">Segundo %1$s de trabalho</string>
     <string name="managed_profile_label_badge_3">Terceiro %1$s de trabalho</string>
-    <string name="matches_found">{ count, plural, =1 {# correspondente} other {# do {total}} }</string>
+    <string name="matches_found">{ count, plural, =1 {# correspondente} other {# do {total}}}</string>
     <string name="maximize_button_text">Maximizar</string>
     <string name="me">Eu</string>
     <string name="media_route_button_content_description">Transmitir</string>
@@ -2026,7 +2026,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="ssl_ca_cert_noti_by_administrator">Pelo administrador do seu perfil de trabalho</string>
     <string name="ssl_ca_cert_noti_by_unknown">Por terceiros desconhecidos</string>
     <string name="ssl_ca_cert_noti_managed">Por %s</string>
-    <string name="ssl_ca_cert_warning">{count, plural, =1 {Autoridade de certificação instalada} other {Autoridades certificadoras instaladas} }</string>
+    <string name="ssl_ca_cert_warning">{count, plural, =1 {Autoridade de certificação instalada} other {Autoridades certificadoras instaladas}}</string>
     <string name="ssl_certificate">Certificado de segurança</string>
     <string name="ssl_certificate_is_valid">Este certificado é válido.</string>
     <string name="status_communication_speaker_summary">Uma chamada no viva-voz está em andamento. O áudio ainda será reproduzido pelo alto-falante quando os fones de ouvido forem conectados.</string>
@@ -2259,14 +2259,14 @@ Quer fechá-la?"</string>
     <string name="zen_mode_default_weekends_name">Fim de semana</string>
     <string name="zen_mode_default_weeknights_name">Durante a semana à noite</string>
     <string name="zen_mode_downtime_feature_name">Tempo de inatividade</string>
-    <string name="zen_mode_duration_hours">{count, plural, =1 {Por 1 hora} other {Por # horas} }</string>
-    <string name="zen_mode_duration_hours_short">{count, plural, =1 {Por 1 hora} other {Por # horas} }</string>
-    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {Por 1 hora (até {formattedTime})} other {Por # horas (até {formattedTime})} }</string>
-    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {Por 1 hora (até {formattedTime})} other {Por # horas (até {formattedTime})} }</string>
-    <string name="zen_mode_duration_minutes">{count, plural, =1 {Por 1 minuto} other {Por # minutos} }</string>
-    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {Por 1 min} other {Por # min} }</string>
-    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {Por 1 minuto (até {formattedTime})} other {Por # minutos (até {formattedTime})} }</string>
-    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {Por 1 min (até {formattedTime})} other {Por # min (até {formattedTime})} }</string>
+    <string name="zen_mode_duration_hours">{count, plural, =1 {Por 1 hora} other {Por # horas}}</string>
+    <string name="zen_mode_duration_hours_short">{count, plural, =1 {Por 1 hora} other {Por # horas}}</string>
+    <string name="zen_mode_duration_hours_summary">{count, plural, =1 {Por 1 hora (até {formattedTime})} other {Por # horas (até {formattedTime})}}</string>
+    <string name="zen_mode_duration_hours_summary_short">{count, plural, =1 {Por 1 hora (até {formattedTime})} other {Por # horas (até {formattedTime})}}</string>
+    <string name="zen_mode_duration_minutes">{count, plural, =1 {Por 1 minuto} other {Por # minutos}}</string>
+    <string name="zen_mode_duration_minutes_short">{count, plural, =1 {Por 1 min} other {Por # min}}</string>
+    <string name="zen_mode_duration_minutes_summary">{count, plural, =1 {Por 1 minuto (até {formattedTime})} other {Por # minutos (até {formattedTime})}}</string>
+    <string name="zen_mode_duration_minutes_summary_short">{count, plural, =1 {Por 1 min (até {formattedTime})} other {Por # min (até {formattedTime})}}</string>
     <string name="zen_mode_feature_name">Não perturbe</string>
     <string name="zen_mode_forever">Até você desativar</string>
     <string name="zen_mode_forever_dnd">Até que você desative o Não perturbe</string>

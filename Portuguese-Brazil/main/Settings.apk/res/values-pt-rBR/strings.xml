@@ -437,7 +437,7 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="accessibility_tutorial_dialog_title_triple">Toque três vezes na tela para abrir</string>
     <string name="accessibility_tutorial_dialog_title_volume">Mantenha as teclas de volume pression. para abrir</string>
     <string name="accessibility_tutorial_pager">Página %1$d de %2$d</string>
-    <string name="accessibility_usage_summary">{count, plural, =1 {1 app tem acesso total ao seu dispositivo} other {# apps têm acesso total ao seu dispositivo} }</string>
+    <string name="accessibility_usage_summary">{count, plural, =1 {1 app tem acesso total ao seu dispositivo} other {# apps têm acesso total ao seu dispositivo}}</string>
     <string name="accessibility_usage_title">Uso de acessibilidade</string>
     <string name="accessibility_vibration_intensity_high">Alta</string>
     <string name="accessibility_vibration_intensity_low">Baixa</string>
@@ -465,10 +465,10 @@ Para alternar entre os recursos, deslize de baixo para cima com três dedos, sem
     <string name="accessibility_wifi_two_bars">Wi-Fi duas barras.</string>
     <string name="accessibility_work_account_title">Conta de trabalho - %s</string>
     <string name="accessibility_work_profile_app_description">Trabalho %s</string>
-    <string name="accessibilty_autoclick_delay_unit_second">{count, plural, =1 {{tempo} segundo} other {{tempo} segundos} }</string>
-    <string name="accessibilty_autoclick_preference_subtitle_long_delay">{count, plural, =1 {Longo ({tempo} segundos)} other {Longo ({tempo} segundos)} }</string>
-    <string name="accessibilty_autoclick_preference_subtitle_medium_delay">{count, plural, =1 {Médio ({tempo} segundos)} other {Médio ({tempo} segundos)} }</string>
-    <string name="accessibilty_autoclick_preference_subtitle_short_delay">{count, plural, =1 {Curto ({tempo} segundos)} other {Curto ({tempo} segundos)} }</string>
+    <string name="accessibilty_autoclick_delay_unit_second">{count, plural, =1 {{tempo} segundo} other {{tempo} segundos}}</string>
+    <string name="accessibilty_autoclick_preference_subtitle_long_delay">{count, plural, =1 {Longo ({tempo} segundos)} other {Longo ({tempo} segundos)}}</string>
+    <string name="accessibilty_autoclick_preference_subtitle_medium_delay">{count, plural, =1 {Médio ({tempo} segundos)} other {Médio ({tempo} segundos)}}</string>
+    <string name="accessibilty_autoclick_preference_subtitle_short_delay">{count, plural, =1 {Curto ({tempo} segundos)} other {Curto ({tempo} segundos)}}</string>
     <string name="accessor_expires_text">O licenciamento expira em %s</string>
     <string name="accessor_info_title">Apps compartilhando dados</string>
     <string name="accessor_never_expires_text">O licenciamento nunca expira.</string>
@@ -916,13 +916,13 @@ Alterar as configurações agora?"</string>
     <string name="app_launch_supported_domain_urls_title">Links compatíveis</string>
     <string name="app_launch_supported_links_add">Adicionar</string>
     <string name="app_launch_supported_links_subtext">Abrir em %s</string>
-    <string name="app_launch_supported_links_title">{count, plural, =1 {link suportado: #} other {links suportados: #} }</string>
+    <string name="app_launch_supported_links_title">{count, plural, =1 {link suportado: #} other {links suportados: #}}</string>
     <string name="app_launch_top_intro_message">Permita que links da web sejam abertos neste app</string>
     <string name="app_launch_verified_links_info_description">Mostrar lista de links verificados</string>
-    <string name="app_launch_verified_links_message">{count, plural, =1 {Este link foi verificado e abre automaticamente neste app.} other {Esses links são verificados e abrem automaticamente neste app.} }</string>
-    <string name="app_launch_verified_links_title">{count, plural, =1 {link verificado: #} other {links verificados: #} }</string>
+    <string name="app_launch_verified_links_message">{count, plural, =1 {Este link foi verificado e abre automaticamente neste app.} other {Esses links são verificados e abrem automaticamente neste app.}}</string>
+    <string name="app_launch_verified_links_title">{count, plural, =1 {link verificado: #} other {links verificados: #}}</string>
     <string name="app_link_open_always">Abrir</string>
-    <string name="app_link_open_always_summary">{count, plural, =1 {O app afirma tratar # link} other {O app afirma tratar # links} }</string>
+    <string name="app_link_open_always_summary">{count, plural, =1 {O app afirma tratar # link} other {O app afirma tratar # links}}</string>
     <string name="app_link_open_ask">Perguntar sempre</string>
     <string name="app_link_open_never">Não abrir</string>
     <string name="app_link_title">Configurações adicionais no app</string>
@@ -1165,7 +1165,7 @@ Alterar as configurações agora?"</string>
     <string name="autofill_max_partitions">Máximo de solicitações por sessão</string>
     <string name="autofill_max_visible_datasets">Máximo de conjuntos de dados visíveis</string>
     <string name="autofill_passwords">Senhas</string>
-    <string name="autofill_passwords_count">{count, plural, =1 {# senha} other {# senhas} }</string>
+    <string name="autofill_passwords_count">{count, plural, =1 {# senha} other {# senhas}}</string>
     <string name="autofill_reset_developer_options">Redefinir para valores padrão</string>
     <string name="autofill_reset_developer_options_complete">As opções do desenvolvedor de preenchimento automático foram redefinidas</string>
     <string name="automatic_brightness">Brilho automático</string>
@@ -1244,10 +1244,10 @@ Para restringir, ative a otimização."</string>
     <string name="background_data_dialog_message">A desativação dos dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. Alguns apps ainda podem usar a conexão de dados de segundo plano.</string>
     <string name="background_data_dialog_title">Desativar dados 2º plano?</string>
     <string name="background_data_summary">Apps sincronizam, enviam e recebem dados a qualquer momento</string>
-    <string name="background_install_after">{count, plural, =1 {Apps instalados há mais de # mês} other {Apps instalados há mais de # meses} }</string>
-    <string name="background_install_before">{count, plural, =1 {Apps instalados no último # mês} other {Apps instalados nos últimos # meses} }</string>
+    <string name="background_install_after">{count, plural, =1 {Apps instalados há mais de # mês} other {Apps instalados há mais de # meses}}</string>
+    <string name="background_install_before">{count, plural, =1 {Apps instalados no último # mês} other {Apps instalados nos últimos # meses}}</string>
     <string name="background_install_feature_list_no_entry">Nenhum app instalado em segundo plano</string>
-    <string name="background_install_preference_summary">{count, plural, =1 {# app} other {# apps} }</string>
+    <string name="background_install_preference_summary">{count, plural, =1 {# app} other {# apps}}</string>
     <string name="background_install_summary">"O fabricante do seu dispositivo pode instalar apps no seu dispositivo em segundo plano ou permitir que sua operadora e outros parceiros façam isso. Nenhum app listado aqui é necessário para que seu dispositivo funcione normalmente. Você pode desinstalar apps que não deseja."</string>
     <string name="background_install_title">Apps instalados em segundo plano</string>
     <string name="background_install_uninstall_button_description">Desinstalar app</string>
@@ -1394,7 +1394,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela internet.
     <string name="battery_level_title">Nível da bateria</string>
     <string name="battery_light_summary">Ativa o LED de notificações durante o carregamento do dispositivo</string>
     <string name="battery_light_title">Ativar LED durante carregamento</string>
-    <string name="battery_manager_app_restricted">{count, plural, =1 {# app restrito} other {# apps restritos} }</string>
+    <string name="battery_manager_app_restricted">{count, plural, =1 {# app restrito} other {# apps restritos}}</string>
     <string name="battery_manager_off">Desativado</string>
     <string name="battery_manager_on">Ativado / Detectar quando apps estiverem descarregando a bateria</string>
     <string name="battery_manager_summary">Detectando quando os apps drenam a bateria</string>
@@ -1499,7 +1499,7 @@ Quando essas condições terminarem, seu telefone será carregado automaticament
     <string name="battery_tip_low_battery_title">Baixa capacidade de bateria</string>
     <string name="battery_tip_restrict_app_dialog_message">Para economizar bateria, não permita que %1$s use a bateria em segundo plano. Esse app pode não funcionar corretamente e é possível que haja atraso nas notificações.</string>
     <string name="battery_tip_restrict_app_dialog_ok">Restringir</string>
-    <string name="battery_tip_restrict_app_dialog_title">{count, plural, =1 {Restringir app?} other {Restringir # apps?} }</string>
+    <string name="battery_tip_restrict_app_dialog_title">{count, plural, =1 {Restringir app?} other {Restringir # apps?}}</string>
     <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"Para economizar bateria, não permita que esses apps usem a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente e é possível que haja atraso nas notificações.
 
 Apps:"</string>
@@ -1507,10 +1507,10 @@ Apps:"</string>
 
 Apps:
 %1$s."</string>
-    <string name="battery_tip_restrict_handled_summary">"{count, plural, =1 {Este app não pode ser executado em segundo plano} other {Esses apps não podem ser executados em segundo plano} }"</string>
-    <string name="battery_tip_restrict_handled_title">{count, plural, =1 {{label} restrito recentemente} other {# apps restritos recentemente} }</string>
-    <string name="battery_tip_restrict_summary">{count, plural, =1 {{label} tem alto uso de bateria em segundo plano} other {# apps têm alto uso de bateria em segundo plano} }</string>
-    <string name="battery_tip_restrict_title">{count, plural, =1 {Restringir # app} other {Restringir # apps} }</string>
+    <string name="battery_tip_restrict_handled_summary">"{count, plural, =1 {Este app não pode ser executado em segundo plano} other {Esses apps não podem ser executados em segundo plano}}"</string>
+    <string name="battery_tip_restrict_handled_title">{count, plural, =1 {{label} restrito recentemente} other {# apps restritos recentemente}}</string>
+    <string name="battery_tip_restrict_summary">{count, plural, =1 {{label} tem alto uso de bateria em segundo plano} other {# apps têm alto uso de bateria em segundo plano}}</string>
+    <string name="battery_tip_restrict_title">{count, plural, =1 {Restringir # app} other {Restringir # apps}}</string>
     <string name="battery_tip_smart_battery_summary">Ative o Gerenciador de bateria</string>
     <string name="battery_tip_smart_battery_title">Melhore a duração da bateria do seu dispositivo</string>
     <string name="battery_tip_summary_summary">O consumo de bateria em segundo plano do dispositivo está normal.</string>
@@ -1579,7 +1579,7 @@ para ^2"</string>
     <string name="beauty_camera_switch">Embelezador</string>
     <string name="beauty_fc_assistant">Assistente da câmera frontal</string>
     <string name="billing_cycle">Alerta e limite de dados</string>
-    <string name="billing_cycle_days_left">{count, plural, =1 {# dia restante} other {# dias restantes} }</string>
+    <string name="billing_cycle_days_left">{count, plural, =1 {# dia restante} other {# dias restantes}}</string>
     <string name="billing_cycle_fragment_summary">Todos os meses, no dia %1$s</string>
     <string name="billing_cycle_less_than_one_day_left">Resta menos de um dia</string>
     <string name="billing_cycle_none_left">Não há tempo restante</string>
@@ -2658,7 +2658,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="choose_sim_activating">Ativando…</string>
     <string name="choose_sim_could_not_activate">Não pode ser ativado agora</string>
     <string name="choose_sim_item_summary_unknown">Número desconhecido</string>
-    <string name="choose_sim_text">{count, plural, =1 {Há 1 número disponível neste dispositivo. É possível usar apenas um por vez} =2 {Há 2 números disponíveis neste dispositivo, mas é possível usar apenas um por vez} other {Há # números disponíveis neste dispositivo, mas é possível usar apenas um por vez} }</string>
+    <string name="choose_sim_text">{count, plural, =1 {Há 1 número disponível neste dispositivo. É possível usar apenas um por vez} =2 {Há 2 números disponíveis neste dispositivo, mas é possível usar apenas um por vez} other {Há # números disponíveis neste dispositivo, mas é possível usar apenas um por vez}}</string>
     <string name="choose_sim_title">Escolha um número para usar</string>
     <string name="choose_smartcover_type">Selecionar tipo de capa</string>
     <string name="choose_spell_checker">Escolher corretor ortográfico</string>
@@ -3197,7 +3197,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="data_saver_on">Ativada</string>
     <string name="data_saver_switch_title">Usar o recurso \"Economia de dados\"</string>
     <string name="data_saver_title">Economia de dados</string>
-    <string name="data_saver_unrestricted_summary">{count, plural, =1 {1 app tem permissão para usar dados irrestritos quando a Economia de dados está ativada} other {# apps têm permissão para usar dados irrestritos quando a Economia de dados está ativada} }</string>
+    <string name="data_saver_unrestricted_summary">{count, plural, =1 {1 app tem permissão para usar dados irrestritos quando a Economia de dados está ativada} other {# apps têm permissão para usar dados irrestritos quando a Economia de dados está ativada}}</string>
     <string name="data_size_label">Dados do usuário</string>
     <string name="data_summary_format">%1$s usados desde %2$s</string>
     <string name="data_switch_started">Trocando SIM de dados. Isso pode demorar um pouco…</string>
@@ -3405,7 +3405,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="default_launcher_set_system_message">Pressione o botão Início para restaurar a launcher padrão</string>
     <string name="default_launcher_title">Launcher padrão</string>
     <string name="default_map_app_title">App Mapa</string>
-    <string name="default_phone_app_title">{count, plural, =1 {app de Telefone} other {apps de Telefone} }</string>
+    <string name="default_phone_app_title">{count, plural, =1 {app de Telefone} other {apps de Telefone}}</string>
     <string name="default_notification_assistant">Notificações adaptáveis</string>
     <string name="default_phone_title">Discador</string>
     <string name="default_print_service_main_switch_title">Use o serviço de impressão</string>
@@ -3432,7 +3432,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="delete_saved_network">Esquecer rede salva</string>
     <string name="delete_sound_effect">Som ao excluir itens</string>
     <string name="deleted_apps">Apps excluídos</string>
-    <string name="deleted_channels">{count, plural, =1 {# categoria excluída} other {# categorias excluídas} }</string>
+    <string name="deleted_channels">{count, plural, =1 {# categoria excluída} other {# categorias excluídas}}</string>
     <string name="deletion_helper_automatic_title">Modo automático</string>
     <string name="deletion_helper_manual_title">Modo manual</string>
     <string name="deletion_helper_preference_title">Liberar espaço agora</string>
@@ -3716,7 +3716,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dlg_remove_locales_error_message">Mantenha pelo menos um idioma preferencial</string>
     <string name="dlg_remove_locales_error_title">Não é possível remover todos os idiomas</string>
     <string name="dlg_remove_locales_message">O texto será exibido em outro idioma.</string>
-    <string name="dlg_remove_locales_title">{count, plural, =1 {Remover idioma selecionado?} other {Remover idiomas selecionados?} }</string>
+    <string name="dlg_remove_locales_title">{count, plural, =1 {Remover idioma selecionado?} other {Remover idiomas selecionados?}}</string>
     <string name="dndm_alarm_content">Sons</string>
     <string name="dndm_alarm_content_all">Permitir tudo</string>
     <string name="dndm_alarm_content_call">Chamadas</string>
@@ -4108,10 +4108,10 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="enterprise_privacy_microphone_access">Permissões do microfone</string>
     <string name="enterprise_privacy_network_logs">Registro de tráfego de rede mais recente</string>
     <string name="enterprise_privacy_none">Nenhum</string>
-    <string name="enterprise_privacy_number_ca_certs">{count, plural, =1 {Mínimo de # certificado CA} other {Mínimo de # certificados CA} }</string>
-    <string name="enterprise_privacy_number_failed_password_wipe">{count, plural, =1 {# tentativa} other {# tentativas} }</string>
-    <string name="enterprise_privacy_number_packages">{count, plural, =1 {# app} other {# apps} }</string>
-    <string name="enterprise_privacy_number_packages_lower_bound">{count, plural, =1 {mínimo # app} other {mínimo # apps} }</string>
+    <string name="enterprise_privacy_number_ca_certs">{count, plural, =1 {Mínimo de # certificado CA} other {Mínimo de # certificados CA}}</string>
+    <string name="enterprise_privacy_number_failed_password_wipe">{count, plural, =1 {# tentativa} other {# tentativas}}</string>
+    <string name="enterprise_privacy_number_packages">{count, plural, =1 {# app} other {# apps}}</string>
+    <string name="enterprise_privacy_number_packages_lower_bound">{count, plural, =1 {mínimo # app} other {mínimo # apps}}</string>
     <string name="enterprise_privacy_security_logs">Registro de segurança mais recente</string>
     <string name="enterprise_privacy_settings">Informações do dispositivo gerenciado</string>
     <string name="enterprise_privacy_settings_summary_generic">Alterações e configurações gerenciadas pela sua organização</string>
@@ -5280,7 +5280,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="interact_across_profiles_install_personal_app_title">Para conectar esses apps, instale o app %1$s no seu perfil pessoal</string>
     <string name="interact_across_profiles_install_work_app_title">Para conectar esses apps, instale o app %1$s no seu perfil de trabalho</string>
     <string name="interact_across_profiles_keywords">perfil unificado app conectado apps de trabalho e pessoais</string>
-    <string name="interact_across_profiles_number_of_connected_apps">{count, plural, =1 {# app conectado} other {# apps conectados} }</string>
+    <string name="interact_across_profiles_number_of_connected_apps">{count, plural, =1 {# app conectado} other {# apps conectados}}</string>
     <string name="interact_across_profiles_number_of_connected_apps_none">Nenhum app conectado</string>
     <string name="interact_across_profiles_summary_1">Os apps conectados compartilham permissões e podem acessar dados uns dos outros.</string>
     <string name="interact_across_profiles_summary_2">Só conecte apps em que você confia e que não compartilharão seus dados pessoais com o administrador de TI.</string>
@@ -5733,7 +5733,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="location_agps_supl_settings">Configurações de SUPL</string>
     <string name="location_app_level_permissions">Apps com acesso à localização</string>
     <string name="location_app_permission_summary_location_off">Localização desativada</string>
-    <string name="location_app_permission_summary_location_on">{count, plural, =1 {# do {total} app têm acesso à localização} other {# do {total} apps têm acesso à localização} }</string>
+    <string name="location_app_permission_summary_location_on">{count, plural, =1 {# do {total} app têm acesso à localização} other {# do {total} apps têm acesso à localização}}</string>
     <string name="location_category">Localização</string>
     <string name="location_category_location_services">Serviços de localização</string>
     <string name="location_category_recent_location_access">Acesso recente ao local</string>
@@ -5776,7 +5776,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="location_settings_master_switch_title">Usar local</string>
     <string name="location_settings_primary_switch_title">Usar localização</string>
     <string name="location_settings_summary_location_off">Configuração desativada</string>
-    <string name="location_settings_summary_location_on">{count, plural, =1 {Ativado - # app tem acesso à localização} other {Ativado - # apps têm acesso à localização} }</string>
+    <string name="location_settings_summary_location_on">{count, plural, =1 {Ativado - # app tem acesso à localização} other {Ativado - # apps têm acesso à localização}}</string>
     <string name="location_settings_title">Localização</string>
     <string name="location_sources_heading">Fontes de localização</string>
     <string name="location_street_level">Permitir que os apps usem o GPS do telefone para determinar sua posição</string>
@@ -6006,18 +6006,18 @@ Deve ter o mesmo comprimento que o PIN do Primeiro espaço."</string>
     <string name="lockpassword_password_recently_used">O administrador do dispositivo não permite usar uma senha recente</string>
     <string name="lockpassword_password_requires_alpha">Deve conter pelo menos uma letra</string>
     <string name="lockpassword_password_requires_digit">Deve conter pelo menos um dígito</string>
-    <string name="lockpassword_password_requires_letters">{count, plural, =1 {Deve conter pelo menos 1 letra} other {Deve conter pelo menos # letras} }</string>
-    <string name="lockpassword_password_requires_lowercase">{count, plural, =1 {Deve conter pelo menos 1 letra minúscula} other {Deve conter pelo menos # letras minúsculas} }</string>
-    <string name="lockpassword_password_requires_nonletter">{count, plural, =1 {Deve conter pelo menos 1 caractere não alfabético} other {Deve conter pelo menos # caracteres não alfabéticos} }</string>
-    <string name="lockpassword_password_requires_nonnumerical">{count, plural, =1 {Deve conter pelo menos 1 caractere não numérico} other {Deve conter pelo menos # caracteres não numéricos} }</string>
-    <string name="lockpassword_password_requires_numeric">{count, plural, =1 {Deve conter pelo menos 1 dígito numérico} other {Deve conter pelo menos # dígitos numéricos} }</string>
+    <string name="lockpassword_password_requires_letters">{count, plural, =1 {Deve conter pelo menos 1 letra} other {Deve conter pelo menos # letras}}</string>
+    <string name="lockpassword_password_requires_lowercase">{count, plural, =1 {Deve conter pelo menos 1 letra minúscula} other {Deve conter pelo menos # letras minúsculas}}</string>
+    <string name="lockpassword_password_requires_nonletter">{count, plural, =1 {Deve conter pelo menos 1 caractere não alfabético} other {Deve conter pelo menos # caracteres não alfabéticos}}</string>
+    <string name="lockpassword_password_requires_nonnumerical">{count, plural, =1 {Deve conter pelo menos 1 caractere não numérico} other {Deve conter pelo menos # caracteres não numéricos}}</string>
+    <string name="lockpassword_password_requires_numeric">{count, plural, =1 {Deve conter pelo menos 1 dígito numérico} other {Deve conter pelo menos # dígitos numéricos}}</string>
     <string name="lockpassword_password_requires_symbol">Deve conter pelo menos um símbolo</string>
-    <string name="lockpassword_password_requires_symbols">{count, plural, =1 {Deve conter pelo menos 1 símbolo especial} other {Deve conter pelo menos # símbolos especiais} }</string>
-    <string name="lockpassword_password_requires_uppercase">{count, plural, =1 {Deve conter pelo menos 1 letra maiúscula} other {Deve conter pelo menos # letras maiúsculas} }</string>
+    <string name="lockpassword_password_requires_symbols">{count, plural, =1 {Deve conter pelo menos 1 símbolo especial} other {Deve conter pelo menos # símbolos especiais}}</string>
+    <string name="lockpassword_password_requires_uppercase">{count, plural, =1 {Deve conter pelo menos 1 letra maiúscula} other {Deve conter pelo menos # letras maiúsculas}}</string>
     <string name="lockpassword_password_set_toast">A senha foi definida</string>
-    <string name="lockpassword_password_too_long">{count, plural, =1 {Deve ter menos de # caractere} other {Deve ter menos de # caracteres} }</string>
-    <string name="lockpassword_password_too_short">{count, plural, =1 {Deve conter pelo menos # caractere} other {Deve ter pelo menos # caracteres} }</string>
-    <string name="lockpassword_password_too_short_all_numeric">{count, plural, =1 {Se estiver usando apenas números, deve ter pelo menos 1 dígito} other {Se estiver usando apenas números, deve ter pelo menos # dígitos} }</string>
+    <string name="lockpassword_password_too_long">{count, plural, =1 {Deve ter menos de # caractere} other {Deve ter menos de # caracteres}}</string>
+    <string name="lockpassword_password_too_short">{count, plural, =1 {Deve conter pelo menos # caractere} other {Deve ter pelo menos # caracteres}}</string>
+    <string name="lockpassword_password_too_short_all_numeric">{count, plural, =1 {Se estiver usando apenas números, deve ter pelo menos 1 dígito} other {Se estiver usando apenas números, deve ter pelo menos # dígitos}}</string>
     <string name="lockpassword_pattern_set_toast">O padrão foi definido</string>
     <string name="lockpassword_pin_blacklisted_by_admin">PINs comuns foram bloqueados pelo seu administrador de TI. Tente um PIN diferente.</string>
     <string name="lockpassword_pin_contains_non_digits">O PIN só pode conter números</string>
@@ -6026,7 +6026,7 @@ Deve ter o mesmo comprimento que o PIN do Primeiro espaço."</string>
     <string name="lockpassword_pin_set_toast">PIN definido</string>
     <string name="lockpassword_pin_too_long">O PIN pode conter até %d dígitos</string>
     <string name="lockpassword_pin_too_short">O PIN deve conter pelo menos %d dígitos</string>
-    <string name="lockpassword_pin_too_short_autoConfirm_extra_message">{count, plural, =1 {O PIN deve conter pelo menos # dígito, mas um PIN de {minAutoConfirmLen} dígitos é recomendado para maior segurança} other {O PIN deve ter pelo menos # dígitos, mas um PIN de {minAutoConfirmLen} dígitos é recomendado para maior segurança} }</string>
+    <string name="lockpassword_pin_too_short_autoConfirm_extra_message">{count, plural, =1 {O PIN deve conter pelo menos # dígito, mas um PIN de {minAutoConfirmLen} dígitos é recomendado para maior segurança} other {O PIN deve ter pelo menos # dígitos, mas um PIN de {minAutoConfirmLen} dígitos é recomendado para maior segurança}}</string>
     <string name="lockpassword_reenter_your_profile_password_header">Digite novamente sua senha de trabalho</string>
     <string name="lockpassword_reenter_your_profile_pin_header">Digite novamente seu PIN</string>
     <string name="lockpassword_remote_validation_header">"Verifique se é você"</string>
@@ -6211,7 +6211,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="manage_space_text">Gerenciar espaço</string>
     <string name="manage_trust_agents">Agentes de confiança</string>
     <string name="manage_trust_agents_summary">Nenhum</string>
-    <string name="manage_trust_agents_summary_on">{count, plural, =1 {1 agente de confiança ativo} other {# agentes de confiança ativos} }</string>
+    <string name="manage_trust_agents_summary_on">{count, plural, =1 {1 agente de confiança ativo} other {# agentes de confiança ativos}}</string>
     <string name="manage_xiaomi_router">Configurações do Roteador Mi</string>
     <string name="manage_zen_access_title">Acesso ao Não perturbe</string>
     <string name="manageapplications_settings_summary">Gerenciar e remover apps instalados</string>
@@ -6408,7 +6408,7 @@ Não poderá reverter esta ação."</string>
     <string name="memory_title">"Disponível: %1$s | Total: %2$s"</string>
     <string name="memory_usage">Uso de memória</string>
     <string name="memory_usage_apps">Memória usada por apps</string>
-    <string name="memory_usage_apps_summary">{count, plural, =1 {1 app usou memória na última {vez}} other {# apps usaram memória na última {vez}} }</string>
+    <string name="memory_usage_apps_summary">{count, plural, =1 {1 app usou memória na última {vez}} other {# apps usaram memória na última {vez}}}</string>
     <string name="memory_use_summary">%1$s de memória média usada nas últimas três horas</string>
     <string name="memorycard_calculating">Calculando…</string>
     <string name="memtag_footer">"Você terá que reiniciar seu dispositivo para ativar ou desativar a proteção avançada de memória. Quando estiver ativado, você poderá notar um desempenho mais lento do dispositivo."</string>
@@ -7522,7 +7522,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_fold_title">Pasta de notificações</string>
     <string name="notification_group_title">Grupo de categoria de notificações</string>
     <string name="notification_history">Histórico de notificações</string>
-    <string name="notification_history_count">{count, plural, =1 {# notificação} other {# notificações} }</string>
+    <string name="notification_history_count">{count, plural, =1 {# notificação} other {# notificações}}</string>
     <string name="notification_history_dismiss">Dispensadas recentemente</string>
     <string name="notification_history_off_summary">Ative o histórico de notificações para ver notificações recentes e as notificações suspensas</string>
     <string name="notification_history_off_title_extended">Histórico de notificações desativado</string>
@@ -7627,7 +7627,7 @@ Isso também autoriza o app a ativar ou desativar o Não perturbe e alterar as c
     <string name="notifications_bubble_setting_description">Algumas conversas aparecerão como ícones flutuantes sobre outros apps</string>
     <string name="notifications_bubble_setting_on_summary">Ativados / As conversas podem aparecer como ícones flutuantes</string>
     <string name="notifications_bubble_setting_title">Permitir que os apps mostrem balões</string>
-    <string name="notifications_categories_off">{count, plural, =1 {# categoria desativada} other {# categorias desativadas} }</string>
+    <string name="notifications_categories_off">{count, plural, =1 {# categoria desativada} other {# categorias desativadas}}</string>
     <string name="notifications_disabled">Desativadas</string>
     <string name="notifications_enabled">Ativado</string>
     <string name="notifications_enabled_with_info">%1$s / %2$s</string>
@@ -7636,9 +7636,9 @@ Isso também autoriza o app a ativar ou desativar o Não perturbe e alterar as c
     <string name="notifications_partly_blocked">%1$d de %2$d categorias desativadas</string>
     <string name="notifications_priority">Não perturbe substituído</string>
     <string name="notifications_redacted">Conteúdo confidencial não exibido na Tela de bloqueio</string>
-    <string name="notifications_sent_daily">{count, plural, =1 {Sobre # notificação por dia} other {Sobre # notificações por dia} }</string>
+    <string name="notifications_sent_daily">{count, plural, =1 {Sobre # notificação por dia} other {Sobre # notificações por dia}}</string>
     <string name="notifications_sent_never">Nunca</string>
-    <string name="notifications_sent_weekly">{count, plural, =1 {Sobre # notificação por semana} other {Sobre # notificações por semana} }</string>
+    <string name="notifications_sent_weekly">{count, plural, =1 {Sobre # notificação por semana} other {Sobre # notificações por semana}}</string>
     <string name="notifications_silenced">Silenciado</string>
     <string name="notifications_title">Notificações</string>
     <string name="now">Reiniciar agora</string>
@@ -7649,9 +7649,9 @@ Isso também autoriza o app a ativar ou desativar o Não perturbe e alterar as c
     <string name="nrca_switch_title">Usar agregação de operadora 5G</string>
     <string name="nrca_type_title">Status de agregação da operadora</string>
     <string name="nrca_unregistered">Não registrado</string>
-    <string name="number_of_device_admins">{count, plural, =1 {# app ativo} other {# apps ativos} }</string>
+    <string name="number_of_device_admins">{count, plural, =1 {# app ativo} other {# apps ativos}}</string>
     <string name="number_of_device_admins_none">Nenhum app ativo</string>
-    <string name="number_of_urls">{count, plural, =1 {# URL} other {# URLs} }</string>
+    <string name="number_of_urls">{count, plural, =1 {# URL} other {# URLs}}</string>
     <string name="numbers_preferences_title">Preferências de números</string>
     <string name="oaid_apps_summary">Permita ou restrinja o acesso a apps individualmente</string>
     <string name="oaid_apps_title">Gerenciar ID virtual</string>
@@ -8243,7 +8243,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="print_feature_state_on">Ativado</string>
     <string name="print_job_summary">"%1$s
 %2$s"</string>
-    <string name="print_jobs_summary">{count, plural, =1 {1 trabalho de impressão} other {# trabalhos de impressão} }</string>
+    <string name="print_jobs_summary">{count, plural, =1 {1 trabalho de impressão} other {# trabalhos de impressão}}</string>
     <string name="print_menu_item_add_printer">Adicionar impressora</string>
     <string name="print_menu_item_add_printers">Adicionar impressoras</string>
     <string name="print_menu_item_add_service">Adicionar serviço</string>
@@ -8260,11 +8260,11 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="print_searching_for_printers">Procurando impressoras</string>
     <string name="print_service_disabled">Serviço desativado</string>
     <string name="print_settings">Impressão</string>
-    <string name="print_settings_summary">{count, plural, =1 {1 serviço de impressão ativado} other {# serviços de impressão ativados} }</string>
+    <string name="print_settings_summary">{count, plural, =1 {1 serviço de impressão ativado} other {# serviços de impressão ativados}}</string>
     <string name="print_settings_summary_no_service">Desativada</string>
     <string name="print_settings_title">Serviços de impressão</string>
     <string name="printer_info_desc">Mais informações sobre essa impressora</string>
-    <string name="priority_conversation_count">{count, plural, =1 {# conversa prioritária} other {# conversas prioritárias} }</string>
+    <string name="priority_conversation_count">{count, plural, =1 {# conversa prioritária} other {# conversas prioritárias}}</string>
     <string name="priority_conversation_count_zero">Sem conversas prioritárias</string>
     <string name="priority_storage_app_settings">Os dados serão salvos no %1$s</string>
     <string name="priority_storage_settings_summary">Se nenhum cartão SD for detectado, seus dados serão salvos na memória interna do dispositivo automaticamente</string>
@@ -8656,7 +8656,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="restrict_bg_app">Restringir</string>
     <string name="restrict_max_aspect_ratio_title">Estes apps podem não funcionar corretamente em Tela cheia</string>
     <string name="restricted_app_detail_footer">Esses apps estão usando a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente, e é possível que as notificações sejam entregues com atraso.</string>
-    <string name="restricted_app_summary">{count, plural, =1 {Limitando o uso da bateria para # app} other {Limitando o uso da bateria para # apps} }</string>
+    <string name="restricted_app_summary">{count, plural, =1 {Limitando o uso da bateria para # app} other {Limitando o uso da bateria para # apps}}</string>
     <string name="restricted_app_time_summary">Restringido %1$s</string>
     <string name="restricted_app_title">Apps restritos</string>
     <string name="restricted_false_label">O app pode usar a bateria em 2º plano</string>
@@ -8736,7 +8736,7 @@ Essa configuração afeta todos os usuários do dispositivo."</string>
     <string name="runningservicedetails_stop_dlg_title">Interromper o serviço do sistema?</string>
     <string name="runningservices_settings_summary">Visualize e controle os serviços em execução no momento</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
-    <string name="runtime_permissions_additional_count">{count, plural, =1 {# permissão adicional} other {# permissões adicionais} }</string>
+    <string name="runtime_permissions_additional_count">{count, plural, =1 {# permissão adicional} other {# permissões adicionais}}</string>
     <string name="runtime_permissions_summary_control_app_access">Controle o acesso de apps aos seus dados</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Nenhuma permissão concedida</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Nenhuma permissão solicitada</string>
@@ -9485,7 +9485,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_settings_fingerprint_enroll_udfps_title">Tocar e segurar o sensor de impressão digital</string>
     <string name="security_settings_fingerprint_multiple_face_watch_preference_summary">Rosto, impressões digitais e %s adicionados</string>
     <string name="security_settings_fingerprint_multiple_watch_preference_summary">Impressões digitais e %s adicionadas</string>
-    <string name="security_settings_fingerprint_preference_summary">{count, plural, =1 {Impressão digital adicionada} other {# impressões digitais adicionadas} }</string>
+    <string name="security_settings_fingerprint_preference_summary">{count, plural, =1 {Impressão digital adicionada} other {# impressões digitais adicionadas}}</string>
     <string name="security_settings_fingerprint_preference_summary_none">Configuração necessária</string>
     <string name="security_settings_fingerprint_preference_title">Impressão digital</string>
     <string name="security_settings_fingerprint_settings_footer_learn_more">Saiba mais sobre o desbloqueio por impressão digital</string>
@@ -9552,7 +9552,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="security_status">Status de segurança</string>
     <string name="security_status_title">Status da segurança</string>
     <string name="security_update">Atualização de segurança</string>
-    <string name="see_all_apps_title">{count, plural, =1 {Ver todos os apps} other {Ver todos os # apps} }</string>
+    <string name="see_all_apps_title">{count, plural, =1 {Ver todos os apps} other {Ver todos os # apps}}</string>
     <string name="see_less">Ver menos</string>
     <string name="see_more">Ver mais</string>
     <string name="seek_bar_info">Ajuste o tamanho</string>
@@ -9739,7 +9739,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="show_connected_devices_summary">Ver dispositivos conectados</string>
     <string name="show_connected_devices_title">Dispositivos conectados</string>
     <string name="show_dev_already">Não é necessário. Você já é um desenvolvedor.</string>
-    <string name="show_dev_countdown">{count, plural, =1 {Você está agora a # passos de se tornar um desenvolvedor.} other {Você está agora a # passos de se tornar um desenvolvedor.} }</string>
+    <string name="show_dev_countdown">{count, plural, =1 {Você está agora a # passos de se tornar um desenvolvedor.} other {Você está agora a # passos de se tornar um desenvolvedor.}}</string>
     <string name="show_dev_on">Você agora é um desenvolvedor!</string>
     <string name="show_fc">Apps fechados forçadamente</string>
     <string name="show_fc_summary">Mostrar apps que foram fechados à força</string>
@@ -10177,18 +10177,18 @@ Retirar o consentimento para %s agora?"</string>
     <string name="split_operation_guide_title">Como usar a Tela dividida</string>
     <string name="split_screen">Abrir Tela dividida</string>
     <string name="ssid_label">"SSID:"</string>
-    <string name="ssl_ca_cert_dialog_title">{count, plural, =1 {Confiar ou remover certificado} other {Confiar ou remover certificados} }</string>
+    <string name="ssl_ca_cert_dialog_title">{count, plural, =1 {Confiar ou remover certificado} other {Confiar ou remover certificados}}</string>
     <string name="ssl_ca_cert_info_message">"{numberOfCertificates, plural, =1 {{orgName} instalou uma autoridade de certificação para seu perfil de trabalho, que pode permitir que eles monitorem a atividade da rede de trabalho, incluindo e-mails, apps e sites seguros.
 
 Para obter mais informações sobre este certificado, entre em contato com seu administrador.} other {{orgName} instalou autoridades de certificação para seu perfil de trabalho, o que pode permitir que eles monitorem a atividade da rede de trabalho, incluindo e-mails, apps e sites seguros.
 
-Para obter mais informações sobre esses certificados, entre em contato com seu administrador.} }"</string>
+Para obter mais informações sobre esses certificados, entre em contato com seu administrador.}}"</string>
     <string name="ssl_ca_cert_info_message_device_owner">"{numberOfCertificates, plural, =1 {{orgName} instalou uma autoridade de certificação em seu dispositivo, o que pode permitir que eles monitorem a atividade de rede do seu dispositivo, incluindo e-mails, apps e sites seguros.
 
 Para obter mais informações sobre este certificado, entre em contato com seu administrador.} other {{orgName} instalou autoridades de certificação em seu dispositivo, o que pode permitir que eles monitorem a atividade de rede do dispositivo, incluindo e-mails, apps e sites seguros.
 
-Para obter mais informações sobre esses certificados, entre em contato com seu administrador.} }"</string>
-    <string name="ssl_ca_cert_settings_button">{count, plural, =1 {Verificar certificado} other {Verificar certificados} }</string>
+Para obter mais informações sobre esses certificados, entre em contato com seu administrador.}}"</string>
+    <string name="ssl_ca_cert_settings_button">{count, plural, =1 {Verificar certificado} other {Verificar certificados}}</string>
     <string name="ssl_ca_cert_warning">A rede pode ser monitorada</string>
     <string name="ssl_ca_cert_warning_message">"Sua atividade na rede, incluindo e-mails, apps e sites seguros, pode ser monitorada por terceiros.
 
@@ -11296,7 +11296,7 @@ Suas impressões digitais salvas também serão removidas deste perfil e não se
     <string name="unsupported_usim_card">Cartão USIM não suportado.</string>
     <string name="unused_apps">Apps não utilizados</string>
     <string name="unused_apps_category">Configurações de apps não utilizados</string>
-    <string name="unused_apps_summary">{count, plural, =1 {# app não utilizado} other {# apps não utilizados} }</string>
+    <string name="unused_apps_summary">{count, plural, =1 {# app não utilizado} other {# apps não utilizados}}</string>
     <string name="unused_apps_switch">Pausar a atividade do app se não for usado</string>
     <string name="unused_apps_switch_summary">Remove permissões, exclue arquivos temporários e interrompe as notificações</string>
     <string name="update_new_version">Atualização disponível</string>
@@ -11313,7 +11313,7 @@ Os dados que você enviará conterão informações gerais sobre seu dispositivo
 Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança."</string>
     <string name="upload_debug_log_summary">Compartilhe dados para ajudar a melhorar</string>
     <string name="upload_debug_log_title">Uso e diagnóstico</string>
-    <string name="uri_permissions_text">{count, plural, =1 {1 item} other {# itens} }</string>
+    <string name="uri_permissions_text">{count, plural, =1 {1 item} other {# itens}}</string>
     <string name="usage">Utilização</string>
     <string name="usage_access">Acesso ao uso</string>
     <string name="usage_access_description">O acesso ao uso permite que um app monitore que outros apps você está usando e com que frequência, bem como sua operadora, as configurações de idioma e outros detalhes.</string>
@@ -12382,10 +12382,10 @@ A configuração da rede como oculta não altera as configurações do seu rotea
     <string name="wifi_save">Salvar</string>
     <string name="wifi_saved_access_point">Redes salvas</string>
     <string name="wifi_saved_access_points_label">Redes salvas</string>
-    <string name="wifi_saved_access_points_summary">{count, plural, =1 {1 rede} other {# redes} }</string>
-    <string name="wifi_saved_all_access_points_summary">{count, plural, =1 {1 rede e assinatura} other {# redes e assinaturas} }</string>
+    <string name="wifi_saved_access_points_summary">{count, plural, =1 {1 rede} other {# redes}}</string>
+    <string name="wifi_saved_all_access_points_summary">{count, plural, =1 {1 rede e assinatura} other {# redes e assinaturas}}</string>
     <string name="wifi_saved_other_networks_tab">Outras redes</string>
-    <string name="wifi_saved_passpoint_access_points_summary">{count, plural, =1 {1 assinatura} other {# assinaturas} }</string>
+    <string name="wifi_saved_passpoint_access_points_summary">{count, plural, =1 {1 assinatura} other {# assinaturas}}</string>
     <string name="wifi_scan_always_available">Verificação sempre disponível</string>
     <string name="wifi_scan_always_available_summary">Permitir que o serviço de localização do Google e outros apps verifiquem redes, mesmo que o Wi-Fi esteja desativado</string>
     <string name="wifi_scan_always_confirm_allow">Permitir</string>
@@ -12725,7 +12725,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="write_settings_summary">%1$d de %2$d apps autorizados a modificar configurações do sistema</string>
     <string name="write_settings_title">Pode modificar configurações do sistema</string>
     <string name="write_system_settings">Mudar configurações do sistema</string>
-    <string name="wrong_pin_code">{count, plural, =1 {Código PIN do SIM incorreto, você tem # tentativa restante antes de entrar em contato com sua operadora para desbloquear seu dispositivo.} other {Código PIN do SIM incorreto, você tem # tentativas restantes.} }</string>
+    <string name="wrong_pin_code">{count, plural, =1 {Código PIN do SIM incorreto, você tem # tentativa restante antes de entrar em contato com sua operadora para desbloquear seu dispositivo.} other {Código PIN do SIM incorreto, você tem # tentativas restantes.}}</string>
     <string name="wrong_pin_code_one">O código PIN do cartão SIM está incorrecto. Tem 1 tentativa restante</string>
     <string name="wrong_pin_code_pukked">Código PIN do SIM incorreto. Entre em contato com a operadora para desbloquear o dispositivo.</string>
     <string name="xiaoai_global_shortcut">Geral</string>
@@ -12829,7 +12829,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_bypassing_apps_header">Apps que podem interromper</string>
     <string name="zen_mode_bypassing_apps_none">Nenhum app selecionado</string>
     <string name="zen_mode_bypassing_apps_some_summary">Algumas notificações</string>
-    <string name="zen_mode_bypassing_apps_subtext">{count, plural, offset:2 =0 {Nenhum app pode interromper} =1 {{app_1} pode interromper} =2 {{app_1} e {app_2} podem interromper} =3 {{app_1}, {app_2} e {app_3} podem interromper} other {{app_1}, {app_2}, e mais # podem interromper} }</string>
+    <string name="zen_mode_bypassing_apps_subtext">{count, plural, offset:2 =0 {Nenhum app pode interromper} =1 {{app_1} pode interromper} =2 {{app_1} e {app_2} podem interromper} =3 {{app_1}, {app_2} e {app_3} podem interromper} other {{app_1}, {app_2}, e mais # podem interromper}}</string>
     <string name="zen_mode_bypassing_apps_subtext_none">Nenhum app pode interromper</string>
     <string name="zen_mode_bypassing_apps_summary_all">Todas as notificações</string>
     <string name="zen_mode_bypassing_apps_summary_some">Algumas notificações</string>
@@ -12842,9 +12842,9 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_calls_title">Chamadas</string>
     <string name="zen_mode_choose_rule_type">Escolher o tipo de programação</string>
     <string name="zen_mode_contacts_callers">contatos</string>
-    <string name="zen_mode_contacts_count">{count, plural, =0 {Nenhum}=1 {1 contato} other {# contatos} }</string>
+    <string name="zen_mode_contacts_count">{count, plural, =0 {Nenhum}=1 {1 contato} other {# contatos}}</string>
     <string name="zen_mode_contacts_count_none">Nenhum</string>
-    <string name="zen_mode_conversations_count">{count, plural, =0 {Nenhuma} =1 {1 conversa} other{# conversas} }</string>
+    <string name="zen_mode_conversations_count">{count, plural, =0 {Nenhuma} =1 {1 conversa} other{# conversas}}</string>
     <string name="zen_mode_conversations_count_none">Nenhuma</string>
     <string name="zen_mode_conversations_section_title">Conversas que podem interromper</string>
     <string name="zen_mode_conversations_title">Conversas</string>
@@ -12862,8 +12862,8 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_duration_settings_title">Duração</string>
     <string name="zen_mode_duration_summary_always_prompt">Perguntar sempre</string>
     <string name="zen_mode_duration_summary_forever">Até você desativar</string>
-    <string name="zen_mode_duration_summary_time_hours">{count, plural, =1 {1 hora} other {# horas} }</string>
-    <string name="zen_mode_duration_summary_time_minutes">{count, plural, =1 {1 minuto} other {# minutos} }</string>
+    <string name="zen_mode_duration_summary_time_hours">{count, plural, =1 {1 hora} other {# horas}}</string>
+    <string name="zen_mode_duration_summary_time_minutes">{count, plural, =1 {1 minuto} other {# minutos}}</string>
     <string name="zen_mode_effected_always">Sempre</string>
     <string name="zen_mode_enable_dialog_turn_on">Ativar</string>
     <string name="zen_mode_end_time">Horário de término</string>
@@ -12913,7 +12913,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="zen_mode_other_options">outras opções</string>
     <string name="zen_mode_other_sounds_list_count">mais %d</string>
     <string name="zen_mode_other_sounds_none">Sem interrupções</string>
-    <string name="zen_mode_other_sounds_summary">{count, plural, offset:2 =0 {Nada pode interromper}=1{{sound_category_1} pode interromper} =2 {{sound_category_1} e {sound_category_2} podem interromper} =3 {{sound_category_1}, {sound_category_2} e {sound_category_3} podem interromper} other {{sound_category_1}, {sound_category_2} e mais # podem interromper} }</string>
+    <string name="zen_mode_other_sounds_summary">{count, plural, offset:2 =0 {Nada pode interromper}=1{{sound_category_1} pode interromper} =2 {{sound_category_1} e {sound_category_2} podem interromper} =3 {{sound_category_1}, {sound_category_2} e {sound_category_3} podem interromper} other {{sound_category_1}, {sound_category_2} e mais # podem interromper}}</string>
     <string name="zen_mode_people_all">Todas as pessoas podem interromper</string>
     <string name="zen_mode_people_calls_messages_section_title">Quem pode interromper</string>
     <string name="zen_mode_people_footer">"Mesmo que os apps de mensagens ou chamadas não possam notificá-lo, as pessoas que você escolher aqui ainda poderão entrar em contato com você por meio desses apps"</string>
@@ -12977,28 +12977,28 @@ Após desativar o Não perturbe, deslize de cima para baixo na tela para ver as 
     <string name="zen_mode_settings_dnd_custom_settings_footer_link">" "<annotation id="link">Ver configurações personalizadas</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">O Não perturbe fica ativado até %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">O Não perturbe ficará ativado até que você o desative</string>
-    <string name="zen_mode_settings_schedules_summary">{count, plural, =0 {Nenhum} =1 {1 programação definida} other {# programações definidas} }</string>
+    <string name="zen_mode_settings_schedules_summary">{count, plural, =0 {Nenhum} =1 {1 programação definida} other {# programações definidas}}</string>
     <string name="zen_mode_settings_summary">Receber notificações apenas de pessoas e apps importantes</string>
     <string name="zen_mode_settings_summary_off">Nunca</string>
     <string name="zen_mode_settings_title">Não perturbe</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Ativar o Não perturbe</string>
     <string name="zen_mode_slice_subtitle">Limitar interrupções</string>
-    <string name="zen_mode_sound_summary_off">{count, plural, =0 {Desativado} =1 {Desativado | 1 programação pode ser ativada automaticamente} other {Desativado | # programações podem ser ativadas automaticamente} }</string>
+    <string name="zen_mode_sound_summary_off">{count, plural, =0 {Desativado} =1 {Desativado | 1 programação pode ser ativada automaticamente} other {Desativado | # programações podem ser ativadas automaticamente}}</string>
     <string name="zen_mode_sound_summary_off_with_info">Desativado | %1$s</string>
     <string name="zen_mode_sound_summary_on">Ativado</string>
     <string name="zen_mode_sound_summary_on_with_info">Ativado | %1$s</string>
     <string name="zen_mode_sounds_none">Nada pode interromper</string>
     <string name="zen_mode_starred_callers">contatos marcados com estrela</string>
     <string name="zen_mode_starred_contacts_empty_name">(Sem nome)</string>
-    <string name="zen_mode_starred_contacts_summary_contacts">{count, plural, offset:2 =0 {Nenhum} =1 {{contact_1}} =2 {{contact_1} e {contact_2}} =3 {{contact_1}, {contact_2}, e {contact_3}} other {{contact_1}, {contact_2}, e # outros} }</string>
+    <string name="zen_mode_starred_contacts_summary_contacts">{count, plural, offset:2 =0 {Nenhum} =1 {{contact_1}} =2 {{contact_1} e {contact_2}} =3 {{contact_1}, {contact_2}, e {contact_3}} other {{contact_1}, {contact_2}, e # outros}}</string>
     <string name="zen_mode_starred_contacts_summary_none">Nenhum</string>
     <string name="zen_mode_starred_contacts_title">Contatos marcados com estrela</string>
     <string name="zen_mode_start_time">Horário de início</string>
     <string name="zen_mode_summary">Silencie chamadas recebidas, notificações, mídia e desative a vibração</string>
     <string name="zen_mode_summary2_default">"Não haverá lembretes para chamadas recebidas e notificações"</string>
     <string name="zen_mode_summary2_tablet">"Não haverá lembretes para notificações"</string>
-    <string name="zen_mode_summary_alarms_only_by_hour">{count, plural, =1 {Mude para alarmes apenas por uma hora até {hora}} other {Mude para alarmes apenas por # horas até {hora}} }</string>
-    <string name="zen_mode_summary_alarms_only_by_minute">{count, plural, =1 {Mude para alarmes apenas por um minuto até {hora}} other {Mude para alarmes apenas por # minutos (até {hora})} }</string>
+    <string name="zen_mode_summary_alarms_only_by_hour">{count, plural, =1 {Mude para alarmes apenas por uma hora até {hora}} other {Mude para alarmes apenas por # horas até {hora}}}</string>
+    <string name="zen_mode_summary_alarms_only_by_minute">{count, plural, =1 {Mude para alarmes apenas por um minuto até {hora}} other {Mude para alarmes apenas por # minutos (até {hora})}}</string>
     <string name="zen_mode_summary_alarms_only_by_time">Alterar para \"Somente alarmes\" até %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Alterar para \"Somente alarmes\" indefinidamente</string>
     <string name="zen_mode_summary_always">Alterar para \"Sempre interromper\"</string>

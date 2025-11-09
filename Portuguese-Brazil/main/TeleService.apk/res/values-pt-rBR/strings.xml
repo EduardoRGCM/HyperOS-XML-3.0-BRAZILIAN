@@ -235,16 +235,16 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="alarms_and_reminders_title">Alarmes e lembretes</string>
     <string name="alert_dialog_close">Feche o perfil</string>
     <string name="alert_dialog_dismiss">Descartar</string>
-    <string name="alert_dialog_exit_ecm">{count, plural, =1 {O dispositivo ficará no Modo chamada de emergência por um minuto. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} other {O telefone estará no Modo chamada de emergência por %s minutos. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} }</string>
+    <string name="alert_dialog_exit_ecm">{count, plural, =1 {O dispositivo ficará no Modo chamada de emergência por um minuto. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?} other {O telefone estará no Modo chamada de emergência por %s minutos. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?}}</string>
     <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {O dispositivo ficará no Modo chamada de emergência por um minuto.
 Deseja sair agora?} other {O dispositivo estará em Modo chamada de emergência por %s minutos.
-Deseja sair agora?} }"</string>
+Deseja sair agora?}}"</string>
     <string name="alert_dialog_exit_scm">O dispositivo está no Modo retorno de SMS. Enquanto estiver neste modo, nenhum app usando uma conexão de dados pode ser usado. Deseja sair agora?</string>
     <string name="alert_dialog_in_ecm_call">"A ação selecionada não está disponível durante uma chamada de emergência."</string>
     <string name="alert_dialog_in_scm_call">"A ação selecionada não está disponível durante uma chamada de emergência."</string>
     <string name="alert_dialog_no">Não</string>
     <string name="alert_dialog_ok">"OK"</string>
-    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {A ação selecionada não está disponível no Modo chamada de emergência. O dispositivo ficará neste modo por um minuto. Deseja sair agora?} other {A ação selecionada não está disponível no Modo chamada de retorno de emergência. O dispositivo ficará neste modo por %s minutos. Deseja sair agora?} }"</string>
+    <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {A ação selecionada não está disponível no Modo chamada de emergência. O dispositivo ficará neste modo por um minuto. Deseja sair agora?} other {A ação selecionada não está disponível no Modo chamada de retorno de emergência. O dispositivo ficará neste modo por %s minutos. Deseja sair agora?}}"</string>
     <string name="alert_dialog_not_avaialble_in_scm">"A ação selecionada não está disponível no Modo retorno de SMS. Deseja sair agora?"</string>
     <string name="alert_dialog_yes">Sim</string>
     <string name="alertdialogtitle">Resultados</string>
