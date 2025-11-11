@@ -1033,7 +1033,7 @@
     <string name="permission_xiaoai_title">Fala para texto</string>
     <string name="permlab_accessNote">Acessar notas</string>
     <string name="pm">"PM"</string>
-    <string name="polish_title">Polonês</string>
+    <string name="polish_title">Português</string>
     <string name="pref_category_title_quick_func">Recursos rápidos</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Deslize para cima com 2 dedos para excluir notas sem confirmação</string>
     <string name="pref_desc_todo_float_mode">Deslize a partir da borda da tela para abrir a caixa de ferramentas de tarefas</string>
