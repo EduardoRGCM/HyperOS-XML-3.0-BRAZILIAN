@@ -5293,6 +5293,7 @@ Retirar o consentimento agora?"</string>
     <string name="sp_device_security_title">Segurança do dispositivo</string>
     <string name="sp_eew_summary">Avisos sobre os próximos terremotos</string>
     <string name="sp_eew_title">Aviso de terremoto</string>
+    <string name="sp_emergency_contact_title">Contatos de emergência</string>
     <string name="sp_empty_title_sign_exception">Segure um app para adicioná-lo às exceções</string>
     <string name="sp_family_guard_summary">Fornecer assistência remota</string>
     <string name="sp_family_guard_title">Segurança familiar</string>

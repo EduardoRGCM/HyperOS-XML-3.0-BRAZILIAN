@@ -1068,6 +1068,8 @@ Alterar as configurações agora?"</string>
     <string name="auracast_add_source_conflict_broadcasting">Esta máquina está na transmissão, desligue a transmissão de áudio antes de ouvir a transmissão próxima</string>
     <string name="auracast_add_source_conflict_listening">Por favor, termine primeiro ouça a transmissão atual</string>
     <string name="auracast_scan_not_support">"Não conectado a fones de ouvido compatíveis. Não consigo encontrar transmissões próximas."</string>
+    <string name="auracast_share_qrcode_title">Compartilhar senha via QR code</string>
+    <string name="auracast_source_qrcode_title">Compartilhar via QR code</string>
     <string name="auto_adjst_effect_summary">Ajusta a temperatura da cor de acordo com a luz ambiente automaticamente</string>
     <string name="auto_adjust_effect_title">Ajustar a temperatura da cor automaticamente</string>
     <string name="auto_anc_closed">Desativado</string>
@@ -1684,6 +1686,7 @@ para ^2"</string>
     <string name="bluetooth_auracast_source_and_assistant_text">Transmita áudio para outros dispositivos e pesquise transmissões de áudio próximas</string>
     <string name="bluetooth_auracast_source_available_connect">Transmissões próximas</string>
     <string name="bluetooth_auracast_source_explain_summary">Quando ativado, as pessoas próximas podem receber áudio do seu dispositivo com um código de conexão.</string>
+    <string name="bluetooth_auracast_source_explain_summary_qcom">Para usar este recurso, desconecte o dispositivo atualmente conectado ou conecte pelo menos um dispositivo Bluetooth LE Audio</string>
     <string name="bluetooth_auracast_source_opend_summary">Código de conexão:</string>
     <string name="bluetooth_battery_level">Bateria %1$s</string>
     <string name="bluetooth_battery_level_untethered">E: %1$s bateria | D: %2$s bateria</string>
@@ -3930,9 +3933,9 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="emergency_gesture_number_override_notes">"Caso insira um número de que não seja de emergência:
  • Seu dispositivo deve ser desbloqueado para usar o SOS de emergência
  • Pode ser que sua ligação não seja atendida"</string>
-    <string name="emergency_gesture_screen_summary">Pressione o botão Liga/Desliga rapidamente 5 vezes ou mais para iniciar as ações abaixo</string>
+    <string name="emergency_gesture_screen_summary">Pressione o botão [Liga/Desliga] rapidamente 5 vezes ou mais para iniciar as ações abaixo</string>
     <string name="emergency_gesture_screen_title">SOS de emergência</string>
-    <string name="emergency_gesture_sound_setting_summary">Toque um som alto quando o SOS de emergência estiver começando</string>
+    <string name="emergency_gesture_sound_setting_summary">Toca um som alto quando o SOS de emergência estiver começando</string>
     <string name="emergency_gesture_sound_setting_title">Reproduzir alarme de contagem regressiva</string>
     <string name="emergency_gesture_switchbar_title">Use o SOS de emergência</string>
     <string name="emergency_info_summary">Informações e contatos de %1$s</string>
@@ -6753,13 +6756,13 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_sos_exit_dialog_message">Você ativou o SOS de emergência. A sua informação de localização está sendo enviada aos seus contatos de emergência. Desativar mesmo assim?</string>
     <string name="miui_sos_exit_dialog_ok">"OK"</string>
     <string name="miui_sos_exit_dialog_title">Desativando o SOS de emergência</string>
-    <string name="miui_sos_exit_emergency_title">Desativado</string>
-    <string name="miui_sos_exit_send_location_title">Compartilhando sua localização com contatos de emergência em tempo real</string>
+    <string name="miui_sos_exit_emergency_title">Desativar</string>
+    <string name="miui_sos_exit_send_location_title">Enviando a localização em tempo real p/contatos de emergência</string>
     <string name="miui_sos_focus_notification_ticker">SOS de emergência ativado</string>
     <string name="miui_sos_green_guard_summary">Compartilhar informação de localização em tempo real</string>
     <string name="miui_sos_green_guard_title">Controles parentais</string>
     <string name="miui_sos_hospital_card">Cartão médico</string>
-    <string name="miui_sos_hospital_card_important_info">Suas informações médicas críticas para os socorristas</string>
+    <string name="miui_sos_hospital_card_important_info">Suas informações médicas críticas para socorristas</string>
     <string name="miui_sos_launch_error">Não foi possível ativar o SOS de emergência</string>
     <string name="miui_sos_launch_error_confirm">"OK"</string>
     <string name="miui_sos_launch_error_message">Não é possível conectar-se à rede móvel. Não é possível usar o SOS de emergência.</string>
