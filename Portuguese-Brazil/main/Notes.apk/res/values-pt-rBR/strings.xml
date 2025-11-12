@@ -197,7 +197,7 @@
     <string name="all_terms">%1$s e %2$s</string>
     <string name="am">"AM"</string>
     <string name="app_name">Notas</string>
-    <string name="app_notification_info">O app Notas está executando em segundo plano</string>
+    <string name="app_notification_info">O app Notas está executando em 2º plano</string>
     <string name="app_widget">Notas</string>
     <string name="app_widget_name_create_note">Criar notas</string>
     <string name="app_widget_name_create_todo">Criar tarefas</string>

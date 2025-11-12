@@ -831,7 +831,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="powerful_acceleration_after">Depois</string>
     <string name="powerful_acceleration_before">Antes</string>
     <string name="powerful_acceleration_enable_summary">"A desfragmentação será efetuada automaticamente enquanto não estiver usando o dispositivo"</string>
-    <string name="powerful_acceleration_enable_title">Efetuar desfragmentação em segundo plano</string>
+    <string name="powerful_acceleration_enable_title">Efetuar desfragmentação em 2º plano</string>
     <string name="powerful_acceleration_item_button">Ativar</string>
     <string name="powerful_acceleration_item_tip_normal">O seu armazenamento parece bem!</string>
     <string name="powerful_acceleration_notification_summary">Toque para liberar mais espaço</string>

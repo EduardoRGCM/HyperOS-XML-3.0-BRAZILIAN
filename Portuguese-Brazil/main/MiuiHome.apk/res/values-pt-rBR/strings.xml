@@ -235,7 +235,7 @@
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
-    <string name="exit_overview_because_task_stack_changed">Recentes fechado devido a alterações que ocorreram em segundo plano</string>
+    <string name="exit_overview_because_task_stack_changed">Recentes fechado devido a alterações que ocorreram em 2º plano</string>
     <string name="expand_button_title">Avançado</string>
     <string name="failed_to_delete_temporary">"Não é possível remover"</string>
     <string name="failed_to_drop_widget_invalid">Este widget é inválido</string>

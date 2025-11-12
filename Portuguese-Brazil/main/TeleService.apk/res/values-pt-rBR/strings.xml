@@ -170,6 +170,11 @@
     <string name="accessor_expires_text">O lease expira em %s</string>
     <string name="accessor_info_title">Apps que compartilham dados</string>
     <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
+    <string name="accessibility_settings_activity_title">Acessibilidade</string>
+    <string name="accessibility_sliding_button_state_description_off">Desativado</string>
+    <string name="accessibility_sliding_button_state_description_on">Ativado</string>
+    <string name="accessibility_tab_state_description_unselect">Não selecionado</string>
+    <string name="accessibility_tab_statedesc_unselect">Não selecionado</string>
     <string name="according_to_carrier">Mostrar preferências</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="active_input_method_subtypes">Métodos ativos de entrada</string>
@@ -227,7 +232,7 @@
     <string name="ai_assistant_setting_title">Assistente de chamadas IA</string>
     <string name="alarm_template">às %1$s</string>
     <string name="alarm_template_far">em %1$s</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e programe ações urgentes. Isso permite que o app seja executado em segundo plano, o que pode consumir mais bateria.
+    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e programe ações urgentes. Isso permite que o app seja executado em 2º plano, o que pode consumir mais bateria.
 
 Se esta permissão estiver desativada, alarmes existentes e eventos baseados em tempo programados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
@@ -270,6 +275,9 @@ Deseja sair agora?}}"</string>
     <string name="app_process_limit_title">Limite de proc. em 2º plano</string>
     <string name="arrears_sim_summary">Recarregue o saldo do seu telefone para se manter conectado</string>
     <string name="arrears_sim_title">Saldo insuficiente</string>
+    <string name="arrears_sim_v2_notification">Notificações sobre saldo insuficiente</string>
+    <string name="arrears_sim_v2_summary">Parece que o saldo do SIM %1$s é insuficiente. Verifique o saldo do SIM %2$s e recarregue para permanecer conectado.</string>
+    <string name="arrears_sim_v2_title">"O SIM %s não pôde se conectar à rede"</string>
     <string name="ask">Perguntar</string>
     <string name="atr_disable">Relatório de trânsito na área desativado</string>
     <string name="atr_enable">Relatório de trânsito na área ativado</string>
@@ -452,6 +460,11 @@ Seleção"</string>
     <string name="cached_apps_freezer_disabled">Desativado</string>
     <string name="cached_apps_freezer_enabled">Ativado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">É necessário reinicializar o dispositivo para que a mudança seja aplicada. Faça isso agora ou cancele.</string>
+    <string name="bf_news_settings">Notícias de Negócios e Finanças</string>
+    <string name="business_hall_settings_summary">Controle suas chamadas e uso de dados</string>
+    <string name="business_hall_settings_title">Configurações do plano da operadora</string>
+    <string name="calibrate_rotate_again">Tentar novamente</string>
+    <string name="calibrate_rotate_tip">Incline o dispositivo bruscamente para rolar a bola ao redor do círculo</string>
     <string name="callEnded_pulled">Chamada transferida para outro dispositivo.</string>
     <string name="callFailed_NetworkBusy">A rede está ocupada. Por favor, tente ligar novamente mais tarde.</string>
     <string name="callFailed_NetworkCongested">A rede está congestionada. Entre em contato com sua operadora móvel para obter assistência.</string>
@@ -610,6 +623,8 @@ Seleção"</string>
     <string name="call_record_on_summary">Ativado</string>
     <string name="call_record_setting">Gravação de chamadas</string>
     <string name="call_record_whitelist_custom">Números selecionados</string>
+    <string name="call_recording_disclaimer_msg">"A lei aplicável na jurisdição em que você ou outros participantes da chamada estão localizados pode exigir que todas as partes consintam na gravação. Você é obrigado a cumprir tais leis, e a Xiaomi não será responsável por qualquer uso ilegal deste recurso. As gravações de chamadas são armazenadas apenas no seu dispositivo e não podem ser acessadas pela Xiaomi."</string>
+    <string name="call_recording_disclaimer_title">Termo de responsabilidade</string>
     <string name="call_recording_notification_message">Toque para ouvir.</string>
     <string name="call_recording_notification_message_low_storage">O cartão SD está cheio.</string>
     <string name="call_recording_notification_message_sd_unmounted">O cartão SD foi removido.</string>
@@ -2545,7 +2560,7 @@ A disponibilidade do serviço depende da sua operadora local."</string>
     <string name="shared_data_summary">Ver e modificar dados compartilhados</string>
     <string name="shared_data_title">Dados compartilhados</string>
     <string name="show_all_anrs">Mostrar ANRs em 2º plano</string>
-    <string name="show_all_anrs_summary">Exibir a caixa de diálogo \"App não responde\" para apps em segundo plano</string>
+    <string name="show_all_anrs_summary">Exibir a caixa de diálogo \"App não responde\" para apps em 2º plano</string>
     <string name="show_hw_layers_updates">Atualizações de camadas de hardware</string>
     <string name="show_hw_layers_updates_summary">Pisque camadas de hardware em verde ao atualizar</string>
     <string name="show_hw_screen_updates">Ver atualizações de exibição</string>
@@ -2903,7 +2918,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="track_frame_time">Classificar renderização HWUI</string>
-    <string name="traffic_mode_summary">Prioriza a conexão de rede móvel para apps atualmente em uso. Apps em segundo plano podem não conseguir se conectar.</string>
+    <string name="traffic_mode_summary">Prioriza a conexão de rede móvel para apps atualmente em uso. Apps em 2º plano podem não conseguir se conectar.</string>
     <string name="traffic_mode_switch_title">Modo extremo</string>
     <string name="transcode_default">Suponha que os apps sejam compatíveis com formatos modernos</string>
     <string name="transcode_disable_cache">Desativar cache de transcodificação</string>
@@ -3139,6 +3154,7 @@ Chamadas de emergência só são possíveis em locais com cobertura de redes mó
     <string name="wifi_auto_sel_wapi_cert">Selecione automaticamente</string>
     <string name="wifi_call_accept">Ignorar</string>
     <string name="wifi_call_available_message">Você pode fazer chamadas usando o Wi-Fi agora. Se você estiver conectado a uma rede Wi-Fi, poderá falar mesmo quando estiver em áreas sem cobertura de redes móveis.</string>
+    <string name="wifi_call_available_message_DEO2">Se a cobertura do telefone móvel for fraca e o seu dispositivo estiver conectado ao Wi-Fi, suas chamadas serão feitas por Wi-Fi. Você pode alterar esta configuração no seu smartphone a qualquer momento. Se tiver alguma dúvida, entre em contato com sua operadora de telefone móvel.</string>
     <string name="wifi_call_available_message_for_ATT_MX">Você está prestes a se conectar a uma rede Wi-Fi. A qualidade da chamada pode variar dependendo da rede.</string>
     <string name="wifi_call_available_title">Ativando Chamada por Wi-Fi</string>
     <string name="wifi_call_cancel">Mais informações</string>
@@ -3190,6 +3206,7 @@ Se você selecionar redes móveis como preferenciais, elas serão usadas por pad
     <string name="wifi_no_internet">Sem acesso à internet</string>
     <string name="wifi_no_internet_no_reconnect">Não se conectará automaticamente</string>
     <string name="wifi_not_in_range">Fora do alcance</string>
+    <string name="wifi_on">O Wi-Fi está conectado</string>
     <string name="wifi_passpoint_expired">Expirada</string>
     <string name="wifi_remembered">Salva</string>
     <string name="wifi_scan_throttling">Limitar busca por Wi-Fi</string>
@@ -3214,7 +3231,7 @@ Por favor, verifique a validade dos certificados"</string>
 O armazenamento de credenciais pode não estar ativo"</string>
     <string name="wifi_wapi_psk_type">Tipo de senha</string>
     <string name="wifi_wapi_user_certificate">Certificado de usuário</string>
-    <string name="wificall_switch_summary">Use o Wi-Fi para chamadas quando permitido pela operadora (apenas para teste)</string>
+    <string name="wificall_switch_summary">Usar Wi-Fi para fazer e receber chamadas sempre que possível</string>
     <string name="wificall_switch_title">Fazer chamadas usando Wi-Fi</string>
     <string name="wifitrackerlib_auto_connect_disable">Autoconexão desativada</string>
     <string name="wifitrackerlib_available_via_app">Disponível via %1$s</string>

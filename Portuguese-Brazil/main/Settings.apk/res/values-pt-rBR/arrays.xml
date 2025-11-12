@@ -142,7 +142,7 @@
         <item>Gravar armazenamento</item>
         <item>Ativar tela</item>
         <item>Adquirir contas</item>
-        <item>Executar em segundo plano</item>
+        <item>Executar em 2º plano</item>
         <item>Volume da acessibilidade</item>
     </string-array>
     <string-array name="app_ops_summaries">
@@ -209,7 +209,7 @@
         <item>escrever no armazenamento</item>
         <item>ativar tela</item>
         <item>adquirir contas</item>
-        <item>executar em segundo plano</item>
+        <item>executar em 2º plano</item>
         <item>volume da acessibilidade</item>
     </string-array>
     <string-array name="app_process_limit_entries">
@@ -1230,7 +1230,7 @@ Atenção!: Apenas para Ubuntu 8.04!"</item>
         <item>Persistente</item>
         <item>Principal atividade</item>
         <item>Importante (primeiro plano)</item>
-        <item>Importante (segundo plano)</item>
+        <item>Importante (2º plano)</item>
         <item>"Backup"</item>
         <item>Uso intenso</item>
         <item>Serviço (em execução)</item>

@@ -745,7 +745,7 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="password_wrong_msg">"Não foi possível verificar. Tente novamente."</string>
     <string name="perm_privacy_app_finish">"OK"</string>
     <string name="perm_privacy_app_launch">Iniciar</string>
-    <string name="permission_des_access_background_location">Para acessar a localização quando o app estiver sendo executado em segundo plano</string>
+    <string name="permission_des_access_background_location">Para acessar a localização quando o app estiver sendo executado em 2º plano</string>
     <string name="permission_des_access_coarse_location">Para acessar sua localização aproximada</string>
     <string name="permission_des_access_fine_location">Para acessar sua localização</string>
     <string name="permission_des_access_media_location">Para posicionamento através de informações de localização para mídia salva</string>
@@ -774,7 +774,7 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="permission_des_system_camera">Para tirar fotos e gravar vídeos</string>
     <string name="permission_des_write_calendar">Para adicionar eventos e atividades à agenda</string>
     <string name="permission_des_write_external_storage">Para salvar fotos, documentos e outras mídias.</string>
-    <string name="permission_name_access_background_location">Acessar localização enquanto executo em segundo plano</string>
+    <string name="permission_name_access_background_location">Acessar localização enquanto executo em 2º plano</string>
     <string name="permission_name_access_coarse_location">Acessar localização aproximada enquanto executa em primeiro plano</string>
     <string name="permission_name_access_fine_location">Acessar localização</string>
     <string name="permission_name_access_media_location">Acessar informações de localização para mídia salva</string>
@@ -1077,7 +1077,7 @@ apps vem"</string>
     <string name="unarchive_error_storage_title">Armazenamento insuficiente</string>
     <string name="unarchive_fail_hint_dialog_content_0">"Este app não suporta a restauração de dados arquivados."</string>
     <string name="unarchive_fail_hint_dialog_title">"Não foi possível restaurar"</string>
-    <string name="unarchive_hint_dialog_content">Se você restaurar este app arquivado, o sistema reinstalará %1$s em segundo plano. Restaurar agora?</string>
+    <string name="unarchive_hint_dialog_content">Se você restaurar este app arquivado, o sistema reinstalará %1$s em 2º plano. Restaurar agora?</string>
     <string name="unarchive_hint_dialog_title">Restaurar %1$s?</string>
     <string name="understand_risk_app">Saiba mais</string>
     <string name="understand_risk_app_and_continue_install">Instalar mesmo assim</string>

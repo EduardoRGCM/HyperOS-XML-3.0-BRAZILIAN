@@ -677,7 +677,7 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="alarm_template_far">%1$s</string>
     <string name="alarm_volume_option_title">Alarme</string>
     <string name="alarm_volume_title">Alarme</string>
-    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e agende ações sensíveis ao tempo. Isso permite que o app funcione em segundo plano, que pode usar mais bateria.
+    <string name="alarms_and_reminders_footer_title">"Permita que este app defina alarmes e agende ações sensíveis ao tempo. Isso permite que o app funcione em 2º plano, que pode usar mais bateria.
 
 Se esta permissão estiver desligada, os alarmes existentes e eventos baseados em tempo agendados por este app não funcionarão."</string>
     <string name="alarms_and_reminders_label">Alarmes e lembretes</string>
@@ -982,7 +982,7 @@ Alterar as configurações agora?"</string>
     <string name="app_version">Versão</string>
     <string name="app_wifi">"Wi-Fi"</string>
     <string name="application_data">"Apps"</string>
-    <string name="application_forbid_auto_startup">Impedir %s de iniciar em segundo plano</string>
+    <string name="application_forbid_auto_startup">Impedir %s de iniciar em 2º plano</string>
     <string name="application_info_label">Informações do app</string>
     <string name="application_item_already_permission">Permitido</string>
     <string name="application_item_disable">Recusar</string>
@@ -1229,33 +1229,33 @@ Alterar as configurações agora?"</string>
     <string name="background_activity_disabled_dialog_text">"Como o app não está configurado para otimizar bateria, não é possível restringi-lo.
 
 Para restringir, ative a otimização."</string>
-    <string name="background_activity_summary">Permite que o app seja executado em segundo plano</string>
+    <string name="background_activity_summary">Permite que o app seja executado em 2º plano</string>
     <string name="background_activity_summary_allowlisted">O uso de fundo não pode ser restrito</string>
-    <string name="background_activity_summary_disabled">Execução do app em segundo plano não permitida</string>
-    <string name="background_activity_summary_whitelisted">Não é possível restringir o uso em segundo plano</string>
-    <string name="background_activity_title">Restrição em segundo plano</string>
-    <string name="background_activity_warning_dialog_text">Se você limitar as atividades em segundo plano de um app, ele poderá apresentar mau funcionamento.</string>
-    <string name="background_activity_warning_dialog_title">Limitar atividade em segundo plano?</string>
+    <string name="background_activity_summary_disabled">Execução do app em 2º plano não permitida</string>
+    <string name="background_activity_summary_whitelisted">Não é possível restringir o uso em 2º plano</string>
+    <string name="background_activity_title">Restrição em 2º plano</string>
+    <string name="background_activity_warning_dialog_text">Se você limitar as atividades em 2º plano de um app, ele poderá apresentar mau funcionamento.</string>
+    <string name="background_activity_warning_dialog_title">Limitar atividade em 2º plano?</string>
     <string name="background_blur_enable">Texturas avançadas</string>
     <string name="background_blur_enable_summary">Adiciona efeitos de renderização, como desfoque no sistema, para fornecer uma experiência visual aprimorada.</string>
     <string name="background_blur_message">Ativar esse recurso pode consumir mais energia e fazer com que o dispositivo aqueça. Ativar?</string>
     <string name="background_blur_title">Ativar texturas avançadas</string>
-    <string name="background_check_pref">Verificação em segundo plano</string>
-    <string name="background_check_title">Acesso completo ao segundo plano</string>
-    <string name="background_data">Dados de segundo plano</string>
-    <string name="background_data_dialog_message">A desativação dos dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. Alguns apps ainda podem usar a conexão de dados de segundo plano.</string>
+    <string name="background_check_pref">Verificação em 2º plano</string>
+    <string name="background_check_title">Acesso completo ao 2º plano</string>
+    <string name="background_data">Dados de 2º plano</string>
+    <string name="background_data_dialog_message">A desativação dos dados de 2º plano estende a vida útil da bateria e diminui o uso dos dados. Alguns apps ainda podem usar a conexão de dados de 2º plano.</string>
     <string name="background_data_dialog_title">Desativar dados 2º plano?</string>
     <string name="background_data_summary">Apps sincronizam, enviam e recebem dados a qualquer momento</string>
     <string name="background_install_after">{count, plural, =1 {Apps instalados há mais de # mês} other {Apps instalados há mais de # meses}}</string>
     <string name="background_install_before">{count, plural, =1 {Apps instalados no último # mês} other {Apps instalados nos últimos # meses}}</string>
-    <string name="background_install_feature_list_no_entry">Nenhum app instalado em segundo plano</string>
+    <string name="background_install_feature_list_no_entry">Nenhum app instalado em 2º plano</string>
     <string name="background_install_preference_summary">{count, plural, =1 {# app} other {# apps}}</string>
-    <string name="background_install_summary">"O fabricante do seu dispositivo pode instalar apps no seu dispositivo em segundo plano ou permitir que sua operadora e outros parceiros façam isso. Nenhum app listado aqui é necessário para que seu dispositivo funcione normalmente. Você pode desinstalar apps que não deseja."</string>
-    <string name="background_install_title">Apps instalados em segundo plano</string>
+    <string name="background_install_summary">"O fabricante do seu dispositivo pode instalar apps no seu dispositivo em 2º plano ou permitir que sua operadora e outros parceiros façam isso. Nenhum app listado aqui é necessário para que seu dispositivo funcione normalmente. Você pode desinstalar apps que não deseja."</string>
+    <string name="background_install_title">Apps instalados em 2º plano</string>
     <string name="background_install_uninstall_button_description">Desinstalar app</string>
     <string name="background_process_stop_description">Este é um processo de app antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
-    <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este app pode fazer com este app não funcione normalmente, receba mensagens, baixe conteúdos, etc. Restringir mesmo assim?</string>
-    <string name="background_traffic">%s em segundo plano</string>
+    <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em 2º plano para este app pode fazer com este app não funcione normalmente, receba mensagens, baixe conteúdos, etc. Restringir mesmo assim?</string>
+    <string name="background_traffic">%s em 2º plano</string>
     <string name="backtouch_enable_title">Ajustar volume na traseira</string>
     <string name="backup_at_once">Fazer Backup</string>
     <string name="backup_calling_enable_dialog_incompatible_nw_type">Para ativar o Voice Over Cellular Internet, defina o tipo de rede preferido como LTE, NR ou Global.</string>
@@ -1322,12 +1322,12 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela internet.
     <string name="battery_app_usage_since_last_full_charge_to">Uso do app desde a última carga completa até %s</string>
     <string name="battery_auto_restriction_summary">Detectar quando apps estiverem descarregando a bateria</string>
     <string name="battery_auto_restriction_title">Usar o Gerenciador de bateria</string>
-    <string name="battery_bg_usage">^1 em segundo plano desde a última carga completa</string>
-    <string name="battery_bg_usage_24hr">^1 em segundo plano nas últimas 24 horas</string>
-    <string name="battery_bg_usage_less_minute">Em segundo plano a menos de um minuto desde a última carga completa</string>
-    <string name="battery_bg_usage_less_minute_24hr">Em segundo plano a menos de um minuto nas últimas 24 horas</string>
-    <string name="battery_bg_usage_less_minute_with_period">Em segundo plano a menos de um minuto para ^1</string>
-    <string name="battery_bg_usage_with_period">^1 em segundo plano para ^2</string>
+    <string name="battery_bg_usage">^1 em 2º plano desde a última carga completa</string>
+    <string name="battery_bg_usage_24hr">^1 em 2º plano nas últimas 24 horas</string>
+    <string name="battery_bg_usage_less_minute">Em 2º plano a menos de um minuto desde a última carga completa</string>
+    <string name="battery_bg_usage_less_minute_24hr">Em 2º plano a menos de um minuto nas últimas 24 horas</string>
+    <string name="battery_bg_usage_less_minute_with_period">Em 2º plano a menos de um minuto para ^1</string>
+    <string name="battery_bg_usage_with_period">^1 em 2º plano para ^2</string>
     <string name="battery_desc_apps">Bateria usada por app</string>
     <string name="battery_desc_bluetooth">Bateria usada pelo Bluetooth</string>
     <string name="battery_desc_camera">Bateria usada pela câmera</string>
@@ -1340,7 +1340,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela internet.
     <string name="battery_desc_users">Bateria utilizada pelo usuário</string>
     <string name="battery_desc_voice">Bateria usada por chamadas de voz</string>
     <string name="battery_desc_wifi">Bateria usada pelo Wi-Fi</string>
-    <string name="battery_detail_background">Em segundo plano</string>
+    <string name="battery_detail_background">Em 2º plano</string>
     <string name="battery_detail_foreground">Durante o uso</string>
     <string name="battery_detail_info_title">Desde a carga completa</string>
     <string name="battery_detail_manage_title">Gerenciar uso da bateria</string>
@@ -1471,7 +1471,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela internet.
     <string name="battery_tip_dialog_message">"O dispositivo foi usado além do normal. É possível que a bateria acabe antes do esperado.
 
 Apps que mais usam bateria:"</string>
-    <string name="battery_tip_dialog_message_footer">Inclui atividade em segundo plano com alto consumo de energia</string>
+    <string name="battery_tip_dialog_message_footer">Inclui atividade em 2º plano com alto consumo de energia</string>
     <string name="battery_tip_dialog_summary_message">"Seus apps estão consumindo uma quantidade normal de bateria. Se o consumo for excessivo, algumas ações serão sugeridas no dispositivo.
 
 Se a bateria estiver acabando, você poderá ativar o recurso Economia de bateria."</string>
@@ -1499,26 +1499,26 @@ Quando essas condições terminarem, seu telefone será carregado automaticament
     <string name="battery_tip_limited_temporarily_title">Carregamento otimizado para proteger sua bateria</string>
     <string name="battery_tip_low_battery_summary">A bateria não pode oferecer uma boa duração</string>
     <string name="battery_tip_low_battery_title">Baixa capacidade de bateria</string>
-    <string name="battery_tip_restrict_app_dialog_message">Para economizar bateria, não permita que %1$s use a bateria em segundo plano. Esse app pode não funcionar corretamente e é possível que haja atraso nas notificações.</string>
+    <string name="battery_tip_restrict_app_dialog_message">Para economizar bateria, não permita que %1$s use a bateria em 2º plano. Esse app pode não funcionar corretamente e é possível que haja atraso nas notificações.</string>
     <string name="battery_tip_restrict_app_dialog_ok">Restringir</string>
     <string name="battery_tip_restrict_app_dialog_title">{count, plural, =1 {Restringir app?} other {Restringir # apps?}}</string>
-    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"Para economizar bateria, não permita que esses apps usem a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente e é possível que haja atraso nas notificações.
+    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"Para economizar bateria, não permita que esses apps usem a bateria em 2º plano. Os apps com restrição podem não funcionar corretamente e é possível que haja atraso nas notificações.
 
 Apps:"</string>
-    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"Para economizar bateria, não permita que esses apps usem a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente e é possível que haja atraso nas notificações.
+    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"Para economizar bateria, não permita que esses apps usem a bateria em 2º plano. Os apps com restrição podem não funcionar corretamente e é possível que haja atraso nas notificações.
 
 Apps:
 %1$s."</string>
-    <string name="battery_tip_restrict_handled_summary">"{count, plural, =1 {Este app não pode ser executado em segundo plano} other {Esses apps não podem ser executados em segundo plano}}"</string>
+    <string name="battery_tip_restrict_handled_summary">"{count, plural, =1 {Este app não pode ser executado em 2º plano} other {Esses apps não podem ser executados em 2º plano}}"</string>
     <string name="battery_tip_restrict_handled_title">{count, plural, =1 {{label} restrito recentemente} other {# apps restritos recentemente}}</string>
-    <string name="battery_tip_restrict_summary">{count, plural, =1 {{label} tem alto uso de bateria em segundo plano} other {# apps têm alto uso de bateria em segundo plano}}</string>
+    <string name="battery_tip_restrict_summary">{count, plural, =1 {{label} tem alto uso de bateria em 2º plano} other {# apps têm alto uso de bateria em 2º plano}}</string>
     <string name="battery_tip_restrict_title">{count, plural, =1 {Restringir # app} other {Restringir # apps}}</string>
     <string name="battery_tip_smart_battery_summary">Ative o Gerenciador de bateria</string>
     <string name="battery_tip_smart_battery_title">Melhore a duração da bateria do seu dispositivo</string>
-    <string name="battery_tip_summary_summary">O consumo de bateria em segundo plano do dispositivo está normal.</string>
+    <string name="battery_tip_summary_summary">O consumo de bateria em 2º plano do dispositivo está normal.</string>
     <string name="battery_tip_summary_title">Os apps estão funcionando normalmente</string>
     <string name="battery_tip_unrestrict_app_dialog_cancel">Cancelar</string>
-    <string name="battery_tip_unrestrict_app_dialog_message">Esse app poderá usar a bateria em segundo plano. É possível que sua bateria acabe antes do esperado.</string>
+    <string name="battery_tip_unrestrict_app_dialog_message">Esse app poderá usar a bateria em 2º plano. É possível que sua bateria acabe antes do esperado.</string>
     <string name="battery_tip_unrestrict_app_dialog_ok">Remover</string>
     <string name="battery_tip_unrestrict_app_dialog_title">Remover restrição?</string>
     <string name="battery_total_and_bg_usage">"^1 total • ^2 fundo
@@ -1546,7 +1546,7 @@ para ^2"</string>
     <string name="battery_usage_chart_graph_hint">Nível da bateria para passado 24 horas</string>
     <string name="battery_usage_chart_graph_hint_last_full_charge">Nível da bateria desde a última carga completa</string>
     <string name="battery_usage_chart_label_now">agora</string>
-    <string name="battery_usage_for_background_time">Segundo plano: %s</string>
+    <string name="battery_usage_for_background_time">2º plano: %s</string>
     <string name="battery_usage_for_total_time">"Total: %s"</string>
     <string name="battery_usage_others">Outros</string>
     <string name="battery_usage_screen_footer">"O uso da bateria e o tempo de tela não são medidos enquanto o telefone está carregando"</string>
@@ -2436,7 +2436,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="ca_certificate_warning_title">Seus dados não serão particulares</string>
     <string name="cache_header_label">Cache (memória temporária)</string>
     <string name="cache_size_label">Cache (memória temporária)</string>
-    <string name="cached">Processo em segundo plano em cache</string>
+    <string name="cached">Processo em 2º plano em cache</string>
     <string name="cached_apps_freezer">Suspender execução para apps em cache</string>
     <string name="cached_apps_freezer_device_default">Padrão do dispositivo</string>
     <string name="cached_apps_freezer_disabled">Desativado</string>
@@ -2528,7 +2528,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="cancel_lock_screen_dialog_button_label">Cancelar</string>
     <string name="cancel_refresh_group">Cancelar atualização</string>
     <string name="cannot_change_apn_toast">Essa APN não pode ser alterada.</string>
-    <string name="cant_sync_dialog_message">A sincronização para o item está desativada no momento. Para alterar essa configuração, ative os dados de segundo plano e a sincronização automática temporariamente.</string>
+    <string name="cant_sync_dialog_message">A sincronização para o item está desativada no momento. Para alterar essa configuração, ative os dados de 2º plano e a sincronização automática temporariamente.</string>
     <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
     <string name="capabilities_list_title">%1$s precisa:</string>
     <string name="captioning_appearance_summary">Tamanho do texto %1$s</string>
@@ -3208,13 +3208,13 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="data_usage_app">Uso de apps</string>
     <string name="data_usage_app_info_label">INFORMAÇÕES DE APPS</string>
     <string name="data_usage_app_items_header_text">Uso de apps</string>
-    <string name="data_usage_app_restrict_background">Dados em segundo plano</string>
-    <string name="data_usage_app_restrict_background_summary">Ativa o uso de dados móveis em segundo plano</string>
+    <string name="data_usage_app_restrict_background">Dados em 2º plano</string>
+    <string name="data_usage_app_restrict_background_summary">Ativa o uso de dados móveis em 2º plano</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Defina um limite de dados para restringir dados em 2º plano</string>
-    <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que um app que depende de dados de segundo plano pare de funcionar quando somente redes de acesso limitado estiverem disponíveis.
+    <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que um app que depende de dados de 2º plano pare de funcionar quando somente redes de acesso limitado estiverem disponíveis.
 
 Você pode encontrar controles de uso de dados mais apropriados nas configurações disponíveis no app."</string>
-    <string name="data_usage_app_restrict_dialog_title">Restringir dados de segundo plano?</string>
+    <string name="data_usage_app_restrict_dialog_title">Restringir dados de 2º plano?</string>
     <string name="data_usage_app_restricted">restrito</string>
     <string name="data_usage_app_settings">Configurar app</string>
     <string name="data_usage_app_summary_title">Dados móveis e Wi-Fi</string>
@@ -3224,7 +3224,7 @@ Você pode encontrar controles de uso de dados mais apropriados nas configuraç�
 
 Algumas contas também poderão copiar automaticamente as alterações feitas no dispositivo para a web. É assim que funciona uma Conta do Google."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Ativar sincronização automática?</string>
-    <string name="data_usage_background_label">Segundo plano:</string>
+    <string name="data_usage_background_label">2º plano:</string>
     <string name="data_usage_cellular_data">Dados móveis</string>
     <string name="data_usage_cellular_data_summary">Pausa no limite</string>
     <string name="data_usage_change_cycle">Alterar ciclo…</string>
@@ -3246,7 +3246,7 @@ Algumas contas também poderão copiar automaticamente as alterações feitas no
     <string name="data_usage_enable_4g">Dados 4G</string>
     <string name="data_usage_enable_mobile">Dados móveis</string>
     <string name="data_usage_forground_label">Primeiro plano:</string>
-    <string name="data_usage_label_background">Segundo plano</string>
+    <string name="data_usage_label_background">2º plano</string>
     <string name="data_usage_label_foreground">Primeiro plano</string>
     <string name="data_usage_limit_dialog_mobile">"Seu dispositivo desativará os dados móveis quando o limite especificado for atingido.
 
@@ -3267,7 +3267,7 @@ Como o uso de dados é calculado pelo seu dispositivo, e sua operadora pode ente
     <string name="data_usage_menu_sim_cards">Cartões SIM</string>
     <string name="data_usage_menu_split_4g">Separar uso dos dados 4G</string>
     <string name="data_usage_metered_auto">Automático</string>
-    <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são pontos de acesso móveis. Apps em segundo plano podem ser impedidos de usar estas redes. Os apps também podem avisar antes de usar estas redes para grandes downloads.</string>
+    <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são pontos de acesso móveis. Apps em 2º plano podem ser impedidos de usar estas redes. Os apps também podem avisar antes de usar estas redes para grandes downloads.</string>
     <string name="data_usage_metered_mobile">Redes móveis</string>
     <string name="data_usage_metered_no">Ilimitada</string>
     <string name="data_usage_metered_title">Restrições de rede</string>
@@ -3278,12 +3278,12 @@ Como o uso de dados é calculado pelo seu dispositivo, e sua operadora pode ente
     <string name="data_usage_other_apps">Outros apps inclusos no uso</string>
     <string name="data_usage_pick_cycle_day">Dia do mês para redefinir o ciclo de uso dos dados:</string>
     <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-    <string name="data_usage_restrict_background">Se você restringir os dados em segundo plano, alguns apps e serviços não funcionarão corretamente até que você esteja conectado a uma rede Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Se você restringir os dados móveis em segundo plano, alguns apps e serviços não funcionarão corretamente a menos que você esteja conectado a uma rede Wi-Fi.
+    <string name="data_usage_restrict_background">Se você restringir os dados em 2º plano, alguns apps e serviços não funcionarão corretamente até que você esteja conectado a uma rede Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Se você restringir os dados móveis em 2º plano, alguns apps e serviços não funcionarão corretamente a menos que você esteja conectado a uma rede Wi-Fi.
 
 Esta configuração afeta todos os usuários deste dispositivo."</string>
-    <string name="data_usage_restrict_background_title">Restringir dados de segundo plano?</string>
-    <string name="data_usage_restrict_denied_dialog">A restrição de dados de segundo plano só é possível quando você define um limite de dados móveis.</string>
+    <string name="data_usage_restrict_background_title">Restringir dados de 2º plano?</string>
+    <string name="data_usage_restrict_denied_dialog">A restrição de dados de 2º plano só é possível quando você define um limite de dados móveis.</string>
     <string name="data_usage_summary_format">%1$s de dados usados</string>
     <string name="data_usage_summary_title">Uso de dados</string>
     <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
@@ -3570,9 +3570,9 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog">Diálogo</string>
     <string name="dialog_background_check_message">"Não é possível gerenciar a bateria do dispositivo normalmente, porque o app %1$s o mantém ativado.
 
-Para tentar resolver esse problema, você pode forçar a parada do app %1$s e impedi-lo de executar no segundo plano."</string>
+Para tentar resolver esse problema, você pode forçar a parada do app %1$s e impedi-lo de executar no 2º plano."</string>
     <string name="dialog_background_check_ok">Desativar</string>
-    <string name="dialog_background_check_title">Desativar uso em segundo plano e parar o app?</string>
+    <string name="dialog_background_check_title">Desativar uso em 2º plano e parar o app?</string>
     <string name="dialog_backup_title">Deseja fazer backup dos itens primeiro?</string>
     <string name="dialog_check_button_negative">Tentar novamente</string>
     <string name="dialog_check_button_positive">Conecte-se ao Wi-Fi</string>
@@ -4451,8 +4451,8 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="firewall_restrict_data">Restringir uso de dados móveis</string>
     <string name="firewall_restrict_notify_title">%s não pode usar a rede</string>
     <string name="firewall_restrict_wlan">Restringir uso de conexão Wi-Fi</string>
-    <string name="firewall_set_bg_firewall_default_dialog_summary">Se você restringir a conexão em segundo plano, novos apps não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso. Restringir mesmo assim?</string>
-    <string name="firewall_set_bg_firewall_default_dialog_title">Restringir conexão em segundo plano para novos apps</string>
+    <string name="firewall_set_bg_firewall_default_dialog_summary">Se você restringir a conexão em 2º plano, novos apps não poderão conectar-se à internet em 2º plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso. Restringir mesmo assim?</string>
+    <string name="firewall_set_bg_firewall_default_dialog_title">Restringir conexão em 2º plano para novos apps</string>
     <string name="firewall_temp_rule_reason">%2$s restringiu a conexão de internet para %1$s</string>
     <string name="firewall_wifi">"Wi-Fi"</string>
     <string name="firewall_wifi_dialog_message">O app instalado não poderá conectar-se à internet através do Wi-Fi enquanto esta opção estiver desativada.</string>
@@ -4483,7 +4483,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="flash_notifications_summary_on_camera_and_screen">Ativado / Flash da câmera e tela</string>
     <string name="flash_notifications_summary_on_screen">Ativado / Piscar a tela</string>
     <string name="flash_notifications_title">Feixes para notificações</string>
-    <string name="flashback_background_start_switch_summary">Gera cartões didáticos com informações importantes automaticamente quando os apps estão rodando em segundo plano</string>
+    <string name="flashback_background_start_switch_summary">Gera cartões didáticos com informações importantes automaticamente quando os apps estão rodando em 2º plano</string>
     <string name="flashback_background_start_switch_title">Gerar cartões didáticos automaticamente</string>
     <string name="flashback_baidu_map_summary">Mostrar rota</string>
     <string name="flashback_didi_summary">Mostrar informação de viagem</string>
@@ -4584,7 +4584,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
 "</string>
     <string name="font_size_summary1">"Se o tamanho dos textos do sistema ainda está pequeno, experimente o "</string>
     <string name="font_size_summary2">Modo simples</string>
-    <string name="footer_description_full_screen_intent">Permitir que este app exiba notificações que ocupam a tela inteira quando o dispositivo está bloqueado. O app pode usar notificações em tela inteira para exibir alarmes, chamadas recebidas ou outras notificações urgentes. Esta configuração depende da permissão para abrir novas janelas durante a execução em segundo plano e só pode ser usada quando essa permissão for concedida.</string>
+    <string name="footer_description_full_screen_intent">Permitir que este app exiba notificações que ocupam a tela inteira quando o dispositivo está bloqueado. O app pode usar notificações em tela inteira para exibir alarmes, chamadas recebidas ou outras notificações urgentes. Esta configuração depende da permissão para abrir novas janelas durante a execução em 2º plano e só pode ser usada quando essa permissão for concedida.</string>
     <string name="footer_learn_more_content_description">Aprender mais sobre %1$s</string>
     <string name="for_diagnosis_usage_only">Use esta informação apenas para diagnóstico.</string>
     <string name="forbidden_network">(proibida)</string>
@@ -4935,7 +4935,7 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="handle_ota_update_failed">"Não foi possível atualizar"</string>
     <string name="handle_ota_update_title">Atualizações de firmware</string>
     <string name="handle_ota_updating_firmware">Aguarde…</string>
-    <string name="handle_ota_updating_tip">Atualizando em segundo plano…</string>
+    <string name="handle_ota_updating_tip">Atualizando em 2º plano…</string>
     <string name="handy_mode">Modo para uma mão</string>
     <string name="handy_mode_enable">Modo para uma mão</string>
     <string name="handy_mode_hint">O Modo para uma mão só está disponível na tela externa</string>
@@ -5061,10 +5061,10 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="high_power_filter_on">Não otimizados</string>
     <string name="high_power_off">Utilização otimizada da bateria</string>
     <string name="high_power_on">Não otimizado</string>
-    <string name="high_power_prompt_body">"A execução contínua do app %1$s em segundo plano pode reduzir a duração da bateria. 
+    <string name="high_power_prompt_body">"A execução contínua do app %1$s em 2º plano pode reduzir a duração da bateria. 
 
 Você poderá alterar essa opção mais tarde em Configurações > Apps e notificações."</string>
-    <string name="high_power_prompt_title">Permitir execução contínua do app execução em segundo plano?</string>
+    <string name="high_power_prompt_title">Permitir execução contínua do app execução em 2º plano?</string>
     <string name="high_power_system">A otimização de bateria não está disponível</string>
     <string name="high_temperature_toast">"Seu dispositivo está superaquecido. Não é possível usar esse recurso agora."</string>
     <string name="hint_unadjustable_text">Não é possível ajustar manualmente. A temperatura da cor será ajustada automaticamente agora.</string>
@@ -5134,7 +5134,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="ignore_optimizations_off">Otimizar</string>
     <string name="ignore_optimizations_off_desc">Recomendado para maior duração da bateria.</string>
     <string name="ignore_optimizations_on">Não otimizar</string>
-    <string name="ignore_optimizations_on_desc">Isso pode esgotar a bateria mais rapidamente. A restrição do uso de bateria em segundo plano não se aplicará mais ao app.</string>
+    <string name="ignore_optimizations_on_desc">Isso pode esgotar a bateria mais rapidamente. A restrição do uso de bateria em 2º plano não se aplicará mais ao app.</string>
     <string name="illegal_device_name_modification_notification">Renomeie seu dispositivo</string>
     <string name="illegal_hotspot_name_modification_notification">Renomeie seu ponto de acesso</string>
     <string name="ignore_optimizations_title">Permitir que %s ignore as otimizações de bateria?</string>
@@ -5447,7 +5447,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="keywords_display_font_size">tamanho do texto</string>
     <string name="keywords_display_night_display">escurecer tela, noite, tonalidade, noturno, brilho, cor da tela, cor</string>
     <string name="keywords_display_size">Tamanho da tela, tela grande</string>
-    <string name="keywords_display_wallpaper">segundo plano, personalizar, personalizar tela</string>
+    <string name="keywords_display_wallpaper">2º plano, personalizar, personalizar tela</string>
     <string name="keywords_do_not_disturb">DND;Não perturbe;Modo não perturbe;Noite;Dormir;Ocupado</string>
     <string name="keywords_draw_overlay">Balão de conversa, sistema, alerta, janela, diálogo, tela, sobre outros apps, sobrepor</string>
     <string name="keywords_emergency_app">emergência, ice, app, padrão</string>
@@ -5475,7 +5475,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="keywords_lock_screen_notif">notificação de tela de bloqueio, notificações</string>
     <string name="keywords_lockscreen">deslizar para desbloquear, senha, padrão, pin</string>
     <string name="keywords_lockscreen_bypass">Bloquear tela, tela de bloqueio, pular, ignorar</string>
-    <string name="keywords_long_background_tasks">trabalhos longos, transferência de dados, tarefas em segundo plano</string>
+    <string name="keywords_long_background_tasks">trabalhos longos, transferência de dados, tarefas em 2º plano</string>
     <string name="keywords_magnification">Magnificar janela, zoom, ampliação, baixa visão, ampliar, tornar maior</string>
     <string name="keywords_media_controls">mídia</string>
     <string name="keywords_media_management_apps">Mídia, arquivo, gerenciamento, gerenciador, gerenciar, editar, editor, app, app, programa</string>
@@ -5680,7 +5680,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="link_turbo_usage_state_month_total">Este mês</string>
     <string name="link_turbo_usage_state_today">Hoje</string>
     <string name="link_turbo_usage_state_today_total">Hoje</string>
-    <string name="list_bg_header_text">Caso restrinja a conexão em segundo plano, novos apps não poderão conectar-se à internet em segundo plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso.</string>
+    <string name="list_bg_header_text">Caso restrinja a conexão em 2º plano, novos apps não poderão conectar-se à internet em 2º plano depois que forem instalados. Eles não poderão receber mensagens ou baixar conteúdo depois disso.</string>
     <string name="list_empty_text">Vazio</string>
     <string name="lite_font_weight_title">Espessura da fonte</string>
     <string name="live_caption_summary">Legendar mídias automaticamente</string>
@@ -6122,10 +6122,10 @@ Conecte pelo menos 4 pontos."</string>
     <string name="login_account_summary">Gerencie contas, serviços em nuvem, pagamentos e muito mais.</string>
     <string name="login_account_summary_temp">Gerencie contas, serviços da nuvem, e mais.</string>
     <string name="login_action">Fazer login</string>
-    <string name="long_background_tasks_footer_title">"Permitir que este app execute longas tarefas em segundo plano. Isso permite que o app execute tarefas que podem levar mais do que alguns minutos para serem concluídas, como downloads e uploads. Se essa permissão for negada, o sistema limitará o tempo que o app pode executar tais tarefas em segundo plano."</string>
-    <string name="long_background_tasks_label">Tarefas longas em segundo plano</string>
-    <string name="long_background_tasks_switch_title">Permitir tarefas em segundo plano de longa duração</string>
-    <string name="long_background_tasks_title">Tarefas longas em segundo plano</string>
+    <string name="long_background_tasks_footer_title">"Permitir que este app execute longas tarefas em 2º plano. Isso permite que o app execute tarefas que podem levar mais do que alguns minutos para serem concluídas, como downloads e uploads. Se essa permissão for negada, o sistema limitará o tempo que o app pode executar tais tarefas em 2º plano."</string>
+    <string name="long_background_tasks_label">Tarefas longas em 2º plano</string>
+    <string name="long_background_tasks_switch_title">Permitir tarefas em 2º plano de longa duração</string>
+    <string name="long_background_tasks_title">Tarefas longas em 2º plano</string>
     <string name="long_press_back_key">Pressionar e segurar o botão Voltar</string>
     <string name="long_press_buttom_key">Pressionar e segurar o botão Início na Tela de bloqueio</string>
     <string name="long_press_editor_style_summary">Pressione e segure a Tela de bloqueio para editar o relógio e o plano de fundo</string>
@@ -6445,7 +6445,7 @@ Não poderá reverter esta ação."</string>
     <string name="menu_pc_open">Abrir com um programa de computador</string>
     <string name="menu_proc_stats_duration">Duração</string>
     <string name="menu_proc_stats_type">Tipo de estatísticas</string>
-    <string name="menu_proc_stats_type_background">Segundo plano</string>
+    <string name="menu_proc_stats_type_background">2º plano</string>
     <string name="menu_proc_stats_type_cached">Em cache</string>
     <string name="menu_proc_stats_type_foreground">Primeiro plano</string>
     <string name="menu_restore">Redefinir</string>
@@ -7388,7 +7388,7 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="no_5g_in_dsds_text">Ao usar dois chips, este dispositivo será limitado ao 4G. <annotation id="url">Saiba mais</annotation></string>
     <string name="no_application">Nenhum</string>
     <string name="no_applications">Nenhum app</string>
-    <string name="no_background_processes">Sem processos em segundo plano</string>
+    <string name="no_background_processes">Sem processos em 2º plano</string>
     <string name="no_battery_summary">Sem uso da bateria desde a última carga completa</string>
     <string name="no_battery_summary_24hr">Nenhum uso da bateria nas últimas 24 horas</string>
     <string name="no_carrier_update_now_text">Atualizado agora</string>
@@ -7925,7 +7925,7 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="permit_draw_overlay">Permitir sobreposição a outros apps</string>
     <string name="permit_full_screen_intent">Permitir notificações em tela cheia deste app</string>
     <string name="permit_manage_external_storage">Permitir acesso para gerenciar todos os arquivos</string>
-    <string name="permit_running_network">Dados em segundo plano</string>
+    <string name="permit_running_network">Dados em 2º plano</string>
     <string name="permit_usage_access">Permitir acesso ao uso</string>
     <string name="permit_write_settings">Permitir modificar as configurações do sistema</string>
     <string name="person_hotpot">Pontos de acesso móveis</string>
@@ -8032,7 +8032,7 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="power_discharging_duration_enhanced">Cerca de %1$s restantes com base no seu uso (%2$s)</string>
     <string name="power_flashlight">Lanterna</string>
     <string name="power_gps">"GPS"</string>
-    <string name="power_hide_mode_summary">Gerencie atividades em segundo plano de apps para economizar bateria</string>
+    <string name="power_hide_mode_summary">Gerencie atividades em 2º plano de apps para economizar bateria</string>
     <string name="power_hide_mode_title">Gerenciar uso de bateria por apps</string>
     <string name="power_idle">Dispositivo ocioso</string>
     <string name="power_key_how_power_force_off">Como forçar a reinicialização do dispositivo</string>
@@ -8129,14 +8129,14 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="pre_install_question_uninstall_summary">Você pode obter as configurações - mais apps, selecione o app que suporta desinstalar e clicar em desinstalar. Desinstalando os componentes predefinidos do sistema pode resultar em funções parciais do sistema que não podem ser usadas normalmente ou ter uma exceção, e é recomendável operar. Para apps terceirizados desinstalados, você também pode pressionar o ícone na área de trabalho e arrastar e soltar o app de descarga a partir da parte superior da tela.</string>
     <string name="pre_install_question_uninstall_title">Como desinstalar o app?</string>
     <string name="pre_installed_application">Apps pré-instalados</string>
-    <string name="pref_bg_network_title">Conexão em segundo plano</string>
+    <string name="pref_bg_network_title">Conexão em 2º plano</string>
     <string name="pref_button_light">Luz dos botões</string>
     <string name="pref_button_light_summary">Iluminar os botões de Menu, %1$s e Voltar</string>
     <string name="pref_button_light_summary_sub">Início</string>
     <string name="pref_edge_handgrip">Controles na borda</string>
     <string name="pref_key_tethering_setting">Limite único de dados</string>
     <string name="pref_key_tethering_title">Limite único de dados</string>
-    <string name="pref_manage_bg_network">Gerenciar conexão em segundo plano de apps</string>
+    <string name="pref_manage_bg_network">Gerenciar conexão em 2º plano de apps</string>
     <string name="pref_new_installed_preconfig_title">Config. padrão para novos apps</string>
     <string name="pref_operational_key">Botões de navegação</string>
     <string name="pref_show_lunar_calendar_title">Mostrar Calendário Tradicional Chinês na Tela de bloqueio</string>
@@ -8393,7 +8393,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="process_provider_in_use_description">O provedor %1$s está em uso.</string>
     <string name="process_removed_apps">Apps removidos</string>
     <string name="process_service_in_use_description">O serviço %1$s está em uso.</string>
-    <string name="process_stats_bg_ram_use">Uso de RAM (segundo plano)</string>
+    <string name="process_stats_bg_ram_use">Uso de RAM (2º plano)</string>
     <string name="process_stats_os_cache">"Caches"</string>
     <string name="process_stats_os_kernel">Kernel"</string>
     <string name="process_stats_os_label">"Sistema operacional Android</string>
@@ -8405,7 +8405,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="process_stats_summary_title">Estatísticas de processo</string>
     <string name="process_stats_total_duration">%1$s de %2$s usados durante %3$s</string>
     <string name="process_stats_total_duration_percentage">%1$s de RAM usado durante %2$s</string>
-    <string name="process_stats_type_background">Segundo plano</string>
+    <string name="process_stats_type_background">2º plano</string>
     <string name="process_stats_type_cached">Em cache</string>
     <string name="process_stats_type_foreground">Primeiro plano</string>
     <string name="processes_subtitle">Processos</string>
@@ -8579,7 +8579,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
 "<li>Apps desativados</li>"
 "<li>Notificações de apps desativados</li>"
 "<li>Apps padrão para ações</li>"
-"<li>Restrições de dados em segundo plano para apps</li>"
+"<li>Restrições de dados em 2º plano para apps</li>"
 "<li>Qualquer restrição de permissão</li>"
 
 Você não perderá os dados dos apps."</string>
@@ -8639,7 +8639,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string formatted="false" name="resolution_fhd_summary" >%d×%d (economiza bateria)</string>
     <string name="resolution_qhd">"WQHD+"</string>
     <string formatted="false" name="resolution_qhd_summary" >%d×%d (maior nitidez)</string>
-    <string name="resolution_sub_title">O sistema pode encerrar os apps em execução em segundo plano enquanto muda de resolução</string>
+    <string name="resolution_sub_title">O sistema pode encerrar os apps em execução em 2º plano enquanto muda de resolução</string>
     <string name="resolver_settings_label">Ordenar</string>
     <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
     <string name="restore_default_apn_completed">Redefinição das configurações padrão da APN concluída.</string>
@@ -8654,11 +8654,11 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="restore_oaid_positive_step">Redefinir (%1$d)</string>
     <string name="restore_oaid_title">Redefinir ID virtual</string>
     <string name="restr_pin_enter_admin_pin">Inserir PIN do administrador</string>
-    <string name="restrict_background_blacklisted">Os dados em segundo plano estão desativados</string>
-    <string name="restrict_background_blocklisted">Os dados de segundo plano estão desligados</string>
+    <string name="restrict_background_blacklisted">Os dados em 2º plano estão desativados</string>
+    <string name="restrict_background_blocklisted">Os dados de 2º plano estão desligados</string>
     <string name="restrict_bg_app">Restringir</string>
     <string name="restrict_max_aspect_ratio_title">Estes apps podem não funcionar corretamente em Tela cheia</string>
-    <string name="restricted_app_detail_footer">Esses apps estão usando a bateria em segundo plano. Os apps com restrição podem não funcionar corretamente, e é possível que as notificações sejam entregues com atraso.</string>
+    <string name="restricted_app_detail_footer">Esses apps estão usando a bateria em 2º plano. Os apps com restrição podem não funcionar corretamente, e é possível que as notificações sejam entregues com atraso.</string>
     <string name="restricted_app_summary">{count, plural, =1 {Limitando o uso da bateria para # app} other {Limitando o uso da bateria para # apps}}</string>
     <string name="restricted_app_time_summary">Restringido %1$s</string>
     <string name="restricted_app_title">Apps restritos</string>
@@ -9729,7 +9729,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="shoulder_key_switch_status_open">Ativado</string>
     <string name="show_alarm_icon_title">Mostrar ícone do alarme</string>
     <string name="show_all_anrs">Mostrar todos os ANRS</string>
-    <string name="show_all_anrs_summary">Mostre \"App não responde\" para apps em segundo plano</string>
+    <string name="show_all_anrs_summary">Mostre \"App não responde\" para apps em 2º plano</string>
     <string name="show_all_apps">Mostrar uso total do dispositivo</string>
     <string name="show_background_processes">Mostrar processo em cache</string>
     <string name="show_badge_notifications_short">Selos</string>
@@ -12538,11 +12538,11 @@ você pode usar a rede de outros usuários também."</string>
     <string name="wifi_time_remaining">Tempo restante: %1$s</string>
     <string name="wifi_traffic_priority">Modo de tráfego</string>
     <string name="wifi_traffic_priority_extreme">Conexão rápida</string>
-    <string name="wifi_traffic_priority_extreme_summary">Dê prioridade aos apps em uso, enquanto diminui o uso da rede por apps em segundo plano</string>
+    <string name="wifi_traffic_priority_extreme_summary">Dê prioridade aos apps em uso, enquanto diminui o uso da rede por apps em 2º plano</string>
     <string name="wifi_traffic_priority_off">Desativado</string>
     <string name="wifi_traffic_priority_on">Ativado</string>
     <string name="wifi_traffic_priority_regular">Equilibrado</string>
-    <string name="wifi_traffic_priority_regular_summary">Compartilhar a banda entre o app atual e apps em segundo plano</string>
+    <string name="wifi_traffic_priority_regular_summary">Compartilhar a banda entre o app atual e apps em 2º plano</string>
     <string name="wifi_traffic_priority_summary">Ajusta a prioridade do tráfego de rede automaticamente</string>
     <string name="wifi_trust_on_first_use">Confie no primeiro uso</string>
     <string name="wifi_turned_on_message">Wi-Fi ativado</string>

@@ -122,7 +122,7 @@
     </string-array>
     <string-array name="run_in_background_state">
         <item>Sem restrições</item>
-        <item>Limitar atividade em segundo plano</item>
+        <item>Limitar atividade em 2º plano</item>
         <item>Parar após 10 minutos</item>
         <item>Nunca</item>
     </string-array>

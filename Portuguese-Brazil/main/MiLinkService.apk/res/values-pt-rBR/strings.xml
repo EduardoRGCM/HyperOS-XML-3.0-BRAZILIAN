@@ -212,7 +212,6 @@ Faça login em sua Conta Xiaomi em Configurações > Conta Xiaomi para sincroniz
     <string name="cast_forward_10">Avançar dez segundos</string>
     <string name="cast_forward_30">Avançar trinta segundos</string>
     <string name="cast_image_des">Tutorial de transmissão</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">AO VIVO</string>
     <string name="cast_mode">Modo de transmissão</string>
     <string name="cast_mute">Desativar som</string>
@@ -235,7 +234,7 @@ Faça login em sua Conta Xiaomi em Configurações > Conta Xiaomi para sincroniz
     <string name="cast_tracks_chooser_dialog_closed_captions">Legendas ocultas</string>
     <string name="cast_tracks_chooser_dialog_default_track_name">Rastreio %1$d</string>
     <string name="cast_tracks_chooser_dialog_none">Nenhum</string>
-    <string name="cast_tracks_chooser_dialog_ok">Ok</string>
+    <string name="cast_tracks_chooser_dialog_ok">"Ok"</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Legendas</string>
     <string name="cast_unmute">Ativar som</string>
     <string name="cast_zero_devices_found">"Nenhum dispositivo encontrado.
@@ -1298,7 +1297,7 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="notification_rc_title">Assistente de TV Xiaomi</string>
     <string name="notification_show_more">Toque para ver mais recursos</string>
     <string name="notify">A transmissão está funcionando em 2º plano</string>
-    <string name="notify_content">Executar em segundo plano</string>
+    <string name="notify_content">Executar em 2º plano</string>
     <string name="notify_str">Serviço de Hardware Distribuído</string>
     <string name="notify_wifiap_dialog_msg">Para escanear o código e configurar a rede, desative o hotspot portátil primeiro.</string>
     <string name="notify_wifiap_dialog_negative">Entendi</string>

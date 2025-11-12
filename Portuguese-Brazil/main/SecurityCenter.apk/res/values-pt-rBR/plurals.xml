@@ -166,12 +166,12 @@
         <item quantity="one">%d vez</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d apps podem conectar-se à rede em segundo plano</item>
-        <item quantity="one">%d app pode conectar-se à rede em segundo plano</item>
+        <item quantity="other">%d apps podem conectar-se à rede em 2º plano</item>
+        <item quantity="one">%d app pode conectar-se à rede em 2º plano</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">%d apps não podem conectar-se à rede em segundo plano</item>
-        <item quantity="one">%d app não pode conectar-se à rede em segundo plano</item>
+        <item quantity="other">%d apps não podem conectar-se à rede em 2º plano</item>
+        <item quantity="one">%d app não pode conectar-se à rede em 2º plano</item>
     </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">Protegendo %d apps</item>
@@ -389,16 +389,16 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%d app proibido de iniciar automaticamente</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title_global">
-        <item quantity="other">"%d apps não podem ser iniciados em segundo plano"</item>
-        <item quantity="one">"%d app não tem permissão para iniciar em segundo plano"</item>
+        <item quantity="other">"%d apps não podem ser iniciados em 2º plano"</item>
+        <item quantity="one">"%d app não tem permissão para iniciar em 2º plano"</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d apps iniciam automaticamente</item>
         <item quantity="one">%d app inicia automaticamente</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title_global">
-        <item quantity="other">%d apps podem iniciar em segundo plano</item>
-        <item quantity="one">%d app pode iniciar em segundo plano</item>
+        <item quantity="other">%d apps podem iniciar em 2º plano</item>
+        <item quantity="one">%d app pode iniciar em 2º plano</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d apps não têm acesso root</item>

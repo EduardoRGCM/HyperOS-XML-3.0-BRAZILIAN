@@ -1166,7 +1166,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="notify_channel_no_disterb">Modo Não perturbe</string>
     <string name="notify_channel_permission_notice">Permissões necessárias</string>
     <string name="notify_channel_send_fail">Notificar sobre falhas na entrega</string>
-    <string name="notify_channel_service">Notificar sobre sincronização em segundo plano</string>
+    <string name="notify_channel_service">Notificar sobre sincronização em 2º plano</string>
     <string name="ntes_authorization_code_to_login">Fazer login usando este código de verificação</string>
     <string name="ntes_copy_and_login">Copiar e fazer login</string>
     <string name="ntes_do_not_sms_uplink">Envie um SMS a partir do número de telefone associado e então toque em \"Mensagem enviada\".</string>
@@ -1415,7 +1415,7 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="restart_detail_conversation_options2">"5 min"</string>
     <string name="restart_detail_conversation_options3">"15 min"</string>
     <string name="restart_detail_conversation_options4">"30 min"</string>
-    <string name="restart_detail_conversation_title">Reiniciar em segundo plano</string>
+    <string name="restart_detail_conversation_title">Reiniciar em 2º plano</string>
     <string name="retry">Tentar novamente</string>
     <string name="retry_login">Fazer login novamente</string>
     <string name="saturday">Sábado</string>

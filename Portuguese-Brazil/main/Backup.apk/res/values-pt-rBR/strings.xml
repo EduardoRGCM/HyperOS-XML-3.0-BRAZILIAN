@@ -871,11 +871,11 @@ Libere pelo menos %s."</string>
     <string name="task_restore_finished_local">"Restaurado "</string>
     <string name="task_restore_none">Nada a restaurar</string>
     <string name="task_running_backup_dialog">Backup em progresso. Toque em OK para ver.</string>
-    <string name="task_running_backup_hint">Esta tarefa já está sendo executada em segundo plano</string>
+    <string name="task_running_backup_hint">Esta tarefa já está sendo executada em 2º plano</string>
     <string name="task_running_dialog">O backup ou restauração estão em progresso. Toque em OK para ver.</string>
-    <string name="task_running_hint">Este processo já está sendo executado em segundo plano</string>
+    <string name="task_running_hint">Este processo já está sendo executado em 2º plano</string>
     <string name="task_running_restore_dialog">Restauração em progresso. Toque em OK para ver.</string>
-    <string name="task_running_restore_hint">Esta tarefa já está sendo executada em segundo plano</string>
+    <string name="task_running_restore_hint">Esta tarefa já está sendo executada em 2º plano</string>
     <string name="task_service_not_launched">"A tarefa ainda não foi iniciada"</string>
     <string name="task_stopped_exception">Restauração cancelada</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>

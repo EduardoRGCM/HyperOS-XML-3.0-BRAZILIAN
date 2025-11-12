@@ -115,7 +115,7 @@
     <string name="aqi_station_min_distance_station">Estação mais próxima</string>
     <string name="aqi_sub_desc">IQA</string>
     <string name="aqi_top_pollution">Principais poluentes</string>
-    <string name="background_location_dialog_msg">"Para garantir que este app sempre use informações de localização precisas, permita que ele acesse sua localização quando estiver sendo executado em segundo plano. Você pode conceder essa permissão nas Configurações."</string>
+    <string name="background_location_dialog_msg">"Para garantir que este app sempre use informações de localização precisas, permita que ele acesse sua localização quando estiver sendo executado em 2º plano. Você pode conceder essa permissão nas Configurações."</string>
     <string name="background_location_dialog_open_button">Configurações</string>
     <string name="background_location_dialog_title">Permissões necessárias</string>
     <string name="button_abandon">Descartar mudanças</string>
@@ -686,7 +686,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="traffic_control_today_numbers">Hoje: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">Amanhã: %1$s</string>
     <string name="traffic_controls">Racionamento de espaço viário</string>
-    <string name="translate_notification_info">Traduzindo em segundo plano…</string>
+    <string name="translate_notification_info">Traduzindo em 2º plano…</string>
     <string name="tts_best_aqi">Melhor qualidade do ar</string>
     <string name="tts_hour_weather_date_time">De %2$s a %1$s até %4$s a %3$s</string>
     <string name="tts_max_wind_power">Velocidade de vento máxima</string>
@@ -698,7 +698,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="unit_wind">Unidade de velocidade do vento</string>
     <string name="update_night_setting_summary_text">Atualize as informações do clima entre 23:00 e 07:00</string>
     <string name="update_night_setting_title_text">Atualizar automaticamente à noite</string>
-    <string name="update_notification_info">Atualizando dados em segundo plano…</string>
+    <string name="update_notification_info">Atualizando dados em 2º plano…</string>
     <string name="update_setting_title_text">Atualizar informações do clima</string>
     <string name="updated_a_moment_ago">Atualizado agora há pouco</string>
     <string name="updating">Atualizando…</string>
@@ -720,7 +720,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="weather_main_minute_hour">Precipitação de 2 horas</string>
     <string name="weather_more_air_quality">Mais sobre qualidade do ar</string>
     <string name="weather_permission_agree">Aceitar</string>
-    <string name="weather_service_channel_name">Serviços em segundo plano</string>
+    <string name="weather_service_channel_name">Serviços em 2º plano</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

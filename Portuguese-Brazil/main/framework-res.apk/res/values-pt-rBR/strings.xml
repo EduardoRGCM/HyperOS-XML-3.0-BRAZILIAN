@@ -469,7 +469,7 @@ O volume do fone de ouvido está mais alto do que o recomendado, o que pode prej
     <string name="data_usage_rapid_body">Seus apps usaram mais dados do que o normal</string>
     <string name="data_usage_rapid_title">Alto uso de dados móveis</string>
     <string name="data_usage_restricted_body">Toque para remover a restrição.</string>
-    <string name="data_usage_restricted_title">Dados de segundo plano restritos</string>
+    <string name="data_usage_restricted_title">Dados de 2º plano restritos</string>
     <string name="data_usage_warning_body">Você usou %s de dados</string>
     <string name="data_usage_warning_title">Alerta de uso de dados</string>
     <string name="data_usage_wifi_limit_snoozed_title">Acima do limite de dados Wi-Fi</string>
@@ -1284,7 +1284,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_appops_camera_active">Câmera</string>
     <string name="notification_appops_microphone_active">Microfone</string>
     <string name="notification_appops_overlay_active">exibindo sobre outros apps na sua tela</string>
-    <string name="notification_channel_abusive_bg_apps">Atividade em segundo plano</string>
+    <string name="notification_channel_abusive_bg_apps">Atividade em 2º plano</string>
     <string name="notification_channel_accessibility_magnification">Ampliação</string>
     <string name="notification_channel_accessibility_security_policy">Uso de acessibilidade</string>
     <string name="notification_channel_account">Status da conta</string>
@@ -1316,7 +1316,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_channel_voice_mail">Mensagens do correio de voz</string>
     <string name="notification_channel_vpn">Status de VPN</string>
     <string name="notification_channel_wfc">Chamadas por Wi-Fi</string>
-    <string name="notification_content_abusive_bg_apps">%1$s está sendo executado em segundo plano. Toque para gerenciar o uso da bateria.</string>
+    <string name="notification_content_abusive_bg_apps">%1$s está sendo executado em 2º plano. Toque para gerenciar o uso da bateria.</string>
     <string name="notification_content_long_running_fgs">%1$s pode afetar a duração da bateria. Toque para revisar os apps ativos.</string>
     <string name="notification_description">Status da chamada de voz</string>
     <string name="notification_feedback_indicator">Deixar um feedback</string>
@@ -1493,7 +1493,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_register_call_provider">Permite que o app registre novas conexões de telecomunicações.</string>
     <string name="permdesc_register_sim_subscription">Permite que o app registre novas conexões SIM de telecomunicações.</string>
     <string name="permdesc_removeDrmCertificates">Permite que o app remova certificados de DRM. Não deve ser necessário para apps comuns.</string>
-    <string name="permdesc_reorderTasks">Permite que o app mova tarefas para o primeiro e o segundo plano, sem sua intervenção.</string>
+    <string name="permdesc_reorderTasks">Permite que o app mova tarefas para o primeiro e o 2º plano, sem sua intervenção.</string>
     <string name="permdesc_requestDeletePackages">Permite que o app solicite a exclusão de pacotes.</string>
     <string name="permdesc_requestIgnoreBatteryOptimizations">Permite que o app peça permissão para ignorar as otimizações de bateria para esse app.</string>
     <string name="permdesc_requestInstallPackages">Permite que o app solicite a instalação de pacotes.</string>
@@ -1510,7 +1510,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="permdesc_setWallpaper">Permite que o app defina o plano de fundo do sistema.</string>
     <string name="permdesc_setWallpaperHints">Permite que o app defina as dicas de tamanho do plano de fundo do sistema.</string>
     <string name="permdesc_sim_communication">Permite que o app envie comandos ao chip. Isso é muito perigoso.</string>
-    <string name="permdesc_startForegroundServicesFromBackground">Permite que um app complementar inicie serviços em primeiro plano em segundo plano.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">Permite que um app complementar inicie serviços em primeiro plano em 2º plano.</string>
     <string name="permdesc_startReviewPermissionDecisions">Permite que o titular inicie a tela para revisar as decisões de permissão. Nunca deve ser necessário para apps normais.</string>
     <string name="permdesc_startViewAppFeatures">Permite que o titular comece a visualizar as informações de recursos de um app.</string>
     <string name="permdesc_startViewPermissionUsage">Permite que o sistema inicie o uso de permissão para um app. Não deve ser necessário para apps comuns.</string>
@@ -1578,7 +1578,7 @@ para a conta %2$s."</string>
     <string name="permission_request_notification_with_subtitle">"Permissão solicitada
 para a conta %s."</string>
     <string name="permlab_acceptHandover">Continuar uma chamada de outro app</string>
-    <string name="permlab_accessBackgroundLocation">Acessar a localização em segundo plano</string>
+    <string name="permlab_accessBackgroundLocation">Acessar a localização em 2º plano</string>
     <string name="permlab_accessCoarseLocation">Acessar a localização aproximada apenas em primeiro plano</string>
     <string name="permlab_accessDrmCertificates">Acessar certificados de DRM</string>
     <string name="permlab_accessFineLocation">Acessar localização precisa apenas em primeiro plano</string>
@@ -1594,7 +1594,7 @@ para a conta %s."</string>
     <string name="permlab_addVoicemail">Adicionar correio de voz</string>
     <string name="permlab_answerPhoneCalls">Atender chamadas telefônicas</string>
     <string name="permlab_audioWrite">Modifique sua coleção de música</string>
-    <string name="permlab_backgroundCamera">Tire fotos e grave vídeos em segundo plano</string>
+    <string name="permlab_backgroundCamera">Tire fotos e grave vídeos em 2º plano</string>
     <string name="permlab_bindCarrierMessagingService">Vincular a um serviço de mensagens de operadora</string>
     <string name="permlab_bindCarrierServices">Vincular a serviços de operadora</string>
     <string name="permlab_bindCellBroadcastService">Encaminhar mensagens de transmissão celular</string>
@@ -1693,7 +1693,7 @@ para a conta %s."</string>
     <string name="permlab_receiveSms">Receber mensagens de texto (SMS)</string>
     <string name="permlab_receiveWapPush">Receber mensagens de texto (WAP)</string>
     <string name="permlab_recordAudio">Gravar áudio</string>
-    <string name="permlab_recordBackgroundAudio">Gravar áudio em segundo plano</string>
+    <string name="permlab_recordBackgroundAudio">Gravar áudio em 2º plano</string>
     <string name="permlab_register_call_provider">Registrar novas conexões de telecomunicações</string>
     <string name="permlab_register_sim_subscription">Registrar novas conexões SIM de telecomunicações</string>
     <string name="permlab_removeDrmCertificates">Remover certificados de DRM</string>
@@ -1703,7 +1703,7 @@ para a conta %s."</string>
     <string name="permlab_requestInstallPackages">Solicitar pacotes de instalação</string>
     <string name="permlab_requestPasswordComplexity">Solicitar complexidade do bloqueio de tela</string>
     <string name="permlab_route_media_output">Rotear saída de mídia</string>
-    <string name="permlab_runInBackground">Executar em segundo plano</string>
+    <string name="permlab_runInBackground">Executar em 2º plano</string>
     <string name="permlab_schedule_exact_alarm">Programe ações precisamente cronometradas</string>
     <string name="permlab_sdcardRead">Ler conteúdo do armaz. compartilhado</string>
     <string name="permlab_sdcardWrite">Alterar ou excluir conteúdo do armaz. compartilhado</string>
@@ -1714,7 +1714,7 @@ para a conta %s."</string>
     <string name="permlab_setWallpaper">Definir plano de fundo</string>
     <string name="permlab_setWallpaperHints">Ajustar tamanho do plano de fundo</string>
     <string name="permlab_sim_communication">Enviar comandos para o chip</string>
-    <string name="permlab_startForegroundServicesFromBackground">Iniciar serviços em primeiro plano a partir do segundo plano</string>
+    <string name="permlab_startForegroundServicesFromBackground">Iniciar serviços em primeiro plano a partir do 2º plano</string>
     <string name="permlab_startReviewPermissionDecisions">Começar a ver decisões de permissão</string>
     <string name="permlab_startViewAppFeatures">Começar a ver os recursos do app</string>
     <string name="permlab_startViewPermissionUsage">Iniciar uso da permissão para visualização</string>
@@ -1728,7 +1728,7 @@ para a conta %s."</string>
     <string name="permlab_uninstall_shortcut">Desinstalar atalhos</string>
     <string name="permlab_updatePackagesWithoutUserAction">Atualizar app sem ação do usuário</string>
     <string name="permlab_useBiometric">Usar hardware de biometria</string>
-    <string name="permlab_useDataInBackground">Usar dados em segundo plano</string>
+    <string name="permlab_useDataInBackground">Usar dados em 2º plano</string>
     <string name="permlab_useFaceAuthentication">Usar hardware de desbloqueio facial</string>
     <string name="permlab_useFingerprint">Usar hardware de impressão digital</string>
     <string name="permlab_use_exact_alarm">Programar alarmes ou lembretes de eventos</string>

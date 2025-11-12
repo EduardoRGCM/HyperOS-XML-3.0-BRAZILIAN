@@ -456,7 +456,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="process_whole_recovery">Restaurando \"%s\"</string>
     <string name="progressbar_title">Verificando problemas de segurança…</string>
     <string name="provision_back">Voltar</string>
-    <string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
+    <string name="provision_background_restore_more_data">Restaurar mais itens em 2º plano</string>
     <string name="provision_error_connect_msg">"Teste a rede e tente novamente. Backups não estão disponíveis quando seu dispositivo está offline."</string>
     <string name="provision_error_connect_title">"Não é possível conectar-se"</string>
     <string name="provision_next">Próximo</string>

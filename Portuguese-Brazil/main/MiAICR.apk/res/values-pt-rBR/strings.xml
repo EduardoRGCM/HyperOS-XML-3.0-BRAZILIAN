@@ -224,7 +224,7 @@
     <string name="cognition_permission_storage_msg">Para acessar informações de localização anteriores armazenadas no dispositivo</string>
     <string name="cognition_privacy_cta_all_purpose">"O Xiaomi HyperMind é baseado no Motor de IA Mi. O Motor de IA Mi pode reconhecer cenários, aprender seus padrões e oferecer a você serviços precisos e personalizados. "</string>
     <string name="cognition_privacy_cta_general_purpose">O Motor de IA Mi fornece capacidade ao sistema para fornecer recursos como sugestões do Mi AI, Xiaomi HyperMind e App vault ao recolher e analisar as informações sobre como utiliza o seu dispositivo.</string>
-    <string name="cognition_privacy_dialog_get_background_loc_permission_message">Permita que o Xiaomi HyperMind acesse sua localização em segundo plano para poder utilizar os padrões. Você pode conceder esta permissão nas Configurações.</string>
+    <string name="cognition_privacy_dialog_get_background_loc_permission_message">Permita que o Xiaomi HyperMind acesse sua localização em 2º plano para poder utilizar os padrões. Você pode conceder esta permissão nas Configurações.</string>
     <string name="cognition_privacy_dialog_get_background_loc_permission_title">Permissões necessárias</string>
     <string name="cognition_privacy_dialog_get_mijia_cta_message">O Motor de IA Mi precisa coletar informações sobre os seus dispositivos de casa inteligente para aprender os seus padrões. Faça o login no Mi Home para começar. Abrir o app agora?</string>
     <string name="cognition_privacy_dialog_get_mijia_cta_title">Faça o login no Mi Home</string>

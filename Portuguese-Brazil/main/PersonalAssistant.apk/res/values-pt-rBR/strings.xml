@@ -448,7 +448,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_feature_dialog_op_gps_service_message">As Sugestões do Mi AI precisam acessar sua localização para fornecer sua gama completa de serviços. Você pode conceder essa permissão nas Configurações.</string>
     <string name="pa_feature_dialog_op_gps_service_title">Ative os serviços de localização</string>
     <string name="pa_feature_hint_apk_update_bubble_text">Atualize as Sugestões do Mi AI para a versão mais recente</string>
-    <string name="pa_feature_hint_lack_background_location_permission">Permita que este app acesse a localização durante a execução em segundo plano e selecione Sempre permitir</string>
+    <string name="pa_feature_hint_lack_background_location_permission">Permita que este app acesse a localização durante a execução em 2º plano e selecione Sempre permitir</string>
     <string name="pa_feature_hint_lack_bluetooth_permission">Permita que este app se conecte a dispositivos próximos para usar recursos de estacionamento</string>
     <string name="pa_feature_hint_lack_calendar_permission">Permita que este app acesse a Agenda e selecione Sempre permitir</string>
     <string name="pa_feature_hint_lack_location_permission">Permita que este app acesse sua localização e selecione Sempre permitir</string>

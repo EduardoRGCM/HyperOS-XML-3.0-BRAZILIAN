@@ -107,16 +107,16 @@
         <item quantity="one">Restringir app?</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">Não é possível executar estes apps em segundo plano</item>
-        <item quantity="one">Não é possível executar este app em segundo plano</item>
+        <item quantity="other">Não é possível executar estes apps em 2º plano</item>
+        <item quantity="one">Não é possível executar este app em 2º plano</item>
     </plurals>
     <plurals name="battery_tip_restrict_handled_title">
         <item quantity="other">%2$d apps restritos recentemente</item>
         <item quantity="one">%1$s app restrito recentemente</item>
     </plurals>
     <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d apps têm alto consumo de bateria em segundo plano</item>
-        <item quantity="one">%1$s app têm alto consumo de bateria em segundo plano</item>
+        <item quantity="other">%2$d apps têm alto consumo de bateria em 2º plano</item>
+        <item quantity="one">%1$s app têm alto consumo de bateria em 2º plano</item>
     </plurals>
     <plurals name="battery_tip_restrict_title">
         <item quantity="other">Restringir %1$d apps</item>

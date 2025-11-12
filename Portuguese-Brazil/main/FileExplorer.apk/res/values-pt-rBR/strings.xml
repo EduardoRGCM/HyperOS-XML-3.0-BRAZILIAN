@@ -307,7 +307,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="file_cloud_parse_title">Arquivos online</string>
     <string name="file_cloud_parsing">Analisando o arquivo…</string>
     <string name="file_cloud_process_file_Size">"Tamanho: "</string>
-    <string name="file_cloud_process_message">Dependendo do tamanho do arquivo, isto poderá levar alguns minutos. Você pode cancelar ou tocar em \"Aguardar\" para que o processo seja concluído em segundo plano.</string>
+    <string name="file_cloud_process_message">Dependendo do tamanho do arquivo, isto poderá levar alguns minutos. Você pode cancelar ou tocar em \"Aguardar\" para que o processo seja concluído em 2º plano.</string>
     <string name="file_cloud_processing">Processando…</string>
     <string name="file_cloud_setting">Configurações de arquivo</string>
     <string name="file_cloud_setting_item_view_message">Veja arquivos iWork, Xmind e *.psd online</string>

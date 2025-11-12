@@ -3085,7 +3085,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_type_baby">Álbum do bebê</string>
     <string name="share_album_type_home">Protetor de tela familiar</string>
     <string name="share_and_delete_screenshot">Excluir após compartilhar</string>
-    <string name="share_by_email_start">Compartilhar %1$s em segundo plano</string>
+    <string name="share_by_email_start">Compartilhar %1$s em 2º plano</string>
     <string name="share_by_email_successfully">%1$s compartilhado</string>
     <string name="share_from">De %1$s</string>
     <string name="share_public_url_text">"Eu compartilhei o álbum %1$s com você. Acesse-o em %2$s."</string>

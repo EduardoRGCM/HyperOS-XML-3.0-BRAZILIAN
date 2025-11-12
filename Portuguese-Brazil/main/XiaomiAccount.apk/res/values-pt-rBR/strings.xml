@@ -459,7 +459,7 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="notify_bind_security_phone">Adicionar um telefone de recuperação</string>
     <string name="notify_complete_security_info">Adicionar informações de recuperação</string>
     <string name="notify_network_restricted_content_bg_network">"O acesso à internet da Conta Xiaomi está restrito. Toque para permitir."</string>
-    <string name="notify_network_restricted_content_hidden_state">"A atividade em segundo plano da Conta Xiaomi está restrita. Toque para permitir."</string>
+    <string name="notify_network_restricted_content_hidden_state">"A atividade em 2º plano da Conta Xiaomi está restrita. Toque para permitir."</string>
     <string name="notify_network_restricted_content_mobile_network">"O acesso à internet da Conta Xiaomi está restrito. Toque para permitir."</string>
     <string name="notify_network_restricted_title">"A Conta Xiaomi não conseguiu se conectar à internet"</string>
     <string name="notify_verify_again_security_phone">Confirmar</string>

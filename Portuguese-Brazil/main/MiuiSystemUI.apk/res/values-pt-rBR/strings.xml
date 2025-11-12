@@ -530,7 +530,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="basic_status">Abrir conversa</string>
     <string name="battery">Bateria</string>
     <string name="battery_detail_charging_summary">A Economia de bateria não está disponível durante o carregamento</string>
-    <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
+    <string name="battery_detail_switch_summary">Reduz o desempenho e dados em 2º plano</string>
     <string name="battery_detail_switch_title">Economia de bateria</string>
     <string name="battery_info_status_charging">Carregando</string>
     <string name="battery_info_status_charging_dock">Carregando</string>
@@ -566,7 +566,7 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="battery_saver_confirmation_title_generic">Sobre a Economia de bateria</string>
     <string name="battery_saver_dismiss_action">Não, obrigado</string>
     <string name="battery_saver_notification_action_text">Desativar a Economia de bateria</string>
-    <string name="battery_saver_notification_text">Reduz o desempenho e dados em segundo plano</string>
+    <string name="battery_saver_notification_text">Reduz o desempenho e dados em 2º plano</string>
     <string name="battery_saver_notification_title">Economia de bateria ativada</string>
     <string name="battery_saver_start_action">Ativar Economia de bateria</string>
     <string name="battery_state_unknown_notification_text">Toque para obter mais informações</string>
@@ -2252,8 +2252,8 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="power_remaining_only_more_than_subtext">Mais de %1$s restante(s)</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_save_ps_clean">Limpar cache sempre que o dispositivo for bloqueado</string>
-    <string name="power_save_ps_close_setting">Desativar serviços de segundo plano (sincronização, GPS) para economizar energia</string>
-    <string name="power_save_ps_freeze">Congelar apps em segundo plano</string>
+    <string name="power_save_ps_close_setting">Desativar serviços de 2º plano (sincronização, GPS) para economizar energia</string>
+    <string name="power_save_ps_freeze">Congelar apps em 2º plano</string>
     <string name="power_save_ps_limit">Restringir a atividade de apps do sistema</string>
     <string name="power_suggestion_battery_run_out">A bateria pode acabar em %1$s</string>
     <string name="power_suggestion_extend_battery">Estender duração da bateria até %1$s</string>
@@ -2634,7 +2634,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="ring_toggle_title">Ligações</string>
     <string name="rotation_lock_camera_rotation_on">Ativado - baseado no rosto</string>
     <string name="running_foreground_services_msg">Toque para detalhes de bateria e uso de dados</string>
-    <string name="running_foreground_services_title">Apps executando em segundo plano</string>
+    <string name="running_foreground_services_title">Apps executando em 2º plano</string>
     <string name="running_process_item_user_label">Usuário: %1$s</string>
     <string name="runningservices_settings_summary">Visualizar e controlar os serviços em execução no momento</string>
     <string name="runningservices_settings_title">Serviços em execução</string>

@@ -83,7 +83,7 @@
     <string name="ai_generate">Gerado por IA</string>
     <string name="ai_generate_action">Gerar</string>
     <string name="ai_generate_add_latter">Adicione novas fotos quando este processo for concluído.</string>
-    <string name="ai_generate_background">Terminar em segundo plano</string>
+    <string name="ai_generate_background">Terminar em 2º plano</string>
     <string name="ai_generate_determine">Analisando fotos…</string>
     <string name="ai_generate_fail">"Não foi possível gerar"</string>
     <string name="ai_generate_forbid">"Estamos atualizando esse recurso. Fique ligado!"</string>
@@ -1976,7 +1976,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="transparent_wallpaper_filter_setting">Apps individuais</string>
     <string name="transparent_wallpaper_guide">Vá para Temas</string>
     <string name="transparent_wallpaper_guide_tip">Você pode selecionar um plano de fundo transparente no Temas agora.</string>
-    <string name="transparent_wallpaper_is_running_in_background">Plano de fundo transparente está sendo executado em segundo plano</string>
+    <string name="transparent_wallpaper_is_running_in_background">Plano de fundo transparente está sendo executado em 2º plano</string>
     <string name="transparent_wallpaper_pref_summary">Planos de fundo com redução na opacidade do plano de fundo</string>
     <string name="transparent_wallpaper_white_wallpaper">Tornar o fundo branco</string>
     <string name="transparent_wallpaper_white_wallpaper_failed">"Não foi possível deixar o fundo branco"</string>

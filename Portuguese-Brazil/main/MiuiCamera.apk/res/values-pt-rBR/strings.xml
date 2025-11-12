@@ -54,7 +54,7 @@
     <string name="accessibility_beauty_reset">Redefinir parâmetros do Embelezador inteligente</string>
     <string name="accessibility_beauty_switch_closed">O Embelezador está desativado</string>
     <string name="accessibility_beauty_switch_open">O Embelezador está ativado</string>
-    <string name="accessibility_bokeh_adjust">Ajustando desfoque de segundo plano</string>
+    <string name="accessibility_bokeh_adjust">Ajustando desfoque de 2º plano</string>
     <string name="accessibility_bokeh_level">Abertura F%1$s</string>
     <string name="accessibility_bokeh_normal">Desfoque de fundo na câmera frontal desativado</string>
     <string name="accessibility_bokeh_on">Desfoque de fundo na câmera frontal ativado</string>
@@ -2110,7 +2110,7 @@ o fundo das suas fotos"</string>
     <string name="portrait_mode_lowlight_hint">"Ambiente muito escuro"</string>
     <string name="portrait_mode_too_close_hint">Fique mais distante do objeto</string>
     <string name="portrait_mode_too_far_hint">Coloque o objeto dentro de 2m</string>
-    <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o segundo plano
+    <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o 2º plano
 e destaca quem está à frente."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Experimente o Modo Retrato.
 Destaque a pessoa ou objeto enquanto desfoca o plano de fundo."</string>
@@ -3163,8 +3163,8 @@ O Modo Ultra angular ajuda-o quando não puder ficar muito afastado do cenário.
     <string name="video_cast_exit_warning">"Seu sinal de vídeo não estará disponível no outro dispositivo."</string>
     <string name="video_cast_inviting">%1$s quer usar a Gravação em dois telefones com este dispositivo.</string>
     <string name="video_cast_notification_content">Toque para parar</string>
-    <string name="video_cast_notification_title">Usando múltiplas câmeras em segundo plano…</string>
-    <string name="video_cast_service_error">"Não foi possível ativar a Gravação em dois telefones em segundo plano"</string>
+    <string name="video_cast_notification_title">Usando múltiplas câmeras em 2º plano…</string>
+    <string name="video_cast_service_error">"Não foi possível ativar a Gravação em dois telefones em 2º plano"</string>
     <string name="video_cast_service_name">Gravação dupla</string>
     <string name="video_cast_state_exited">Saiu da Gravação em dois telefones</string>
     <string name="video_cast_state_paused">Pausado</string>

@@ -11,7 +11,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
-        <item>Sem processos em segundo plano</item>
+        <item>Sem processos em 2º plano</item>
         <item>No máximo um processo</item>
         <item>No máximo dois processos</item>
         <item>No máximo, três processos</item>

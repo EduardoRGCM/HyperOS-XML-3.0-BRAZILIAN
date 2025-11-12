@@ -276,7 +276,7 @@
     <string name="idbct_opt_low_dev_desc_text">Sempre baixe imagens em qualidade padrão</string>
     <string name="idbct_opt_low_dev_main_text">Padrão</string>
     <string name="idbct_title">Tipos de rede</string>
-    <string name="launch_bg_permission_exception">Permita que o Carrossel de planos de fundo exiba janelas pop-up enquanto é executado em segundo plano no app Segurança</string>
+    <string name="launch_bg_permission_exception">Permita que o Carrossel de planos de fundo exiba janelas pop-up enquanto é executado em 2º plano no app Segurança</string>
     <string name="left_lks_detail_entrance">Ver mais</string>
     <string name="left_lks_download_now">Baixar</string>
     <string name="left_lks_reverse">Pedido antecipado</string>

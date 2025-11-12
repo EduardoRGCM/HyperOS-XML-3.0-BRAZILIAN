@@ -632,7 +632,7 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="screen_translate_select_lang">Selecionar idioma</string>
     <string name="screen_translate_share">Compartilhar</string>
     <string name="screen_translate_share_page_title">Tradução</string>
-    <string name="screen_translate_too_much_instance_tips">Desative a tradução da tela em segundo plano primeiro</string>
+    <string name="screen_translate_too_much_instance_tips">Desative a tradução da tela em 2º plano primeiro</string>
     <string name="screen_translate_translating">Traduzindo…</string>
     <string name="screen_translate_wrong_language">Parece que o idioma de origem não é o idioma que você selecionou. Selecione novamente.</string>
     <string name="search_menu_title">Pesquisar</string>

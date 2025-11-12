@@ -44,7 +44,7 @@
     <string name="angle">deg</string>
     <string name="app_name">Calculadora</string>
     <string name="app_name_danfa">Calculadora</string>
-    <string name="app_notification_info">Sendo executada em segundo plano</string>
+    <string name="app_notification_info">Sendo executada em 2º plano</string>
     <string name="arccos">"arccos"</string>
     <string name="arcsin">"arcsen"</string>
     <string name="arctan">"arctan"</string>

@@ -131,7 +131,7 @@ Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exe
     <string name="awake_duration_normal_description">Você teve alguns despertares noturnos.</string>
     <string name="back">Voltar</string>
     <string name="back_stroke">Nado de costas</string>
-    <string name="background_run_tips">Toque em \"Configurações\" abaixo e permita que o Mi Saúde sempre execute em segundo plano.</string>
+    <string name="background_run_tips">Toque em \"Configurações\" abaixo e permita que o Mi Saúde sempre execute em 2º plano.</string>
     <string name="backtrack">Voltar</string>
     <string name="base_dpi">Padrão 360dp</string>
     <string name="basic_info_label_age">Idade</string>
@@ -146,8 +146,8 @@ Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exe
     <string name="bedtime">Hora de dormir</string>
     <string name="bedtime_description">"Hora de dormir é o momento em que você vai para a cama e guarda o dispositivo. É estimado com base na programação da hora de dormir e no uso do dispositivo."</string>
     <string name="bg_control_dialog_go_set">Configurações</string>
-    <string name="bg_control_dialog_msg">"A Economia de bateria vai restringir as atividades em segundo plano do Mi Saúde. Permita que o Mi Saúde sempre execute em segundo plano para obter dados precisos."</string>
-    <string name="bg_control_dialog_title">Restrições de segundo plano</string>
+    <string name="bg_control_dialog_msg">"A Economia de bateria vai restringir as atividades em 2º plano do Mi Saúde. Permita que o Mi Saúde sempre execute em 2º plano para obter dados precisos."</string>
+    <string name="bg_control_dialog_title">Restrições de 2º plano</string>
     <string name="birthday">Data de nascimento</string>
     <string name="blood_pressure">Pressão sanguínea</string>
     <string name="blood_pressure_high_tip">Pressão alta: %1$s mmHg sistólica, %2$s mmHg diastólica</string>
@@ -200,9 +200,9 @@ Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exe
     <string name="cancel_mark_start">Excluir este registro</string>
     <string name="card_on_using">Usando</string>
     <string name="certain">"OK"</string>
-    <string name="channel_desc_background">Para fornecer serviços em segundo plano</string>
-    <string name="channel_id_background_service">Serviços em segundo plano</string>
-    <string name="channel_name_background">Serviços em segundo plano</string>
+    <string name="channel_desc_background">Para fornecer serviços em 2º plano</string>
+    <string name="channel_id_background_service">Serviços em 2º plano</string>
+    <string name="channel_name_background">Serviços em 2º plano</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="chart_no_data">Sem dados</string>
@@ -1014,7 +1014,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="my_data_source">Fonte de dados</string>
     <string name="name_title_menstruation_today_end">É esperado que seu período termine hoje</string>
     <string name="need_auto_start_permission">Para obter dados mais precisos, permita que o Mi Saúde inicie automaticamente.</string>
-    <string name="need_unrestricted_permission">Para obter estatísticas mais precisas, permita que o Mi Saúde sempre execute em segundo plano.</string>
+    <string name="need_unrestricted_permission">Para obter estatísticas mais precisas, permita que o Mi Saúde sempre execute em 2º plano.</string>
     <string name="network_connect_failure">"Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente."</string>
     <string name="network_name_china">"Wi-Fi"</string>
     <string name="network_not_available">"Não foi possível conectar-se à rede. Por favor, verifique suas configurações de rede e tente novamente."</string>
@@ -1055,7 +1055,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="open_swimming">Nado livre</string>
     <string name="open_sync">Ativar sincronização</string>
     <string name="open_sync_and_enter_app">Ativar sincronização</string>
-    <string name="open_unrestricted_permissions">Para registrar o sono com mais precisão, permita que o Mi Saúde sempre execute em segundo plano.</string>
+    <string name="open_unrestricted_permissions">Para registrar o sono com mais precisão, permita que o Mi Saúde sempre execute em 2º plano.</string>
     <string name="optional_data_source">Fontes de dados disponíveis</string>
     <string name="organ_donation_volunteer">Doador voluntário de órgãos</string>
     <string name="origin">Origem</string>
@@ -1315,7 +1315,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="sleep_detection_question_one_answer">"Quando o dispositivo é desligado, reiniciado ou a bateria estiver fraca, o monitoramento do sono será interrompido porque os sensores podem não coletar e analisar os dados. Nesses casos, as estatísticas do sono parecerão incompletas.
 Se este problema ocorrer com frequência, verifique se seu dispositivo tem agendamento de desligamento ou atualizações noturnas do sistema."</string>
     <string name="sleep_detection_question_one_answer_1">"As fases de sono profundo e leve são detectadas com base nos dados de movimento do corpo coletados pelos sensores do seu dispositivo. Veja por que você pode não conseguir ver as estatísticas:
-1. O Mi Saúde não pôde coletar dados. Isso pode acontecer quando o dispositivo é desligado enquanto você dorme, sua bateria estiver muito fraca ou o app não puder funcionar em segundo plano. Permita que o Mi Saúde inicie automaticamente, adicione-o às exceções de economia de bateria e mantenha-o em segundo plano para impedir que isso aconteça.
+1. O Mi Saúde não pôde coletar dados. Isso pode acontecer quando o dispositivo é desligado enquanto você dorme, sua bateria estiver muito fraca ou o app não puder funcionar em 2º plano. Permita que o Mi Saúde inicie automaticamente, adicione-o às exceções de economia de bateria e mantenha-o em 2º plano para impedir que isso aconteça.
 2. O Mi Saúde não conseguiu analisar os dados coletados. Isso pode acontecer quando o dispositivo é colocado muito longe do corpo enquanto você dorme. Como alternativa, o movimento do seu corpo pode ser muito sutil para fazer suposições sobre as alterações no seu ciclo do sono. Estamos constantemente aprimorando nossos algoritmos para fazer com que o Mi Saúde analise melhor seu sono."</string>
     <string name="sleep_detection_question_one_title">Por que minhas estatísticas estão incompletas?</string>
     <string name="sleep_detection_question_one_title_1">"Por que não vejo estatísticas do ciclo do sono?"</string>
@@ -1323,7 +1323,7 @@ Se este problema ocorrer com frequência, verifique se seu dispositivo tem agend
     <string name="sleep_detection_question_three_title">Como posso tornar minhas estatísticas mais precisas?</string>
     <string name="sleep_detection_question_two_answer">"Seus ciclos de sono são analisados no dispositivo localmente. O monitoramento do sono funcionará mesmo quando você não estiver conectado à rede ou sua conexão atual for interrompida."</string>
     <string name="sleep_detection_question_two_title">Devo me conectar à internet para analisar os ciclos de sono?</string>
-    <string name="sleep_detector_content">O Mi Saúde está monitorando o seu sono em segundo plano</string>
+    <string name="sleep_detector_content">O Mi Saúde está monitorando o seu sono em 2º plano</string>
     <string name="sleep_detector_title">Monitorando o sono</string>
     <string name="sleep_detector_unopened">"Você ainda não começou a analisar seu sono."</string>
     <string name="sleep_duration">Tempo de sono</string>
@@ -1366,7 +1366,7 @@ os dados de sono"</string>
     <string name="sleep_require_auto_start_permission">Permita que o Mi Saúde inicie automaticamente para registrar as suas exercícios e sono</string>
     <string name="sleep_schedule">Horário e dormir</string>
     <string name="sleep_service">Serviço de monitoramento do sono</string>
-    <string name="sleep_service_background_running">O serviço de monitoramento do sono está executando em segundo plano</string>
+    <string name="sleep_service_background_running">O serviço de monitoramento do sono está executando em 2º plano</string>
     <string name="sleep_setting_title">Configurações de sono</string>
     <string name="sleep_snore_audio_auto">Grava o ronco e fala automaticamente</string>
     <string name="sleep_snore_audio_auto_desc">O Mi Saúde pode gravar roncos e falas automaticamente com base no seu horário de dormir. A gravação irá parar quando você se levantar. Para proteger sua privacidade, todos os arquivos gravados serão salvos localmente no seu dispositivo usando um algoritmo embutido.</string>
@@ -1418,11 +1418,11 @@ os dados de sono"</string>
     <string name="snore_detection_guide_two_title">Detectar sons automaticamente</string>
     <string name="snore_detection_model_hint">Algoritmos de detecção de ronco e fala fornecidos pelo Snail Sleep</string>
     <string name="snore_detection_normal_notification_title">Detectando ronco e fala</string>
-    <string name="snore_detection_notification_content">O microfone está ativado. Ele continuará funcionando em segundo plano.</string>
+    <string name="snore_detection_notification_content">O microfone está ativado. Ele continuará funcionando em 2º plano.</string>
     <string name="snore_detection_notification_title">O teste de sono está em andamento</string>
     <string name="snore_detection_open_prompt">O ronco e fala serão detectados quando você for dormir</string>
     <string name="snore_detection_running_state">Detectando…</string>
-    <string name="snore_detection_running_state_description">O microfone está ativado. Ele continuará funcionando em segundo plano.</string>
+    <string name="snore_detection_running_state_description">O microfone está ativado. Ele continuará funcionando em 2º plano.</string>
     <string name="snore_detection_sotp_opt_1">Parar e excluir os resultados</string>
     <string name="snore_detection_sotp_opt_2">Parar e salvar os resultados</string>
     <string name="snore_detection_stop_pop_content">"Você não poderá retomar esta sessão se encerrá-la agora. A próxima sessão começará quando você for dormir na próxima vez."</string>
@@ -1802,7 +1802,7 @@ os dados de sono"</string>
     <string name="title_month_exercise_sum">Estatísticas mensais</string>
     <string name="title_network_license">Acesso à rede</string>
     <string name="title_no_record_menstruation">"Você ainda não registrou os seus períodos."</string>
-    <string name="title_run_in_background">Executar em segundo plano</string>
+    <string name="title_run_in_background">Executar em 2º plano</string>
     <string name="title_select_birthday">Selecione a data de nascimento</string>
     <string name="title_select_birthday_description">"Ajustaremos nossos serviços à sua idade"</string>
     <string name="title_select_gender">Selecione o gênero</string>

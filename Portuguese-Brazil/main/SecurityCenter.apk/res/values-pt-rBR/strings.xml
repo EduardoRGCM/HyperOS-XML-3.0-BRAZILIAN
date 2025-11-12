@@ -4,7 +4,7 @@
     <string name="HIPS_Perm_Access_Gallery_Desc">Permite que este app acesse itens na sua Galeria</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ative ou desative o Bluetooth</string>
     <string name="HIPS_Perm_CallLog_Desc">Escreva ou exclua registros no histórico de chamadas</string>
-    <string name="HIPS_Perm_Call_Desc">Ligue diretamente para números de telefone</string>
+    <string name="HIPS_Perm_Call_Desc">Liga diretamente para números de telefone</string>
     <string name="HIPS_Perm_Contact_Desc">Modificar e excluir contatos</string>
     <string name="HIPS_Perm_External_READ_FILES">Acesso a arquivos e documentos</string>
     <string name="HIPS_Perm_External_READ_FILES_Desc">Acesse arquivos e documentos armazenados neste dispositivo</string>
@@ -14,19 +14,19 @@
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Acesso a fotos e vídeos</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Acesse fotos e vídeos armazenados neste dispositivo</string>
     <string name="HIPS_Perm_External_Storage">Acessar e salvar itens no armazenamento</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Acesse e salve arquivos e fotos no armazenamento interno</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Acessa e salvar arquivos e fotos no armazenamento interno</string>
     <string name="HIPS_Perm_External_Storage_Group">Gerenciar permissões de armazenamento</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Selecione quais itens os apps terão acesso</string>
-    <string name="HIPS_Perm_GetInstall_Desc">Acesse a lista de apps instalados neste dispositivo</string>
-    <string name="HIPS_Perm_PhoneID_Desc">Acesse o número do telefone, IMEI e IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Desc_Q">Acesse o número do telefone e status do dispositivo</string>
-    <string name="HIPS_Perm_Read_Call_Log_Desc">Leia o histórico de chamadas</string>
-    <string name="HIPS_Perm_Read_Contact_Desc">Leia seus contatos</string>
-    <string name="HIPS_Perm_Read_SMS_Desc">Leia suas mensagens SMS</string>
-    <string name="HIPS_Perm_SendSMS_Desc">Envie mensagens SMS diretamente</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Acessa a lista de apps instalados neste dispositivo</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Acessa o número do telefone, IMEI e IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Acessa o número do telefone e status do dispositivo</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Ler o histórico de chamadas</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Ler seus contatos</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Ler suas mensagens SMS</string>
+    <string name="HIPS_Perm_SendSMS_Desc">Envia mensagens SMS diretamente</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">Ative ou desative o Wi-Fi</string>
-    <string name="HIPS_Perm_add_voicemail_Desc">Adicione mensagens de voz do sistema</string>
-    <string name="HIPS_Perm_get_accounts_Desc">Acesse todas as contas armazenadas no dispositivo</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">Adiciona mensagens de voz do sistema</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Acessa todas as contas armazenadas no dispositivo</string>
     <string name="HIPS_Perm_process_nfc_Desc">Usar o NFC</string>
     <string name="HIPS_Perm_tencentControl">Acessar mensagens em apps de redes sociais</string>
     <string name="HIPS_Perm_tencentControl_Desc">Permite que este app acesse suas mensagens do WeChat e QQ</string>
@@ -77,7 +77,7 @@
     <string name="abnormal_consume_type_cpu">Alto uso da CPU</string>
     <string name="abnormal_consume_type_wakelock">O sistema não consegue entrar em suspensão</string>
     <string name="about_autostart">Sobre o início automático</string>
-    <string name="about_autostart_gloabl">Sobre o início automático em segundo plano</string>
+    <string name="about_autostart_gloabl">Sobre o início automático em 2º plano</string>
     <string name="ac_enter_applock">Acessar Bloqueio de apps</string>
     <string name="ac_firstUseApplock_subTitle">Usar ferramentas de segurança do sistema</string>
     <string name="ac_firstUseApplock_title">Defina uma senha para proteger seus apps</string>
@@ -130,7 +130,7 @@
     <string name="activity_title_apps_manager">"Apps"</string>
     <string name="activity_title_apps_settings">"Apps"</string>
     <string name="activity_title_auto_start_manager">Início automático</string>
-    <string name="activity_title_auto_start_manager_global">Início automático em segundo plano</string>
+    <string name="activity_title_auto_start_manager_global">Início automático em 2º plano</string>
     <string name="activity_title_create_shortcut">Gerenciar atalhos</string>
     <string name="activity_title_garbage_cleanup">Limpeza</string>
     <string name="activity_title_license_manager">Permissões</string>
@@ -220,7 +220,7 @@
     <string name="alert_back_diving_mode_summary">Desativar o Modo imersivo agora?</string>
     <string name="alert_back_diving_mode_title">Modo imersivo</string>
     <string name="alert_back_milink_hangup_tips_content">A transmissão não será interrompida enquanto estiver encerrando uma chamada. Você pode pressionar o botão Liga/Desliga para ligar a tela.</string>
-    <string name="alert_back_milink_hangup_tips_content_vb">Quando a tela estiver desligada, o app funcionará em segundo plano sem interromper o processo de transmissão. Pressione o botão Liga/Desliga para ligar a tela novamente.</string>
+    <string name="alert_back_milink_hangup_tips_content_vb">Quando a tela estiver desligada, o app funcionará em 2º plano sem interromper o processo de transmissão. Pressione o botão Liga/Desliga para ligar a tela novamente.</string>
     <string name="all_address_choose_hint">Todos os números nesta província</string>
     <string name="allow_all">Permitir todos</string>
     <string name="allow_device_id_access">Selecionar apps que podem usar o ID do dispositivo</string>
@@ -386,7 +386,7 @@
     <string name="app_behavior_monitor_off_select">Não mostrar novamente</string>
     <string name="app_behavior_monitor_tips_if_trust">Você pode desativar as notificações sobre ações sensíveis se você confia neste app</string>
     <string name="app_behavior_monitor_tips_key">Notificações sobre ações sensíveis</string>
-    <string name="app_behavior_monitor_tips_summary">Você pode receber notificações quando apps gravam áudio, acessam a sua localização ou executam outras ações sensíveis em segundo plano.</string>
+    <string name="app_behavior_monitor_tips_summary">Você pode receber notificações quando apps gravam áudio, acessam a sua localização ou executam outras ações sensíveis em 2º plano.</string>
     <string name="app_behavior_no_recorder">Nenhum resultado encontrado</string>
     <string name="app_behavior_notification_audio_now_one">%1s está gravando áudio</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s e %2s estão gravando áudio</string>
@@ -471,7 +471,7 @@
     <string name="app_behavior_warning_audio_title">%1s está gravando áudio em 2º plano</string>
     <string name="app_behavior_warning_content">Encerre este processo se você não o permitiu</string>
     <string name="app_behavior_warning_location_title">%1s está acessando sua localização</string>
-    <string name="app_bg_restrict_dialog_message">Restringir a conexão de rede em segundo plano pode impedir que o app funcione normalmente. Por exemplo, pode levar mais tempo para que as novas mensagens sejam recebidas ou o seu conteúdo atualizado.</string>
+    <string name="app_bg_restrict_dialog_message">Restringir a conexão de rede em 2º plano pode impedir que o app funcione normalmente. Por exemplo, pode levar mais tempo para que as novas mensagens sejam recebidas ou o seu conteúdo atualizado.</string>
     <string name="app_check_no_issue">Não existem problemas de bateria!</string>
     <string name="app_classification_activity_label">Todos os apps</string>
     <string name="app_classification_recent_add">Recente</string>
@@ -590,9 +590,9 @@
     <string name="app_manager_permission_startself_title">Início automático</string>
     <string name="app_manager_permission_summary_reject">Restringir tudo</string>
     <string name="app_manager_powerkeeper_miui_auto">Economia de bateria</string>
-    <string name="app_manager_powerkeeper_no_bg">Restringir atividade em segundo plano</string>
+    <string name="app_manager_powerkeeper_no_bg">Restringir atividade em 2º plano</string>
     <string name="app_manager_powerkeeper_no_restrict">Sem restrições</string>
-    <string name="app_manager_powerkeeper_restrict_bg">Restringir apps em segundo plano</string>
+    <string name="app_manager_powerkeeper_restrict_bg">Restringir apps em 2º plano</string>
     <string name="app_manager_pref_ads">Recomendações</string>
     <string name="app_manager_reset_app_preferences">Redefinir preferências de apps</string>
     <string name="app_manager_reset_app_preferences_button">Redefinir apps</string>
@@ -601,7 +601,7 @@
 "<li>Apps desativados</li>"
 "<li>Notificações de apps desativados</li>"
 "<li>Apps padrão</li>"
-"<li>Restrição de dados em segundo plano para apps</li>"
+"<li>Restrição de dados em 2º plano para apps</li>"
 
 Você não perderá nenhum dado de apps."</string>
     <string name="app_manager_reset_app_preferences_title">Redefinir preferências de apps?</string>
@@ -651,7 +651,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_permission_use_group_location">Informações de localização</string>
     <string name="app_permission_use_group_location_des">Localização aproximada e precisa</string>
     <string name="app_permission_use_group_mic">Microfone</string>
-    <string name="app_permission_use_group_mic_des">Grave áudios</string>
+    <string name="app_permission_use_group_mic_des">Grava áudios</string>
     <string name="app_permission_use_group_phone">Telefone</string>
     <string name="app_permission_use_group_phone_des">Leia e adicione itens ao histórico de chamadas, fazer chamadas e acessar o status da chamada</string>
     <string name="app_permission_use_group_sensor">Sensores corporais</string>
@@ -663,13 +663,13 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_permission_use_neccesary">Permissões necessárias</string>
     <string name="app_permission_use_no_neccesary">Permissões opcionais</string>
     <string name="app_permission_use_title">Permissões</string>
-    <string name="app_powerkeeper_config_description">"Seu dispositivo consegue identificar apps com processos específicos em segundo plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica a Economia de bateria de uma forma que não influencie as atividades importantes em segundo plano."</string>
+    <string name="app_powerkeeper_config_description">"Seu dispositivo consegue identificar apps com processos específicos em 2º plano (ex.: apps de mensagem, posicionamento e reprodutores de mídia), e aplica a Economia de bateria de uma forma que não influencie as atividades importantes em 2º plano."</string>
     <string name="app_powerkeeper_miui_auto">Economia de bateria (recomendado)</string>
     <string name="app_powerkeeper_miui_auto_summary">Identifica apps e atividades para manter processos importantes em execução. A Economia de bateria irá tratar apps importantes de forma seletiva.</string>
     <string name="app_powerkeeper_no_restrict">Nenhuma restrição</string>
     <string name="app_powerkeeper_no_restrict_summary">"A Economia de bateria não restringirá as atividades deste app"</string>
-    <string name="app_powerkeeper_restrict_bg">Restringir o app em segundo plano</string>
-    <string name="app_powerkeeper_restrict_running">Encerra o app após %d minutos de atividade em segundo plano</string>
+    <string name="app_powerkeeper_restrict_bg">Restringir o app em 2º plano</string>
+    <string name="app_powerkeeper_restrict_running">Encerra o app após %d minutos de atividade em 2º plano</string>
     <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
     <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões de apps</string>
     <string name="app_predict_classification_search_empty">Nenhum resultado encontrado</string>
@@ -708,7 +708,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_right">Produzido oficialmente pela Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Cancelar</string>
     <string name="app_running_tip_dialog_positive">Sair</string>
-    <string name="app_running_tip_dialog_text">Parece que este app está executando em segundo plano. Você pode fechar o app para otimizar a velocidade do seu dispositivo e reduzir o consumo de bateria.</string>
+    <string name="app_running_tip_dialog_text">Parece que este app está executando em 2º plano. Você pode fechar o app para otimizar a velocidade do seu dispositivo e reduzir o consumo de bateria.</string>
     <string name="app_running_tip_dialog_title">Sair do %1$s</string>
     <string name="app_running_tip_uninstall">Desinstale este app</string>
     <string name="app_settings_link">Configurações adicionais do app</string>
@@ -994,7 +994,7 @@ Se você ainda não definiu um bloqueio de tela, siga as instruções para defin
     <string name="back_sound_success">Configurado com sucesso</string>
     <string name="back_sound_support">Dessative o Wi-Fi primeiro</string>
     <string name="back_sound_support_china">Dessative o Wi-Fi primeiro</string>
-    <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para este app pode fazer com este app não funcione normalmente, receba mensagens, baixe conteúdos, etc. Restringir mesmo assim?</string>
+    <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em 2º plano para este app pode fazer com este app não funcione normalmente, receba mensagens, baixe conteúdos, etc. Restringir mesmo assim?</string>
     <string name="background_traffic">| 2º plano: %s</string>
     <string name="backsound_set_hint">Definir sua mensagem de ausência para %s?</string>
     <string name="banner_optimizemanage_summary">Libere memória</string>
@@ -1374,7 +1374,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="compatible_dialog_more_info">Saiba mais</string>
     <string name="compatible_dialog_title">Atenção!</string>
     <string name="comprehensive_protection_measures">Proteção abrangente</string>
-    <string name="config_restrict_running_warning">Se você continuar, todas as atividades em segundo plano do app serão interrompidas, o que poderá afetar seus recursos. Continuar mesmo assim?</string>
+    <string name="config_restrict_running_warning">Se você continuar, todas as atividades em 2º plano do app serão interrompidas, o que poderá afetar seus recursos. Continuar mesmo assim?</string>
     <string name="confirmSecondSpacePassword">Confirmar senha do Segundo espaço</string>
     <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Exibir notificação\" para todos os apps?</string>
     <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
@@ -1623,7 +1623,7 @@ Todos os dados no seu dispositivo podem ser apagados e a sua senha da Tela de bl
     <string name="dialog_skt_roaming_warning_title">Acordo de roaming de dados</string>
     <string name="dialog_title_attention">Atenção!</string>
     <string name="dialog_title_auto_start_declare">Sobre o início automático</string>
-    <string name="dialog_title_auto_start_declare_global">Sobre o início automático em segundo plano</string>
+    <string name="dialog_title_auto_start_declare_global">Sobre o início automático em 2º plano</string>
     <string name="dialog_title_stop_virus_scan">Parar verificação de segurança</string>
     <string name="disable_air_mode">Desative o Modo avião primeiro</string>
     <string name="disable_sensitive_permissions">Permissões confidenciais restritas</string>
@@ -1673,11 +1673,11 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="dlg_remove_whitelist_ing">Removendo…</string>
     <string name="dlg_remove_whitelist_title">Remover</string>
     <string name="dlg_sec_network_unavailable">O app Segurança não pode ser atualizado porque você restringiu o seu acesso à internet. Permitir que o app conecte-se à internet?</string>
-    <string name="dlg_summary_close_app">Os apps não serão executados em segundo plano. As notificações serão restringidas.</string>
+    <string name="dlg_summary_close_app">Os apps não serão executados em 2º plano. As notificações serão restringidas.</string>
     <string name="dlg_summary_close_theme">Temas dinâmicos não funcionarão.</string>
     <string name="dlg_summary_close_wifi">O Wi-Fi, Bluetooth e o hotspot portátil serão desativados.</string>
     <string name="dlg_summary_nfc">O NFC será desativado.</string>
-    <string name="dlg_summary_title">A atividade em segundo plano será restrita quando você sair de um app ou voltar para a Tela inicial. Adicione apps às exceções da Economia de bateria para permitir que eles executem em segundo plano.</string>
+    <string name="dlg_summary_title">A atividade em 2º plano será restrita quando você sair de um app ou voltar para a Tela inicial. Adicione apps às exceções da Economia de bateria para permitir que eles executem em 2º plano.</string>
     <string name="dlg_title_not_open_stranger_identify">ID de chamadas</string>
     <string name="dlg_update_btn_contiue">Continuar</string>
     <string name="dlg_update_btn_open">Permitir</string>
@@ -1962,7 +1962,7 @@ monitoramento de terremotos"</string>
     <string name="ew_settings_push_tips">Os alertas sobre áreas fora de sua localização virão apenas na forma de notificações.</string>
     <string name="ew_settings_set_level_summary">Receba alertas sobre terremotos quando sua intensidade for %s ou maior</string>
     <string name="ew_settings_set_level_title">Definir limite de alerta de terremotos</string>
-    <string name="ew_sleep_mode_alert_content">"Para garantir que você possa receber alertas antecipados de terremoto, o HyperOS desativará o Modo sono. Apps em segundo plano, NFC, Bluetooth, GPS, dados móveis e Wi-Fi funcionarão normalmente mesmo quando você estiver dormindo."</string>
+    <string name="ew_sleep_mode_alert_content">"Para garantir que você possa receber alertas antecipados de terremoto, o HyperOS desativará o Modo sono. Apps em 2º plano, NFC, Bluetooth, GPS, dados móveis e Wi-Fi funcionarão normalmente mesmo quando você estiver dormindo."</string>
     <string name="ew_sleep_mode_alert_title">Aviso importante</string>
     <string name="ew_subscribe_area_title">Gerenciar áreas adicionadas</string>
     <string name="ew_subscribe_city">Áreas adicionadas</string>
@@ -2289,7 +2289,7 @@ monitoramento de terremotos"</string>
     <string name="game_else_function">Outros</string>
     <string name="game_manual_record_setting_setting">Configurações</string>
     <string name="game_manual_record_setting_title">Momentos principais</string>
-    <string name="game_more_improve">Restringir atividades em segundo plano e velocidade de download para economizar banda e bateria para jogos</string>
+    <string name="game_more_improve">Restringir atividades em 2º plano e velocidade de download para economizar banda e bateria para jogos</string>
     <string name="game_perf_config_audio_desc">Ajustar o estilo de áudio do jogo</string>
     <string name="game_perf_config_audio_title">Áudio do jogo</string>
     <string name="game_perf_config_display_desc_disabled">Não disponível</string>
@@ -2393,7 +2393,7 @@ Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção
     <string name="gamebox_game_center_app_not_find">Instale os jogos primeiro</string>
     <string name="gamebox_hangup">Desligar tela</string>
     <string name="gamebox_hangup_new">Desligar tela</string>
-    <string name="gamebox_hangup_tips_content">Este recurso permite que você desligue a tela, mas mantenha o jogo executando em segundo plano. Ele é desativado automaticamente quando o dispositivo for desbloqueado.</string>
+    <string name="gamebox_hangup_tips_content">Este recurso permite que você desligue a tela, mas mantenha o jogo executando em 2º plano. Ele é desativado automaticamente quando o dispositivo for desbloqueado.</string>
     <string name="gamebox_hangup_tips_title">Desligar tela</string>
     <string name="gamebox_immersion">Modo imersivo</string>
     <string name="gamebox_immersion_tips_content">O Modo imersivo restringe todas as funcionalidades do cartão SIM exceto pela conexão de dados móveis. Você não será interrompido por chamadas ou receberá notificações sobre chamadas perdidas. Todas as funcionalidades serão restauradas quando o Modo imersivo for desativado. Ativar o Modo imersivo?</string>
@@ -2531,7 +2531,7 @@ Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção
     <string name="gb_dnd_barrage_conflict_toast">"Você não poderá usar os comentários na tela quando o Não perturbe estiver ativado"</string>
     <string name="gb_first_guide_function_shiled_title">Desative recursos do sistema com o Game Turbo ativado</string>
     <string name="gb_first_guide_gamebox_des">Use atalhos enquanto estiver jogando</string>
-    <string name="gb_first_guide_handsfree_des">Atenda chamadas em segundo plano</string>
+    <string name="gb_first_guide_handsfree_des">Atenda chamadas em 2º plano</string>
     <string name="gb_first_guide_shortcut_des">Um atalho na Tela inicial para o Game Turbo foi criado</string>
     <string name="gb_first_guide_title">Aumente a velocidade e desempenho a nível de sistema</string>
     <string name="gb_first_window_antimsg_summary_quick_answer">Usar respostas rápidas</string>
@@ -2631,19 +2631,19 @@ mas também aumenta o consumo de energia e pode causar superaquecimento"</string
     <string name="gb_predownload_dialog_cancel">Não, obrigado</string>
     <string name="gb_predownload_dialog_checked">"Não exibir novamente"</string>
     <string name="gb_predownload_dialog_confirm">Ativar</string>
-    <string name="gb_predownload_dialog_message_china"><Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e aceite a &lt;a href=\"%1$s\">Declaração sobre atualizações em segundo plano&lt;/a> antes de usar este recurso."</Data></string>
-    <string name="gb_predownload_dialog_title">Atualizações em segundo plano já estão disponíveis</string>
-    <string name="gb_predownload_message">"Atualize King of Glory, Game for Peace e outros jogos compatíveis em segundo plano enquanto você não estiver usando este dispositivo"</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e aceite a &lt;a href=\"%1$s\">Declaração sobre atualizações em 2º plano&lt;/a> antes de usar este recurso."</Data></string>
+    <string name="gb_predownload_dialog_title">Atualizações em 2º plano já estão disponíveis</string>
+    <string name="gb_predownload_message">"Atualize King of Glory, Game for Peace e outros jogos compatíveis em 2º plano enquanto você não estiver usando este dispositivo"</string>
     <string name="gb_predownload_message_new">Update compatible games automatically while not using device</string>
     <string name="gb_predownload_noti_message">"%2$1.2f GB de conteúdo atualizado já está neste dispositivo. Você poderá usá-lo assim que a nova versão for lançada."</string>
     <string name="gb_predownload_noti_small_size_message">"%2$1.2f MB de novos recursos baixados. Você poderá usá-los assim que a nova versão for lançada."</string>
-    <string name="gb_predownload_noti_title">%s atualizado em segundo plano com sucesso</string>
+    <string name="gb_predownload_noti_title">%s atualizado em 2º plano com sucesso</string>
     <string name="gb_predownload_receive">Obter recompensas</string>
     <string name="gb_predownload_receive_error">Ocorreu um erro de rede. Tente novamente.</string>
     <string name="gb_predownload_receive_max">"Não é possível obter mais recompensas neste dispositivo"</string>
-    <string name="gb_predownload_receive_tips">Ative as atualizações em segundo plano para obter recompensas</string>
+    <string name="gb_predownload_receive_tips">Ative as atualizações em 2º plano para obter recompensas</string>
     <string name="gb_predownload_receiving">Recebendo…</string>
-    <string name="gb_predownload_title">Atualizações em segundo plano</string>
+    <string name="gb_predownload_title">Atualizações em 2º plano</string>
     <string name="gb_setting_dock_toast">Os recursos do Assistente da câmera frontal estão disponíveis na Caixa de ferramentas de chamada</string>
     <string name="gb_setting_dock_toast_2">Os recursos do Assistente da câmera frontal estão disponíveis na Caixa de ferramentas de chamada</string>
     <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
@@ -2865,7 +2865,7 @@ Pressione e segure o indicador para mover a janela."</string>
     <string name="google_base_app_network_anomaly">Não foi possível conectar-se à rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="google_base_app_timeout">Tempo limite da sessão. Aguarde um momento e tente novamente.</string>
     <string name="google_base_app_title">Instalando serviços do Google</string>
-    <string name="google_base_app_toast">A Estrutura dos Serviços Google está sendo instalada em segundo plano. Aguarde um momento e tente novamente.</string>
+    <string name="google_base_app_toast">A Estrutura dos Serviços Google está sendo instalada em 2º plano. Aguarde um momento e tente novamente.</string>
     <string name="gs_advanced_setting_summary">Configurações para jogos individuais</string>
     <string name="gs_advanced_setting_title">Configurações adicionais</string>
     <string name="gs_anto_clean_memory_whitelist">Exceções de memória</string>
@@ -3004,7 +3004,7 @@ para se juntar à nossa caça ao ovo!"</string>
     <string name="handle_title_system">Uso de bateria pelo sistema</string>
     <string name="hide_mode_app_background_setting_text">Economia de bateria de apps</string>
     <string name="hide_mode_result_summary_text">Personalize as configurações da Economia de bateria para apps individualmente</string>
-    <string name="hide_mode_summary_text">Gerenciar atividades em segundo plano de apps para economizar bateria</string>
+    <string name="hide_mode_summary_text">Gerenciar atividades em 2º plano de apps para economizar bateria</string>
     <string name="hide_system_app">Ocultar apps do sistema</string>
     <string name="hint_antispam_mode_edit">Modo personalizado</string>
     <string name="hints_handle_item_text_virus">Perigo</string>
@@ -3642,7 +3642,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="notification_abnormal_check_now_button">Visualizar</string>
     <string name="notification_abnormal_consume_app_title">%s drenando a bateria</string>
     <string name="notification_abnormal_consume_cpu">Recursos da CPU estão sendo usados em excesso em 2º plano</string>
-    <string name="notification_abnormal_consume_wakelock">O sistema está ficando ativo em segundo plano</string>
+    <string name="notification_abnormal_consume_wakelock">O sistema está ficando ativo em 2º plano</string>
     <string name="notification_antivirus_button_text">Verificar</string>
     <string name="notification_antivirus_message">Verifique agora para neutralizar riscos</string>
     <string name="notification_bar">Notificação</string>
@@ -3927,10 +3927,10 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_emergency_call">Emergência</string>
     <string name="pc_endurance_calculation">Calculando…</string>
     <string name="pc_entered_extreme_mode">O Modo hibernação está ativado</string>
-    <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em segundo plano e não enviarão notificações."</string>
+    <string name="pc_entered_extreme_mode_summary">"Seu dispositivo está sem bateria e entrou no Modo hibernação. Os apps serão executados em 2º plano e não enviarão notificações."</string>
     <string name="pc_extreme_category">Bateria extremamente fraca</string>
     <string name="pc_extreme_exit_and_power_off">Sair</string>
-    <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em segundo plano e não enviarão notificações"</string>
+    <string name="pc_extreme_mode_bg_toast">"No Modo hibernação, os apps serão executados em 2º plano e não enviarão notificações"</string>
     <string name="pc_extreme_mode_entering">Entrando no Modo hibernação…</string>
     <string name="pc_extreme_mode_exit_risk_title">Atenção!</string>
     <string name="pc_extreme_mode_exit_risk_title_summary">Seu dispositivo está sem bateria. Se você sair do Modo hibernação, seu dispositivo será desligado.</string>
@@ -4166,7 +4166,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_receive_sms">Receber SMS e MMS</string>
     <string name="permission_instruction_record_audio">Esta permissão permite que os apps utilizem o microfone para a gravação de áudio. Lembre-se que esta permissão permite aos apps gravar qualquer coisa, inclusive suas conversas com outras pessoas. É melhor permitir que os apps usem esta permissão apenas enquanto você estiver usando os apps.</string>
     <string name="permission_instruction_record_screen">Acessar o conteúdo da tela</string>
-    <string name="permission_instruction_running_background">Esta permissão permite que os apps funcionem em segundo plano. Ao fazer isto, os apps podem coletar dados e fornecer serviços. Lembre-se de que tais atividades aumentam o consumo de energia.</string>
+    <string name="permission_instruction_running_background">Esta permissão permite que os apps funcionem em 2º plano. Ao fazer isto, os apps podem coletar dados e fornecer serviços. Lembre-se de que tais atividades aumentam o consumo de energia.</string>
     <string name="permission_instruction_running_exceed_data">Esta permissão permite que os apps ignorem os limites de uso de dados móveis.</string>
     <string name="permission_instruction_scoped">Um novo mecanismo de proteção de armazenamento permite que você controle melhor como apps compatíveis usam permissões de armazenamento</string>
     <string name="permission_instruction_send_mms">Esta permissão permite aos apps enviar mensagens multimídia, o que pode gerar taxas adicionais. Apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
@@ -4180,7 +4180,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_transfer_data_to_other_devices">Transferir dados para outros dispositivos</string>
     <string name="permission_instruction_use_sip">Esta permissão permite que os apps utilizem os serviços de vídeo SIP.</string>
     <string name="permission_instruction_vr_assistant">Esta permissão permite que os apps possam utilizar os serviços de assistente de RV.</string>
-    <string name="permission_instruction_wall_paper">Conceda esta permissão para permitir que os apps alterem os serviços padrão de plano de fundo dinâmico e continuem sendo executados em segundo plano.</string>
+    <string name="permission_instruction_wall_paper">Conceda esta permissão para permitir que os apps alterem os serviços padrão de plano de fundo dinâmico e continuem sendo executados em 2º plano.</string>
     <string name="permission_instruction_write_calllog">Esta permissão permite que os apps editem o histórico de chamadas, que pode conter informações detalhadas sobre suas chamadas recebidas e efetuadas. Os apps maliciosos podem usar esta permissão para limpar ou editar seu histórico de chamadas.</string>
     <string name="permission_instruction_write_clipboard">Esta permissão permite que os apps salve os itens na área de transferência. As mensagens de spam podem afetar seu uso normal da área de transferência.</string>
     <string name="permission_instruction_write_contacts">Esta permissão permite que os apps editem, adicionem e excluam as informações de contato armazenadas em seu dispositivo. Estas informações podem conter a frequência de sua comunicação com contatos específicos através de chamadas, e-mails e outros métodos. Esta permissão também permite que os apps excluam seus contatos.</string>
@@ -4188,7 +4188,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_permission_control_closed_desc_dialog_msg">Apps não solicitarão sua permissão antes de ler seus contatos, ver seu histórico de chamadas, alterar configurações do sistema, ou acessar a câmera e outras funções do dispositivo. Você pode ativar esta função nas Configurações de permissões.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gerenciador de permissões</string>
     <string name="permission_upgrade_more">Mais recursos de proteção de privacidade</string>
-    <string name="permission_upgrade_privacy_title">As permissões para gravar áudio e acessar os contatos agora têm uma opção que permite que você dê tais permissões apenas enquanto estiver usando apps correspondentes. Para proteger as suas informações pessoais, os apps não executarão estas ações em segundo plano.</string>
+    <string name="permission_upgrade_privacy_title">As permissões para gravar áudio e acessar os contatos agora têm uma opção que permite que você dê tais permissões apenas enquanto estiver usando apps correspondentes. Para proteger as suas informações pessoais, os apps não executarão estas ações em 2º plano.</string>
     <string name="permission_upgrade_runtime">As permissões de acesso à sua localização ou de tirar fotos agora têm uma opção que permite que você dê tais permissões apenas uma vez. Para proteger as suas informações pessoais, estas ações não serão executadas quando você sair do app. A sua permissão será solicitada novamente da próxima vez que você usar um dos recursos relacionados.</string>
     <string name="permission_upgrade_title">Permissões atualizadas</string>
     <string name="permission_upgrade_virtual">Se você não deseja permitir que apps acessem seus contatos ou o histórico de chamadas, você pode selecionar \"Retornar mensagens em branco\" quando você estiver concedendo as permissões correspondentes.</string>
@@ -4383,7 +4383,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_dialog_performance_mode_checkbox">Alternar para taxa de atualização de %d Hz</string>
     <string name="power_dialog_super_save_msg">A Ultra economia de bateria restringe os recursos que mais consomem energia e reduz o desempenho do dispositivo para manter os recursos básicos (ex.: chamadas, SMS e conexão à rede) disponíveis o máximo possível. Ativar a Ultra economia de bateria?</string>
     <string name="power_dialog_super_save_msg_5g">A Ultra economia de bateria restringe a maioria dos recursos com alto consumo de energia (ex.: conectividade 5G), reduzindo o desempenho do seu dispositivo. Apenas chamadas, mensagens e conectividade de rede não serão afetadas. Ativar a Ultra economia de bateria?</string>
-     <string name="power_dialog_super_save_msg_p2">"A Ultra economia de bateria desliga o visor traseiro e restringe a maioria dos recursos que consomem energia, diminuindo o desempenho do seu dispositivo para manter as funcionalidades básicas (por exemplo, chamadas, SMS e conexão à rede) disponíveis pelo maior tempo possível. Ativar a Ultra economia de bateria?"</string>
+    <string name="power_dialog_super_save_msg_p2">"A Ultra economia de bateria desliga o visor traseiro e restringe a maioria dos recursos que consomem energia, diminuindo o desempenho do seu dispositivo para manter as funcionalidades básicas (por exemplo, chamadas, SMS e conexão à rede) disponíveis pelo maior tempo possível. Ativar a Ultra economia de bateria?"</string>
     <string name="power_dialog_super_save_title">Ultra economia de bateria</string>
     <string name="power_idle">Telefone inativo</string>
     <string name="power_main_battery_last_day_hour">%1$s d e %2$s h restante(s)</string>
@@ -4437,7 +4437,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_optimize_open_hide_mode">Ativar Economia de bateria</string>
     <string name="power_optimize_power_save_extend_time">Adicionar %s</string>
     <string formatted="false" name="power_optimize_power_save_extend_time_new">Estender para %1s %2s</string>
-    <string name="power_optimize_power_save_summary">Ative a Economia de bateria para aplicar múltiplas otimizações de sistema que limitam atividades em segundo plano</string>
+    <string name="power_optimize_power_save_summary">Ative a Economia de bateria para aplicar múltiplas otimizações de sistema que limitam atividades em 2º plano</string>
     <string name="power_optimize_prohibit_app_autostart">Não permitir que apps iniciem automaticamente</string>
     <string name="power_optimize_reduce_fps">Reduzir a taxa de atualização da tela para %d Hz</string>
     <string name="power_optimize_reduce_fps_summary">Uma taxa de atualização menor funciona na maioria dos cenários</string>
@@ -4454,7 +4454,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_save_mode_close_aod_display_title">Desativar a Tela ambiente</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funciona quando a Economia de bateria está ativada</string>
     <string name="power_save_mode_close_notification_screenon_title">Não ligar a tela para notificações</string>
-    <string name="power_save_mode_close_warn_text">A Economia de bateria restringe a atividade em segundo plano e a sincronização. Se você escolher usar o modo quando seu dispositivo estiver carregado, alguns recursos poderão não funcionar corretamente. Manter a Economia de bateria quando seu dispositivo estiver carregado?</string>
+    <string name="power_save_mode_close_warn_text">A Economia de bateria restringe a atividade em 2º plano e a sincronização. Se você escolher usar o modo quando seu dispositivo estiver carregado, alguns recursos poderão não funcionar corretamente. Manter a Economia de bateria quando seu dispositivo estiver carregado?</string>
     <string name="power_save_mode_close_warn_title">Economia de bateria</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Funciona quando a Economia de bateria está ativada</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">Não acionar o Mi AI com a voz</string>
@@ -4483,12 +4483,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_save_ps_freeze">Congelamento dos apps em 2º plano</string>
     <string name="power_save_ps_limit">Restrição das atividades de apps do sistema</string>
     <string name="power_save_settings">Configurações da bateria</string>
-    <string name="power_save_started_summary_text">A Economia de bateria está ativada. Ela reduz as atividades em segundo plano de apps, interrompe a sincronização e minimiza as animações de sistema.</string>
-    <string name="power_save_summary_text">Ative a Economia de bateria para reduzir a atividade de apps em segundo plano, parar a sincronização e minimizar as animações de sistema.</string>
+    <string name="power_save_started_summary_text">A Economia de bateria está ativada. Ela reduz as atividades em 2º plano de apps, interrompe a sincronização e minimiza as animações de sistema.</string>
+    <string name="power_save_summary_text">Ative a Economia de bateria para reduzir a atividade de apps em 2º plano, parar a sincronização e minimizar as animações de sistema.</string>
     <string name="power_save_title_text">Economia de bateria</string>
     <string name="power_screen">Tela</string>
-    <string name="power_setting_background_app_save_summary">Limite a atividade de apps em segundo plano sem afetar sua funcionalidade</string>
-    <string name="power_setting_background_app_save_title">Economia de bateria em segundo plano</string>
+    <string name="power_setting_background_app_save_summary">Limite a atividade de apps em 2º plano sem afetar sua funcionalidade</string>
+    <string name="power_setting_background_app_save_title">Economia de bateria em 2º plano</string>
     <string name="power_setting_category_other">Configurações adicionais</string>
     <string name="power_setting_config_scenario_policies_title">Cenários</string>
     <string name="power_setting_features">Recursos especiais</string>
@@ -4550,7 +4550,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_fuzzy_positioning">Precisão de localização mais baixa</string>
     <string name="pp_fuzzy_positioning_detail">Diminui a precisão de localização e permite que apps acessem informações de localização menos precisas</string>
     <string name="pp_grant_permission_only_during_app_use">Permitir que apps usem permissões apenas durante a sua utilização</string>
-    <string name="pp_grant_permission_only_during_app_use_detail">Para impedir que um app use permissões em segundo plano, você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas enquanto o app estiver em uso</string>
+    <string name="pp_grant_permission_only_during_app_use_detail">Para impedir que um app use permissões em 2º plano, você pode permitir o uso das permissões relacionadas à localização, gravação de áudio e contatos apenas enquanto o app estiver em uso</string>
     <string name="pp_hide_app">Ocultar apps</string>
     <string name="pp_hide_app_form_desktop">Remove os ícones dos apps da Tela inicial</string>
     <string name="pp_icon_layout_status_bg_content_enable">Protegido</string>
@@ -4594,8 +4594,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_private_file_dir_detail">Criptografe e proteja itens com um bloqueio de tela</string>
     <string name="pp_private_photo_album">Fotos e vídeos privados</string>
     <string name="pp_private_photo_album_detail">Criptografe e proteja itens com um bloqueio de tela</string>
-    <string name="pp_prohibit_use_camera_in_background">Restringir o uso da câmera em segundo plano</string>
-    <string name="pp_prohibit_use_camera_in_background_detail">Por padrão, os apps não podem usar a câmera em segundo plano.</string>
+    <string name="pp_prohibit_use_camera_in_background">Restringir o uso da câmera em 2º plano</string>
+    <string name="pp_prohibit_use_camera_in_background_detail">Por padrão, os apps não podem usar a câmera em 2º plano.</string>
     <string name="pp_protect_read_clipboard_item">Proteger</string>
     <string name="pp_read_phone_info_summary">Acessar informações do SIM</string>
     <string name="pp_record_msg">Gravando de áudio</string>
@@ -4625,7 +4625,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pref_auto_adjust_traffic">Ajustar estatísticas de dados automaticamente</string>
     <string name="pref_automatic_adjust">Sincronizar uso de dados com operadora</string>
     <string name="pref_avaible_traffic">Plano de dados</string>
-    <string name="pref_bg_network_title">Conexão em segundo plano</string>
+    <string name="pref_bg_network_title">Conexão em 2º plano</string>
     <string name="pref_category_daily_package_tile">Plano de dados diário</string>
     <string name="pref_category_extra_package_tile">Pacote de recarga</string>
     <string name="pref_category_half_year_package_tile">Pacote de dados semestral</string>
@@ -5378,7 +5378,7 @@ Retirar o consentimento agora?"</string>
     <string name="special_perm_intercept_analyze_title">Analisar suas preferências e comportamento</string>
     <string name="special_perm_intercept_app_msg">Incluindo notificações de apps de redes sociais ou de bancos</string>
     <string name="special_perm_intercept_app_title">Ler todas as notificações</string>
-    <string name="special_perm_intercept_autostart_msg">Permite que o app seja iniciado em segundo plano a qualquer momento, sem restrições</string>
+    <string name="special_perm_intercept_autostart_msg">Permite que o app seja iniciado em 2º plano a qualquer momento, sem restrições</string>
     <string name="special_perm_intercept_autostart_title">Inicialização automática ilimitada</string>
     <string name="special_perm_intercept_barrier_free">Acessibilidade</string>
     <string name="special_perm_intercept_camera_msg">Restringe qualquer atividade da câmera</string>
@@ -5678,7 +5678,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="summary_app_lock_disable">Proteja seus dados com o Bloqueio de apps</string>
     <string name="summary_app_update_new">Atualize os apps para acessar novos recursos</string>
     <string name="summary_auto_update">O HyperOS selecionará o horário mais propício para baixar e instalar atualizações.</string>
-    <string name="summary_background_connection">Você restringiu a conexão em segundo plano para este app.</string>
+    <string name="summary_background_connection">Você restringiu a conexão em 2º plano para este app.</string>
     <string name="summary_block_calls_from_cantacts">Chamadas de contatos estão bloqueadas.</string>
     <string name="summary_block_calls_from_strangers">Chamadas de desconhecidos estão bloqueadas.</string>
     <string name="summary_cleaner_cloudscan">Fazer upload e comparar nomes de pastas com definições online</string>
@@ -6420,7 +6420,7 @@ Experimente interpolar a resolução!"</string>
     <string name="videobox_double_core_visual_description2">"Aprimore a clareza, a suavidade e o efeito geral da exibição.
 Este recurso requer maior consumo de energia.
 Este recurso não funcionará quando a Economia de bateria ou a Ultra economia de bateria estiver ativada."</string>
-    <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em segundo plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
+    <string name="videobox_hangup_tips_content">A sua tela será bloqueada, mas o app continuará executando em 2º plano quando este recurso estiver ativado. Pressione o botão Liga/Desliga para ligar a tela novamente. Ativar este recurso agora?</string>
     <string name="videobox_hangup_tips_title">Atenção!</string>
     <string name="videobox_settings_line_location">Local do atalho</string>
     <string name="videobox_settings_line_location_desc">Exibe um atalho na borda da tela</string>
@@ -6642,7 +6642,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="alarm_lockscreen_btn">Comece a pegar envelopes vermelhos</string>
     <string name="alarm_setting_title">Configuração de alarme do envelope vermelho</string>
     <string name="allow_notify">permitir_notificar</string>
-    <string name="app_manager_permission_backgroundstart_title">Início automático em segundo plano</string>
+    <string name="app_manager_permission_backgroundstart_title">Início automático em 2º plano</string>
     <string name="app_manager_power_consume">%.1f%%</string>
     <string name="app_manager_systemapp_setting">Configurar apps do sistema</string>
     <string name="app_source_global_search">Pesquisa global</string>
@@ -6853,7 +6853,7 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_night_charge_protect_summary">Ajusta a duração do carregamento automaticamente para retardar o envelhecimento da bateria</string>
     <string name="pc_night_charge_protect_title">Proteção de carregamento noturno</string>
     <string name="pc_night_sleep_mode_summary">Desative automaticamente alguns recursos para economizar bateria quando o sono for detectado</string>
-    <string name="pc_night_sleep_mode_summary_pad">"Enquanto a tela estiver desligada, seu dispositivo fechará apps em segundo plano e restringirá o uso da rede. Se o dispositivo não for usado por um longo período, ele entrará em suspensão ou desligará automaticamente."</string>
+    <string name="pc_night_sleep_mode_summary_pad">"Enquanto a tela estiver desligada, seu dispositivo fechará apps em 2º plano e restringirá o uso da rede. Se o dispositivo não for usado por um longo período, ele entrará em suspensão ou desligará automaticamente."</string>
     <string name="pc_night_sleep_mode_title">Modo noturno</string>
     <string name="pc_power_consume_check">Verificação da bateria</string>
     <string name="pc_power_consume_check_ing">Verificando…</string>

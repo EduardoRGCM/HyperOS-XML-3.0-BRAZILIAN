@@ -281,7 +281,7 @@ Certifique-se que o nome da sua empresa está correto. Leia e aceite as polític
     <string name="fingerprint_double_tap">Dois toques no sensor de impressão digital</string>
     <string name="fingerprint_number_upper_limit">Muitas tentativas de desbloqueio sem sucesso</string>
     <string name="fingerprint_removal_failed">"Não foi possível excluir a impressão digital"</string>
-    <string name="flashback_background_start_switch_summary">Gera cartões didáticos com informações importantes automaticamente quando os apps estão rodando em segundo plano</string>
+    <string name="flashback_background_start_switch_summary">Gera cartões didáticos com informações importantes automaticamente quando os apps estão rodando em 2º plano</string>
     <string name="flashback_background_start_switch_title">Gerar cartões didáticos automaticamente</string>
     <string name="flashback_baidu_map_summary">Mostrar rota</string>
     <string name="flashback_didi_summary">Mostrar informação de viagem</string>
