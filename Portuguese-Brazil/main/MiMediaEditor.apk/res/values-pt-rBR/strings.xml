@@ -1073,20 +1073,20 @@ ajustar a área de dispersão"</string>
     <string name="midnight">"PM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
      <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-    <string name="miuix_appcompat_select_all">Selecionar todos</string>
-    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+    <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
@@ -1505,7 +1505,7 @@ Mantenha a proporção original, escolha a sua própria, ou deixe que a IA decid
     <string name="photo_editor_remover_pro_desc">"Os recursos do Apagador IA 2.0 estão ainda mais poderosos!
 Toque em \"Pro\" para usar."</string>
     <string name="photo_editor_remover_pro_inpainting">Apagando…</string>
-    <string name="photo_editor_remover_pro_select_all_people">Selecionar todos</string>
+    <string name="photo_editor_remover_pro_select_all_people">Selecionar tudo</string>
     <string name="photo_editor_remover_pro_start_remove">Iniciar</string>
     <string name="photo_editor_remover_pro_toast_circle_objects">Circule objetos para remover</string>
     <string name="photo_editor_remover_pro_toast_paint_area">Pinte a área para remover</string>
@@ -1676,23 +1676,56 @@ Toque em \"Pro\" para usar."</string>
     <string name="security_share_subtitle_default">Proteção de privacidade</string>
     <string name="security_share_subtitle_hide">As informações de localização foram removidas</string>
     <string name="security_share_subtitle_no_hide">Contém informações de localização</string>
-    <string name="select_all">Selecionar todos</string>
+    <string name="select_all">Selecionar tudo</string>
     <string name="send">Enviar</string>
     <string name="send_files_by">Compartilhar arquivos via</string>
     <string name="send_files_to">Enviar itens para</string>
     <string name="set_as_cover">Definir como capa</string>
     <string name="settings_ai_editor_ai_image">Imagem IA</string>
-    <string name="settings_ai_editor_ai_image_description">A nova Imagem AI permite gerar imagens em vários estilos. Para obter melhores resultados, envie fotos com rostos claramente visíveis.</string>
-    <string name="settings_ai_editor_expand">Expansão de imagem IA</string>
-    <string name="settings_ai_editor_expand_description">Nova expansão de imagem com suporte de IA. Mantenha a proporção original, escolha a sua própria ou deixe a IA decidir.</string>
-    <string name="settings_ai_editor_image_restoration">Aprimorar</string>
+    <string name="settings_ai_editor_ai_image_description">A Imagem IA totalmente nova permite que você gere imagens em vários estilos. Para melhores resultados, envie fotos com rostos claramente visíveis</string>
+    <string name="settings_ai_editor_ai_image_description_new">Gere vídeos automaticamente a partir de fotos e clipes. Escolha entre vários modelos para criar conteúdo personalizado sem esforço.</string>
+    <string name="settings_ai_editor_ai_image_guide_new">"1. Pressione e segure para selecionar vários itens na Galeria, depois toque em \"Criatividade\" e \"Automático\".
+2. Selecione suas preferências e toque em \"Criar\"."</string>
+    <string name="settings_ai_editor_ai_image_new">Imagem IA</string>
+    <string name="settings_ai_editor_emoji_change_description_new">Substitua expressões usando IA. Vários estilos disponíveis para diferentes cenas. Envie uma foto frontal nítida para obter melhores resultados.</string>
+    <string name="settings_ai_editor_emoji_change_guide_new">"1. Abra uma foto de retrato nítida na Galeria, depois toque em \"Editar\", \"Retrato\" e \"Mudar expressão\".
+2. Selecione uma expressão e confirme."</string>
+    <string name="settings_ai_editor_emoji_change_new">Mudar expressão</string>
+    <string name="settings_ai_editor_expand">Expansão de Imagem IA</string>
+    <string name="settings_ai_editor_expand_description">Nova expansão de imagem com suporte de IA. Mantenha a proporção original, escolha a sua própria ou deixe a IA decidir</string>
+    <string name="settings_ai_editor_expand_description_new">Expanda imagens de forma inteligente em várias proporções. Ajuste a composição livremente para estender sua tela.</string>
+    <string name="settings_ai_editor_expand_guide_new">"1. Abra uma foto na Galeria, depois toque em \"Editar\", \"Criar\" e \"Expandir\".
+2. Selecione uma proporção e ajuste a posição, depois toque em \"Iniciar\"."</string>
+    <string name="settings_ai_editor_expand_new">Expansão de Imagem IA</string>
+    <string name="settings_ai_editor_gudie_new">Como usar</string>
+    <string name="settings_ai_editor_image_beautiy_decription_new">Detecte automaticamente recursos da imagem e otimize a cor e o tom. Melhore retratos, paisagens e fotos de comida para um visual natural e cinematográfico.</string>
+    <string name="settings_ai_editor_image_beautiy_guide_new">"1. Abra uma foto na Galeria, depois toque em \"Editar\" e \"Ajustar\".
+2. Toque em \"Embelezamento IA\" para aprimorar a imagem."</string>
+    <string name="settings_ai_editor_image_beautiy_new">Embelezamento IA</string>
+    <string name="settings_ai_editor_image_restoration">Aprimoramento de Imagem IA</string>
     <string name="settings_ai_editor_image_restoration_description">Melhore a nitidez da imagem com um toque usando nosso novo algoritmo de modelo grande</string>
+    <string name="settings_ai_editor_image_restoration_description_new">Aprimore a nitidez da imagem e restaure detalhes finos com um toque. Dê vida a fotos borradas sem esforço.</string>
+    <string name="settings_ai_editor_image_restoration_guide_new">"1. Abra uma foto na Galeria, depois toque em \"Editar\" e \"Ajustar\".
+2. Toque em \"Ultra HD\" para aprimorar a imagem."</string>
+    <string name="settings_ai_editor_image_restoration_new">"Ultra HD"</string>
     <string name="settings_ai_editor_intelligent_filming">Filme IA</string>
-    <string name="settings_ai_editor_intelligent_filming_description">Envie fotos e vídeos para gerar vídeos automaticamente com o poder da IA ou insira instruções para criar algo totalmente novo.</string>
-    <string name="settings_ai_editor_remover">Apagador IA Pro</string>
-    <string name="settings_ai_editor_remover_description">Apague sem deixar rastros com recursos atualizados do Apagador IA Pro</string>
+    <string name="settings_ai_editor_intelligent_filming_description">Envie fotos e vídeos para gerar vídeos automaticamente com o poder da IA ou insira instruções para criar algo totalmente novo</string>
+    <string name="settings_ai_editor_intelligent_filming_description_new">Crie vídeos cinematográficos com IA com vários estilos atmosféricos, incluindo destaques de cabelo e efeitos de hora azul. Envie fotos faciais nítidas para obter melhores resultados.</string>
+    <string name="settings_ai_editor_intelligent_filming_guide_new">"1. Abra uma foto de retrato nítida na Galeria, depois toque em \"Editar\", \"Retrato\" e \"Imagem IA\".
+2. Selecione um estilo e confirme."</string>
+    <string name="settings_ai_editor_intelligent_filming_new">Filme IA</string>
+    <string name="settings_ai_editor_matting_description_new">Identifique automaticamente os assuntos e separe-os do fundo. Recorte, mova ou substitua fundos facilmente para edições divertidas e criativas.</string>
+    <string name="settings_ai_editor_matting_guide_new">"1. Abra uma foto na Galeria, depois toque em \"Editar\", \"Criar\" e \"Recortar\".
+2. Arraste o assunto para um novo local, selecione um novo fundo ou simplesmente toque em \"Iniciar\"."</string>
+    <string name="settings_ai_editor_matting_new">Recortar</string>
+    <string name="settings_ai_editor_remover">Apagar IA Pro</string>
+    <string name="settings_ai_editor_remover_description">Apague sem deixar vestígios com recursos atualizados do Apagar IA Pro</string>
+    <string name="settings_ai_editor_remover_description_new">Remova com precisão transeuntes ou objetos indesejados enquanto repara de forma inteligente texturas e iluminação do fundo para uma imagem mais limpa.</string>
+    <string name="settings_ai_editor_remover_guide_new">"1. Abra uma foto na Galeria, depois toque em \"Editar\", \"Criar\" e \"Apagar\".
+2. Selecione se você deseja remover objetos, pessoas ou reflexos, depois toque em \"Iniciar\"."</string>
+    <string name="settings_ai_editor_remover_new">Apagar IA Pro</string>
     <string name="settings_ai_editor_summary">Crie e edite fotos e vídeos</string>
-    <string name="settings_ai_editor_title">Editor da Galeria com IA</string>
+    <string name="settings_ai_editor_title">Assistente de Criatividade IA</string>
     <string name="share_album_qr_code">"Código QR do álbum"</string>
     <string name="share_and_delete_picture">Excluir após compartilhar</string>
     <string name="share_and_delete_screenshot">Excluir após compartilhar</string>
@@ -2148,7 +2181,7 @@ Toque em \"Pro\" para usar."</string>
     <string name="virtualization_detect_limited_notice">"Não é possível gerar mais imagens"</string>
     <string name="virtualization_loading_title">Gerando imagem por IA</string>
     <string name="virtualization_notice_desc">"Gere retratos em vários estilos.
-Carregue fotos com características faciais nítidas para obter melhores resultados."</string>
+Envie fotos com características faciais nítidas para obter melhores resultados."</string>
     <string name="virtualization_notice_label_ai">Gerado por IA</string>
     <string name="virtualization_notice_type">Imagem IA</string>
     <string name="virtualization_origin">Original</string>

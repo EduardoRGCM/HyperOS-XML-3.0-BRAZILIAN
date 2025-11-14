@@ -331,20 +331,20 @@ Dispositivos Android de outros fabricantes: Vivo, Realme, OPPO, Black Shark, Mei
     <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Sair do modo de edição</string>
     <string name="miuix_appcompat_accessibility_new_message">Nova notificação</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Iniciar modo de edição</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-    <string name="miuix_appcompat_select_all">Selecionar todos</string>
-    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+    <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_appcompat_show_dialog_description">Janela pop-up</string>
     <string name="miuix_progressbar_loading">Carregando</string>
@@ -599,10 +599,10 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="switch_mode_sameaccount">Desta conta</string>
     <string name="tap_share_condition_describe">"%1$d. Os dois dispositivos têm NFC, Bluetooth e Wi-Fi ativados.
 %2$d. No seu dispositivo Xiaomi, atualize o Xiaomi Share para a versão%3$s.
-%4$d. No seu iPhone, instale o aplicativo Interconectividade Xiaomi."</string>
+%4$d. No seu iPhone, instale o app Interconectividade Xiaomi."</string>
     <string name="tap_share_condition_describe_china">"%1$d. Os dois dispositivos têm NFC, Bluetooth e WLAN ativados.
 %2$d. No seu dispositivo Xiaomi, atualize o Xiaomi Share para a versão %3$s.
-%4$d. No seu iPhone, instale o aplicativo Interconectividade Xiaomi."</string>
+%4$d. No seu iPhone, instale o app Interconectividade Xiaomi."</string>
     <string name="tap_share_condition_describe_os3">"%1$d. Certifique-se de que ambos os dispositivos estejam desbloqueados e tenham NFC, Bluetooth e Wi-Fi ativados.
 %2$d. Atualize seu dispositivo Xiaomi para %3$s ou posterior. Você também pode procurar o Xiaomi Share em Configurações para verificar se o \"Toque para compartilhar\" é compatível.
 %4$d. Verifique se você está usando um iPhone 12 ou um modelo mais recente e se ele está executando o iOS 17 ou posterior. Instale a versão mais recente da Interconectividade Xiaomi em seu iPhone."</string>

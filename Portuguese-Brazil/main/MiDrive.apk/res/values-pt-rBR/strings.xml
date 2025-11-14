@@ -49,7 +49,7 @@
     <string name="camera">Câmera</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_mi_drive">Cancelar serviços</string>
-    <string name="cancel_mi_drive_alert_description">"Limpe todos os itens do Mi Drive para poder cancelar os serviços. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para que o botão \"Selecionar todos\" apareça. Use este botão para selecionar até &lt;xliff:g id=files refersto=200>%2$d&lt;/xliff:g> arquivos por vez e excluí-los.&lt;br />&lt;xliff:g id=number refersto=2>%3$d&lt;/xliff:g>. Depois de excluir todos os itens, limpe todos os arquivos de Itens excluídos recentemente."</string>
+    <string name="cancel_mi_drive_alert_description">"Limpe todos os itens do Mi Drive para poder cancelar os serviços. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para que o botão \"Selecionar tudo\" apareça. Use este botão para selecionar até &lt;xliff:g id=files refersto=200>%2$d&lt;/xliff:g> arquivos por vez e excluí-los.&lt;br />&lt;xliff:g id=number refersto=2>%3$d&lt;/xliff:g>. Depois de excluir todos os itens, limpe todos os arquivos de Itens excluídos recentemente."</string>
     <string name="cancel_mi_drive_alert_reminder_card_summary">"&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=number refersto=2>%2$d&lt;/xliff:g>. Observe que os itens apagados de seus itens excluídos recentemente não podem ser recuperados posteriormente."</string>
     <string name="cancel_mi_drive_confirm_button">Cancelar serviços</string>
     <string name="cancel_mi_drive_confirm_description">"Se continuar, você cancelará os serviços do Mi Drive. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
@@ -285,20 +285,20 @@ Verifique se você está usando a sua Conta Xiaomi associada como sua conta do s
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-    <string name="miuix_appcompat_select_all">Selecionar todos</string>
-    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+    <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
@@ -435,7 +435,7 @@ Verifique se você está usando a sua Conta Xiaomi associada como sua conta do s
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preview">Pré-visualização</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="privacy_recall_alert_description">Limpe todos os itens do Mi Drive para poder retirar seu consentimento com a Política de Privacidade. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para que o botão \"Selecionar todos\" apareça. Use este botão para selecionar até &lt;xliff:g id=file refersto=200>%2$d&lt;/xliff:g> arquivos por vez e excluí-los. Se houver mais de &lt;xliff:g id=file refersto=200>%3$d&lt;/xliff:g> arquivos, repita este processo.&lt;br />&lt;xliff:g id=number refersto=2>%4$d&lt;/xliff:g>. Depois disso, limpe seus Itens excluídos recentemente.</string>
+    <string name="privacy_recall_alert_description">Limpe todos os itens do Mi Drive para poder retirar seu consentimento com a Política de Privacidade. Siga estas etapas para limpar itens:&lt;br />&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Na página inicial do Mi Drive, pressione e segure um item para que o botão \"Selecionar tudo\" apareça. Use este botão para selecionar até &lt;xliff:g id=file refersto=200>%2$d&lt;/xliff:g> arquivos por vez e excluí-los. Se houver mais de &lt;xliff:g id=file refersto=200>%3$d&lt;/xliff:g> arquivos, repita este processo.&lt;br />&lt;xliff:g id=number refersto=2>%4$d&lt;/xliff:g>. Depois disso, limpe seus Itens excluídos recentemente.</string>
     <string name="privacy_recall_alert_reminder_card_summary">"&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=number refersto=2>%2$d&lt;/xliff:g>. Observe que os itens apagados de seus Itens excluídos recentemente não podem ser recuperados posteriormente."</string>
     <string name="privacy_recall_confirm_button">Retirada de consentimento</string>
     <string name="privacy_recall_confirm_description">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Mi Drive. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
@@ -574,8 +574,8 @@ Verifique se você está usando a sua Conta Xiaomi associada como sua conta do s
     <string name="talkback_previous_song">Música anterior</string>
     <string name="talkback_random_play">Alteatório</string>
     <string name="talkback_single_play">Repetir atual</string>
-    <string name="text_select_all">Selecionar todos</string>
-    <string name="text_select_nothing">Desmarcar todos</string>
+    <string name="text_select_all">Selecionar tudo</string>
+    <string name="text_select_nothing">Desmarcar tudo</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>

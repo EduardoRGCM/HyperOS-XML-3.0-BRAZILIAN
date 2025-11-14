@@ -153,7 +153,7 @@
     <string name="active_app_usage_qs">Em uso por %1$s</string>
     <string name="active_call_usage_qs">Em uso pela chamada telefônica</string>
     <string name="additional_permissions">Outras permissões</string>
-    <string name="additional_permissions_description">Permissões definidas por aplicativos.</string>
+    <string name="additional_permissions_description">Permissões definidas por apps.</string>
     <string name="additional_permissions_label">Outras permissões</string>
     <string name="additional_permissions_more">{count, plural, =1 {Mais #} other {Mais #}}</string>
     <string name="adjust_user_sensitive_globally_summary">Mostrar apps do sistema que usam as permissões na barra de status, no painel e em outros lugares</string>
@@ -735,7 +735,7 @@ Permitir que o app %4$s faça upload do relatório de bug?"</string>
     <string name="no_updates_at_this_time">Não há atualizações no momento</string>
     <string name="not_selected">Não selecionado</string>
     <string name="not_set">Não definido</string>
-    <string name="not_used_permissions_description">Permissões usadas apenas pelos aplicativos do sistema.</string>
+    <string name="not_used_permissions_description">Permissões usadas apenas pelos apps do sistema.</string>
     <string name="not_used_permissions_label">Permissões usadas pelo sistema</string>
     <string name="notification_listener_reminder_notification_content">O app %s pode dispensar, executar ações e acessar o conteúdo das suas notificações</string>
     <string name="notification_listener_reminder_notification_title">Revisar app com acesso às suas notificações</string>
@@ -770,7 +770,7 @@ Permitir que o app %4$s faça upload do relatório de bug?"</string>
     <string name="permdesc_call_phone">Permitir que %1$s faça chamadas?</string>
     <string name="permdesc_camera">Permitir que %1$s tire fotos e grave vídeos?</string>
     <string name="permdesc_get_account">Permitir que %1$s acesse todas as contas armazenadas neste dispositivo?</string>
-    <string name="permdesc_get_installed_apps">Permitir que \"%1$s\" acesse informações sobre aplicativos instalados?</string>
+    <string name="permdesc_get_installed_apps">Permitir que \"%1$s\" acesse informações sobre apps instalados?</string>
     <string name="permdesc_isolate_storage">Permitir que %1$s acesse fotos, vídeos e áudio armazenados neste dispositivo?</string>
     <string name="permdesc_location">Permitir que %1$s acesse informações de localização?</string>
     <string name="permdesc_location_background">Permitir que %1$s acesse informações de localização em 2º plano?</string>
@@ -1065,11 +1065,11 @@ Permitir que o app %4$s faça upload do relatório de bug?"</string>
     <string name="role_emergency_request_title">Definir %1$s como app padrão de emergência?</string>
     <string name="role_emergency_search_keywords">em emergências</string>
     <string name="role_emergency_short_label">App de emergência</string>
-    <string name="role_for_testing_profile_group_exclusivity_description">Os aplicativos de função exclusiva de grupo de perfil de teste são apenas para testes e não devem ser mantidos por aplicativos de produção.</string>
-    <string name="role_for_testing_profile_group_exclusivity_label">Aplicativo de função exclusiva de grupo de perfil de teste padrão</string>
+    <string name="role_for_testing_profile_group_exclusivity_description">Os apps de função exclusiva de grupo de perfil de teste são apenas para testes e não devem ser mantidos por apps de produção.</string>
+    <string name="role_for_testing_profile_group_exclusivity_label">App de função exclusiva de grupo de perfil de teste padrão</string>
     <string name="role_for_testing_profile_group_exclusivity_request_description">Nenhuma permissão necessária</string>
-    <string name="role_for_testing_profile_group_exclusivity_request_title">Definir %1$s como seu aplicativo de função exclusiva de grupo de perfil de teste padrão?</string>
-    <string name="role_for_testing_profile_group_exclusivity_short_label">Aplicativo de função exclusiva de grupo de perfil de teste</string>
+    <string name="role_for_testing_profile_group_exclusivity_request_title">Definir %1$s como seu app de função exclusiva de grupo de perfil de teste padrão?</string>
+    <string name="role_for_testing_profile_group_exclusivity_short_label">App de função exclusiva de grupo de perfil de teste</string>
     <string name="role_home_description">Apps, frequentemente chamados de launchers, que substituem as Telas iniciais no seu dispositivo Android e dão a você acesso ao conteúdo e aos recursos do seu dispositivo</string>
     <string name="role_home_label">App de início padrão</string>
     <string name="role_home_request_description">Nenhuma permissão necessária</string>

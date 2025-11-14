@@ -365,20 +365,20 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="miui_terms_no_network">"Você não tem uma conexão com a internet. Veja o Contrato do Usuário em %s."</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-    <string name="miuix_appcompat_select_all">Selecionar todos</string>
-    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+    <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
@@ -458,7 +458,7 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="other_settings_ad_dialog_disagree">Desativar</string>
     <string name="other_settings_ad_disable_summary">Ative para personalizar os anúncios</string>
     <string name="other_settings_ad_enable">Anúncios personalizados</string>
-    <string name="other_settings_ad_enable_summary">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos aplicativos do sistema de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
+    <string name="other_settings_ad_enable_summary">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos apps do sistema de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="other_settings_alarm_assistance">Localzação de emergência</string>
     <string name="other_settings_alarm_assistance_privacy">Política de Privacidade</string>
     <string name="other_settings_alarm_assistance_summary">"Você pode enviar suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga para os números 110, 120, 119 ou 122. Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</string>
@@ -927,7 +927,7 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="zone_picker_title">Escolher fuso horário</string>
     <string name="accessibility_settings">Acessibilidade</string>
     <string name="interconnection_service_permission19">Acessar e usar notificações</string>
-    <string name="interconnection_service_permission20">Para acessar as notificações do dispositivo, incluindo nome do aplicativo, título e conteúdo</string>
+    <string name="interconnection_service_permission20">Para acessar as notificações do dispositivo, incluindo nome do app, título e conteúdo</string>
     <string name="other_settings_upload_debug_log_detail_cn">"Ajude a melhorar sua experiência enviando automaticamente dados de diagnóstico, do dispositivo e de uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, a estabilidade do sistema e dos apps, e mais.
 Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o utiliza (por exemplo, nível da bateria, atividade do sistema e dos apps e erros). Os dados serão usados para melhorar os dispositivos Xiaomi.
 Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.

@@ -922,7 +922,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
-    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
@@ -932,11 +932,11 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
     <string name="miuix_appcompat_deselect_all">Desmarcar</string>
-    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-    <string name="miuix_appcompat_select_all">Selecionar todos</string>
-    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+    <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
@@ -1689,7 +1689,7 @@ os dados de sono"</string>
     <string name="tb_month_dialog_go_today">Selecionado hoje</string>
     <string name="tb_month_dialog_select_date">Selecionado %1$s</string>
     <string formatted="false" name="tb_month_dialog_select_date_with_snore">Selecionado %1$s, %s</string>
-    <string name="tb_multiple_selecte_all">Selecionar todos</string>
+    <string name="tb_multiple_selecte_all">Selecionar tudo</string>
     <string name="tb_not_add_list">Não adicionado</string>
     <string name="tb_pause_detection">Pausa</string>
     <string name="tb_picker_day">Dia selecionado: %1$d. Deslize verticalmente para selecionar o dia.</string>
@@ -1723,7 +1723,7 @@ os dados de sono"</string>
     <string name="tb_stand_wm_column_chart">%1$s-%2$s estatísticas do tempo de ficar em pé, arraste para a esquerda e direita para alterar o intervalo de tempo, clique na coluna para ver os detalhes</string>
     <string name="tb_stand_wm_column_click">%1$s, ficou em pé %2$d, %3$s</string>
     <string formatted="false" name="tb_step_widget">Hoje. %1$s. Progresso: %2$d%</string>
-    <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
+    <string name="tb_unmultiple_selecte_all">Desmarcar tudo</string>
     <string name="tb_user_account_signed">Conta Xiaomi: %1$s.</string>
     <string name="tb_user_account_unsigned">Toque para entrar com a Conta Xiaomi</string>
     <string name="tb_user_sleep_card_info">Meta de sono diário: %1$s.</string>

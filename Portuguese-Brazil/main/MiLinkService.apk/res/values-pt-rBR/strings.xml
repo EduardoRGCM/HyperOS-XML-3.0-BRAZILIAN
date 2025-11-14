@@ -602,12 +602,12 @@ seus dispositivos?"</string>
     <string name="connect_settings_general_category_share_launcher">Permita a Tela inicial+ nestes dispositivos</string>
     <string name="connect_settings_general_summary_corp_phone_pad">Atenda chamadas de telefones próximos em tablets conectados à sua Conta Xiaomi</string>
     <string name="connect_settings_general_summary_corp_phone_phone">Atender chamadas em tablets ou computadores próximos conectados à sua Conta Xiaomi</string>
-    <string name="connect_settings_general_summary_relay_app">"Use o mesmo aplicativo em todos os dispositivos conectados à sua Conta Xiaomi.
+    <string name="connect_settings_general_summary_relay_app">"Use o mesmo app em todos os dispositivos conectados à sua Conta Xiaomi.
 Suportado para telefones, tablets e computadores."</string>
     <string name="connect_settings_general_summary_share_camera">Use a câmera do seu telefone para ajustar o ângulo de filmagem durante chamadas de vídeo ou transmissão ao vivo em tablets e computadores próximos conectados à sua Conta Xiaomi</string>
     <string name="connect_settings_general_summary_share_clipboard">Copiar texto, imagens ou arquivos e colá-los em outro dispositivo por perto (telefone, tablet, computador ou veículo) conectado à sua Conta Xiaomi</string>
     <string name="connect_settings_general_summary_share_file">Acesse diretamente os arquivos do telefone de computadores próximos conectados à sua Conta Xiaomi</string>
-    <string name="connect_settings_general_summary_share_launcher_phone">Visualize e controle seu telefone e acesse aplicativos nele a partir de tablets, computadores e veículos próximos, conectados à sua Conta Xiaomi</string>
+    <string name="connect_settings_general_summary_share_launcher_phone">Visualize e controle seu telefone e acesse apps nele a partir de tablets, computadores e veículos próximos, conectados à sua Conta Xiaomi</string>
     <string name="connect_settings_general_summary_share_notification_pad">Mostrar alertas de bateria fraca de telefones próximos em tablets conectados à sua Conta Xiaomi</string>
     <string name="connect_settings_general_summary_share_notification_phone">"Mostre notificações importantes do telefone em TVs, tablets e computadores próximos conectados à sua Conta Xiaomi.
 Funciona com apps de entrega de comida e de carona em TVs, bem como alertas de bateria fraca em tablets e computadores."</string>
@@ -626,8 +626,8 @@ Funciona com apps de entrega de comida e de carona em TVs, bem como alertas de b
     <string name="connect_settings_share_clipboard">Prancheta</string>
     <string name="connect_settings_share_file">Acesso a arquivos</string>
     <string name="connect_settings_share_launcher">Tela inicial+</string>
-    <string name="connect_settings_share_launcher_sub_feature_ipad_face_summary_unlock">Desbloqueie seu telefone e aplicativos Xiaomi usando o Face ID ou a senha do iPad</string>
-    <string name="connect_settings_share_launcher_sub_feature_ipad_fingerprint_summary_unlock">Desbloqueie seu telefone e aplicativos Xiaomi usando a impressão digital ou a senha do iPad</string>
+    <string name="connect_settings_share_launcher_sub_feature_ipad_face_summary_unlock">Desbloqueie seu telefone e apps Xiaomi usando o Face ID ou a senha do iPad</string>
+    <string name="connect_settings_share_launcher_sub_feature_ipad_fingerprint_summary_unlock">Desbloqueie seu telefone e apps Xiaomi usando a impressão digital ou a senha do iPad</string>
     <string name="connect_settings_share_launcher_sub_feature_iphone_summary_unlock">Use o Face ID ou a senha em seu iPhone para desbloquear seu telefone e apps Xiaomi</string>
     <string name="connect_settings_share_launcher_sub_feature_iphone_unlock">Desbloqueio facial ou por senha</string>
     <string name="connect_settings_share_launcher_sub_feature_macbook_summary_unlock">Use a sua impressão digital ou senha no seu Mac para desbloquear seu telefone e apps</string>
@@ -1133,20 +1133,20 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Sair do modo de edição</string>
     <string name="miuix_appcompat_accessibility_new_message">Nova notificação</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Iniciar modo de edição</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_action_mode_select_all">Selecionar todos</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Excluir</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar todos</string>
-    <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
+    <string name="miuix_appcompat_deselect_all">Desmarcar tudo</string>
+    <string name="miuix_appcompat_deselect_all_description">Desmarcar tudo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Pesquisar</string>
-    <string name="miuix_appcompat_select_all">Selecionar todos</string>
-    <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
+    <string name="miuix_appcompat_select_all">Selecionar tudo</string>
+    <string name="miuix_appcompat_select_all_description">Selecionar tudo</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_appcompat_show_dialog_description">Janela pop-up</string>
     <string name="miuix_progressbar_loading">Carregando</string>

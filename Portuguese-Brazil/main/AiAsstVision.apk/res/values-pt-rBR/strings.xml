@@ -42,7 +42,7 @@
     <string name="agree_join">Participar</string>
     <string name="agree_text">Aceitar</string>
     <string name="ai_enhanced_subtitles_ability_summary_1">Reconhecer e traduzir entre chinês, inglês, japonês e coreano. Transcreva o áudio externo e do dispositivo e crie legendas bilíngues. Perfeito para reuniões, aulas on-line, assistir a vídeos, acessibilidade e muito mais.</string>
-    <string name="ai_enhanced_subtitles_ability_summary_2">Salve legendas como uma anotação com um toque. Nunca perca anotações de aula ou reuniões.</string>
+    <string name="ai_enhanced_subtitles_ability_summary_2">Salve legendas como uma nota com um toque. Nunca perca anotações de aula ou reuniões.</string>
     <string name="ai_enhanced_subtitles_ability_title_1">Legendas bilingues em tempo real</string>
     <string name="ai_enhanced_subtitles_ability_title_2">Salvar o conteúdo da legenda</string>
     <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_1_cn">"%1$d.Procure por \"Legendas por IA\" nas Configurações.
@@ -58,8 +58,8 @@
     <string name="ai_enhanced_voice_trans_ability_summary_3">Ative o microfone automaticamente após cada rodada de tradução para uma conversa ininterrupta.</string>
     <string name="ai_enhanced_voice_trans_ability_summary_4">Escolha entre três layouts para qualquer situação: Vertical, face a face e duas telas (para dispositivos dobráveis).</string>
     <string name="ai_enhanced_voice_trans_ability_title_1">Interpretar face a face</string>
-    <string name="ai_enhanced_voice_trans_ability_title_2">Reconhecimento automático de idiomas</string>
-    <string name="ai_enhanced_voice_trans_ability_title_3">Ligar microfone automaticamente</string>
+    <string name="ai_enhanced_voice_trans_ability_title_2">Reconhecer idioma automaticamente</string>
+    <string name="ai_enhanced_voice_trans_ability_title_3">Ativar microfone automaticamente</string>
     <string name="ai_enhanced_voice_trans_ability_title_4">Várias visualizações de tradução</string>
     <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_1">"%1$d.Procure por \"Traduzir\" nas Configurações e toque em \"Traduzir conversa\".
 %2$d.Selecione o idioma alvo, e então toque no botão de microfone próximo ao idioma de origem correspondente para começar a falar. O seu dispositivo reproduzirá a tradução automaticamente em voz alta.

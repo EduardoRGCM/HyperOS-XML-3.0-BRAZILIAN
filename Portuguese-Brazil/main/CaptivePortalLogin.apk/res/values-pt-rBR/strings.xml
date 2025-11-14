@@ -20,7 +20,7 @@
     <string name="channel_description_downloads">Notificações que mostram downloads concluídos ou cancelados</string>
     <string name="channel_name_download_progress">Progresso do download</string>
     <string name="channel_name_downloads">"Downloads"</string>
-    <string name="custom_scheme_example">Por exemplo, a página de login pode exigir um aplicativo específico para autenticação</string>
+    <string name="custom_scheme_example">Por exemplo, a página de login pode exigir um app específico para autenticação</string>
     <string name="custom_scheme_warning">A rede a que você está tentando se conectar está solicitando a abertura de outro app.</string>
     <string name="download_completed">Download concluído</string>
     <string name="downloading_paramfile">Baixando %1$s</string>

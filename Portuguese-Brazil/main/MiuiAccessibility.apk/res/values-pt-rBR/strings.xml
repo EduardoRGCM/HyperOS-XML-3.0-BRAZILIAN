@@ -56,7 +56,7 @@
     <string name="dialog_message_revoke_authorization_confirm">Retirar (%ds)</string>
     <string name="dialog_message_revoke_authorization_confirm_finish">Retirar</string>
     <string name="dialog_title_revoke_authorization_new">Retirada de consentimento</string>
-    <string name="disclaimer_tip">"Aplicativos de terceiros podem exibir que a interpretação simultânea está em andamento quando o microfone estiver desligado. Tenha certeza de que o áudio do microfone não está sendo transmitido para outras pessoas."</string>
+    <string name="disclaimer_tip">"Apps de terceiros podem exibir que a interpretação simultânea está em andamento quando o microfone estiver desligado. Tenha certeza de que o áudio do microfone não está sendo transmitido para outras pessoas."</string>
     <string name="early_morning">Manhã</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
