@@ -147,19 +147,19 @@
     <string name="VideoView_error_title">Problema com o vídeo</string>
     <string name="accept">Aceitar</string>
     <string name="accessibility_binding_label">Acessibilidade</string>
-    <string name="accessibility_button_instructional_text">Para alternar entre recursos, toque e segure o botão de acessibilidade.</string>
-    <string name="accessibility_button_prompt_text">Escolha um recurso para usar ao tocar no botão de acessibilidade:</string>
+    <string name="accessibility_button_instructional_text">O recurso será aberto na próxima vez que você tocar no botão de acessibilidade</string>
+    <string name="accessibility_button_prompt_text">Escolha um recurso</string>
     <string name="accessibility_dialog_button_allow">Permitir</string>
     <string name="accessibility_dialog_button_deny">Negar</string>
     <string name="accessibility_edit_shortcut_menu_button_title">Escolha recursos para usar com o botão de acessibilidade</string>
-    <string name="accessibility_edit_shortcut_menu_volume_title">Escolha recursos para usar com o atalho da tecla de volume</string>
+    <string name="accessibility_edit_shortcut_menu_volume_title">Escolha recursos para usar com o atalho das teclas de volume</string>
     <string name="accessibility_enable_service_encryption_warning">Se o %1$s for ativado, o dispositivo não usará o bloqueio de tela para melhorar a criptografia de dados.</string>
     <string name="accessibility_enable_service_title">Permitir que o %1$s tenha controle total do seu dispositivo?</string>
     <string name="accessibility_freeform_caption">Barra de legendas do app %1$s.</string>
-    <string name="accessibility_gesture_3finger_instructional_text">Para alternar entre os recursos, deslize para cima com três dedos e segure.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">Escolha um recurso para usar com o gesto de acessibilidade (deslize de baixo para cima na tela com três dedos):</string>
-    <string name="accessibility_gesture_instructional_text">Para alternar entre os recursos, deslize para cima com dois dedos e segure.</string>
-    <string name="accessibility_gesture_prompt_text">Escolha um recurso para usar com o gesto de acessibilidade (deslize de baixo para cima na tela com dois dedos):</string>
+    <string name="accessibility_gesture_3finger_instructional_text">O recurso será aberto na próxima vez que você usar este atalho. Deslize para cima com 3 dedos a partir da parte inferior da tela e solte rapidamente.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Escolha um recurso</string>
+    <string name="accessibility_gesture_instructional_text">O recurso será aberto na próxima vez que você usar este atalho. Deslize para cima com 2 dedos a partir da parte inferior da tela e solte rapidamente.</string>
+    <string name="accessibility_gesture_prompt_text">Escolha um recurso</string>
     <string name="accessibility_magnification_chooser_text">Ampliação</string>
     <string name="accessibility_select_shortcut_menu_title">Toque em um recurso para começar a usá-lo:</string>
     <string name="accessibility_service_action_perform_description">Pode monitorar suas interações com um app ou um sensor de hardware e interagir com apps em seu nome.</string>
@@ -1310,6 +1310,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_channel_sim_high_prio">Status de prioridade alta do chip</string>
     <string name="notification_channel_sms">Mensagens SMS</string>
     <string name="notification_channel_system_changes">Alterações do sistema</string>
+    <string name="notification_channel_system_time">Hora e fusos horários</string>
     <string name="notification_channel_updates">Atualizações</string>
     <string name="notification_channel_usb">Conexão USB</string>
     <string name="notification_channel_virtual_keyboard">Teclado virtual</string>
@@ -1354,8 +1355,10 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="other_networks_no_internet">A rede não tem acesso à internet</string>
     <string name="owner_name">Proprietário</string>
     <string name="package_deleted_device_owner">Excluído pelo seu administrador</string>
-    <string name="package_installed_device_owner">Instalado pelo seu administrador</string>
-    <string name="package_updated_device_owner">Atualizado pelo seu administrador</string>
+    <string name="package_installed_device_owner">"Instalado pelo seu administrador.
+Vá para as configurações para ver as permissões concedidas"</string>
+    <string name="package_updated_device_owner">"Atualizado pelo seu administrador.
+Vá para as configurações para ver as permissões concedidas"</string>
     <string name="passwordIncorrect">Senha incorreta.</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>

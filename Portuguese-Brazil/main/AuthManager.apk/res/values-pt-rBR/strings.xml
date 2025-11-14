@@ -25,8 +25,8 @@
     <string name="HIPS_Perm_Call_Desc">Liga diretamente para números de telefone</string>
     <string name="HIPS_Perm_Contact">Modificar e excluir contatos</string>
     <string name="HIPS_Perm_Contact_Desc">Edita os contatos</string>
-    <string name="HIPS_Perm_External_Storage">Acessar e alterar arquivos no armazenamento interno</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Acessa e salva fotos, vídeos, áudio e arquivos em seu dispositivo.</string>
+    <string name="HIPS_Perm_External_Storage">Acessar fotos, vídeos, áudio e outros arquivos armazenados neste dispositivo</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Acessa fotos, vídeos, áudio e outros arquivos armazenados neste dispositivo</string>
     <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Grava áudios</string>
     <string name="HIPS_Perm_Intl_group_desc_auto_start">Execute apps em 2º plano automaticamente</string>
     <string name="HIPS_Perm_Intl_group_desc_calendar">Acessa eventos da agenda</string>
@@ -395,7 +395,7 @@
     <string name="permdesc_read_phone_state">Permitir que %1$s acesse o status do dispositivo e as informações da rede móvel?</string>
     <string name="permdesc_read_record">Permitir que %1$s acesse as gravações?</string>
     <string name="permdesc_read_sms">Permitir que %1$s leia mensagens de texto e multimídia?</string>
-    <string name="permdesc_read_storage">Permitir que %1$s acesse fotos, vídeos, áudio e arquivos neste dispositivo?</string>
+    <string name="permdesc_read_storage">Permitir que %1$s acesse fotos, vídeos, áudio e outros arquivos neste dispositivo?</string>
     <string name="permdesc_receive_sms">Permitir que %1$s receba SMS e MMS?</string>
     <string name="permdesc_recognition">Permitir que %1$s acesse suas informações de atividade?</string>
     <string name="permdesc_send_sms">Permitir que %1$s envie mensagens de texto?</string>
@@ -405,7 +405,7 @@
     <string name="permdesc_write_calendar">Permitir que %1$s edite eventos da agenda?</string>
     <string name="permdesc_write_call_log">Permitir que %1$s edite o histórico de chamadas?</string>
     <string name="permdesc_write_contacts">Permitir que %1$s edite contatos?</string>
-    <string name="permdesc_write_storage">Permitir que %1$s salve fotos, vídeos, áudio e arquivos neste dispositivo?</string>
+    <string name="permdesc_write_storage">Permitir que %1$s acesse fotos, vídeos, áudio e outros arquivos neste dispositivo?</string>
     <string name="permgroupdesc_calendar">Permitir que %1$s acesse eventos da agenda?</string>
     <string name="permgroupdesc_calllog">Permitir que %1$s acesse e salve itens no histórico de chamadas?</string>
     <string name="permgroupdesc_camera">Permitir que %1$s tire fotos e grave vídeos?</string>
@@ -420,7 +420,7 @@
     <string name="permgroupdesc_recognition">Permitir que %1$s acesse dados e atividades de saúde?</string>
     <string name="permgroupdesc_sensors">Permitir que %1$s acesse os dados do sensor corporal?</string>
     <string name="permgroupdesc_sms">Permitir que %1$s leia ou envie SMS?</string>
-    <string name="permgroupdesc_storage">Permitir que %1$s acesse e salve arquivos e fotos em seu dispositivo?</string>
+    <string name="permgroupdesc_storage">Permitir que %1$s acesse fotos e arquivos neste dispositivo?</string>
     <string name="permission_group_title_charges_related">Cobranças</string>
     <string name="permission_group_title_media_related">Multimídia</string>
     <string name="permission_group_title_privacy_related">Privacidade</string>

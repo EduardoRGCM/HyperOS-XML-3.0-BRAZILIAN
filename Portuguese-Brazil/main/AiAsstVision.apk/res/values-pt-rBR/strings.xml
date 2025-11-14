@@ -45,32 +45,32 @@
     <string name="ai_enhanced_subtitles_ability_summary_2">Salve legendas como uma anotação com um toque. Nunca perca anotações de aula ou reuniões.</string>
     <string name="ai_enhanced_subtitles_ability_title_1">Legendas bilingues em tempo real</string>
     <string name="ai_enhanced_subtitles_ability_title_2">Salvar o conteúdo da legenda</string>
-    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_1_cn">"%1$d. Procure por \"Legendas por IA\" nas Configurações.
-%2$d. Toque para começar a utilizar as Legendas por IA."</string>
-    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_1_global">"%1$d. Procure por \"Legendas por IA\" nas Configurações.
-%2$d. Toque para começar a utilizar as Legendas por IA."</string>
-    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_2">%1$d. Na página de legendas, toque em \"Baixar\" no canto superior direito para salvar.</string>
+    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_1_cn">"%1$d.Procure por \"Legendas por IA\" nas Configurações.
+%2$d.Toque para começar a utilizar as Legendas por IA."</string>
+    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_1_global">"%1$d.Procure por \"Legendas por IA\" nas Configurações.
+%2$d.Toque para começar a utilizar as Legendas por IA."</string>
+    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_2">%1$d.Na página de legendas, toque em \"Baixar\" no canto superior direito para salvar.</string>
     <string name="ai_enhanced_subtitles_ability_usage_introduction_title">Usando este recurso</string>
-    <string name="ai_enhanced_subtitles_summary">Transcrever videochamadas e reuniões e traduzir o áudio em legendas bilingues</string>
+    <string name="ai_enhanced_subtitles_summary">Transcrever videochamadas e reuniões e traduzir o áudio em legendas bilíngues</string>
     <string name="ai_enhanced_subtitles_title">Legendas por IA</string>
     <string name="ai_enhanced_voice_trans_ability_summary_1">Traduza entre chinês, Inglês, japonês e Coreano para comunicar face à face sem barreiras.</string>
     <string name="ai_enhanced_voice_trans_ability_summary_2">Reconhece automaticamente o idioma do interlocutor. Não é necessário alterar manualmente.</string>
     <string name="ai_enhanced_voice_trans_ability_summary_3">Ative o microfone automaticamente após cada rodada de tradução para uma conversa ininterrupta.</string>
     <string name="ai_enhanced_voice_trans_ability_summary_4">Escolha entre três layouts para qualquer situação: Vertical, face a face e duas telas (para dispositivos dobráveis).</string>
-    <string name="ai_enhanced_voice_trans_ability_title_1">Interpretar cara a cara</string>
+    <string name="ai_enhanced_voice_trans_ability_title_1">Interpretar face a face</string>
     <string name="ai_enhanced_voice_trans_ability_title_2">Reconhecimento automático de idiomas</string>
     <string name="ai_enhanced_voice_trans_ability_title_3">Ligar microfone automaticamente</string>
     <string name="ai_enhanced_voice_trans_ability_title_4">Várias visualizações de tradução</string>
-    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_1">"%1$d. Procure por \"Traduzir\" nas Configurações e toque em \"Traduzir conversa\".
-%2$d. Selecione o idioma alvo, e então toque no botão de microfone próximo ao idioma de origem correspondente para começar a falar. O seu dispositivo reproduzirá a tradução automaticamente em voz alta.
-%3$d. A outra pessoa também pode tocar no botão de microfone correspondente para traduzir a própria voz para o seu idioma selecionado."</string>
-    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_2">"%1$d. Na página de conversa, toque em \"Configurações\" no canto superior direito.
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_1">"%1$d.Procure por \"Traduzir\" nas Configurações e toque em \"Traduzir conversa\".
+%2$d.Selecione o idioma alvo, e então toque no botão de microfone próximo ao idioma de origem correspondente para começar a falar. O seu dispositivo reproduzirá a tradução automaticamente em voz alta.
+%3$d.A outra pessoa também pode tocar no botão de microfone correspondente para traduzir a própria voz para o seu idioma selecionado."</string>
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_2">"%1$d.Na página de conversa, toque em \"Configurações\" no canto superior direito.
 %2$d. Ative o \"Reconhecer idioma automaticamente\"."</string>
-    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_3">"%1$d. Na página de conversa toque em \"Configurações\" no canto superior direito.
-%2$d. Ative \"Reconhecer idioma automaticamente\", e então \"Ativar microfone automaticamente\"."</string>
-    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_4">"%1$d. Toque no botão no canto superior esquerdo para alterar entre visualizações.
-%2$d. Selecione a visualização que você deseja utilizar. A visualização em duas telas só é suportada em dispositivos dobráveis."</string>
-    <string name="ai_enhanced_voice_trans_summary">Traduzir conversas offline, cara a cara</string>
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_3">"%1$d.Na página de conversa toque em \"Configurações\" no canto superior direito.
+%2$d.Ative \"Reconhecer idioma automaticamente\", e então \"Ativar microfone automaticamente\"."</string>
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_4">"%1$d.Toque no botão no canto superior esquerdo para alterar entre visualizações.
+%2$d.Selecione a visualização que você deseja utilizar. A visualização em duas telas só é suportada em dispositivos dobráveis."</string>
+    <string name="ai_enhanced_voice_trans_summary">Traduzir conversas offline, face a face</string>
     <string name="ai_enhanced_voice_trans_title">Tradução de Conversa por IA</string>
     <string name="ai_translate_cn">Legendas por IA</string>
     <string name="ai_translate_feedback_cn">Feedback do Tradutor</string>
@@ -80,9 +80,9 @@
     <string name="ai_translation_box_serach_text">Digite as palavras ou frases</string>
     <string name="all_settings">Todas as configurações</string>
     <string name="antonym">Antônimos</string>
-    <string name="app_function_1">Boas-vindas às Legendas por IA! Você pode utilizar este recurso para gerar legendas para áudio, traduzir em tempo real e gerar resumos inteligentes. O Legendas por IA precisa se conectar à internet para funcionar normalmente.</string>
-    <string name="app_function_cn">Boas-vindas ao Tradutor! Você pode usar este app para traduzir texto e áudio, procurar palavras e muito mais. Este app precisa se conectar à Internet para funcionar normalmente. </string>
-    <string name="app_function_global">Boas-vindas ao Tradutor Mi AI! Você pode usar este app para traduzir texto e áudio, procurar palavras e muito mais. Este app precisa se conectar à Internet para funcionar normalmente. </string>
+    <string name="app_function_1">Bem-vindo(a) às Legendas por IA! Você pode utilizar este recurso para gerar legendas para áudio, traduzir em tempo real e gerar resumos inteligentes. O Legendas por IA precisa se conectar à internet para funcionar normalmente.</string>
+    <string name="app_function_cn">Bem-vindo(a) ao Tradutor! Você pode usar este app para traduzir texto e áudio, procurar palavras e muito mais. Este app precisa se conectar à Internet para funcionar normalmente. </string>
+    <string name="app_function_global">Bem-vindo(a) ao Tradutor Mi AI! Você pode usar este app para traduzir texto e áudio, procurar palavras e muito mais. Este app precisa se conectar à Internet para funcionar normalmente. </string>
     <string name="app_name_cn">Traduzir</string>
     <string name="app_name_global">Tradutor Mi AI</string>
     <string name="app_widget_aivision_title">Recursos usados com frequência</string>
@@ -94,7 +94,7 @@
     <string name="auto_play_translation">Reproduzir tradução</string>
     <string name="auto_save_subtitle_remind_txt">*Marque essa opção para que o conteúdo da legenda seja separado por voz para facilitar a leitura</string>
     <string name="auto_trans">Tradução automática</string>
-    <string name="auto_trans_introduce">O microfone ligará quando a tradução terminar</string>
+    <string name="auto_trans_introduce">O microfone será ativado assim que a tradução terminar</string>
     <string name="banner_item_1_content">Tradução fácil, rápida e gratuita em seu dispositivo</string>
     <string name="banner_item_2_content">Obtenha legendas traduzidas para reuniões, filmes e muito mais</string>
     <string name="banner_item_2_content_for_M82">Legendas em tempo real para reuniões, programas de TV e muito mais</string>
@@ -107,8 +107,8 @@
     <string name="bottomsheet_action_collapse">Fechar a página inferior</string>
     <string name="bottomsheet_action_expand">Abrir a página inferior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
-    <string name="bottomsheet_drag_handle_clicked">Alça de arrastar tocada duas vezes</string>
-    <string name="bottomsheet_drag_handle_content_description">Alça de arrastar</string>
+    <string name="bottomsheet_drag_handle_clicked">Alça de arrasto com toque duplo</string>
+    <string name="bottomsheet_drag_handle_content_description">Alça de arrasto</string>
     <string name="brand_text">O mecanismo de reconhecimento de voz é fornecido por %1$s</string>
     <string name="bullet_chat">Movimento</string>
     <string name="call_notification_answer_action">Atender</string>
@@ -124,7 +124,7 @@
     <string name="caption_text_size_large">G</string>
     <string name="caption_text_size_small">P</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
-    <string name="character_counter_overflowed_content_description">Limite de %2$d caracteres excedido em %1$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="check_hint">*Marque essa opção para que o conteúdo da legenda seja separado por voz para facilitar a leitura</string>
     <string name="check_is_need_restore_text_dialog_content_cn">Parece que esse app fechou inesperadamente. Restaurar o arquivo de legendas por IA criado em %s para o Anotações agora?</string>
     <string name="check_is_need_restore_text_dialog_content_global">Parece que esse app fechou inesperadamente. Restaurar o arquivo de Legendas por IA criado em %s para o Anotações agora?</string>
@@ -149,18 +149,19 @@
     <string name="complete_speech_recognition_text">Concluído</string>
     <string name="compose_message_hint">Insira respostas rápidas aqui</string>
     <string name="compose_message_send">Enviar</string>
+    <string name="confirm">"OK"</string>
     <string name="confirm_quit">Sair</string>
     <string name="confirm_text">Retirar consentimento</string>
     <string name="confirm_txt">Confirmar</string>
-    <string name="consume_resources_size_hint">O download desse pacote de idiomas usará %s MB de dados móveis. Baixar mesmo assim?</string>
+    <string name="consume_resources_size_hint">Baixar este pacote de idiomas usará %s MB de dados móveis. Baixar mesmo assim?</string>
     <string name="content_broadcast">Reproduzir</string>
     <string name="content_clear">Limpar</string>
     <string name="content_copy">Copiar</string>
     <string name="content_exit">Sair</string>
-    <string name="content_mic">Traduzir discurso</string>
+    <string name="content_mic">Traduzir fala</string>
     <string name="content_return">Voltar</string>
     <string name="content_setting">Configurações</string>
-    <string name="content_translate_language">Alternar idiomas de origem e destino</string>
+    <string name="content_translate_language">Alternar idioma de origem e destino</string>
     <string name="continue_download_text">Baixar</string>
     <string name="continue_text">Continuar</string>
     <string name="control_center_guide">Centro de controle</string>
@@ -178,9 +179,9 @@
     <string name="desktop_shortcuts_add_success">Atalho na Tela inicial adicionado com sucesso</string>
     <string name="detail_how_to_open_cn">Toque no botão no centro para permitir que o Mi Ditto transcreva a fala e o áudio de reprodução do sistema.</string>
     <string name="detail_how_to_open_global">Toque no botão no centro para permitir que o Mi Ditto transcreva a fala e o áudio de reprodução do sistema.</string>
-    <string name="detail_how_to_save_messages">Você pode tocar no botão na parte inferior da tela para salvar os itens transcritos no Anotações.</string>
-    <string name="detail_what_is_ai_translate">Em situações como assistir a vídeos, reuniões on-line e chamadas telefônicas, o áudio interno e externo é apresentado em forma de texto e pode ser traduzido em tempo real. Se não for possível falar em voz alta durante uma chamada ou reunião, você poderá usar os recursos de conversão de texto em fala para responder à outra parte. O conteúdo da legenda também pode ser salvo no app Anotações para gerar facilmente registros de conversas.</string>
-    <string name="device_do_not_support_function">Este modelo de dispositivo não suporta este recurso</string>
+    <string name="detail_how_to_save_messages">Você pode tocar no botão na parte inferior da tela para salvar itens transcritos em Notas.</string>
+    <string name="detail_what_is_ai_translate">Em situações como assistir a vídeos, reuniões on-line e chamadas telefônicas, o áudio interno e externo é apresentado em forma de texto e pode ser traduzido em tempo real. Se não for possível falar em voz alta durante uma chamada ou reunião, você poderá usar os recursos de conversão de texto em fala para responder à outra parte. O conteúdo da legenda também pode ser salvo no app Notas para gerar facilmente registros de conversa.</string>
+    <string name="device_do_not_support_function">Este modelo de dispositivo não é compatível com este recurso</string>
     <string name="dialog_message_delete_message">Excluir os itens selecionados agora?</string>
     <string name="dialog_no_test_qualified_tip_message">Você não tem credenciais de testador Beta no momento. Você pode se inscrever para se tornar um testador Beta na Comunidade Xiaomi.</string>
     <string name="dialog_no_test_qualified_tip_title">Credenciais necessárias</string>
@@ -195,7 +196,7 @@
     <string name="download_error_text">Não foi possível baixar</string>
     <string name="download_language_error_text_cn">Não foi possível baixar os pacotes de idiomas das legendas por IA. Aguarde um ou dois minutos e tente novamente.</string>
     <string name="download_language_error_text_global">Não foi possível baixar os pacotes de idiomas do Legendas por IA. Aguarde um ou dois minutos e tente novamente.</string>
-    <string name="download_language_model_exit_ai_subtitles_hint">%1$s estão desativados durante o processo de download</string>
+    <string name="download_language_model_exit_ai_subtitles_hint">%1$s são desativadas durante o processo de download</string>
     <string name="download_language_package_button_text">Baixar pacotes de idiomas</string>
     <string name="download_later_text">Agora não</string>
     <string name="early_morning">"AM"</string>
@@ -255,7 +256,7 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="force_update_model_download_show_text_live_subtitle">Nossos modelos de idiomas foram atualizados. Baixe os pacotes de idiomas off-line mais recentes para continuar.</string>
     <string name="force_update_model_download_show_text_subtitle_transcription">Para poder distinguir as vozes dos interlocutores durante a transcrição, atualize primeiro os pacotes de idiomas off-line.</string>
-    <string name="foregound_content">%1$s está trabalhando…</string>
+    <string name="foregound_content">%1$s está funcionando…</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -304,7 +305,7 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="language_ca">Catalão</string>
     <string name="language_cn_cn">Chinês</string>
     <string name="language_cn_global">Chinês simplificado</string>
-    <string name="language_cn_summary">Reconhece o chinês mandarim, ≈%s MB</string>
+    <string name="language_cn_summary">Reconhece o Chinês Mandarim, ≈%s MB</string>
     <string name="language_cs">Tcheco</string>
     <string name="language_da">Dinamarquês</string>
     <string name="language_de">Alemão</string>
@@ -313,8 +314,10 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="language_en_summary">Reconhece o inglês e traduz do inglês para o chinês, ≈%s MB</string>
     <string name="language_es">Espanhol</string>
     <string name="language_fi">Finlandês</string>
+    <string name="language_fil">Filipino</string>
     <string name="language_fr">Francês</string>
     <string name="language_he">Hebraico</string>
+    <string name="language_hi">Hindi</string>
     <string name="language_hr">Croata</string>
     <string name="language_hu">Húngaro</string>
     <string name="language_id">Indonésio</string>
@@ -356,9 +359,11 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="material_hour_suffix">%1$s em ponto</string>
     <string name="material_minute_selection">Selecione os minutos</string>
     <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">"AM"</string>
     <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
     <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecionar horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="meeting_sound">Áudio do sistema e do microfone</string>
@@ -414,8 +419,8 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="model_download_show_text_fail_no_storage">Armazenamento insuficiente. Limpe o armazenamento e tente baixar novamente.</string>
     <string name="model_download_show_text_fail_other">Não foi possível baixar. Aguarde alguns minutos e tente novamente.</string>
     <string name="model_download_show_text_go_on">Baixar</string>
-    <string name="model_download_show_text_mobile_net_tip_cn" formatted="false">Baixar %s pacotes de idiomas usará %d MB de dados móveis. Baixar agora?</string>
-    <string name="model_download_show_text_mobile_net_tip_en" formatted="false">Baixar %s pacotes de idiomas usará %d MB de dados móveis. Baixar agora?</string>
+    <string formatted="false" name="model_download_show_text_mobile_net_tip_cn">O download dos pacotes de idioma %s usará %d MB de dados móveis. Baixar agora?</string>
+    <string formatted="false" name="model_download_show_text_mobile_net_tip_en">O download dos pacotes de idioma %s usará %d MB de dados móveis. Baixar agora?</string>
     <string name="model_download_show_text_switch_cn">Mudar para Chinês</string>
     <string name="model_download_show_text_switch_en_to_cn">Mudar para Inglês</string>
     <string name="model_download_show_text_unzip_cn">Descompactando o pacote de idiomas off-line %s…</string>
@@ -469,7 +474,8 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
     <string name="mtrl_picker_announce_current_selection_none">nenhuma</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
-    <string name="mtrl_picker_date_header_title">Selecionar data</string>
+    <string name="mtrl_picker_confirm">"OK"</string>
+    <string name="mtrl_picker_date_header_title">Selecione a data</string>
     <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
     <string name="mtrl_picker_end_date_description">Data de término: %1$s</string>
     <string name="mtrl_picker_invalid_format">Formato inválido.</string>
@@ -481,7 +487,7 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de término</string>
-    <string name="mtrl_picker_range_header_title">Selecionar intervalo</string>
+    <string name="mtrl_picker_range_header_title">Selecione o intervalo</string>
     <string name="mtrl_picker_range_header_unselected">Data de início – Data de término</string>
     <string name="mtrl_picker_save">Salvar</string>
     <string name="mtrl_picker_start_date_description">Data de início: %1$s</string>
@@ -500,7 +506,7 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="network_unstable">A conexão de rede está ruim. Verifique suas configurações de rede e tente novamente.</string>
     <string name="new_phrase">Adicionar uma frase</string>
     <string name="new_phrase_hint">Insira a frase aqui</string>
-    <string name="night">Anoitecer</string>
+    <string name="night">Noite</string>
     <string name="no_associational_word_data_text">Nada aqui ainda</string>
     <string name="noon">Meio-dia</string>
     <string name="not_join_improvement_plan">Agora não</string>
@@ -510,11 +516,12 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="notification_download_progress">"Progresso: "</string>
     <string name="notification_downloading_title_cn">Baixando pacotes de idiomas de legendas</string>
     <string name="notification_downloading_title_global">Baixando pacotes de idiomas de legendas</string>
-    <string name="notification_unpack_resources_cn">Comprimindo pacotes de idiomas de legendas</string>
-    <string name="notification_unpack_resources_global">Comprimindo pacotes de idiomas de legendas</string>
+    <string name="notification_unpack_resources_cn">Compactando pacotes de idiomas de legendas</string>
+    <string name="notification_unpack_resources_global">Compactando pacotes de idiomas de legendas</string>
+    <string name="ok_text">"OK"</string>
     <string name="only_src">Origem</string>
     <string name="only_transcription">Transcrever</string>
-    <string name="only_translate">Alvo</string>
+    <string name="only_translate">Destino</string>
     <string name="open_ai_subtitle_button_text">Ativar %1$s</string>
     <string name="open_control_center">Atalhos: Centro de controle</string>
     <string name="passport_oauth_actionbar_title">Conta Xiaomi</string>
@@ -542,6 +549,7 @@ Observação: As legendas geradas de conteúdos de vídeo ou áudio não podem s
     <string name="phrase_confirm_delete_message">Excluir esta frase agora?</string>
     <string name="phrase_empty">Nenhum item aqui ainda</string>
     <string name="please_choose_the_correct_language">Selecione o idioma</string>
+    <string name="pm">"PM"</string>
     <string name="pp_app_warning_permission_tips">Permissões sensíveis</string>
     <string name="pref_auto_setting_title">Configurações automáticas</string>
     <string name="pref_play_timbre_title">Tom de reprodução</string>
@@ -612,8 +620,11 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="saturday_shortest">Sáb</string>
     <string name="save_subtitle_content_to_miui_note">As legendas salvas serão exportadas para o Anotações.</string>
     <string name="save_subtitle_to_miui_notes">As legendas salvas serão exportadas para o Anotações.</string>
-    <string name="save_to_note">Salvar nas Anotações</string>
-    <string name="save_to_notes">Salvar como anotação</string>
+    <string name="save_to_local_failure_message">Não pode ser salvo localmente</string>
+    <string name="save_to_local_icon_name">Salvar localmente</string>
+    <string name="save_to_local_success_message">Salvo com sucesso no dispositivo local</string>
+    <string name="save_to_note">Salvar em Notas</string>
+    <string name="save_to_notes">Salvar como nota</string>
     <string name="screen_translate">Traduzir tela</string>
     <string name="screen_translate_already_instance_tips">Tradução da tela ativada</string>
     <string name="screen_translate_auto_translate_tips">A tradução será atualizada quando alterações forem detectadas durante a transmissão</string>
@@ -639,6 +650,7 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="searchview_clear_text_content_description">Limpar texto</string>
     <string name="searchview_navigation_content_description">Voltar</string>
     <string name="send">Enviar</string>
+    <string name="settings_already_open_debug_item_toast">As Configurações de depuração foram ativadas</string>
     <string name="settings_content_description">Abrir Configurações</string>
     <string name="settings_search_ai_subtitle_summary_cn">Mi AI/Tradutor/Sobre legendas</string>
     <string name="settings_search_ai_subtitle_summary_global">Mi AI/Tradutor Mi AI/Sobre legendas</string>
@@ -647,6 +659,8 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="settings_search_ai_translate_summary_cn">Mi AI/Tradutor</string>
     <string name="settings_search_ai_translate_summary_global">Mi AI/Tradutor Mi AI</string>
     <string name="settings_title">Configurações adicionais</string>
+    <string name="share_image_title_text_src">Texto original</string>
+    <string name="share_image_title_text_tra">Texto do resultado da tradução</string>
     <string name="shortcuts">Atalhos</string>
     <string name="side_sheet_accessibility_pane_title">Página lateral</string>
     <string name="simultaneous_interpretation_name_cn">Interpretador com IA</string>
@@ -746,11 +760,14 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="translate_type">Estilo da legenda</string>
     <string name="translation_card_edit_hint_text">Insira uma palavra ou frase</string>
     <string name="transparent_color">Transparente</string>
+    <string name="tts_am_text">EUA</string>
+    <string name="tts_en_text">Reino Unido</string>												   
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="txt_contact_us">Fale conosco</string>
     <string name="txt_service_phone">Telefone de atendimento ao cliente</string>
+    <string name="unknown_app">App desconhecido</string>
     <string name="update_button_text">Atualizar</string>
     <string name="update_privacy_content_cn">Para proteger melhor sua privacidade, atualizamos a Política de Privacidade do Tradutor: %s. Leia e concorde com a Política de Privacidade atualizada antes de continuar.</string>
     <string name="update_privacy_content_global">Para proteger melhor sua privacidade, atualizamos a Política de Privacidade do Tradutor Mi AI:%s. Leia e concorde com a Política de Privacidade atualizada antes de continuar.</string>
@@ -783,7 +800,7 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="voice_translation_talkback_single_select">Selecionado</string>
     <string name="voice_translation_talkback_single_unselect">Não selecionado</string>
     <string name="voice_translation_talkback_subtitles">Legendas</string>
-    <string name="voice_translation_talkback_switch_language">Alterar idiomas</string>
+    <string name="voice_translation_talkback_switch_language">Alternar idiomas</string>
     <string name="voice_translation_talkback_switch_select">Ativado</string>
     <string name="voice_translation_talkback_switch_unselect">Desativado</string>
     <string name="voice_translation_talkback_target_language">Idioma de destino: %s</string>
@@ -806,10 +823,11 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="word_done">Pretérito perfeito</string>
     <string name="word_er">Comparativo</string>
     <string name="word_est">Superlativo</string>
-    <string name="word_inflection">Formas de palavras</string>
+    <string name="word_inflection">Formas da palavra</string>
     <string name="word_ing">Gerúndio</string>
     <string name="word_noun">Substantivo</string>
     <string name="word_past">Tempo passado</string>
+    <string name="word_pl">Plural</string>
     <string name="word_prep">Preposição</string>
     <string name="word_third">Terceira pessoa do singular</string>
     <string name="word_translate_machine_fold">Mostrar menos</string>

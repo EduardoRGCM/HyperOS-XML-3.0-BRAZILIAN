@@ -6199,7 +6199,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="make_sure_cancel_update">Cancelar atualização?</string>
     <string name="man_add_application">Adicionar apps de início automático</string>
     <string name="manage_conversations">Gerenciar conversas</string>
-    <string name="manage_device_admin">Apps de administrador do dispositivo</string>
+    <string name="manage_device_admin">Administrador do dispositivo</string>
     <string name="manage_external_storage_title">Acesso a todos os arquivos</string>
     <string name="manage_facerecoginition_text">Gerenciar dados faciais</string>
     <string name="manage_fakecell_settings">Proteção contra estações-base falsas</string>
@@ -6216,7 +6216,7 @@ Existem outros usuários presentes neste dispositivo.
     <string name="manage_trust_agents_summary">Nenhum</string>
     <string name="manage_trust_agents_summary_on">{count, plural, =1 {1 agente de confiança ativo} other {# agentes de confiança ativos}}</string>
     <string name="manage_xiaomi_router">Configurações do Roteador Mi</string>
-    <string name="manage_zen_access_title">Acesso ao Não perturbe</string>
+    <string name="manage_zen_access_title">Controle ao Não perturbe</string>
     <string name="manageapplications_settings_summary">Gerenciar e remover apps instalados</string>
     <string name="manageapplications_settings_title">Gerenciar apps</string>
     <string name="managed_profile_contact_search_summary">Permitir que sua organização pesquise contatos para identificar autores de chamadas e contatos</string>
@@ -7105,7 +7105,7 @@ Selecione seu sistema operacional:"</string>
     <string name="multi_window_cvw_title">Janela flutuante</string>
     <string name="multifunction_keyboard">Multifuncional</string>
     <string name="multiple_users_main_switch_keywords">permitir, múltiplo, usuário, permitir, muitos</string>
-    <string name="multiple_users_main_switch_title">Permitir vários usuários</string>
+    <string name="multiple_users_main_switch_title">Permitir alternância de usuário</string>
     <string name="music_equalizer">Equalizador</string>
     <string name="music_playback_control_cross_device_flow">Transfira a reprodução de áudio entre dispositivos</string>
     <string name="music_video_flow_across_device">Controle e transfira a reprodução de áudio entre dispositivos</string>
@@ -7504,7 +7504,7 @@ As notificações aprimoradas podem acessar o conteúdo da notificação, inclui
     <string name="notification_channel_summary_min">Na Área de notificações, recolher notificações para uma única linha</string>
     <string name="notification_channel_summary_priority">Aparece na parte superior de uma seção de conversa, em forma de balão, mostrando a foto do perfil na Tela de bloqueio</string>
     <string name="notification_channel_title">Categoria da notificação</string>
-    <string name="notification_channels">Categorias</string>
+    <string name="notification_channels">Categorias de notificação</string>
     <string name="notification_channels_other">Outros</string>
     <string name="notification_content_block_summary">Nunca mostrar notificações na aba ou em dispositivos periféricos</string>
     <string name="notification_content_block_title">Mostrar notificações</string>
@@ -7926,7 +7926,7 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="permit_full_screen_intent">Permitir notificações em tela cheia deste app</string>
     <string name="permit_manage_external_storage">Permitir acesso para gerenciar todos os arquivos</string>
     <string name="permit_running_network">Dados em 2º plano</string>
-    <string name="permit_usage_access">Permitir acesso ao uso</string>
+    <string name="permit_usage_access">Permitir acesso aos dados de uso do app</string>
     <string name="permit_write_settings">Permitir modificar as configurações do sistema</string>
     <string name="person_hotpot">Pontos de acesso móveis</string>
     <string name="personal_data_section_title">Dados pessoais</string>
@@ -8019,7 +8019,8 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="power_charge_remaining">%1$s até carregar</string>
     <string name="power_charging_duration">%1$s - %2$s até estar carregada</string>
     <string name="power_charging_future_paused">%1$s – Carregamento otimizado</string>
-    <string name="power_charging_limited">%1$s - Carregamento otimizado</string>
+    <string name="power_charging_limited">%1$s - Carregamento em espera para proteger a bateria</string>
+    <string name="power_charging_on_hold_settings_home_page">%1$s - Carregamento em espera para proteger a bateria</string>
     <string name="power_checker">Verificação de energia</string>
     <string name="power_cpu">"CPU"</string>
     <string name="power_discharge_by">Deve durar até cerca de %1$s (%2$s)</string>
@@ -8484,8 +8485,9 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="really_remove_account_message">A remoção desta conta excluirá todas as suas mensagens, contatos e outros dados do telefone.</string>
     <string name="really_remove_account_title">Remover conta?</string>
     <string name="reboot_dialog_enable_angle_as_system_driver">É necessária uma reinicialização para alterar o driver OpenGL ES do sistema</string>
-    <string name="reboot_dialog_enable_freeform_support">Uma reinicialização é necessária para ativar o suporte a Janelas flutuantes.</string>
-    <string name="reboot_dialog_force_desktop_mode">Uma reinicialização é necessária para forçar o modo desktop em monitores secundários.</string>
+    <string name="reboot_dialog_enable_desktop_mode_on_secondary_display">É necessário reiniciar para ativar janelas de flutuantes em telas secundárias.</string>
+    <string name="reboot_dialog_enable_freeform_support">É necessário reiniciar para ativar o suporte a janelas flutuantes.</string>
+    <string name="reboot_dialog_override_desktop_mode">É necessário reiniciar para atualizar a disponibilidade de janelas flutuantes.</string>
     <string name="reboot_dialog_reboot_later">Reiniciar depois</string>
     <string name="reboot_dialog_reboot_now">Reinicie agora</string>
     <string name="reboot_with_mte_already_enabled">MTE já está ativado</string>
@@ -8939,10 +8941,10 @@ Para usar a fixação de apps: \u0009
     <string name="screen_recorder_title">Gravador de tela</string>
     <string name="screen_refresh_unavailable_prompt">A alteração da taxa de atualização é suportada apenas pela tela externa</string>
     <string name="screen_resolution_dialog_title">Alterar resolução</string>
-    <string name="screen_resolution_footer">A resolução total consome mais bateria. Mudar sua resolução pode fazer com que alguns apps sejam reiniciados.</string>
+    <string name="screen_resolution_footer">A resolução máxima consome mais bateria. Mudar sua resolução pode fazer com que alguns apps sejam reiniciados.</string>
     <string name="screen_resolution_high_format">Alta (%1$s)</string>
     <string name="screen_resolution_normal_format">"Normal (%1$s)"</string>
-    <string name="screen_resolution_option_full">Resolução Full</string>
+    <string name="screen_resolution_option_full">Resolução máxima</string>
     <string name="screen_resolution_option_high">Alta resolução</string>
     <string name="screen_resolution_option_highest">Maior resolução</string>
     <string name="screen_resolution_selected_a11y">Selecionado</string>
@@ -9312,7 +9314,9 @@ Para usar a fixação de apps: \u0009
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Rosto e impressões digitais adicionadas</string>
     <string name="security_settings_biometric_preference_summary_both_fp_single">Rosto e impressão digital adicionada</string>
     <string name="security_settings_biometric_preference_summary_none_enrolled">Configuração necessária</string>
-    <string name="security_settings_biometric_preference_title">Rosto e Desbloqueio de impressão digital</string>
+    <string name="security_settings_biometric_preference_title">Desbloqueio Facial e por Impressão Digital</string>
+    <string name="security_settings_category_use_fingerprint">Usar impressão digital para</string>
+    <string name="security_settings_face_add">Adicionar dados faciais</string>
     <string name="security_settings_biometrics_description">Quando você configura o desbloqueio de rosto e impressão digital, seu telefone pedirá sua impressão digital quando você usar uma máscara ou estiver em uma área escura</string>
     <string name="security_settings_biometrics_preference_use_with_apps">Autenticação em apps</string>
     <string name="security_settings_biometrics_preferences_category">Usar rosto ou impressão digital para</string>
@@ -9563,7 +9567,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="select_all">Selecionar todos</string>
     <string name="select_application">Selecionar app</string>
     <string name="select_automatically">Selecionar a rede automaticamente</string>
-    <string name="select_device_admin_msg">Apps do administrador do dispositivo</string>
+    <string name="select_device_admin_msg">Administrador do dispositivo</string>
     <string name="select_gpo_version_title">Selecionar versão do GPO</string>
     <string name="select_invalid_bug_report_handler_toast_text">Essa opção não é mais válida. Tente novamente.</string>
     <string name="select_logd_level">Selecionar nível de log</string>
@@ -9786,6 +9790,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="sidebar_setting">Configurações da barra lateral</string>
     <string name="silent_duration">Duração</string>
     <string name="silent_mode">Modo silencioso</string>
+    <string name="mode_device_effects_title">Mais configurações</string>
     <string name="silent_mode_disable_media">Silencie tudo</string>
     <string name="silent_mode_enable_media">Reproduzir mídia</string>
     <string name="silent_mode_summary">Silenciar chamadas, notificações e mídia</string>
@@ -9894,7 +9899,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_pin_enable_failed">Não é possível ativar o PIN.</string>
     <string name="sim_pin_toggle">Bloquear chip</string>
     <string name="sim_pins_dont_match">Os PINs não correspondem</string>
-    <string name="sim_preferred_message">O %1$s é o único chip no seu dispositivo. Quer usá-lo para dados móveis, chamadas e mensagens SMS?</string>
+    <string name="sim_preferred_message">%1$s agora é seu SIM principal</string>
     <string name="sim_preferred_title">Atualiz. chip preferido?</string>
     <string name="sim_radio_off">Desativado</string>
     <string name="sim_reenter_new">Redigite o novo PIN</string>
@@ -10126,7 +10131,8 @@ Retirar o consentimento para %s agora?"</string>
     <string name="sound_assist_title">Assistente de som</string>
     <string name="sound_category_call_ringtone_vibrate_title">Sons de toque e notificações</string>
     <string name="sound_category_system_title">Sistema</string>
-    <string name="sound_dashboard_summary">Volume, vibração, Não perturbe</string>
+    <string name="sound_dashboard_summary">Volume e vibração</string>
+    <string name="sound_dashboard_summary_with_dnd">Volume e vibração, Não perturbe</string>
     <string name="sound_effects_enable_title">Sons de toque</string>
     <string name="sound_haptic_settings">Sons e retorno tátil</string>
     <string name="sound_mode">Modo silencioso</string>
@@ -10873,7 +10879,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tether_share_qrcode_title">Compartilhar código QR</string>
     <string name="tether_use_wifi6_summary">Alguns dispositivos podem ser incompatíveis com o padrão 802.11ax. Desative este recurso caso tenha problemas.</string>
     <string name="tether_use_wifi6_title">Suporte ao padrão de 6ª geração</string>
-    <string name="tethering_footer_info">Use o hotspot e ancoragem para fornecer internet a outros dispositivos por meio da sua conexão de dados móveis. Os apps também podem criar um hotspot para compartilhar conteúdo com dispositivos próximos.</string>
+    <string name="tethering_footer_info">Use o hotspot e ancoragem para fornecer internet a outros dispositivos por meio da sua conexão de dados. Os apps também podem criar um hotspot para compartilhar conteúdo com dispositivos próximos.</string>
     <string name="tethering_footer_info_sta_ap_concurrency">Use o hotspot e ancoragem para fornecer internet a outros dispositivos por meio da sua conexão Wi-Fi ou de dados móveis. Os apps podem também podem criar um hotspot para compartilhar conteúdo com dispositivos próximos.</string>
     <string name="tethering_hardware_offload">Ancoragem acelerada por hardware</string>
     <string name="tethering_hardware_offload_summary">"Usa aceleração de hardware para ancoragem de internet se disponível"</string>
@@ -11034,8 +11040,9 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="track_frame_time_keywords">"GPU"</string>
     <string name="trackball_settings">"Trackball"</string>
     <string name="trackball_wake_title">Ligar a tela com trackball</string>
-    <string name="trackpad_bottom_right_tap_summary">Toque no canto inferior direito do touchpad para mais opções</string>
-    <string name="trackpad_bottom_right_tap_title">Toque no canto inferior direito</string>
+    <string name="trackpad_bottom_right_tap_summary">Clique no canto inferior direito do touchpad para mais opções</string>
+    <string name="trackpad_bottom_right_tap_title">Clique no canto inferior direito</string>
+    <string name="trackpad_gestures_disabled_footer_text">Algumas configurações estão indisponíveis, pois os gestos do touchpad foram desativados. Você pode ativá-los em Acessibilidade do ponteiro e touchpad > Usar gestos do touchpad</string>
     <string name="trackpad_go_back_summary">Deslize para a esquerda ou para a direita com três dedos</string>
     <string name="trackpad_go_back_title">Volte</string>
     <string name="trackpad_go_home_summary">Deslize para cima com três dedos</string>
@@ -11043,7 +11050,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="trackpad_mouse_settings">Mouse ao toque</string>
     <string name="trackpad_notifications_summary">Deslize para baixo com três dedos</string>
     <string name="trackpad_notifications_title">Notificações</string>
-    <string name="trackpad_pointer_speed">Velocidade do ponteiro</string>
+    <string name="trackpad_pointer_speed">Velocidade do cursor</string>
     <string name="trackpad_recent_apps_summary">Deslize para cima com três dedos e segure</string>
     <string name="trackpad_recent_apps_title">Apps recentes</string>
     <string name="trackpad_reverse_scrolling_summary">O conteúdo sobe quando você rola para baixo</string>
@@ -11164,6 +11171,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tx_link_speed">%1$dMbps</string>
     <string name="tx_link_speed_label">Velocidade do link de transmissão:</string>
     <string name="tx_wifi_speed">Velocidade do link de transmissão</string>
+    <string name="ufs_size_suffix">%1$s (%2$s com extensão de armazenamento)</string>
     <string name="unadapt_embedded">"Janelas paralelas não estão disponíveis"</string>
     <string name="under_keyguard">Desligar tela</string>
     <string name="unimportant">Não importante</string>
@@ -11318,9 +11326,9 @@ Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as i
     <string name="upload_debug_log_title">Uso e diagnóstico</string>
     <string name="uri_permissions_text">{count, plural, =1 {1 item} other {# itens}}</string>
     <string name="usage">Utilização</string>
-    <string name="usage_access">Acesso ao uso</string>
-    <string name="usage_access_description">O acesso ao uso permite que um app monitore que outros apps você está usando e com que frequência, bem como sua operadora, as configurações de idioma e outros detalhes.</string>
-    <string name="usage_access_title">Apps com acesso ao uso</string>
+    <string name="usage_access">Dados de uso do app</string>
+    <string name="usage_access_description">Os dados de uso do app permitem que um app rastreie quais outros apps você está usando e com que frequência, bem como sua operadora, configurações de idioma e outros detalhes.</string>
+    <string name="usage_access_title">Apps com acesso aos dados de uso do app</string>
     <string name="usage_app_get_it">Entendi</string>
     <string name="usage_app_limit_alter_summary">Parece que o limite de tempo é menor do que o tempo que você está usando este app hoje. Definir o limite mesmo assim?</string>
     <string name="usage_app_limit_alter_title">Verifique o limite de tempo da tela</string>
@@ -11517,7 +11525,7 @@ ou com conector de 3.5mm."</string>
     <string name="use_otg_file_transfers_summary">Carregamento lento de 500mA e transferência de arquivos</string>
     <string name="use_otg_title">"USB OTG"</string>
     <string name="use_personalized_ad_service">Recomendação personalizada de anúncios</string>
-    <string name="use_personalized_ad_service_for_global">Personalizar anúncios do HyperOS</string>
+    <string name="use_personalized_ad_service_for_global">Anúncios personalizados</string>
     <string name="use_personalized_ad_service_summary">Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios que quando o recurso está ativado. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais.</string>
     <string name="use_personalized_ad_service_summary_for_global">"Quando as recomendações de anúncios personalizados estão desativadas, você ainda verá a mesma quantidade de anúncios nos apps do sistema de quando o recurso está ativado. Os anúncios da Xiaomi e de plataformas de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="use_privacy_password_immediate">Usar</string>
@@ -12704,7 +12712,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="work_profile_confirm_remove_message">Todos os apps e dados desse perfil serão excluídos se você continuar.</string>
     <string name="work_profile_confirm_remove_title">Remover perfil de trab.?</string>
     <string name="work_profile_notification_access_blocked_summary">O acesso às notificações do perfil de trabalho está bloqueado</string>
-    <string name="work_profile_usage_access_warning">A desativação do acesso ao uso deste app não impede que o administrador rastreie o uso de dados dos apps no seu perfil de trabalho.</string>
+    <string name="work_profile_usage_access_warning">Desativar os dados de uso para este app não impede que o administrador rastreie o uso de dados dos apps no seu perfil de trabalho.</string>
     <string name="work_ringtone_title">Toque do telefone de trabalho</string>
     <string name="work_sim_title">SIM de trabalho</string>
     <string name="work_sound_permission_dialog_button_text_known">Entendi</string>
@@ -12755,7 +12763,7 @@ O armazenamento de credenciais não pode ser ativado"</string>
     <string name="yesterday">Ontem</string>
     <string name="zen_access_detail_switch">Permitir o Não perturbe</string>
     <string name="zen_access_disabled_package_warning">Deve permanecer ativado, pois o acesso a notificações está ativado</string>
-    <string name="zen_access_empty_text">Nenhum app instalado solicitou o acesso ao Não perturbe</string>
+    <string name="zen_access_empty_text">Nenhum app instalado solicitou o controle ao Não perturbe</string>
     <string name="zen_access_revoke_warning_dialog_summary">Todas as regras do Não perturbe criadas por esse app serão removidas.</string>
     <string name="zen_access_revoke_warning_dialog_title">Revogar acesso ao Não perturbe para %1$s?</string>
     <string name="zen_access_warning_dialog_summary">O app poderá ativar/desativar o recurso Não perturbe e fazer alterações nas configurações relacionadas.</string>
