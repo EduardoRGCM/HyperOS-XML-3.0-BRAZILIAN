@@ -58,7 +58,7 @@
     <string name="add_automatically_alert_title">Adicionar fotos automaticamente</string>
     <string name="add_nomedia_with_move_to_rubbish">Adicione arquivos \".nomedia\" a álbuns selecionados para torná-los invisíveis a outros apps</string>
     <string name="add_remove_nomedia_dialog_message">"Adicionar arquivos \".nomedia\" aos álbuns selecionados? Outros apps não poderão ver estes álbuns depois disso."</string>
-    <string name="add_secret_ensure_message_new">Para ver os itens que você tornou privado, deslize para baixo em \"Álbuns\".</string>
+    <string name="add_secret_ensure_message_new">Para ver os itens que você tornou privado, deslize para baixo em \"Álbuns\" até você ver um aviso dedicado.</string>
     <string name="add_secret_ensure_title">Álbum privado</string>
     <string name="add_sharer">Adicionar membro</string>
     <string name="add_to_album">Adicionar ao álbum</string>
@@ -2537,7 +2537,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photodetail_failed_already_exist">Este arquivo já existe</string>
     <string name="photodetail_rename_failed">"Não foi possível renomear"</string>
     <string name="photodetail_rename_invalid">"Os nomes de arquivos não podem conter \"%s\". Você pode usar letras inglesas, caracteres chineses e números para nomear arquivos."</string>
-    <string name="photodetail_rename_invalid_prefix">"Os nomes de arquivos não podem começar com \".\""</string>
+    <string name="photodetail_rename_invalid_prefix">Nomes não podem começar com \"%1$s\"</string>
     <string name="photodetail_rename_success">Renomeado com sucesso</string>
     <string name="photodetail_rename_title">Renomear</string>
     <string name="photodetail_rename_too_long">O nome inserido para o arquivo é muito longo</string>

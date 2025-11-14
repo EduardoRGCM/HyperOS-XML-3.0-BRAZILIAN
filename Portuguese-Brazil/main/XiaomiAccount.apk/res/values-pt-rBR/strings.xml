@@ -183,9 +183,9 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="default_popup_window_title">Janela pop-up</string>
     <string name="delete_bank_card_message">Os cartões bancários do Mi Pay e cartões NFC serão excluídos após você sair.</string>
     <string name="delete_bank_card_title">Atenção!</string>
-    <string name="delete_device_btn">Remover</string>
+    <string name="delete_device_btn">Remover dispositivo</string>
     <string name="delete_device_failed">"Não é possível remover o dispositivo"</string>
-    <string name="delete_device_notice">"Após a remoção do dispositivo, ele será desconectado automaticamente da sua Conta Xiaomi. Você não poderá usar este dispositivo para acessar as fotos, mensagens ou outro conteúdo armazenado em sua conta."</string>
+    <string name="delete_device_notice">"A remoção deste dispositivo também desconectará você da sua Conta Xiaomi. Você não poderá acessar os itens armazenados na nuvem depois que ele for removido."</string>
     <string name="deny">Recusar</string>
     <string name="device_delete_success_message">"Caso não tenha feito o login neste dispositivo, troque sua senha imediatamente."</string>
     <string name="device_delete_success_title">Desconectado</string>
@@ -576,7 +576,7 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="passport_error_length_limit">O texto digitado é muito longo</string>
     <string name="passport_error_network">"Não é possível conectar-se à rede"</string>
     <string name="passport_error_no_password_user">"Você não definiu uma senha ainda. Faça o login com SMS."</string>
-    <string name="passport_error_phone">Número de telefone inválido</string>
+    <string name="passport_error_phone">Insira um número de telefone válido</string>
     <string name="passport_error_server">Erro no servidor</string>
     <string name="passport_error_sim_not_ready">"Não é possível encontrar o cartão SIM"</string>
     <string name="passport_error_sms_limit">Muitos códigos de verificação foram enviados para este número. Tente mais tarde.</string>

@@ -157,7 +157,7 @@
     <string name="default_net_loading">Aguarde…</string>
     <string name="default_reason_list1">"Não consigo baixar apps de outras fontes além do GetApps"</string>
     <string name="default_reason_list2">"Não experimentei nenhum benefício em usá-lo"</string>
-    <string name="default_reason_list3">"Não gosto de digitar minha senha toda vez que quero baixar um app"</string>
+    <string name="default_reason_list3">Ter que verificar cada instalação é problemático</string>
     <string name="default_reason_list4">"Não consigo baixar os apps que desejo usar"</string>
     <string name="default_reason_list5">"Não consegui selecionar \"Permitir uma vez\" para baixar apps"</string>
     <string name="detect_risk">Riscos detectados</string>
@@ -251,7 +251,7 @@
     <string name="features_introduce">&lt;u>Sobre este recurso&lt;u/></string>
     <string name="fingerprint_authrioze_done">Verificado com sucesso</string>
     <string name="fingerprint_authrioze_retry">Tente novamente</string>
-    <string name="fingerprint_authrioze_tips">Coloque seu dedo no sensor</string>
+    <string name="fingerprint_authrioze_tips">Verifique sua impressão digital</string>
     <string name="fingerprint_authrioze_too_many_times">Muitas tentativas malsucedidas. Verifique o bloqueio de tela.</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -314,7 +314,7 @@
     <string name="full_safe_enhance_mode_summary">Instale apps apenas do GetApps</string>
     <string name="full_safe_install_risk_source_dialog_safe_title_des">A instalação de apps desta fonte pode danificar o sistema ou danificar o dispositivo. Instale este app de outras fontes confiáveis.</string>
     <string name="full_safe_install_source_dialog_safe_title_des">A instalação de apps desta fonte pode representar riscos de segurança para seu dispositivo suas informações pessoais</string>
-    <string name="full_safe_protect_guide_message">"Ao instalar apps através de navegadores e outras fontes desconhecidas, você receberá alertas de segurança para evitar a instalação acidental de apps arriscados."</string>
+    <string name="full_safe_protect_guide_message">"Ao instalar apps de fora do GetApps, você receberá um alerta de segurança. Mude para um modo Mi Protect mais alto para maior segurança."</string>
     <string name="full_safe_protect_title">Instalação protegida</string>
     <string name="full_safe_version_update_known_button_text">Entendi</string>
     <string name="full_safe_version_update_tip_sub_title_not_renamed">"A Proteção Mi foi atualizada! Aqui estão as novidades:"</string>
@@ -336,9 +336,9 @@
     <string name="ignore_virus_install_text">Eu entendo todos os riscos possíveis. %1$s</string>
     <string name="ignore_virus_install_text_clickable">Instalar mesmo assim</string>
     <string name="install">Instalar</string>
-    <string name="install_abi_error">"Este app não é compatível com a arquitetura de 32 bits"</string>
-    <string name="install_abi_error_des">Instale a versão de 32 bits deste app</string>
-    <string name="install_abi_error_des_market">Baixe a versão de 32 bits deste app de uma fonte confiável</string>
+    <string name="install_abi_error">"Este app usa arquitetura de %1$d bits e não é compatível com arquitetura de %1$d bits."</string>
+    <string name="install_abi_error_des">Instale a versão de %1$d bits deste app em seu lugar.</string>
+    <string name="install_abi_error_des_market">Baixe a versão de %1$d bits deste app de uma fonte confiável.</string>
     <string name="install_app_loading">Verificando o pacote de instalação…</string>
     <string name="install_apps_user_restriction_dlg_text">Este usuário não tem permissão para instalar apps</string>
     <string name="install_completed_pure_open_tip_title">Ative a Proteção Mi para bloquear apps arriscados e garantir sua segurança.</string>
@@ -545,7 +545,7 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar para a visualização da Agenda</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a visualização do ano</string>
-    <string name="net_work_error_msg">"Não foi possível conectar à rede para executar uma verificação de segurança"</string>
+    <string name="net_work_error_msg">"Ocorreu um erro de rede. Não foi possível verificar este app."</string>
     <string name="net_work_error_retry">Tente novamente</string>
     <string name="new_unregistered_dialog_comment">"Se você enviou as informações necessárias às autoridades como desenvolvedor, você pode %1$s."</string>
     <string name="new_unregistered_dialog_comment_clickable">Enviar um recurso</string>
@@ -876,9 +876,9 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="safe_mode_in_service">Proteção Mi ativada</string>
     <string name="safe_mode_introduce_close_tip">Atenção!</string>
     <string name="safe_mode_introduce_close_tip_des">Para sua privacidade e segurança, recomendamos manter a Proteção Mi ativada.</string>
-    <string name="safe_mode_tip_title_off_msg">Proteção Mi está desativada</string>
+    <string name="safe_mode_tip_title_off_msg">Ativar Proteção Mi</string>
     <string name="safe_mode_tip_title_on_msg">Proteção Mi</string>
-    <string name="safe_mode_title_text">Proteção Mi</string>
+    <string name="safe_mode_title_text">Ativar Proteção Mi</string>
     <string name="safe_space_tip_dialog_description">"%1$s não foi testado quanto a problemas de segurança pela Xiaomi. Para protegê-lo de possíveis riscos, foram tomadas as seguintes medidas:"</string>
     <string name="safe_space_tip_dialog_title">Medidas de proteção ativa</string>
     <string name="safe_version_install">Versão segura</string>
@@ -986,7 +986,7 @@ apps vem"</string>
     <string name="settings_security_mode_service_detailed_msg_3">Proteção de privacidade</string>
     <string name="settings_security_mode_service_detailed_msg_4">Instale apps seguros</string>
     <string name="settings_security_mode_service_list_title_off_msg">Ative a Proteção Mi para aproveitar os seguintes recursos:</string>
-    <string name="settings_security_mode_service_list_title_on_msg">O Modo seguro oferece os seguintes recursos</string>
+    <string name="settings_security_mode_service_list_title_on_msg">Ativando os seguintes serviços…</string>
     <string name="settings_security_mode_service_msg_0">Novas medidas antifraude e de proteção da privacidade</string>
     <string name="settings_security_mode_service_msg_1">Identifica e limita fontes de instalação desconhecidas para evitar que apps maliciosos coloquem em risco sua segurança</string>
     <string name="settings_security_mode_service_msg_2">Garante que o processo de instalação do app seja livre de riscos e garante a estabilidade do sistema</string>
@@ -1134,7 +1134,7 @@ apps vem"</string>
     <string name="update">Atualizar</string>
     <string name="update_anyway">Atualizar mesmo assim</string>
     <string name="update_start">Atualizar</string>
-    <string name="uri_no_permission">Não é possível ler o arquivo, permissão negada</string>
+    <string name="uri_no_permission">"Permissões ausentes. Não foi possível acessar o arquivo."</string>
     <string name="user_is_not_allowed_dlg_text">O usuário atual não tem permissão para executar esta desinstalação.</string>
     <string name="user_is_not_allowed_dlg_title">Não permitido</string>
     <string name="using_enhanced_protection">"Proteja seu dispositivo com a

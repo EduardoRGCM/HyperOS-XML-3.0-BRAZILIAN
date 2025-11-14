@@ -64,6 +64,10 @@
         <item quantity="one">Há 1 minuto</item>
         <item quantity="other">Há %d minutos</item>
     </plurals>
+    <plurals name="text_translate_local_length_limit">
+        <item quantity="one">Selecionar até %d caractere</item>
+        <item quantity="other">Selecionar até %d caracteres</item>
+    </plurals>
     <plurals name="title_select_nums">
         <item quantity="one">Selecionado %1$s item</item>
         <item quantity="other">Selecionados %1$s itens</item>
