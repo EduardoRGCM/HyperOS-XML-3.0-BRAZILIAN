@@ -314,8 +314,8 @@ para espelhar a tela deste tablet"</string>
     <string name="circulate_card_sticker_remote_control_return">Voltar</string>
     <string name="circulate_card_sticker_remote_control_right">Direita</string>
     <string name="circulate_card_sticker_remote_control_top">Cima</string>
-    <string name="circulate_card_sticker_remote_control_volum_add">Volume +</string>
-    <string name="circulate_card_sticker_remote_control_volum_reduce">Volume -</string>
+    <string name="circulate_card_sticker_remote_control_volum_add">[Volume +]</string>
+    <string name="circulate_card_sticker_remote_control_volum_reduce">[Volume -]</string>
     <string name="circulate_card_sticker_selected">Selecionado</string>
     <string name="circulate_card_tv_device_sync">Interconectividade</string>
     <string name="circulate_card_tv_full_screen">Tela cheia</string>
@@ -1674,7 +1674,7 @@ Certifique-se de que você ativou o Game Turbo antes de transmitir os jogos."</s
     <string name="settings_cross_notify_power">Bateria fraca</string>
     <string name="settings_cross_notify_system">Notificações do sistema</string>
     <string name="settings_cross_notify_tips">Mostre notificações em tablets próximos ou computadores em uso quando este dispositivo estiver bloqueado</string>
-    <string name="sever_stream_beauty">Embelezador</string>
+    <string name="sever_stream_beauty">Embelezamento</string>
     <string name="sever_stream_control_btn_exit">Parar</string>
     <string name="sever_stream_control_btn_pause">Pausa</string>
     <string name="sever_stream_control_btn_preview">Visualização</string>

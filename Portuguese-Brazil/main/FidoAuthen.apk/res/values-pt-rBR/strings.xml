@@ -30,7 +30,7 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="actionbar_button_up_description">Voltar</string>
-    <string name="afternoon">Tarde</string>
+    <string name="afternoon">"PM"</string>
     <string name="am">"AM"</string>
     <string name="android.credentials.TYPE_PASSWORD_CREDENTIAL">Senha</string>
     <string name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">Chave de acesso</string>
@@ -341,12 +341,12 @@
     <string name="nfc_hint1">Use authenticator via NFC</string>
     <string name="nfc_hint2">Place the authenticator on the back of the device. The authenticator will vibrate when the process is complete.</string>
     <string name="nfctext">NFC is disabled in the system</string>									   
-    <string name="night">Anoitecer</string>
+    <string name="night">"PM"</string>
     <string name="no">Cancel</string>
     <string name="noknok_about">Nok Nok Labs™ Fingerprint Passport provides faster, easier and safer access to your online accounts. Log in to FIDO Ready™ online services using the fingerprint sensor on your Samsung device instead of using a password.</string>
     <string name="noknok_about_open_error">Error while trying to open link</string>
     <string name="noknok_auth">FIDO Ready™ Authentication</string>
-    <string name="noon">Meio-dia</string>
+    <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="notification_title">Nok Nok Labs</string>
     <string name="online_help">HELP</string>

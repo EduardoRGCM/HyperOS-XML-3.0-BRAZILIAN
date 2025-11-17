@@ -1442,15 +1442,15 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="cs_title_smart_subtitle">Transcrição da legenda</string>
     <string name="cs_title_ultraclear">Modo Ultra HD</string>
     <string name="cs_tool_box_max_screen_guide_case_1">Experimente a interpretação simultânea e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
-    <string name="cs_tool_box_max_screen_guide_case_1_new">Experimente a interpretação simultânea, o Embelezador e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_max_screen_guide_case_1_new">Experimente a interpretação simultânea, o Embelezamento e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_max_screen_guide_case_2">Experimente uma variedade de recursos de chamadas na Caixa de ferramentas de chamada</string>
-    <string name="cs_tool_box_max_screen_guide_case_2_new">Experimente o Embelezador e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_max_screen_guide_case_2_new">Experimente o Embelezamento e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_max_screen_guide_case_3_new">Experimente vários recursos de chamadas na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_max_screen_guide_case_4_new">Experimente a interpretação simultânea e outras ferramentas de chamadas na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_1">Experimente a interpretação simultânea e outros recursos na Caixa de ferramentas de chamada</string>
-    <string name="cs_tool_box_phone_guide_case_1_new">Experimente a interpretação simultânea, o Embelezador e muito mais na Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_1_new">Experimente a interpretação simultânea, o Embelezamento e muito mais na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_2">Experimente uma variedade de recursos na Caixa de ferramentas de chamada</string>
-    <string name="cs_tool_box_phone_guide_case_2_new">Experimente o Embelezador e outros recursos da Caixa de ferramentas de chamada</string>
+    <string name="cs_tool_box_phone_guide_case_2_new">Experimente o Embelezamento e outros recursos da Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_3_new">Experimente vários recursos excelentes na Caixa de ferramentas de chamada</string>
     <string name="cs_tool_box_phone_guide_case_4_new">Experimente a interpretação simultânea e outros recursos na Caixa de ferramentas de chamada</string>
     <string name="cs_voice_print">Gravar impressão de voz</string>
@@ -2497,7 +2497,7 @@ Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção
     <string name="gb_barrage_dnd_conflict_toast">Para usar os comentários na tela, desative o Não perturbe primeiro</string>
     <string name="gb_barrage_guide_text">Toque em um comentário para responder ou abra uma janela flutuante</string>
     <string name="gb_beauty_cold_light">Frio</string>
-    <string name="gb_beauty_face">Embelezador</string>
+    <string name="gb_beauty_face">Embelezamento</string>
     <string name="gb_beauty_light">Luz de preenchimento</string>
     <string name="gb_beauty_nature_light">Natural</string>
     <string name="gb_beauty_warm_light">Quente</string>
@@ -2793,7 +2793,7 @@ das suas sessões de jogos"</string>
     <string name="gd_setting_conversation_desc">Fornece uma variedade de recursos para uso em chamadas de áudio e vídeo em tela cheia</string>
     <string name="gd_setting_dock_activity_title">Caixa de ferramentas lateral</string>
     <string name="gd_setting_dock_call_summary">Recursos para chamadas de voz e vídeo (ex.: Luz de preenchimento)</string>
-    <string name="gd_setting_dock_call_summary_new">Use o Embelezador e outros recursos durante chamadas de áudio e vídeo em tela cheia</string>
+    <string name="gd_setting_dock_call_summary_new">Use o Embelezamento e outros recursos durante chamadas de áudio e vídeo em tela cheia</string>
     <string name="gd_setting_dock_call_title">Caixa de ferramentas de chamada</string>
     <string name="gd_setting_dock_game_summary">Melhore a exibição e o desempenho durante os jogos</string>
     <string name="gd_setting_dock_game_summary_new">Melhore a exibição e o desempenho durante os jogos</string>

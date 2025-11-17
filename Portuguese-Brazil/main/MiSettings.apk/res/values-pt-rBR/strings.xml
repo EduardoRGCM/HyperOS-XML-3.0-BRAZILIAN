@@ -171,7 +171,7 @@
     <string name="close_use_phone_remind_summary">Afaste o dispositivo do seu rosto</string>
     <string name="close_use_phone_remind_title">Muito perto</string>
     <string name="close_use_phone_tip">Afaste o dispositivo do seu rosto</string>
-    <string name="closed_high_refresh_options">Apps que não usam alta taxa de atualização</string>
+    <string name="closed_high_refresh_options">Apps que não usam taxa de atualização alta</string>
     <string name="color_gamut">Gama de cores</string>
     <string name="common_brushtail">Cusu-de-orelhas-grandes</string>
     <string name="common_ostrich">Avestruz</string>
@@ -207,7 +207,7 @@
     <string name="current_week_screen_time_usage">"Tempo de tela desta semana"</string>
     <string name="current_week_unhealthy_habits_statistics">"Visualização prejudicial desta semana"</string>
     <string name="customize_high_refresh_summary">Este recurso suporta uma taxa de atualização de até %d Hz. A taxa de atualização apropriada pode ser selecionada automaticamente com base nas preferências do dispositivo.</string>
-    <string name="customize_high_refresh_title">Apps que usam alta taxa de atualização</string>
+    <string name="customize_high_refresh_title">Apps que usam taxa de atualização alta</string>
     <string name="customize_radio_btn_summary">Define a taxa de atualização selecionada</string>
     <string name="customize_radio_btn_title">Personalizada</string>
     <string name="dall_sheep">Carneiro-de-dall</string>
@@ -371,9 +371,9 @@ não são geradas no Segundo espaço"</string>
     <string name="focus_time_exception_tip">Parece que a hora do sistema foi alterada. Modo foco desativado.</string>
     <string name="follow_apps_settings">Baseado nas configurações do app</string>
     <string name="follow_sim1">Aplicar configurações do SIM 1</string>
-    <string name="footer_global_fps">"%1$d. Ao ativar o Modo desempenho, a taxa de atualização será alterada para o máximo do sistema de %2$d Hz. As configurações do app com alta taxa de atualização ficarão temporariamente indisponíveis."</string>
+    <string name="footer_global_fps">"%1$d. Ao ativar o Modo desempenho, a taxa de atualização será alterada para o máximo do sistema de %2$d Hz. As configurações do app com taxa de atualização alta, ficarão temporariamente indisponíveis."</string>
     <string name="footer_global_fps_new">"
-%1$d. %2$s aumenta a taxa de atualização para o máximo do sistema de %3$d Hz. As configurações do app com alta taxa de atualização ficarão temporariamente indisponíveis."</string>
+%1$d. %2$s aumenta a taxa de atualização para o máximo do sistema de %3$d Hz. As configurações do app com taxa de atualização alta, ficarão temporariamente indisponíveis."</string>
     <string formatted="false" name="footer_max_fps">"
 %d. A taxa de atualização pode ser ajustada para até %s Hz para apps e jogos compatíveis."</string>
     <string name="force_rest">Usar pausas de sessão</string>
@@ -446,7 +446,7 @@ não são geradas no Segundo espaço"</string>
     <string name="health_use_of_phone">Uso saudável do dispositivo</string>
     <string name="healthy_use_phone">Gerenciar tempo de tela</string>
     <string name="helmeted_guineafowl">"Galinha-d'angola"</string>
-    <string name="high_fps_description">Alta taxa de atualização da tela. Maior o consumo de bateria</string>
+    <string name="high_fps_description">Taxa de atualização da tela alta. Maior o consumo de bateria</string>
     <string name="high_fps_tip_footer">Usar taxas de atualização mais altas tornam a experiência de visualização mais suave, porém consome mais energia.</string>
     <string name="high_refresh_options_title">Apps suportados</string>
     <string name="hippopotamus">Hipopótamo</string>
@@ -770,7 +770,7 @@ não são geradas no Segundo espaço"</string>
     <string name="notification_sound">Sons de notificação</string>
     <string name="ocelot">Ocelote</string>
     <string name="olive_baboon">Babuíno-anúbis</string>
-    <string name="opened_high_refresh_options">Apps que usam alta taxa de atualização</string>
+    <string name="opened_high_refresh_options">Apps que usam taxa de atualização alta</string>
     <string name="orange_winged_amazon">Papagaio-do-mangue</string>
     <string name="orca">Orca</string>
     <string name="ostrich_info">Os avestruzes são grandes aves africanas que não voam e que põem os maiores ovos de qualquer animal terrestre vivo.</string>

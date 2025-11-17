@@ -160,7 +160,7 @@
     <string name="adjust_user_sensitive_globally_title">Mostrar uso de apps do sistema</string>
     <string name="adjust_user_sensitive_per_app_header">Destacar uso para os apps a seguir</string>
     <string name="adjust_user_sensitive_title">Configurações avançadas</string>
-    <string name="afternoon">Tarde</string>
+    <string name="afternoon">"PM"</string>
     <string name="all_permissions">Todas as permissões</string>
     <string name="all_unused_apps_category_title">Todos os apps não usados</string>
     <string name="allow_permission_always">Sempre</string>

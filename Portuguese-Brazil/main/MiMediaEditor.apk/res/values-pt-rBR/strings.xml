@@ -131,7 +131,7 @@ ajustar a área de dispersão"</string>
     <string name="ai_action_toast_function_ai_expansion_processing">Expandindo imagem…</string>
     <string name="ai_action_toast_function_ai_portrait_processing">Processando com a Imagem AI…</string>
     <string name="ai_action_toast_function_background_change_processing">Alterando o fundo…</string>
-    <string name="ai_action_toast_function_beautification_processing">Processando com o Embelezador…</string>
+    <string name="ai_action_toast_function_beautification_processing">Processando com o Embelezamento…</string>
     <string name="ai_action_toast_function_download_failed">"Não foi possível baixar o recurso. Verifique suas configurações de rede e tente novamente."</string>
     <string name="ai_action_toast_function_expression_replace_processing">Alterando expressão…</string>
     <string name="ai_action_toast_function_face_shape_processing">Ajustando traços faciais…</string>
@@ -1355,7 +1355,7 @@ ajustar a área de dispersão"</string>
     <string name="photo_editor_aigc_quality_improve_progress">Restaurando imagem…</string>
     <string name="photo_editor_beautify">Autom.</string>
     <string name="photo_editor_beautify_auto">Automático</string>
-    <string name="photo_editor_beauty">Embelezador</string>
+    <string name="photo_editor_beauty">Embelezamento</string>
     <string name="photo_editor_beauty_compare">"Original"</string>
     <string name="photo_editor_bokeh">"Bokeh"</string>
     <string name="photo_editor_bokeh_download_failed">"Não foi possível baixar o plugin de bokeh. Verifique suas configurações de rede e tente novamente."</string>
@@ -1411,7 +1411,7 @@ Mantenha a proporção original, escolha a sua própria, ou deixe que a IA decid
     <string name="photo_editor_long_crop">Cortar</string>
     <string name="photo_editor_low">Baixa</string>
     <string name="photo_editor_middle">Média</string>
-    <string name="photo_editor_miui_beauty">Embelezador</string>
+    <string name="photo_editor_miui_beauty">Embelezamento</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish">Imperfeições</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Remover imperfeições</string>
     <string name="photo_editor_miui_beauty_menu_eraser_pouch">Círculos escuros</string>
@@ -1446,7 +1446,7 @@ Mantenha a proporção original, escolha a sua própria, ou deixe que a IA decid
     <string name="photo_editor_navigator_tab_title_ai">Criar</string>
     <string name="photo_editor_navigator_tab_title_ai_pro">IA</string>
     <string name="photo_editor_navigator_tab_title_basic">Básico</string>
-    <string name="photo_editor_navigator_tab_title_beauty">Embelezador</string>
+    <string name="photo_editor_navigator_tab_title_beauty">Embelezamento</string>
     <string name="photo_editor_outpaint_progress">Expandindo… %s</string>
     <string name="photo_editor_perspective">Perspectiva</string>
     <string name="photo_editor_perspective_crop">Cortar</string>
@@ -1517,8 +1517,8 @@ Toque em \"Pro\" para usar."</string>
     <string name="photo_editor_size_ratio">Tamanho</string>
     <string name="photo_editor_sky">Céu</string>
     <string name="photo_editor_sticker">"Sticker"</string>
-    <string name="photo_editor_talkback_beautity_applied">Embelezador automático ativado</string>
-    <string name="photo_editor_talkback_beautity_unapplied">Embelezador automático desativado</string>
+    <string name="photo_editor_talkback_beautity_applied">Embelezamento automático ativado</string>
+    <string name="photo_editor_talkback_beautity_unapplied">Embelezamento automático desativado</string>
     <string name="photo_editor_talkback_cancel">Cancelar</string>
     <string name="photo_editor_talkback_confirm">Confirmar</string>
     <string name="photo_editor_talkback_crop_16_9">Dezesseis por nove</string>

@@ -324,8 +324,8 @@
     <string name="long_press_home_key">Pressione e segure o botão Início</string>
     <string name="long_press_menu_key">Pressione e segure o botão Menu</string>
     <string name="long_press_menu_key_when_lock">Pressione e segure Menu na Tela de bloqueio</string>
-    <string name="long_press_power_key">Pressione e segure o botão Liga/Desliga</string>
-    <string name="long_press_power_key_half_second">Pressione e segure o botão Liga/Desliga por %s s</string>
+    <string name="long_press_power_key">Pressione e segure o botão [Liga/Desliga]</string>
+    <string name="long_press_power_key_half_second">Pressione e segure o botão [Liga/Desliga] por %s s</string>
     <string name="long_press_volume_down">Pressione e segure o Volume -</string>
     <string name="magic_window_toast">Multiplicador de app ativado.</string>
     <string name="makewishes">Desejo de aniversário</string>
@@ -600,7 +600,7 @@ para desativar o Modo bolso"</string>
     <string name="swoosh">Swoosh</string>
     <string name="takeback_camera_front_failed">"Não foi possível fechar a câmera frontal. Tente novamente."</string>
     <string name="talk_back_water_mark_string1">O TalkBack está ativado</string>
-    <string name="talk_back_water_mark_string2">Pressione e segure \"Volume +\" e \"Volume -\" por 3 segundos para desativar</string>
+    <string name="talk_back_water_mark_string2">Pressione e segure \"[Volume +]\" e \"[Volume -]\" por 3 segundos para desativar</string>
     <string name="three_gesture_down">Deslize 3 dedos para baixo</string>
     <string name="three_gesture_horizontal">Deslize horizontalmente com %d dedos</string>
     <string name="three_gesture_long_press">Pressione e segure com %d dedos</string>

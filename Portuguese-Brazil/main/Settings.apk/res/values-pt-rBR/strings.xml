@@ -92,17 +92,11 @@
     <string name="accessibility_back">Voltar</string>
     <string name="accessibility_banner_message_dismiss">Dispensar</string>
     <string name="accessibility_button_about_title">Sobre o botão de acessibilidade</string>
-    <string name="accessibility_button_description"><b>Para começar</b>"
-1. Vá para as configurações de acessibilidade
-2. Selecione um recurso e toque no atalho
-3. Escolha o botão para acessar o recurso"</string>
+    <string name="accessibility_button_description">&lt;b>Para começar&lt;/b>&lt;br/> {0,number,integer}. Vá para as configurações de acessibilidade&lt;br/> {1,number,integer}. Selecione um recurso e toque no atalho&lt;br/> {2,number,integer}. Escolha o botão para acessar o recurso&lt;br/></string>
     <string name="accessibility_button_fade_summary">Desaparece após alguns segundos, então é mais fácil ver sua tela.</string>
     <string name="accessibility_button_fade_title">Desaparecer quando não estiver em uso</string>
     <string name="accessibility_button_gesture_about_title">Sobre o botão de acessibilidade e gesto</string>
-    <string name="accessibility_button_gesture_description"><b>Para começar</b>"
-1. Vá para as configurações de acessibilidade
-2. Selecione um recurso e toque no atalho
-3. Escolha se deseja usar um botão ou gesto para acessar o recurso"</string>
+    <string name="accessibility_button_gesture_description">&lt;b>Para começar&lt;/b>&lt;br/> {0,number,integer}. Vá para as configurações de acessibilidade&lt;br/> {1,number,integer}. Selecione um recurso e toque no atalho&lt;br/> {2,number,integer}. Escolha se deseja usar um botão ou gesto para acessar o recurso&lt;br/></string>
     <string name="accessibility_button_gesture_footer_learn_more_content_description">Saiba mais sobre botões de acessibilidade e gesto</string>
     <string name="accessibility_button_gesture_title">Botão de acessibilidade e gesto</string>
     <string name="accessibility_button_high_label">Não transparente</string>
@@ -1576,9 +1570,9 @@ para ^2"</string>
     <string name="bcast_update_code_title">Atualizar código de transmissão</string>
     <string name="bear_mismatch">A operadora ficará oculta devido a incompatibilidade de rede</string>
     <string name="bearer">Portador</string>
-    <string name="beauty_camera">Embelezador para chamadas de vídeo</string>
-    <string name="beauty_camera_summary">Use o Embelezador para chamadas de vídeo do WhatsApp</string>
-    <string name="beauty_camera_switch">Embelezador</string>
+    <string name="beauty_camera">Embelezamento para chamadas de vídeo</string>
+    <string name="beauty_camera_summary">Use o Embelezamento para chamadas de vídeo do WhatsApp</string>
+    <string name="beauty_camera_switch">Embelezamento</string>
     <string name="beauty_fc_assistant">Assistente da câmera frontal</string>
     <string name="billing_cycle">Alerta e limite de dados</string>
     <string name="billing_cycle_days_left">{count, plural, =1 {# dia restante} other {# dias restantes}}</string>
@@ -4595,6 +4589,10 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="force_allow_on_external">Forçar permissão de apps a escrever no armaz. externo</string>
     <string name="force_allow_on_external_summary">Qualifica apps para gravação em armazenamento externo, independentemente de valores de manifestos.</string>
     <string name="force_bold_text">Texto em negrito</string>
+    <string name="force_edit_apn_summary">"Quando este recurso estiver ativado, você poderá ver e alterar APNs ocultos. Este recurso é apenas para testes."</string>
+    <string name="force_edit_apn_title">Forçar edição de APN</string>
+    <string name="force_enable_pss_profiling_summary">A criação de perfil de uso de memória requer recursos adicionais do sistema.</string>
+    <string name="force_enable_pss_profiling_title">Ativar criação de perfil de uso de memória</string>
     <string name="force_desktop_mode">Forçar modo desktop</string>
     <string name="force_desktop_mode_summary">Força o modo desktop experimental em telas secundárias</string>
     <string name="force_high_refresh_rate_desc">Maior taxa de atualização para melhor capacidade de resposta ao toque e qualidade de animação. Aumenta o uso da bateria.</string>
@@ -6413,7 +6411,7 @@ Não poderá reverter esta ação."</string>
     <string name="memory_title">"Disponível: %1$s | Total: %2$s"</string>
     <string name="memory_usage">Uso de memória</string>
     <string name="memory_usage_apps">Memória usada por apps</string>
-    <string name="memory_usage_apps_summary">{count, plural, =1 {1 app usou memória na última {vez}} other {# apps usaram memória na última {vez}}}</string>
+    <string name="memory_usage_apps_summary">{count, plural, =1 {1 app usou memória na última vez} other {# apps usaram memória na última vez}}</string>
     <string name="memory_use_summary">%1$s de memória média usada nas últimas três horas</string>
     <string name="memorycard_calculating">Calculando…</string>
     <string name="memtag_footer">"Você terá que reiniciar seu dispositivo para ativar ou desativar a proteção avançada de memória. Quando estiver ativado, você poderá notar um desempenho mais lento do dispositivo."</string>
@@ -6606,8 +6604,8 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_key_config_trans_summary">Permita sons externos</string>
     <string name="miheadset_key_config_triple_left">Três toques no fone de ouvido esquerdo</string>
     <string name="miheadset_key_config_triple_right">Três toques no fone de ouvido direito</string>
-    <string name="miheadset_key_config_volume_down">Volume -</string>
-    <string name="miheadset_key_config_volume_up">Volume +</string>
+    <string name="miheadset_key_config_volume_down">[Volume -]</string>
+    <string name="miheadset_key_config_volume_up">[Volume +]</string>
     <string name="miheadset_key_config_volume_up_down">Ajustar o volume</string>
     <string name="miheadset_keyconfig_click_thrice">Pressione o botão três vezes</string>
     <string name="miheadset_keyconfig_click_twice">Pressione duas vezes o botão</string>
@@ -6759,7 +6757,7 @@ Continue para acessar as configurações adicionais."</string>
     <string name="miui_sos_exit_dialog_ok">"OK"</string>
     <string name="miui_sos_exit_dialog_title">Desativando o SOS de emergência</string>
     <string name="miui_sos_exit_emergency_title">Desativar</string>
-    <string name="miui_sos_exit_send_location_title">Enviando a localização em tempo real p/contatos de emergência</string>
+    <string name="miui_sos_exit_send_location_title">Enviando localização em tempo real p/contatos de emergência</string>
     <string name="miui_sos_focus_notification_ticker">SOS de emergência ativado</string>
     <string name="miui_sos_green_guard_summary">Compartilhar informação de localização em tempo real</string>
     <string name="miui_sos_green_guard_title">Controles parentais</string>
@@ -7337,11 +7335,11 @@ Isso substitui %2$s como seu app de pagamento padrão."</string>
     <string name="nfc_secure_toggle_summary">Permitir pagamento por NFC e uso do Transit apenas com a tela desbloqueada</string>
     <string name="nfc_setting_off">Desativado</string>
     <string name="nfc_setting_on">Ativado</string>
-    <string name="nfc_snoop_log_summary">Capture pacotes NFC detalhados, que podem conter informações privadas.</string>
+    <string name="nfc_snoop_log_summary">Captura pacotes NFC detalhados, que podem conter informações privadas.</string>
     <string name="nfc_snoop_log_title">Registro não filtrado NFC NCI</string>
     <string name="nfc_stack_debuglog_summary">Aumente o nível de registro da pilha NFC</string>
     <string name="nfc_stack_debuglog_title">Log de depuração da pilha NFC</string>
-    <string name="nfc_verbose_vendor_log_summary">Inclua registros adicionais de fornecedores específicos do dispositivo em relatórios de bugs, que podem conter informações privadas.</string>
+    <string name="nfc_verbose_vendor_log_summary">Inclue registros adicionais de fornecedores específicos do dispositivo em relatórios de bugs, que podem conter informações privadas.</string>
     <string name="nfc_verbose_vendor_log_title">Log detalhado de depuração do fornecedor NFC</string>
     <string name="nfc_work_text">Atividade</string>
     <string name="night">"PM"</string>
@@ -8071,7 +8069,7 @@ Pressione o botão [Liga/Desliga] e [volume +] ao mesmo tempo."</string>
     <string name="power_menu_privacy_show">Mostrar cartões e controles quando bloqueado</string>
     <string name="power_menu_privacy_show_cards">Mostrar cards com a tela bloqueada</string>
     <string name="power_menu_privacy_show_controls">Mostrar controles quando estiver bloqueado</string>
-    <string name="power_menu_setting_name">Pressione e segure o botão Liga/Desliga</string>
+    <string name="power_menu_setting_name">Pressione e segure o botão [Liga/Desliga]</string>
     <string name="power_menu_setting_title">Menu do botão de energia</string>
     <string name="power_menu_summary_long_press_for_assistant">Acesse o assistente digital</string>
     <string name="power_menu_summary_long_press_for_assist_disabled_no_action">Pressionar e segurar desativado</string>
@@ -11458,7 +11456,7 @@ ou com conector de 3.5mm."</string>
     <string name="usb_host_mode_text">Modo USB host</string>
     <string name="usb_insert_summary">Conectar armazenamento USB</string>
     <string name="usb_install_app">Instalar via USB</string>
-    <string name="usb_install_app_desc">Permita instalação de apps via USB</string>
+    <string name="usb_install_app_desc">Permite a instalação de apps via USB</string>
     <string name="usb_midi_summary">Permite que apps com MIDI ativado funcionem por meio de USB com o software MIDI no computador.</string>
     <string name="usb_midi_title">MIDI (som)</string>
     <string name="usb_mount">Montar armazenamento USB</string>
@@ -11794,7 +11792,7 @@ Durante uma chamada de voz, não é possível usar a internet, e alguns apps pod
     <string name="vpn_disconnect_confirm">Desconectar esta VPN?</string>
     <string name="vpn_disconnected">Desconectado da VPN</string>
     <string name="vpn_disconnected_summary">Nenhuma</string>
-    <string name="vpn_dns_servers">Servidores DNS</string>
+    <string name="vpn_dns_servers">Servidor DNS</string>
     <string name="vpn_dns_servers_hint">Ex.: 8.8.8.8</string>
     <string name="vpn_done">Dispensar</string>
     <string name="vpn_edit">Editar perfil de VPN</string>
@@ -11834,7 +11832,7 @@ Durante uma chamada de voz, não é possível usar a internet, e alguns apps pod
     <string name="vpn_replace_vpn_title">Substituir VPN já existente?</string>
     <string name="vpn_require_connection">Bloquear conexões sem VPN</string>
     <string name="vpn_require_connection_title">Conexão VPN necessária?</string>
-    <string name="vpn_routes">Rotas de encaminhamento</string>
+    <string name="vpn_routes">Rota de encaminhamento</string>
     <string name="vpn_routes_hint">Ex.: 10.0.0.0/8</string>
     <string name="vpn_safe">Segurança</string>
     <string name="vpn_save">Salvar</string>

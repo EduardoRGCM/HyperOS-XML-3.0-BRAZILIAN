@@ -40,7 +40,7 @@
     <string name="accessibility_sliding_button_state_description_on">Ativado</string>
     <string name="accessibility_tab_state_description_unselect">Não selecionado</string>
     <string name="actionbar_button_up_description">Voltar</string>
-    <string name="afternoon">Tarde</string>
+    <string name="afternoon">"PM"</string>
     <string name="aiSearch_buildDB_dialog_analysis_completed_progress">%1$s concluído</string>
     <string name="aiSearch_buildDB_dialog_analysis_completed_progress_stop">A análise está %1$s concluída e atualmente em pausa</string>
     <string name="aiSearch_buildDB_dialog_analysis_completed_progress_time">%1$s concluído</string>
@@ -553,9 +553,9 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a visualização \"Ano\"</string>
     <string name="mtrl_timepicker_cancel">Cancelar</string>
-    <string name="night">Anoitecer</string>
+    <string name="night">"PM"</string>
     <string name="no_internet_toast">Sem internet. Conecte-se e tente novamente.</string>
-    <string name="noon">Meio-dia</string>
+    <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="notification_execution_failed">Não foi possível executar a ação</string>
     <string name="notification_operationFailedWhenHabitsHaveBeenPaused">Não foi possível lembrar o padrão. Padrão pausado.</string>

@@ -1048,7 +1048,7 @@
     <string name="pref_quick_note_desc">Use o atalho na borda da tela para criar notas e tarefas, assim como salvar URLs copiadas, texto e imagens para as Notas.</string>
     <string name="pref_remind_type_summary">Reproduzir som de lembrete no Modo silencioso</string>
     <string name="pref_remind_type_summary_new">Ignorar o Modo silencioso e continuar reproduzindo som até que o alarme seja desativado</string>
-    <string name="pref_remind_type_summary_new_2">Reproduzir som mesmo quando o Modo silencioso ou o Não perturbe estiverem ativados</string>
+    <string name="pref_remind_type_summary_new_2">Reproduz um som mesmo quando o Modo silencioso ou o Não perturbe estão ativos</string>
     <string name="pref_remind_type_title">Ignorar Modo silencioso</string>
     <string name="pref_remind_type_title_new">Lembretes de alta prioridade</string>
     <string name="pref_title_cloud_trash_bin">Notas excluídas da nuvem</string>

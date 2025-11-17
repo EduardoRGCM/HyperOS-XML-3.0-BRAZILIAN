@@ -1044,7 +1044,7 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="enable_terminal_summary">Ative o app terminal que oferece acesso ao shell local</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_verbose_vendor_logging">Ativar registro detalhado de fornecedor</string>
-    <string name="enable_verbose_vendor_logging_summary">Inclua registros adicionais do fornecedor específico do dispositivo em relatórios de bug, que podem conter informações pessoais, usar mais bateria, e/ou usar mais armazenamento.</string>
+    <string name="enable_verbose_vendor_logging_summary">Inclue registros adicionais do fornecedor específico do dispositivo em relatórios de bug, que podem conter informações pessoais, usar mais bateria, e/ou usar mais armazenamento.</string>
     <string name="enabled_by_admin">Ativado pelo administrador</string>
     <string name="enhanced_connectivity">Conectividade Aprimorada</string>
     <string name="enhanced_connectivity_summary">Ativa o recurso de Conectividade Aprimorada.</string>
