@@ -1,171 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
+    <plurals name="ect">
+        <item quantity="one">Focado. %d rosto detectado</item>
+        <item quantity="other">Focado. %d rostos detectados</item>
     </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">%d hora atrás</item>
+    <plurals name="ecu">
+        <item quantity="one">%d foto em captura contínua</item>
+        <item quantity="other">%d fotos em captura contínua</item>
     </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em %d hora</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Em meia hora</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">Em %d min</item>
-        <item quantity="one">Em %d min</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Agora mesmo</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min atrás</item>
-        <item quantity="one">%d min atrás</item>
-    </plurals>
-    <plurals name="accessibility_auto_night_tip">
-        <item quantity="other">Timer de %d segundos para o Modo noturno</item>
-        <item quantity="one">Timer de %d segundo para o Modo noturno</item>
-    </plurals>
-    <plurals name="accessibility_focus_face_detect">
-        <item quantity="other">Focalizado. %d rostos detectados</item>
-        <item quantity="one">Focalizado. %d rosto detectado</item>
-    </plurals>
-    <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">%d fotos em disparo sequencial</item>
-        <item quantity="one">%d foto em disparo sequencial</item>
-    </plurals>
-    <plurals name="accessibility_timer_burst_interval">
-        <item quantity="other">Intervalo: %d segundos</item>
+    <plurals name="ecv">
         <item quantity="one">Intervalo: %d segundo</item>
+        <item quantity="other">Intervalo: %d segundos</item>
     </plurals>
-    <plurals name="accessibility_vv_duartion">
-        <item quantity="other">Duração: %d segundos</item>
+    <plurals name="ecw">
         <item quantity="one">Duração: %d segundo</item>
+        <item quantity="other">Duração: %d segundos</item>
     </plurals>
-    <plurals name="accessibility_watermark_characters_inputted">
-        <item quantity="other">Inseriu %d caracteres.</item>
-        <item quantity="one">Inseriu %d caractere.</item>
+    <plurals name="ecx">
+        <item quantity="one">%d caractere inserido.</item>
+        <item quantity="other">%d caracteres inseridos.</item>
     </plurals>
-    <plurals name="accessibility_watermark_characters_max">
-        <item quantity="other">Insira até %d caracteres.</item>
+    <plurals name="ecy">
         <item quantity="one">Insira até %d caractere.</item>
+        <item quantity="other">Insira até %d caracteres.</item>
     </plurals>
-    <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">Você pode conectar até %d câmeras à mesma rede</item>
+    <plurals name="ecz">
         <item quantity="one">Você pode conectar até %d câmera à mesma rede</item>
+        <item quantity="other">Você pode conectar até %d câmeras à mesma rede</item>
     </plurals>
-    <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">Você pode conectar até %d monitores à mesma rede</item>
+    <plurals name="ed0">
         <item quantity="one">Você pode conectar até %d monitor à mesma rede</item>
+        <item quantity="other">Você pode conectar até %d monitores à mesma rede</item>
     </plurals>
-    <plurals name="clone_guide_tip2">
-        <item quantity="other">Você pode criar até %d clones por vez.</item>
+    <plurals name="ed1">
         <item quantity="one">Você pode criar até %d clone por vez.</item>
+        <item quantity="other">Você pode criar até %d clones por vez.</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other"><Data>"Não é possível conectar à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundos&lt;/b>&lt;/font>. Aguarde um momento e tente novamente."</Data></item>
-        <item quantity="one"><Data>"Não é possível conectar à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font>. Aguarde um momento e tente novamente."</Data></item>
+    <plurals name="ed2">
+        <item quantity="one">&lt;Data>"Não é possível conectar-se à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d seg&lt;/b>&lt;/font>. Após isso, aguarde um pouco e tente novamente."&lt;/Data></item>
+        <item quantity="other">&lt;Data>"Não é possível conectar-se à câmera.&lt;br>Este app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d seg&lt;/b>&lt;/font>. Após isso, aguarde um pouco e tente novamente."&lt;/Data></item>
     </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other"><Data>Este dispositivo está muito quente.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundos&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.</Data></item>
-        <item quantity="one"><Data>Este dispositivo está muito quente.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.</Data></item>
+    <plurals name="ed3">
+        <item quantity="one">&lt;Data>Este dispositivo está muito quente agora.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d seg&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Este dispositivo está muito quente agora.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d seg&lt;/b>&lt;/font>. O progresso atual foi salvo automaticamente.&lt;/Data></item>
     </plurals>
-    <plurals name="exit_version_hint">
-        <item quantity="other">&lt;Data>"A versão da Câmera que você está usando não é compatível com o modelo do seu dispositivo.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundos&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente."&lt;/Data></item>
-        <item quantity="one">&lt;Data>"A versão da Câmera que você está usando não é compatível com o modelo do seu dispositivo.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d segundo&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente."&lt;/Data></item>
+    <plurals name="ed4">
+        <item quantity="one">&lt;Data>"A versão da Câmera que você está usando não é compatível com o modelo do seu dispositivo.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d seg&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente."&lt;/Data></item>
+        <item quantity="other">&lt;Data>"A versão da Câmera que você está usando não é compatível com o modelo do seu dispositivo.&lt;br>O app será fechado em &lt;font color=#FFCE16>&lt;b>%1$d seg&lt;/b>&lt;/font>. Desinstale as atualizações da Câmera e tente novamente."&lt;/Data></item>
     </plurals>
-    <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Avanço rápido %d segundos</item>
-        <item quantity="one">Avanço rápido %d segundo</item>
+    <plurals name="ed5">
+        <item quantity="one">Avançar %d segundo</item>
+        <item quantity="other">Avançar %d segundos</item>
     </plurals>
-    <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">Retroceder %d segundos</item>
+    <plurals name="ed6">
         <item quantity="one">Retroceder %d segundo</item>
+        <item quantity="other">Retroceder %d segundos</item>
     </plurals>
-    <plurals name="f07">
-        <item quantity="other">Você pode gravar vídeos com o efeito de congelamento de tempo com até %d objetos.</item>
-        <item quantity="one">Você pode gravar vídeos com o efeito de congelamento de tempo somente com %d objeto.</item>
+    <plurals name="ed7">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d min</item>
     </plurals>
-    <plurals name="fastmotion_pro_min_unit">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">%1$d minuto</item>
+    <plurals name="ed8">
+        <item quantity="one">%1$d seg</item>
+        <item quantity="other">%1$d seg</item>
     </plurals>
-    <plurals name="fastmotion_pro_sec_unit">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">%1$d segundo</item>
+    <plurals name="ed9">
+        <item quantity="one">Timer ativado (%1$d seg). As fotos serão transferidas para este dispositivo.</item>
+        <item quantity="other">Timer ativado (%1$d seg). As fotos serão transferidas para este dispositivo.</item>
     </plurals>
-    <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">Timer ativado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
-        <item quantity="one">Timer ativado (%1$d s). As fotos serão transferidas para este dispositivo.</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Em 1 hora</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Em meia hora</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Imediatamente</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">em %d minutos</item>
-        <item quantity="one">em 1 minuto</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Agora mesmo</item>
-    </plurals>
-    <plurals name="live_workspace_delete_dialog_title">
-        <item quantity="other">Excluir %1$d rascunhos?</item>
+    <plurals name="ed_">
         <item quantity="one">Excluir %1$d rascunho?</item>
+        <item quantity="other">Excluir %1$d rascunhos?</item>
     </plurals>
-    <plurals name="manual_picture_style_desc_custom_add_max">
-        <item quantity="other">Adicione até %d predefinições</item>
-        <item quantity="one">Adicione até %d predefinição</item>
+    <plurals name="eda">
+        <item quantity="one">Adicionar até %d predefinição</item>
+        <item quantity="other">Adicionar até %d predefinições</item>
     </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d itens selecionados</item>
-        <item quantity="one">%d item selecionado</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d novas notificações</item>
+    <plurals name="edb">
         <item quantity="one">%d nova notificação</item>
+        <item quantity="other">%d novas notificações</item>
     </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutos atrás</item>
-        <item quantity="one">1 minuto atrás</item>
+    <plurals name="edc">
+        <item quantity="one">%ds</item>
+        <item quantity="other">%ds</item>
     </plurals>
-    <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Seu dispositivo está superaquecido. A câmera será fechada em %d segundos. Suas fotos ou vídeos serão salvos automaticamente.</item>
-        <item quantity="one">Seu dispositivo está superaquecido. A câmera será fechada em %d segundo. Suas fotos ou vídeos serão salvos automaticamente.</item>
+    <plurals name="edd">
+        <item quantity="one">%1$s min</item>
+        <item quantity="other">%1$s min</item>
     </plurals>
-    <plurals name="pref_camera_fastmotion_duration_unit">
-        <item quantity="other">%1$s minutos</item>
-        <item quantity="one">%1$s minuto</item>
-    </plurals>
-    <plurals name="pref_live_duration_prompt">
-        <item quantity="other">Gravar %d segundos</item>
+    <plurals name="ede">
         <item quantity="one">Gravar %d segundo</item>
+        <item quantity="other">Gravar %d segundos</item>
     </plurals>
-    <plurals name="timefreeze_guide_tip1">
-        <item quantity="other">Você pode gravar vídeos com congelamento de tempo apenas com %d objetos.</item>
-        <item quantity="one">Você pode gravar vídeos com congelamento de tempo apenas com %d objeto.</item>
+    <plurals name="edf">
+        <item quantity="one">Você pode gravar vídeos de congelamento de tempo apenas com %d objeto.</item>
+        <item quantity="other">Você pode gravar vídeos de congelamento de tempo com até %d objetos.</item>
     </plurals>
-    <plurals name="timer_burst_setting_total_count">
-        <item quantity="other">%1$s fotos</item>
+    <plurals name="edg">
         <item quantity="one">%1$s foto</item>
-    </plurals>
-    <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">Disparo contínuo concluído, %1$s fotos tiradas</item>
-        <item quantity="one">Disparo contínuo concluído, %1$s foto tirada</item>
+        <item quantity="other">%1$s fotos</item>
     </plurals>
 </resources>
