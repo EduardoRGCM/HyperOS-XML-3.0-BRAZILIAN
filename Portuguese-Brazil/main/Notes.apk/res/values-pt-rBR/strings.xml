@@ -234,8 +234,8 @@
     <string name="auto_detected">Detecção automática</string>
     <string name="auto_optimize_handwriting_text">Otimizar manuscrito automaticamente</string>
     <string name="blackboard_note">Quadro inteligente</string>
-    <string name="bottomsheet_action_collapse">Recolher a folha inferior</string>
-    <string name="bottomsheet_action_expand">Expandir a folha inferior</string>
+    <string name="bottomsheet_action_collapse">Recolher a página inferior</string>
+    <string name="bottomsheet_action_expand">Expandir a página inferior</string>
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="brush_AirBrush">Aerógrafo</string>
     <string name="brush_BallpointPen">Caneta esferográfica</string>

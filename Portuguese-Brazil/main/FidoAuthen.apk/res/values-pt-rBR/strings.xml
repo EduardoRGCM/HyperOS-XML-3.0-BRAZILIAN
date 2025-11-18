@@ -120,7 +120,6 @@
     <string name="fingerprint_matched">Verified successfully</string>
     <string name="fingerprint_mismatched">"Couldn't verify. Try again."</string>
     <string name="fingerprint_not_recognized">Não reconhecido</string>
-    <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
