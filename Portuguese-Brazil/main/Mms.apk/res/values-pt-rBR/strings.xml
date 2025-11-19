@@ -939,7 +939,7 @@ Confira chatbots recomendados!"</string>
     <string name="rcs_chatdetail_save_success">Adicionado com sucesso</string>
     <string name="rcs_chatdetail_send_messge">Enviar mensagem</string>
     <string name="rcs_chatdetail_special_chabot_tip">"Não é possível bloquear este chatbot"</string>
-    <string name="rcs_chatlist_scan_error">"Não consigo ler este código QR"</string>
+    <string name="rcs_chatlist_scan_error">"Não consigo ler este QR code"</string>
     <string name="rcs_conversation_rcs_tip">[Chatbot] %s</string>
     <string name="rcs_create_new_group">Criar chat em grupo</string>
     <string name="rcs_dspt">Envie e receba mensagens usando Wi-Fi ou rede China Mobile</string>

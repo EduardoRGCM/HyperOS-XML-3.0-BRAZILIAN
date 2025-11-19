@@ -655,8 +655,8 @@ você precisa criar um backup na iCloud primeiro."</string>
     <string name="notif_trans_sending_completed">Dados enviados com sucesso</string>
     <string name="notif_trans_sending_failed">"Não foi possível enviar dados"</string>
     <string name="notif_trans_wait_for_reconnecting">A conexão foi interrompida. Conecte-se novamente.</string>
-    <string name="old_soft_name">Conectar-se via código QR</string>
-    <string name="old_way">Você também pode gerar um código QR em seu novo dispositivo e digitalizá-lo usando o antigo.</string>
+    <string name="old_soft_name">Conectar-se via QR code</string>
+    <string name="old_way">Você também pode gerar um QR code em seu novo dispositivo e digitalizá-lo usando o antigo.</string>
     <string name="open_compatibility_mode">Ativar</string>
     <string name="page_loading">Aguarde…</string>
     <string name="password">Senha</string>
@@ -980,19 +980,19 @@ Libere pelo menos %s."</string>
     <string name="trans_disconnected_tips_message">Dispositivo remoto desconectado. Conecte-se novamente manualmente ou cancele a transferência.</string>
     <string name="trans_disconnected_tips_title">Dispositivo remoto desconectado</string>
     <string name="trans_failed_details_page_title">Transferências sem sucesso</string>
-    <string name="trans_generate_qr_code_failed">"Não foi possível gerar código QR"</string>
-    <string name="trans_generate_qrcode_failed">"Não foi possível gerar o código QR. Feche outros apps e tente novamente."</string>
-    <string name="trans_generating_qrcode">Gerando o código QR…</string>
+    <string name="trans_generate_qr_code_failed">"Não foi possível gerar QR code"</string>
+    <string name="trans_generate_qrcode_failed">"Não foi possível gerar o QR code. Feche outros apps e tente novamente."</string>
+    <string name="trans_generating_qrcode">Gerando o QR code…</string>
     <string name="trans_install_guide_button_start">Iniciar</string>
     <string name="trans_install_guide_page_title">Instale o Mi Mover no seu dispositivo antigo</string>
-    <string name="trans_install_guide_scan_install_tip">"Digitalize este código QR com o seu dispositivo antigo
+    <string name="trans_install_guide_scan_install_tip">"Digitalize este QR code com o seu dispositivo antigo
 para baixar e instalar o Mi Mover."</string>
-    <string name="trans_install_guide_step1_content">Digitalize o código QR com o seu dispositivo antigo para baixar e instalar o \"Mi Mover\".</string>
+    <string name="trans_install_guide_step1_content">Digitalize o QR code com o seu dispositivo antigo para baixar e instalar o \"Mi Mover\".</string>
     <string name="trans_install_guide_step1_title">Passo 1</string>
     <string name="trans_install_guide_step2_content">Depois da instalação, toque em \"Iniciar\" abaixo.</string>
     <string name="trans_install_guide_step2_title">Passo 2</string>
     <string name="trans_intro_desc_1">"Em um dispositivo Mi, conecte-se ao Wi-Fi e toque em \"Sou o destinatário\". Selecione seu dispositivo iOS, faça o login na iCloud, e importe os dados."</string>
-    <string name="trans_intro_desc_10">Toque em \"Conectar-se com código QR\" no novo dispositivo e escaneie o código QR para estabelecer uma conexão.</string>
+    <string name="trans_intro_desc_10">Toque em \"Conectar-se com QR code\" no novo dispositivo e escaneie o QR code para estabelecer uma conexão.</string>
     <string name="trans_intro_desc_3">Cancele a transferência, saia do Mi Mover, e comece novamente. Arquivos duplicados serão sobrescritos durante a nova transferência.</string>
     <string name="trans_intro_desc_4">"O Mi Mover usa o Wi-Fi para transferir arquivos. É por isso que você não pode conectar-se à internet usando o Wi-Fi nos dispositivos usados durante a transferência. Você poderá usar os dados móveis, entretanto. Em alguns dispositivos ainda será possível usar a conexão de internet Wi-Fi (como o Mi 6, por exemplo)."</string>
     <string name="trans_intro_desc_4_market">"O Mi Mover usa o Wi-Fi para transferir arquivos. Este é o motivo pelo o qual não pode conectar-se à internet via Wi-Fi durante a transferência. Pode continuar usando dados móveis, entretanto."</string>
@@ -1010,9 +1010,9 @@ para baixar e instalar o Mi Mover."</string>
     <string name="trans_intro_desc_gms">"Devido a alta possibilidade de falhas na transferência serem causados por problemas de compatibilidade, o Mi Mover não suporta a transferência de dados gerados por apps do Google."</string>
     <string name="trans_intro_desc_multiapp">"O Mi Mover não transfere dados de dual apps para evitar conflitos entre arquivos."</string>
     <string name="trans_intro_desc_multiuser">"O Mi Mover não pode acessar itens no Segundo espaço. Mova os itens para o Primeiro espaço e inicie o Mi Mover."</string>
-    <string name="trans_intro_desc_new">"Toque em \"Sou o destinatário\". Um código QR será gerado."</string>
-    <string name="trans_intro_desc_old">"Toque em \"Sou o remetente\". Leia o código QR no novo dispositivo, aguarde até o Mi Mover localizar arquivos para enviar, e toque em \"Enviar\"."</string>
-    <string name="trans_intro_desc_old_market">Toque em \"Iniciar\". Escaneie o código QR no seu novo dispositivo, espere até que o Mi Mover analise os arquivos a enviar, e toque em \"Enviar\".</string>
+    <string name="trans_intro_desc_new">"Toque em \"Sou o destinatário\". Um QR code será gerado."</string>
+    <string name="trans_intro_desc_old">"Toque em \"Sou o remetente\". Leia o QR code no novo dispositivo, aguarde até o Mi Mover localizar arquivos para enviar, e toque em \"Enviar\"."</string>
+    <string name="trans_intro_desc_old_market">Toque em \"Iniciar\". Escaneie o QR code no seu novo dispositivo, espere até que o Mi Mover analise os arquivos a enviar, e toque em \"Enviar\".</string>
     <string name="trans_intro_desc_private">"O Mi Mover não pode acessar as fotos no álbum oculto porque elas são criptografadas. Você poderá restaurar estas fotos usando a Xiaomi Cloud no novo dispositivo."</string>
     <string name="trans_intro_question_1">%d. Como uso o Mi Mover para mover os dsdos de um dispositivo iOS?</string>
     <string name="trans_intro_question_10">%d. Não consegue encontrar o hotspot no dispositivo antigo?</string>
@@ -1048,16 +1048,16 @@ Libere espaço no armazenamento ou transfira apenas itens importantes."</string>
     <string name="trans_operate_func_one">Método A</string>
     <string name="trans_operate_func_two">Método B</string>
     <string name="trans_operate_new_phone_tips">"Vá em Configurações > Configurações adicionais > Mi Mover
-Toque em [Sou o destinatário] para criar um código QR"</string>
+Toque em [Sou o destinatário] para criar um QR code"</string>
     <string name="trans_operate_old_phone_tips1">"1. Instale o app Mi Mover no seu dispositivo antigo
 2. Abra o app e toque em Iniciar
-3. Leia o código QR com seu dispositivo antigo"</string>
+3. Leia o QR code com seu dispositivo antigo"</string>
     <string name="trans_operate_old_phone_tips2">"Vá em Configurações > Configurações adicionais > Mi Mover, toque em [Sou o remetente]"</string>
     <string name="trans_operate_reconnect_new_tips">"Aguarde até que o novo dispositivo exiba \"A conexão foi interrompida\".
-Então toque em \"Conectar novamente\" para criar um código QR."</string>
+Então toque em \"Conectar novamente\" para criar um QR code."</string>
     <string name="trans_operate_reconnect_old_tips">"Aguarde até que o dispositivo antigo exiba \"A conexão foi interrompida\".
-Então toque em \"Conectar novamente\" para ler o código QR."</string>
-    <string name="trans_operate_tip_for_other_android">Abra o Mi Mover no seu dispositivo antigo, toque em \"Iniciar\" e digitalize o código QR acima.</string>
+Então toque em \"Conectar novamente\" para ler o QR code."</string>
+    <string name="trans_operate_tip_for_other_android">Abra o Mi Mover no seu dispositivo antigo, toque em \"Iniciar\" e digitalize o QR code acima.</string>
     <string name="trans_pausing">Pausando…</string>
     <string name="trans_please_waiting">Aguarde…</string>
     <string name="trans_progress_subdescript_br_receiver">Restaurando %1$s, %2$s concluído</string>
@@ -1079,8 +1079,8 @@ Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_restoring">Restaurando…</string>
     <string name="trans_restoring_no_items">Obtendo informações…</string>
     <string name="trans_retry">Tentar novamente</string>
-    <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
-    <string name="trans_scan_qr_code_tips">Leia o código QR usando o dispositivo novo</string>
+    <string name="trans_scan_invalid_qrcode">QR code inválido</string>
+    <string name="trans_scan_qr_code_tips">Leia o QR code usando o dispositivo novo</string>
     <string name="trans_security_tips_message">"Alguns apps não suportam o Mi Mover."</string>
     <string name="trans_security_tips_title">Compatibilidade do Mi Mover</string>
     <string name="trans_select_data">Selecionar itens para enviar</string>
@@ -1105,7 +1105,7 @@ Não desative o Wi-Fi.
 Mantenha os dispositivos pertos um do outro."</string>
     <string name="trans_sending_completed">Enviado com sucesso</string>
     <string name="trans_show_qr_code_label">Conecte o dispositivo antigo</string>
-    <string name="trans_show_qr_code_tips">Leia o código QR usando o dispositivo antigo</string>
+    <string name="trans_show_qr_code_tips">Leia o QR code usando o dispositivo antigo</string>
     <string name="trans_start_failed_message">"Não foi possível iniciar a transferência, tente novamente ou reinicie o dispositivo."</string>
     <string name="trans_start_failed_title">"Não foi possível iniciar a transferência"</string>
     <string name="trans_success_dialog_button_market_comment">Comentar</string>

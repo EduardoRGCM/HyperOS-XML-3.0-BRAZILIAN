@@ -366,7 +366,7 @@
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="proj_icons">Application icons</string>
-    <string name="qr_code">QR code</string>
+    <string name="qr_code">"QR code"</string>
     <string name="qr_hint1">Scan the QR code to use the authenticator</string>
     <string name="remove_btn_txt">REMOVE SETTINGS</string>
     <string name="required_permissions">;</string>

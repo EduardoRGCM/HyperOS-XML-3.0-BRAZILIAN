@@ -54,7 +54,7 @@
     <string name="am">"AM"</string>
     <string name="aon_no_network_tip">Ative o Wi-Fi ou os dados móveis e tente novamente</string>
     <string name="aon_pay_setting_default_des">Método de pagamento padrão</string>
-    <string name="aon_recognize_code_des">Código QR reconhecido</string>
+    <string name="aon_recognize_code_des">QR code reconhecido</string>
     <string name="aon_recognize_code_lottie_res">Escaneamento rápido</string>
     <string name="app_description_content">O Scanner permite a digitalização de códigos de barra, documentos, cartões de visita e mais. Certifique-se de que não usará estes recursos antes de desinstalar o app.</string>
     <string name="app_description_title">Sobre o Scanner</string>
@@ -62,12 +62,12 @@
     <string name="app_name">"Scanner"</string>
     <string name="auracast_code_title_key">"Ouvir à transmissão de %s"</string>
     <string name="back">Voltar</string>
-    <string name="barcode_into_rectangle">Centralize o código QR dentro da área</string>
+    <string name="barcode_into_rectangle">Centralize o QR code dentro da área</string>
     <string name="birthday">Aniversário:</string>
     <string name="black_and_white">Preto e branco</string>
     <string name="business_card">Cartão de visita</string>
     <string name="business_card_title">Centralize o cartão de visita dentro da área</string>
-    <string name="business_card_with_qr_code">Centralize o cartão ou o código QR dentro da área</string>
+    <string name="business_card_with_qr_code">Centralize o cartão ou o QR code dentro da área</string>
     <string name="business_copy">Copiar</string>
     <string name="business_new_contacts">Criar contato</string>
     <string name="business_no_result">"Não foi possível reconhecer o cartão de visita. Tente novamente."</string>
@@ -100,7 +100,7 @@
     <string name="choose_default_pay">Método de pagamento padrão</string>
     <string name="choose_open_code_app">Selecionar um app</string>
     <string name="choose_pay_title">Selecionar método de pagamento</string>
-    <string name="choose_picture">Selecionar imagem com código QR</string>
+    <string name="choose_picture">Selecionar imagem com QR code</string>
     <string name="choosed_title">Selecionado</string>
     <string name="classesNameNull_toast">"O nome da aula não pode estar em branco"</string>
     <string name="classes_canfirmTitle">Confirmar resultados e começar a importação</string>
@@ -148,7 +148,7 @@
     <string name="connect_to_wifi">Conectar-se à esta rede</string>
     <string name="connect_wifi">Conectar-se à esta rede</string>
     <string name="connect_wifi_no_local_premissions">Conecte-se a esta rede (permissões de localização necessárias)</string>
-    <string name="contact_details">Código QR do contato:</string>
+    <string name="contact_details">QR code do contato:</string>
     <string name="content_desktop_uninstall">"Scanner é um app do sistema. Você não poderá usar o Navegador Mi, Câmera, Super Mi AI, Contatos e outros apps do sistema se desinstalá-lo."</string>
     <string name="continue_access_web_url">Ir ao site</string>
     <string name="continue_to_website">Ir ao site</string>
@@ -160,8 +160,8 @@
     <string name="copy_text_faile">"Não foi possível copiar. Permita que o Scanner acesse sua área de transferência primeiro."</string>
     <string name="copy_text_success">Texto copiado</string>
     <string name="copy_tracknum">Copiando código de rastreamento</string>
-    <string name="create">Criar código QR</string>
-    <string name="createFail">"Não foi possível criar o código QR. Sua mensagem é muito grande."</string>
+    <string name="create">Criar QR code</string>
+    <string name="createFail">"Não foi possível criar o QR code. Sua mensagem é muito grande."</string>
     <string name="createQRCode_hint">Digite o texto</string>
     <string name="createQRCode_save">Salvar</string>
     <string name="create_again">Atualizar</string>
@@ -387,7 +387,7 @@
     <string name="intelligent_participle">Frases</string>
     <string name="intelligent_recognition">Reconhecer</string>
     <string name="jd_shopping_title">Pesquisar no JD</string>
-    <string name="keywords_search_code">Scanner;Escanear;Código QR;QR;Reconhecimento;Código de Barras;Códigos de Barras;Produto;Produtos;Alipay;WeChat;Como escanear o código QR;Como escanear código de barras;Como escanear</string>
+    <string name="keywords_search_code">Scanner;Escanear;QR code;QR;Reconhecimento;Código de Barras;Códigos de Barras;Produto;Produtos;Alipay;WeChat;Como escanear o QR code;Como escanear código de barras;Como escanear</string>
     <string name="keywords_search_document">Scanner;Escanear documento;Escanear documentos;OCR;Escanear texto;Escanear</string>
     <string name="keywords_search_namecard">Scanner;Cartão de visita;Cartões de visita;Escanear;Escanear cartões;Cartão;Cartões;Contatos;Contato</string>
     <string name="keywords_search_study">Scanner;Problemas;Resolver problemas;Lição de casa;Escola;Física;Química;Matemática;Matemáticas;Inglês;História;Chinês</string>
@@ -427,7 +427,7 @@
     <string name="miracast_connect">Transmitir</string>
     <string name="miracast_connect_fail">"Não foi possível transmitir. Tente novamente."</string>
     <string name="miracast_connecting">Transmitindo…</string>
-    <string name="miracast_details">Escaneie o código QR para transmitir</string>
+    <string name="miracast_details">Escaneie o QR code para transmitir</string>
     <string name="miracast_message">Transmitir para %s?</string>
     <string name="miracast_switch_off">A tela sem fio está desativada</string>
     <string name="miracast_switch_tip">Ative a tela sem fio para usar este recurso</string>
@@ -460,7 +460,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Aguarde…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Não foi possível carregar os itens"</string>
     <string name="module_title_business_card">Cartão de visita</string>
-    <string name="module_title_code">Código QR</string>
+    <string name="module_title_code">"QR code"</string>
     <string name="module_title_document">Documentos</string>
     <string name="module_title_form">Tabela</string>
     <string name="module_title_general">Objetos</string>
@@ -635,7 +635,7 @@
     <string name="picture_video_toast">Vídeo não pré-visualizado</string>
     <string name="picture_warning">Sem arquivos de mídia!</string>
     <string name="picture_webp_tag">"WebP"</string>
-    <string name="place_barcode_into_rectangle">Centralize o código QR dentro da área</string>
+    <string name="place_barcode_into_rectangle">Centralize o QR code dentro da área</string>
     <string name="plant_fail">"Não foi possível reconhecer"</string>
     <string name="plant_loading">Identificando…</string>
     <string name="plant_reg_fail_2">"Não foi possível reconhecer este objeto. O Scanner só pode identificar plantas."</string>
@@ -701,7 +701,7 @@
     <string name="privacy_policy_withdrawal_message"><Data>"Se você retirar seu consentimento com a Política de Privacidade, você não poderá mais usar os serviços do Scanner. Você terá que aceitar a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> para poder usar o AI Scanner novamente. Retirar o consentimento agora?"</Data></string>
     <string name="processing">Processando…</string>
     <string name="prompt">Atenção!</string>
-    <string name="qr_code_details">Detalhes do código QR:</string>
+    <string name="qr_code_details">Detalhes do QR code:</string>
     <string name="qrcode_cannot_be_processed_auto">"O scanner inteligente não pode processar este código. Em vez disso, escaneie o código com o WeChat."</string>
     <string name="query">Verificar</string>
     <string name="queryGoodsFailed">"Não foi possível encontrar informações do produto"</string>
@@ -746,7 +746,7 @@
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="savaPhoto">Nenhum código QR gerado</string>
+    <string name="savaPhoto">Nenhum QR code gerado</string>
     <string name="save">Salvar</string>
     <string name="saveDone">Salvo com sucesso</string>
     <string name="save_as_PDF">Salvar como PDF</string>
@@ -767,7 +767,7 @@
     <string name="scan_character">Escanear texto</string>
     <string name="scan_character_guard">Extraia e copie texto de fotos</string>
     <string name="scan_character_summary">Extraia e copie texto, exporte o texto para um documento do Word.</string>
-    <string name="scan_code_lite_object_guard">Escaneie um código de barras ou código QR</string>
+    <string name="scan_code_lite_object_guard">Escaneie um código de barras ou QR code</string>
     <string name="scan_code_object">Escanear</string>
     <string name="scan_code_object_guard">Escaneie códigos de barras, códigos QR, plantas e produtos.</string>
     <string name="scan_code_object_summary">Reconheça plantas, escaneie códigos QR e códigos de barras e encontre produtos semelhantes.</string>
@@ -775,7 +775,7 @@
     <string name="scan_code_tip">Selecione qual código escanear</string>
     <string name="scan_content_error">"Esta solicitação expirou.
 Estamos resolvendo o problema. Tente novamente mais tarde."</string>
-    <string name="scan_content_no_network_warning">"O item que você está escaneando é um código QR de texto.
+    <string name="scan_content_no_network_warning">"O item que você está escaneando é um QR code de texto.
 Conecte-se à rede e escaneie novamente."</string>
     <string name="scan_content_no_pass_warning">"Este texto contém conteúdo proibido.
 Escaneie outra coisa."</string>
@@ -792,7 +792,7 @@ Escaneie outra coisa."</string>
     <string name="scan_result">Resultado</string>
     <string name="scan_shop">Identificar produtos</string>
     <string name="scan_support_type">WeChat, Alipay, códigos QR, códigos de barra</string>
-    <string name="scan_support_type_new">Escaneie o código QR ou código de barras</string>
+    <string name="scan_support_type_new">Escaneie o QR code ou código de barras</string>
     <string name="scan_text">Escanear texto</string>
     <string name="scan_text_top_tip">Reconhecer e copiar texto</string>
     <string name="scan_translate_top_tip">Traduzir todo o texto em uma foto</string>
@@ -950,7 +950,7 @@ Escaneie outra coisa."</string>
     <string name="title">Título:</string>
     <string name="title_desktop_uninstall">Desinstalar Scanner?</string>
     <string name="to_date">Hoje</string>
-    <string name="to_install_title">Este código QR redireciona você para um app desinstalado. Baixar este app agora?</string>
+    <string name="to_install_title">Este QR code redireciona você para um app desinstalado. Baixar este app agora?</string>
     <string name="to_pay">Concluir pagamento</string>
     <string name="toast_net_2g">"Não foi possível conectar à rede. Troque de rede e tente novamente."</string>
     <string name="toast_net_timeout">O pedido excedeu o tempo limite. Aguarde um momento e tente novamente.</string>
@@ -1026,7 +1026,7 @@ Escaneie outra coisa."</string>
     <string name="waybill_num">"Pedido: "</string>
     <string name="web">Site:</string>
     <string name="web_url">"URL"</string>
-    <string name="web_url_confirm_content">O código QR que você escaneou irá redirecioná-lo para um link que pode ser prejudicial. Ele pode estar relacionado a sites maliciosos ou armadilhas online, podendo comprometer a segurança do seu dispositivo ou a sua privacidade pessoal. Se você optar por continuar, confirme que compreende os riscos envolvidos.</string>
+    <string name="web_url_confirm_content">O QR code que você escaneou irá redirecioná-lo para um link que pode ser prejudicial. Ele pode estar relacionado a sites maliciosos ou armadilhas online, podendo comprometer a segurança do seu dispositivo ou a sua privacidade pessoal. Se você optar por continuar, confirme que compreende os riscos envolvidos.</string>
     <string name="web_url_confirm_title">Aviso de segurança</string>
     <string name="website_details">Site:</string>
     <string name="wechat_scan_code">"Scanner WeChat"</string>
@@ -1034,7 +1034,7 @@ Escaneie outra coisa."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="weixin_code_tip">Leia este código QR usando o WeChat</string>
+    <string name="weixin_code_tip">Leia este QR code usando o WeChat</string>
     <string name="weixin_qrcode_process_type_tip">"Selecione como deseja processar este código WeChat"</string>
     <string name="weixinqrcode_process_fail_tip">"Não foi possível processar o código WeChat"</string>
     <string name="welcome_to_thesweepversion">Bem-vindo ao Scanner Beta!</string>

@@ -1093,7 +1093,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_business_low_risk_invite_success_summary">"Você pode compartilhar informações de localização com seus amigos e familiares, assim como controlar os dispositivos uns dos outros."</string>
     <string name="share_sdk_business_main_title">Compartilhar localização</string>
     <string name="share_sdk_business_permission_title">Selecionar itens</string>
-    <string name="share_sdk_business_qr_code_invite_title">Digitalize o código QR para aceitar o convite para compartilhar a localização</string>
+    <string name="share_sdk_business_qr_code_invite_title">Digitalize o QR code para aceitar o convite para compartilhar a localização</string>
     <string name="share_sdk_business_suggest_member_actionbar_subtitle">"Compartilhar localização e controlar os dispositivos um do outro"</string>
     <string name="share_sdk_business_wechat_invite_description">%1$s convidou você a compartilhar a localização</string>
     <string name="share_sdk_business_wechat_invite_title">Comece a compartilhar o local conosco</string>
@@ -1114,14 +1114,14 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_expire_time">Período de validade do convite: %1$s</string>
     <string name="share_sdk_family_member_title">Membros familiares</string>
     <string name="share_sdk_invitation_not_accepted_now">O convite ainda não foi aceito</string>
-    <string name="share_sdk_invite_by_qr_code_title">Convite por código QR</string>
+    <string name="share_sdk_invite_by_qr_code_title">Convite por QR code</string>
     <string name="share_sdk_invite_family_list_error">Nenhum membro familiar para convidar</string>
     <string name="share_sdk_invite_share_member_title">Membros familiares</string>
     <string name="share_sdk_invite_suggestion_list_error">Nenhuma pessoa recomendada para convidar</string>
     <string name="share_sdk_invite_way_contact_summary">Convide várias pessoas de uma só vez</string>
     <string name="share_sdk_invite_way_contact_title">Convidar por SMS</string>
     <string name="share_sdk_invite_way_qr_code_summary">"Use o app Scanner do seu dispositivo ou do WeChat"</string>
-    <string name="share_sdk_invite_way_qr_code_title">Convidar por código QR</string>
+    <string name="share_sdk_invite_way_qr_code_title">Convidar por QR code</string>
     <string name="share_sdk_invite_way_wechat_summary">Convide pessoas ou grupos</string>
     <string name="share_sdk_invite_way_wechat_title">Convidar por WeChat</string>
     <string name="share_sdk_member_info_title">Informações do membro</string>
@@ -1132,11 +1132,11 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_pref_category_family_detail">Detalhes</string>
     <string name="share_sdk_pref_category_member_title">Selecionar membros</string>
     <string name="share_sdk_pref_category_search_local_title">Contatos</string>
-    <string name="share_sdk_pref_category_title_scan_qr_code">Escanear código QR</string>
+    <string name="share_sdk_pref_category_title_scan_qr_code">Escanear QR code</string>
     <string name="share_sdk_pref_family_detail_title">Ver detalhes do grupo familiar</string>
     <string name="share_sdk_privacy_link_description">Leia e aceite a <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Política de Privacidade da Conta Xiaomi</u></a> antes de usar este serviço.</string>
     <string name="share_sdk_qr_code_description">"Convite de %1$s"</string>
-    <string name="share_sdk_qr_code_expire_time">Período de validade do código QR: %1$s</string>
+    <string name="share_sdk_qr_code_expire_time">Período de validade do QR code: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Muitos convites foram enviados. Tente novamente em 24 horas.</string>
     <string name="share_sdk_search_hint">Número de telefone/ID da Conta Xiaomi</string>
     <string name="share_sdk_search_online">Pesquisar por %1$s online</string>

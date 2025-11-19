@@ -377,11 +377,11 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="install_app_message">"Caso não consiga encontrar o novo dispositivo, tente o seguinte:
 1. Verifique se o Mi Mover está instalado no seu novo dispositivo.
 2. Aproxime os dois dispositivos."</string>
-    <string name="install_app_new_title">Leia o código QR para instalar o Mi Mover no seu novo dispositivo</string>
-    <string name="install_app_old_title">Leia o código QR para instalar o Mi Mover no seu antigo dispositvo</string>
+    <string name="install_app_new_title">Leia o QR code para instalar o Mi Mover no seu novo dispositivo</string>
+    <string name="install_app_old_title">Leia o QR code para instalar o Mi Mover no seu antigo dispositvo</string>
     <string name="install_app_to_another_phone_content">Instale o Mi Mover no seu dispositivo novo</string>
     <string name="install_complete_count_down_time">Instalado com sucesso. Iniciando a transferência (%1$d)</string>
-    <string name="install_mi_cloud_app_summary">Escaneie este código QR com o seu iPhone para baixar e instalar o app.</string>
+    <string name="install_mi_cloud_app_summary">Escaneie este QR code com o seu iPhone para baixar e instalar o app.</string>
     <string name="install_mi_cloud_app_title">Instale a Xiaomi Cloud</string>
     <string name="install_new_app_link_text">Instale o Mi Mover no seu novo dispositivo para poder se conectar. Toque para instalar.</string>
     <string name="international_new_trans_intro_desc_8">"Não é possível transferir mensagens de texto devido a problemas de compatibilidade. Apps de terceiros podem restringir a transferência de dados de apps por motivos de segurança."</string>
@@ -806,7 +806,7 @@ Libere pelo menos %s."</string>
     <string name="skip_underline">Pular esta etapa</string>
     <string name="sms">"SMS"</string>
     <string name="soft_ap_create_failed">"Não foi possível criar o hotspot. Tente novamente."</string>
-    <string name="soft_ap_create_failed_apple">"Não foi possível gerar o código QR"</string>
+    <string name="soft_ap_create_failed_apple">"Não foi possível gerar o QR code"</string>
     <string name="soft_ap_creating">Criando hotspot…</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
@@ -936,9 +936,9 @@ Libere pelo menos %s."</string>
     <string name="trans_apple_button_cancel_positive">Cancelar transferência</string>
     <string name="trans_apple_button_reconnect">Conecte-se novamente</string>
     <string name="trans_apple_hint">"Não saia desta página e nem use o Wi-Fi até que a transferência seja concluída."</string>
-    <string name="trans_apple_hint_1_content">"Baixe o Mi Mover da App Store ou escaneie este código QR com o app da câmera do seu dispositivo Apple."</string>
+    <string name="trans_apple_hint_1_content">"Baixe o Mi Mover da App Store ou escaneie este QR code com o app da câmera do seu dispositivo Apple."</string>
     <string name="trans_apple_hint_1_title">%d. Instale o Mi Mover</string>
-    <string name="trans_apple_hint_2_content">Abra o Mi Mover no seu dispositivo Apple, toque em \"Toque para enviar itens \" e escaneie o código QR.</string>
+    <string name="trans_apple_hint_2_content">Abra o Mi Mover no seu dispositivo Apple, toque em \"Toque para enviar itens \" e escaneie o QR code.</string>
     <string name="trans_apple_hint_2_title">%d. Conecte dispositivos</string>
     <string name="trans_apple_hint_china">"Não saia desta página e nem use o Wi-Fi até que a transferência seja concluída."</string>
     <string name="trans_apple_interrupt_sub">Toque abaixo para se conectar novamente.</string>
@@ -947,9 +947,9 @@ Libere pelo menos %s."</string>
     <string name="trans_detail_item_app_skip_data">"Não é possível mover este app"</string>
     <string name="trans_detail_qq_data">Dados do QQ (incluindo histórico de conversas)</string>
     <string name="trans_detail_wechat_data">Dados do WeChat (incluindo histórico de conversas)</string>
-    <string name="trans_install_guide_new_content_first">"Leia este código QR usando seu novo dispositivo.
+    <string name="trans_install_guide_new_content_first">"Leia este QR code usando seu novo dispositivo.
 Baixar e instalar o Mi Mover."</string>
-    <string name="trans_install_guide_old_content_first">"1. Leia este código QR usando seu antigo dispositivo.
+    <string name="trans_install_guide_old_content_first">"1. Leia este QR code usando seu antigo dispositivo.
 2. Baixe e instale o Mi Mover.
 3. Toque no botão abaixo assim que a instalação for concluída."</string>
     <string name="trans_intro_title">Perguntas frequentes</string>

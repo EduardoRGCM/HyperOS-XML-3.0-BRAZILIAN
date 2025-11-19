@@ -501,7 +501,7 @@ execute esta ação no seu dispositivo."</string>
     <string name="settings_bluetooth_enable_summary">Para encontrar dispositivos próximos primeiro ative o Bluetooth. Ativar agora?</string>
     <string name="settings_connect_more_help"><u>Ajuda</u></string>
     <string name="settings_connect_summary1">Abra o Mi Smart Share no seu computador e selecione \"Combinação de telas\". Você pode baixar o Mi Smart Share em www.miui.com.</string>
-    <string name="settings_connect_summary2">Digitalize o código QR na tela do computador com seu dispositivo móvel. Você pode usar vários apps do sistema (ex.: Scanner, Câmera, Navegador Mi) para fazer isso.</string>
+    <string name="settings_connect_summary2">Digitalize o QR code na tela do computador com seu dispositivo móvel. Você pode usar vários apps do sistema (ex.: Scanner, Câmera, Navegador Mi) para fazer isso.</string>
     <string name="settings_connect_title1">Passo 1</string>
     <string name="settings_connect_title2">Passo 2</string>
     <string name="settings_current_device">Dispositivo conectado</string>

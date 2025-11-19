@@ -247,7 +247,7 @@
     <string name="accessibility_phone_signal_full">Sinal do dispositivo cheio.</string>
     <string name="accessibility_phone_three_bars">Sinal de três barras.</string>
     <string name="accessibility_phone_two_bars">Sinal de duas barras.</string>
-    <string name="accessibility_qr_code_scanner_button">Leitor de código QR</string>
+    <string name="accessibility_qr_code_scanner_button">Leitor de QR code</string>
     <string name="accessibility_qs_edit_add_tile_label">%1$s. Toque duas vezes para adicionar.</string>
     <string name="accessibility_qs_edit_move_tile">Mover %1$s</string>
     <string name="accessibility_qs_edit_position">Posição %1$d</string>
@@ -422,14 +422,14 @@
     <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
     <string name="adb_pair_method_code_summary">Parear novos dispositivos usando um código de seis dígitos</string>
     <string name="adb_pair_method_code_title">Parear dispositivo com código de pareamento</string>
-    <string name="adb_pair_method_qrcode_summary">Parear novos dispositivos usando scanner de código QR</string>
-    <string name="adb_pair_method_qrcode_title">Parear dispositivo com um código QR</string>
+    <string name="adb_pair_method_qrcode_summary">Parear novos dispositivos usando scanner de QR code</string>
+    <string name="adb_pair_method_qrcode_title">Parear dispositivo com um QR code</string>
     <string name="adb_paired_devices_title">Dispositivos pareados</string>
     <string name="adb_pairing_device_dialog_failed_msg">Certifique-se de que o dispositivo está conectado à mesma rede.</string>
     <string name="adb_pairing_device_dialog_failed_title">Falha no pareamento</string>
     <string name="adb_pairing_device_dialog_pairing_code_label">Código de pareamento Wi-Fi</string>
     <string name="adb_pairing_device_dialog_title">Parear com o dispositivo</string>
-    <string name="adb_qrcode_pairing_device_failed_msg">Falha ao parear o dispositivo. O código QR não é válido, ou o dispositivo não está conectado à mesma rede.</string>
+    <string name="adb_qrcode_pairing_device_failed_msg">Falha ao parear o dispositivo. O QR code não é válido, ou o dispositivo não está conectado à mesma rede.</string>
     <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu aparelho sem notificação e ler dados de registro.</string>
     <string name="adb_warning_title">Permitir a depuração USB?</string>
     <string name="adb_wireless_connection_failed_message">Certifique-se de que o %1$s está conectado à rede correta</string>
@@ -440,9 +440,9 @@
     <string name="adb_wireless_ip_addr_preference_title">Endereço de IP e porta</string>
     <string name="adb_wireless_list_empty_off">Para ver e usar os dispositivos disponíveis, ative a depuração sem fio</string>
     <string name="adb_wireless_no_network_msg">Por favor, conecte-se a uma rede Wi-Fi</string>
-    <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo via Wi‑Fi escaneando um código QR</string>
-    <string name="adb_wireless_qrcode_pairing_title">Escanear o código QR</string>
-    <string name="adb_wireless_qrcode_summary">Parear o dispositivo via Wi‑Fi escaneando um código QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Parear o dispositivo via Wi‑Fi escaneando um QR code</string>
+    <string name="adb_wireless_qrcode_pairing_title">Escanear o QR code</string>
+    <string name="adb_wireless_qrcode_summary">Parear o dispositivo via Wi‑Fi escaneando um QR code</string>
     <string name="adb_wireless_settings">Depuração sem fio</string>
     <string name="adb_wireless_verifying_qrcode_text">Pareando dispositivo…</string>
     <string name="adbwifi_warning_message">A depuração sem fio é destinada apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar apps no seu dispositivo sem notificação e ler dados de registro.</string>
@@ -1242,7 +1242,7 @@ Digite seu PIN para desbloquear."</string>
     <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
     <string name="gxzw_quick_open_dialer">Discador</string>
     <string name="gxzw_quick_open_dialer_sub">Telefone</string>
-    <string name="gxzw_quick_open_qr_code">Código QR</string>
+    <string name="gxzw_quick_open_qr_code">QR code</string>
     <string name="gxzw_quick_open_search">Pesquisar</string>
     <string name="gxzw_quick_open_skip_teach">Pular tutorial</string>
     <string name="gxzw_quick_open_title">Menu de atalhos aberto</string>
@@ -2290,7 +2290,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="prompt_detecting">Detectando</string>
     <string name="prompt_safe">Seguro</string>
     <string name="prompt_unknown">Desconhecido</string>
-    <string name="qr_code_scanner_title">Scanner de código QR</string>
+    <string name="qr_code_scanner_title">Scanner de QR code</string>
     <string name="qr_code_scanner_updating_secondary_label">Atualizando</string>
     <string name="qs_alarm_tile_no_alarm">Nenhum alarme definido</string>
     <string name="qs_bill_message_balance">%1$s %2$s restante</string>
@@ -3729,7 +3729,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="media_output_broadcast_start_failed">Não é possível transmitir</string>
     <string name="media_output_broadcast_starting">Iniciando…</string>
     <string name="media_output_broadcast_update_error">Não é possível salvar. Tente novamente.</string>
-    <string name="media_output_broadcasting_message">Para ouvir sua transmissão, pessoas próximas com dispositivos Bluetooth compatíveis podem escanear seu código QR ou usar seu nome e senha de transmissão.</string>
+    <string name="media_output_broadcasting_message">Para ouvir sua transmissão, pessoas próximas com dispositivos Bluetooth compatíveis podem escanear seu QR code ou usar seu nome e senha de transmissão.</string>
     <string name="media_output_dialog_accessibility_seekbar">Volume</string>
     <string name="media_output_dialog_accessibility_title">Dispositivos disponíveis para saída de áudio.</string>
     <string name="media_output_dialog_button_stop_casting">Pare de transmitir</string>

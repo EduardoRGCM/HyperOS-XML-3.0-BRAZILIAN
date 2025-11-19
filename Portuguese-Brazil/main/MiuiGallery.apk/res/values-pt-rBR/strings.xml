@@ -2667,9 +2667,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="publishing">Publicando…</string>
     <string name="purge_or_recovery_processing">Processando…</string>
     <string name="qq_login_btn_content_description">Entrar com QQ</string>
-    <string name="qr_invite_scan_hint">Escanear código QR</string>
-    <string name="qr_invite_time_hint">Este código QR é válido por %d dias</string>
-    <string name="qr_invite_title">Convite de código QR</string>
+    <string name="qr_invite_scan_hint">Escanear QR code</string>
+    <string name="qr_invite_time_hint">Este QR code é válido por %d dias</string>
+    <string name="qr_invite_title">Convite de QR code</string>
     <string name="quarterly_pets_title">Companheiros fofos</string>
     <string name="quotation">\"%s\"</string>
     <string name="realme">Realme</string>
@@ -2769,7 +2769,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
     <string name="request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
-    <string name="request_qr_code_failed">"Não foi possível obter o código QR"</string>
+    <string name="request_qr_code_failed">"Não foi possível obter o QR code"</string>
     <string name="request_sms_url_failed">"Não foi possível obter informações"</string>
     <string name="request_sms_url_msg">Solicitando informações…</string>
     <string name="request_sms_url_title">Dica</string>
@@ -2800,11 +2800,11 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="save_error_try_a_different_template_msg">Não foi possível salvar. A imagem é muito grande.</string>
-    <string name="scan_barcode_guide">Para obter o código QR do álbum, toque no botão Compartilhar.</string>
-    <string name="scan_barcode_to_join">Leia o código QR para adicionar o álbum</string>
-    <string name="scan_qr_code">Escanear código QR</string>
-    <string name="scan_qr_code_buttom_text">Leia o código QR para acessar este álbum</string>
-    <string name="scan_qr_to_accept_invitation">Leia o código QR para aceitar o convite</string>
+    <string name="scan_barcode_guide">Para obter o QR code do álbum, toque no botão Compartilhar.</string>
+    <string name="scan_barcode_to_join">Leia o QR code para adicionar o álbum</string>
+    <string name="scan_qr_code">Escanear QR code</string>
+    <string name="scan_qr_code_buttom_text">Leia o QR code para acessar este álbum</string>
+    <string name="scan_qr_to_accept_invitation">Leia o QR code para aceitar o convite</string>
     <string name="scanning_device_tips"><Data>Procurando dispositivos próximos. A outra pessoa precisa ativar o Xiaomi Share no centro de controle. &lt;a>Saiba mais&lt;/a></Data></string>
     <string name="scope_storage_dialog_cancel_btn">Cancelar</string>
     <string name="scope_storage_dialog_confirm_btn">Avançar</string>
@@ -3019,7 +3019,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_family_invite_link">URL</string>
     <string name="share_album_family_invite_miaccount">Conta Xiaomi</string>
     <string name="share_album_family_invite_other_cate_title">Amigos</string>
-    <string name="share_album_family_invite_qr">Código QR</string>
+    <string name="share_album_family_invite_qr">QR code</string>
     <string name="share_album_family_invite_resend">Convidar de novo</string>
     <string name="share_album_family_invite_sharer">Convidar pessoas</string>
     <string name="share_album_family_invite_sms">SMS</string>
@@ -3055,7 +3055,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_pref_album_name">Nome do álbum</string>
     <string name="share_album_pref_auto_add_photos_summary">Selecione pessoas para adicionar suas novas fotos a este álbum automaticamente</string>
     <string name="share_album_pref_auto_add_photos_title">Adicionar suas fotos automaticamente</string>
-    <string name="share_album_qr_code">"Código QR do álbum"</string>
+    <string name="share_album_qr_code">"QR code do álbum"</string>
     <string name="share_album_risk_control_invalid_name">"Não é possível usar o nome deste álbum. Escolha outro e tente novamente."</string>
     <string name="share_album_risk_control_tip_off">Denunciar</string>
     <string name="share_album_risk_control_tip_off_cate">Tipo de conteúdo</string>
@@ -4078,7 +4078,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="welcome_to_micloud">Bem-vindo à Xiaomi Cloud</string>
-    <string name="where_is_barcode">"Onde está o código QR?"</string>
+    <string name="where_is_barcode">"Onde está o QR code?"</string>
     <string name="who_is_this">Quem é?</string>
     <string name="widget_custom_store_detail_desc">Adicione o widget e toque nele para selecionar fotos</string>
     <string name="widget_disable">"Widgets deste tamanho não são compatíveis com este dispositivo"</string>

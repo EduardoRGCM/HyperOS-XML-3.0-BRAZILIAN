@@ -813,12 +813,12 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
 Escaneie o código abaixo com o app Scanner."</string>
     <string name="qr_code_login_is_loading">Aguarde…</string>
     <string name="qr_code_login_is_reloading">Aguarde…</string>
-    <string name="qr_code_login_load_failed">Recarregando o código QR…</string>
+    <string name="qr_code_login_load_failed">Recarregando o QR code…</string>
     <string name="qr_code_login_userid_hint">Conta Xiaomi: %s</string>
     <string name="qrcode_login_entry_text"><Data>Fez login em um dispositivo diferente? Use o &lt;a href=>login rápido&lt;/a></Data></string>
-    <string name="qrcode_login_load_refresh"><Data>Este código QR expirou. Toque para &lt;a href=>atualizar&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_refresh"><Data>Este QR code expirou. Toque para &lt;a href=>atualizar&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Não foi possível carregar. &lt;a href=>Tente novamente&lt;/a>."</Data></string>
-    <string name="qrcode_login_message">Vá para Configurações > Conta Xiaomi em seu dispositivo Xiaomi e escaneie o código QR para fazer login ou use outro leitor de código QR</string>
+    <string name="qrcode_login_message">Vá para Configurações > Conta Xiaomi em seu dispositivo Xiaomi e escaneie o QR code para fazer login ou use outro leitor de QR code</string>
     <string name="qrcode_login_title">Escaneie para fazer login</string>
     <string name="range_end">Fim do intervalo</string>
     <string name="range_start">Início do intervalo</string>
@@ -844,7 +844,7 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="scan_barcode_title">Para fazer login em sua Conta Xiaomi, escaneie o código QR</string>
+    <string name="scan_barcode_title">Para fazer login em sua Conta Xiaomi, escaneie o QR code</string>
     <string name="search_account_security">Segurança da conta</string>
     <string name="search_account_security_desc">Configurações da conta</string>
     <string name="search_account_security_key_words">Alterar telefone,Alterar e-mail,Proteção da conta,Contas,Sina Weibo,QQ,Autorização,Dispositivos</string>
@@ -909,7 +909,7 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="system_ad_switch">Anúncios em apps de sistema</string>
     <string name="system_ad_switch_failed">"Não foi possível aplicar a configuração"</string>
     <string name="tab">Aba</string>
-    <string name="talkback_scan_barcode">Digitalizar código QR</string>
+    <string name="talkback_scan_barcode">Digitalizar QR code</string>
     <string name="template_percent">%1$d%%.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>

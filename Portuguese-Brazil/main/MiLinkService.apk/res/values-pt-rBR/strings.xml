@@ -479,7 +479,7 @@ seus dispositivos?"</string>
     <string name="circulate_network_connect_failed_pad_message_iPhone">Certifique-se de que o seu tablet e o iPhone estão conectados à mesma conta e à mesma rede, ou veja a ajuda.</string>
     <string name="circulate_network_connect_failed_pad_message_unsupport_pad">A conexão com tablets não é suportada</string>
     <string name="circulate_network_connect_failed_title">Não foi possível conectar-se</string>
-    <string name="circulate_network_connect_success_title">Conectado por código QR</string>
+    <string name="circulate_network_connect_success_title">Conectado por QR code</string>
     <string name="circulate_network_connecting_message">Mantenha seu dispositivo desbloqueado com a tela ligada.</string>
     <string name="circulate_network_connecting_message_pad">Mantenha seu tablet desbloqueado com a tela ligada.</string>
     <string name="circulate_network_connecting_title">Conectando-se ao dispositivo…</string>

@@ -1126,7 +1126,7 @@ Adicione widgets para começar."</string>
     <string name="pa_widget_need_download_version">Versão %1$s</string>
     <string name="pa_widget_pay_ali_description">Código de pagamento Alipay</string>
     <string name="pa_widget_pay_wx_description">Código de pagamento WeChat</string>
-    <string name="pa_widget_qr_code_description">Código QR</string>
+    <string name="pa_widget_qr_code_description">"QR code"</string>
     <string name="pa_widget_scan_ali_description">Escanear com Alipay</string>
     <string name="pa_widget_scan_always_collect_money_here">Receber pagamento</string>
     <string name="pa_widget_scan_card_title">Escaneamento rápido</string>

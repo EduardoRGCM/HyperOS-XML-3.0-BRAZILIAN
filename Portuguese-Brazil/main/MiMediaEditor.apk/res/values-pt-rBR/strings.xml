@@ -1726,7 +1726,7 @@ Toque em \"Pro\" para usar."</string>
     <string name="settings_ai_editor_remover_new">Apagar IA Pro</string>
     <string name="settings_ai_editor_summary">Crie e edite fotos e vídeos</string>
     <string name="settings_ai_editor_title">Assistente de Criatividade IA</string>
-    <string name="share_album_qr_code">"Código QR do álbum"</string>
+    <string name="share_album_qr_code">"QR code do álbum"</string>
     <string name="share_and_delete_picture">Excluir após compartilhar</string>
     <string name="share_and_delete_screenshot">Excluir após compartilhar</string>
     <string name="side_sheet_accessibility_pane_title">Página lateral</string>

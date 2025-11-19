@@ -484,7 +484,7 @@
     <string name="copy_number">Copiar</string>
     <string name="copy_text">Copiar para área de transferência</string>
     <string name="create_group_dialog_title">Criar novo grupo</string>
-    <string name="create_qrcode_fail_message">"Não é possível criar o código QR"</string>
+    <string name="create_qrcode_fail_message">"Não é possível criar o QR code"</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Informação importante
 Ao tocar em \"Aceitar\" abaixo, você está aceitando o &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Contrato de Serviço da Conta Xiaomi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Contrato do Usuário do Mi Roaming&lt;/a>&lt;/font>, e a &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade&lt;/a>&lt;/font>. Leia estes documentos cuidadosamente e entenda todos os termos e condições relacionados antes de aceitar.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
@@ -832,7 +832,7 @@ Motivo: \"%s\""</string>
     <string name="menu_removeStar">Remover favorito</string>
     <string name="menu_settings">Configurações</string>
     <string name="menu_share">Compartilhar</string>
-    <string name="menu_share_qrcode">Código QR</string>
+    <string name="menu_share_qrcode">"QR code"</string>
     <string name="menu_share_text">Texto</string>
     <string name="menu_share_vcard_file">Arquivo</string>
     <string name="menu_sync_remove">Remover sincronização do grupo</string>
@@ -1306,8 +1306,8 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="pull_to_refresh_pull_label">Puxe para atualizar</string>
     <string name="pull_to_refresh_refreshing_label">Aguarde…</string>
     <string name="pull_to_refresh_release_label">Solte para atualizar</string>
-    <string name="qr_card_card">Código QR</string>
-    <string name="qrcode_card_title">Código QR</string>
+    <string name="qr_card_card">"QR code"</string>
+    <string name="qrcode_card_title">"QR code"</string>
     <string name="quick_dial_setting_delete_dialog_message">Excluir o número de discagem rápida atribuído?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Excluir</string>
     <string name="quick_dial_setting_hint">Toque no botão para atribuir ou remover um número de discagem rápida. Pressione e segure o botão com um número atribuído para chamar.</string>
@@ -1363,7 +1363,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="scan_not_installed_china">Instale o Mi AI Scanner primeiro</string>
     <string name="scan_not_installed_china_ai">Instale o AI Scanner para poder usar este recurso</string>
     <string name="scan_not_installed_global">Instale o Scanner primeiro</string>
-    <string name="scan_qrcode_card_hint1">Digitalize o código QR acima</string>
+    <string name="scan_qrcode_card_hint1">Digitalize o QR code acima</string>
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">O armazenamento não pôde ser verificado</string>
     <string name="sdnContacts_empty">Nenhum SDN</string>
@@ -1397,7 +1397,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="share_contact_as">Compartilhar contato como</string>
     <string name="share_error">"Este contato não pode ser compartilhado."</string>
     <string name="share_over_limit">"Não é possível compartilhar mais de %d contatos"</string>
-    <string name="share_qrcode">Compartilhar código QR</string>
+    <string name="share_qrcode">Compartilhar QR code</string>
     <string name="share_via">Enviar usando</string>
     <string name="share_visible_contacts">Compartilhar contatos</string>
     <string name="shortcutActivityTitle">Escolha um atalho</string>
