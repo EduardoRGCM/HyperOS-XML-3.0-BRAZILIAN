@@ -1580,7 +1580,6 @@ Toque em \"Pro\" para usar."</string>
     <string name="portrait_improving_skin_luster">Aumentando radiância da pele…</string>
     <string name="portrait_improving_the_texture_of_the_whole_picture">Otimizando texturas…</string>
     <string name="portrait_optimizing_skin_texture">Otimizando textura da pele…</string>
-    <string name="pref_camera_watermark_on_brief">P_~</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="prepare_to_drop">Salvando em %s</string>
     <string name="privacy_permission_request_message"><Data>A Galeria precisa de acesso a %3$s. As informações que coletamos serão usadas de acordo com nossos &lt;a href=\"%1$s\">\"Termos de Serviço\"&lt;/a> e a &lt;a href=\"%2$s\">\"Política de Privacidade\"&lt;/a>. Permitir?</Data></string>

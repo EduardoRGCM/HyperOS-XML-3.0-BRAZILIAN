@@ -396,6 +396,7 @@
     <string name="dialog_button_move">Mover</string>
     <string name="dialog_expert_as_markdown">Exportar como Remarcação</string>
     <string name="dialog_privacy_revoke_tips">"Depois que você revogar a autorização, o app parará de coletar dados, e todos os dados relacionados serão excluídos dos servidores. Isto poderá fazer com que o app fique virtualmente inutilizável. Revogar a autorização mesmo assim? Para garantir a segurança da sua conta, faça o login em i.mi.com antes de revogar a autorização dos serviços da nuvem."</string>
+    <string name="dialog_share_as_duplicate">Compartilhar nota como cópia</string>
     <string name="dialog_share_as_pic">Compartilhar nota como imagem</string>
     <string name="dialog_share_as_text">Compartilhar nota como texto</string>
     <string name="dialog_tip_title">Atenção!</string>

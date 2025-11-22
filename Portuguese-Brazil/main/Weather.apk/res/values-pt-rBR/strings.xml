@@ -622,6 +622,14 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="sunday_shortest">Dom</string>
     <string name="sunrise">Nascer do sol</string>
     <string name="sunset">Pôr do sol</string>
+    <string name="tag_card_item">item do cartão</string>
+    <string name="tag_click_zoom_in">Aumentar zoom</string>
+    <string name="tag_click_zoom_out">Diminuir zoom</string>
+    <string name="tag_current_point">Ponto central do tufão</string>
+    <string name="tag_future_point">Ponto da trajetória futura</string>
+    <string name="tag_history_point">Ponto da trajetória histórica</string>
+    <string name="tag_manual_zoom_in">Aumentar zoom manualmente</string>
+    <string name="tag_manual_zoom_out">Diminuir zoom manualmente</string>
     <string name="temperature_normal_unit">"%1$s°"</string>
     <string name="temperature_unit_C">"%1$s℃"</string>
     <string name="temperature_unit_F">"%1$s℉"</string>

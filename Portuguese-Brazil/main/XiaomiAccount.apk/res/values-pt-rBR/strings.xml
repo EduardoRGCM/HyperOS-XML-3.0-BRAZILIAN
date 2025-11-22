@@ -189,8 +189,16 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="deny">Recusar</string>
     <string name="device_delete_success_message">"Caso não tenha feito o login neste dispositivo, troque sua senha imediatamente."</string>
     <string name="device_delete_success_title">Desconectado</string>
+    <string name="device_id">ID do dispositivo</string>
+    <string name="device_list_error_tip"><Data>"Não foi possível carregar. &lt;a href=>Tentar novamente&lt;/a>"</Data></string>
     <string name="device_list_title">Meus dispositivos</string>
     <string name="device_name">Nome do dispositivo</string>
+    <string name="device_recent_login_time">Último login</string>
+    <string name="device_status_failed">"Não foi possível enviar"</string>
+    <string name="device_status_receiver">Aceito</string>
+    <string name="device_status_reject">Rejeitado</string>
+    <string name="device_status_success">Enviado</string>
+    <string name="device_status_waiting">Enviando…</string>
     <string name="dind_device_service_not_open">Desativado</string>
     <string name="dind_device_service_opened">Ativado</string>
     <string name="dropdown_menu">Menu suspenso</string>
@@ -316,6 +324,7 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="friday_shortest">Sex</string>
     <string name="get_back_password">Redefinir senha</string>
     <string name="get_back_pwd">Redefinir senha</string>
+    <string name="get_device_info_error">"Não foi possível obter informações do dispositivo"</string>
     <string name="get_identity_auth_url_failed">"Não foi possível verificar o ID"</string>
     <string name="get_phone_bind_exceed_limit">"Você pode associar até %d Contas Mi a um número de telefone. Não é possível adicionar mais contas."</string>
     <string name="get_phone_verifycode_exceed_limit">"Não é possível enviar mais códigos de verificação para este número."</string>
@@ -349,6 +358,12 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="kr_permission_phone_desc">Para proteger sua conta</string>
     <string name="kr_permission_sms_desc">Para preencher códigos de verificação automaticamente</string>
     <string name="kr_permission_storage_desc">Para salvar diagnósticos</string>
+    <string name="local_invite_help">"Não consegue encontrar o dispositivo?"</string>
+    <string name="local_invite_prompt_disable_btn">Ativar</string>
+    <string name="local_invite_prompt_disable_describe">Ative o Bluetooth para encontrar dispositivos próximos</string>
+    <string name="local_invite_prompt_disable_title">Convidar dispositivos próximos</string>
+    <string name="local_invite_prompt_enable_describe">Procurando dispositivos próximos. Ative o Bluetooth em ambos os dispositivos.</string>
+    <string name="local_invite_prompt_enable_title">Convidar dispositivos próximos</string>
     <string name="login_3rd_app_with_system_account">Fazer login em %s</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">"Não foi possível verificar as informações de segurança do dispositivo"</string>
@@ -446,6 +461,8 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="new_version">Nova versão</string>
     <string name="night">"PM"</string>
     <string name="no_account_or_forget_password">Criar conta ou esqueceu a senha?</string>
+    <string name="no_account_or_skip">"Não tenho uma Conta Xiaomi ou pular login"</string>
+    <string name="no_device_tip_message">"Se o seu dispositivo não aparecer aqui, atualize-o para a versão mais recente"</string>
     <string name="no_network_btn">Atualizar</string>
     <string name="no_network_title">"Não é possível conectar-se à rede."</string>
     <string name="no_password_set">Não definido</string>
@@ -593,6 +610,8 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
     <string name="passport_facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="passport_failed_to_send_activate_email">"Não foi possível enviar o e-mail de ativação"</string>
+    <string name="passport_family_invite_member_sms">Serviços familiares: %1$s convida você para participar da família para aproveitar o armazenamento na nuvem compartilhado e muito mais. Você também pode usar o Proteção Familiar Guard para proteger menores e outros membros da família. Toque em %2$s para participar.</string>
+    <string name="passport_family_invite_member_wechat_title">%s convida você para participar da família</string>
     <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir sua senha.</string>
     <string name="passport_first_login_prompt">A Conta Xiaomi será criada automaticamente quando você usar um número de telefone pela primeira vez.</string>
     <string name="passport_forget_password"><u>Esqueci a senha</u></string>
@@ -625,6 +644,18 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="passport_input_verify_code">Digite o código de verificação</string>
     <string name="passport_input_voice_captcha_hint">Digite o código de verificação por voz</string>
     <string name="passport_input_voice_hint">Digite o código de voz</string>
+    <string name="passport_invite_family_member_ticker">Compartilhamento familiar</string>
+    <string name="passport_invite_family_member_title">Convidar membro</string>
+    <string name="passport_invite_member_accountid_label">Conta Xiaomi</string>
+    <string name="passport_invite_member_exceed">"Não é possível convidar mais membros da família. Cancele um convite pendente ou remova um membro para convidar."</string>
+    <string name="passport_invite_member_frequent">Muitas tentativas. Espere um pouco e tente novamente.</string>
+    <string name="passport_invite_member_local_describe">%s convida você para participar da família</string>
+    <string name="passport_invite_member_local_title">Compartilhamento familiar</string>
+    <string name="passport_invite_member_no_organizer">Peça ao organizador para enviar um convite</string>
+    <string name="passport_invite_member_overseas_account">Este serviço está disponível apenas na China continental</string>
+    <string name="passport_invite_member_qrcode_label">"QR code"</string>
+    <string name="passport_invite_member_sms_label">"SMS"</string>
+    <string name="passport_invite_member_wechat_label">WeChat</string>
     <string name="passport_loading">Carregando…</string>
     <string name="passport_login">Fazer login</string>
     <string name="passport_login_by_local_phone_long_text">Fazer login agora</string>
