@@ -190,20 +190,20 @@
     <string name="app_library_category_work_and_efficiency">Trabalho</string>
     <string name="app_name">Localizador de App</string>
     <string name="app_store">Loja de Apps</string>
-    <string name="Localizador de App_accessibility_btn_close">Desativar</string>
-    <string name="Localizador de App_accessibility_clear_search_bar_text">Limpar barra de pesquisa</string>
-    <string name="Localizador de App_content_branch_privacy_tip"><Data>"Não poderemos fornecer serviços personalizados a você a menos que concorde com nosso &lt;font color=#0D84FF>&lt;/color>&lt;a href=%1$s>Acordo do Usuário&lt;/a>&lt;/font> e &lt;font color=#0D84FF>&lt;/color>&lt;a href=%2$s>Política de Privacidade&lt;/a>&lt;/font>. Selecione \"Concordar\" para poder usar serviços personalizados ou \"Não concordar\" para continuar usando recursos básicos do sistema."</Data></string>
-    <string name="Localizador de App_drawer_empty_result">"Não foi possível encontrar resultados"</string>
-    <string name="Localizador de App_drawer_no_network">"Não foi possível conectar à rede"</string>
-    <string name="Localizador de App_drawer_privacy_dialog_btn_agree">Concordar</string>
-    <string name="Localizador de App_drawer_privacy_dialog_subtitle">Organize todos os apps e encontre os que você precisa em um piscar de olhos</string>
-    <string name="Localizador de App_drawer_privacy_dialog_tip"><Data>"Este recurso é fornecido pela Branch Metrics Inc. Antes de continuar, leia e concorde com o &lt;font color=#0D84FF>&lt;/color>&lt;a href=%1$s>Acordo do Usuário&lt;/a>&lt;/font> e a &lt;font color=#0D84FF>&lt;/color>&lt;a href=%2$s>Política de Privacidade&lt;/a>&lt;/font> da Branch e permita que a Branch use os dados que você gera para melhorar seus produtos e serviços de personalização."</Data></string>
-    <string name="Localizador de App_drawer_privacy_dialog_title">Comece a usar a Gaveta de apps</string>
-    <string name="Localizador de App_drawer_result_loading">Só um segundo…</string>
-    <string name="Localizador de App_enjoy_drawer">Iniciar</string>
-    <string name="Localizador de App_reject_drawer">"Não concordar"</string>
-    <string name="Localizador de App_search_bar_hint_content">Pesquisar apps e conteúdo</string>
-    <string name="Localizador de App_title_drawer_tip">Serviços personalizados</string>
+    <string name="appfinder_accessibility_btn_close">Desativar</string>
+    <string name="appfinder_accessibility_clear_search_bar_text">Limpar barra de pesquisa</string>
+    <string name="appfinder_content_branch_privacy_tip"><Data>"Não poderemos fornecer serviços personalizados a você a menos que concorde com nosso &lt;font color=#0D84FF>&lt;/color>&lt;a href=%1$s>Acordo do Usuário&lt;/a>&lt;/font> e &lt;font color=#0D84FF>&lt;/color>&lt;a href=%2$s>Política de Privacidade&lt;/a>&lt;/font>. Selecione \"Concordar\" para poder usar serviços personalizados ou \"Não concordar\" para continuar usando recursos básicos do sistema."</Data></string>
+    <string name="appfinder_drawer_empty_result">"Não foi possível encontrar resultados"</string>
+    <string name="appfinder_drawer_no_network">"Não foi possível conectar à rede"</string>
+    <string name="appfinder_drawer_privacy_dialog_btn_agree">Concordar</string>
+    <string name="appfinder_drawer_privacy_dialog_subtitle">Organize todos os apps e encontre os que você precisa em um piscar de olhos</string>
+    <string name="appfinder_drawer_privacy_dialog_tip"><Data>"Este recurso é fornecido pela Branch Metrics Inc. Antes de continuar, leia e concorde com o &lt;font color=#0D84FF>&lt;/color>&lt;a href=%1$s>Acordo do Usuário&lt;/a>&lt;/font> e a &lt;font color=#0D84FF>&lt;/color>&lt;a href=%2$s>Política de Privacidade&lt;/a>&lt;/font> da Branch e permita que a Branch use os dados que você gera para melhorar seus produtos e serviços de personalização."</Data></string>
+    <string name="appfinder_drawer_privacy_dialog_title">Comece a usar a Gaveta de apps</string>
+    <string name="appfinder_drawer_result_loading">Só um segundo…</string>
+    <string name="appfinder_enjoy_drawer">Iniciar</string>
+    <string name="appfinder_reject_drawer">"Não concordar"</string>
+    <string name="appfinder_search_bar_hint_content">Pesquisar apps e conteúdo</string>
+    <string name="appfinder_title_drawer_tip">Serviços personalizados</string>
     <string name="application_upgrade">Atualizações</string>
     <string name="booking_price_tips">Preço (%1$s, %2$s)</string>
     <string name="bottomsheet_action_collapse">Recolher a página inferior</string>

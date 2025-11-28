@@ -49,6 +49,7 @@
     <string name="android_oaid">OAID</string>
     <string name="antispam">Lista de bloqueio</string>
     <string name="app_name">"Mi Mover"</string>
+    <string name="app_update_64_dialog_title_formatted">Atualizar para arquitetura %1$d bits</string>
     <string name="app_update_64_dialog_cancel">Agora não</string>
     <string name="app_update_64_dialog_confirm">Atualizar</string>
     <string name="app_update_64_dialog_title">Atualização para arquitetura de 64 bits</string>
@@ -67,7 +68,7 @@
     <string name="appname_app_data_suffix">Dados do app %1$s</string>
     <string name="apps_cannot_be_transfered_confirm_button">Iniciar</string>
     <string name="apps_cannot_be_transfered_next_button">Próximo</string>
-    <string name="apps_cannot_be_transfered_summary">"Esses apps de 64 bits não podem ser transferidos para um dispositivo de 32 bits. Você pode baixá-los diretamente do GetApps após a transferência."</string>
+    <string name="apps_cannot_be_transfered_summary">"Esses apps de %1$d bits não podem ser transferidos para um dispositivo de %2$d bits. Você pode baixá-los diretamente do GetApps após a transferência."</string>
     <string name="apps_cannot_be_transfered_title">"Não é possível transferir estes apps"</string>
     <string name="audio">Áudio</string>
     <string name="audio_video_document">Áudio, vídeo e documentos</string>
@@ -411,6 +412,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="loading_data">Aguarde…</string>
     <string name="location_permission_desc">Para encontrar dispositivos próximos</string>
     <string name="location_permission_request">Para conectar a outros dispositivos próximos</string>
+    <string name="lockscreen_access">Área do padrão</string>
     <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
     <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
     <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
@@ -447,6 +449,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Selecionar</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
@@ -694,6 +697,9 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="receiver_finish_not_transferred">Não transferido</string>
     <string name="receiver_finish_title">"Você está pronto!"</string>
     <string name="receiver_finish_transferred">Transferido</string>
+    <string name="recent_one_year_formatted">Último %d ano</string>
+    <string name="recent_seven_days_formatted">Últimos %d dias</string>
+    <string name="recent_thirty_days_formatted">Últimos %d dias</string>
     <string name="receiver_video_summary">Desbloquear seu dispositivo antigo, toque em \"Transferir\" e escaneie esta imagem.</string>
     <string name="receiver_video_summary_pad">Desbloqueie seu dispositivo antigo, toque em \"Transferir\" e escaneie esta imagem.</string>
     <string name="receiver_video_title">Transferir do dispositivo antigo</string>

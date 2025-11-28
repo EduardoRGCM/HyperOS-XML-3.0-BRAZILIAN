@@ -130,8 +130,9 @@
     <string name="button_settings_cancel">Cancelar</string>
     <string name="button_settings_confirm">Retirar</string>
     <string name="button_settings_confirm_to_revoke_msg">Você não poderá usar o Clima após retirar o consentimento.</string>
-    <string name="button_settings_confirm_to_revoke_title">Retirar consentimento?</string>
     <string name="button_sure_abandon">Descartar mudanças?</string>
+    <string name="calendar_date_picker_a11y_next_month">Alterar para o próximo mês</string>
+    <string name="calendar_date_picker_a11y_prev_month">Alterar para o mês anterior</string>
     <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
     <string name="china_version_first_start_network_msg">"Você precisa aceitar o %1$s e %2$s da Xiaomi para poder usar o Clima. O Clima precisa acessar sua localização e se conectar à internet para funcionar normalmente. Aceitar?"</string>
     <string name="city_exceeded_tips">"Não é possível adicionar mais locais. Remova alguns locais antes de adicionar um novo."</string>

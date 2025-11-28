@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Atualizações</string>
-    <string name="battery_islow">Conecte seu carregador</string>
+    <string name="battery_islow">&lt;font color=#f37981>Conecte seu carregador&lt;/font></string>
     <string name="battery_islow_desc">O nível da bateria está muito baixo para instalar o arquivo ZIP com segurança, conecte o carregador e tente novamente mais tarde!</string>
     <string name="btn_changelog">Lista de alterações</string>
     <string name="btn_download">Baixar (%1$s B)</string>
@@ -19,6 +19,7 @@
     <string name="channel_service">Serviço em 2º plano das atualizações</string>
     <string name="channel_update">Nova versão disponível</string>
     <string name="check_new_version">Procurar por atualizações</string>
+    <string name="copy">Copiar</string>
     <string name="dialog_3g_desc">Lembre-se de que o uso de dados móveis para baixar ROMs pode exigir uma quantia significativa do seu pacote.</string>
     <string name="dialog_3g_title">Aviso!</string>
     <string name="dialog_ab">Seu dispositivo oferece suporte a \"Atualizações de sistema contínuas\", lembre-se de selecionar \"Slot A\" quando solicitado no TWRP!</string>
@@ -33,6 +34,7 @@
     <string name="download_fail_desc">A soma do MD5 não combina…</string>
     <string name="downloading">Baixando:</string>
     <string name="downloading_desc">O download está em progresso, verifique seu status na Área de notificações.</string>
+    <string name="expand_button_title">Avançado</string>
     <string name="fastboot_desc">Agora o dispositivo será reinicializado no Modo Fastboot. Caso não esteja familiarizado com este modo, cancele ações futuras. Continuar?</string>
     <string name="fastboot_mode">Modo Fastboot ativado, você só pode fazer flash da ROM através do Terminal no PC!</string>
     <string name="fastboot_update_warning">Esta atualização é apenas para instalação via Fastboot!</string>
@@ -70,6 +72,7 @@ Seus dados não serão apagados."</string>
     <string name="no_update">Nenhuma atualização disponível!</string>
     <string name="no_xioamieu">"Você não está usando o HyperOS da Xiaomi.eu!
 Atualizações não estão disponíveis pra você!"</string>
+    <string name="not_set">Não definido</string>
     <string name="notif_cancel">Cancelar</string>
     <string name="notif_install">Instalar</string>
     <string name="notif_new_summary">Toque para ver os detalhes</string>
@@ -83,6 +86,7 @@ Atualizações não estão disponíveis pra você!"</string>
     <string name="permlab_reboot">Acesso à reinicialização</string>
     <string name="pick_not_found">Nenhum gerenciador de arquivos adequado foi encontrado.</string>
     <string name="pick_title">Escolha usando:</string>
+    <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="recovery_desc">Agora o dispositivo será reiniciado no Modo Recovery. Caso não esteja familiarizado com este modo, cancele as ações futuras. Continuar?</string>
     <string name="recovery_mode">Modo Recovery ativado, você pode atualizar sua ROM pela Atualização!</string>
     <string name="server_error">O servidor não está respondendo, o app pode não funcionar corretamente!</string>
