@@ -589,7 +589,6 @@ seus dispositivos?"</string>
     <string name="connect_settings_category_hyper_mind">HyperMind</string>
     <string name="connect_settings_category_hyper_mind_new">Controles inteligentes</string>
     <string name="connect_settings_category_personal_device">Dispositivos pessoais</string>
-    <string name="connect_settings_communication_sharing">Compartilhamento de conectividade</string>
     <string name="connect_settings_close">Desativado</string>
     <string name="connect_settings_communication_sharing">Conectividade compartilhada</string>
     <string name="connect_settings_communication_sharing_global">Sincronização de rede</string>
@@ -783,7 +782,6 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="err_toast_msg_not_support_video_protocol">"Este dispositivo não suporta MIUI+"</string>
     <string name="err_toast_msg_retry_later">"Não foi possível realizar esta ação. Aguarde um momento e tente novamente."</string>
     <string name="err_toast_msg_state_not_support">Arrastar não é suportado</string>
-    <string name="err_toast_msg_try_switch_network">Conecte o seu dispositivo móvel e o seu computador para a mesma rede Wi-Fi</string>
     <string name="err_toast_msg_try_switch_network">Conecte seu dispositivo móvel e computador à mesma rede Wi-Fi</string>
     <string name="err_toast_msg_upgrade_pc_version">Atualize o MIUI+ no seu computador para poder usar este recurso</string>
     <string name="error_a11y_label">Erro: inválido</string>
@@ -1887,7 +1885,6 @@ certifique-se de que o pacote contenha as versões mais recentes de todos os app
     <string name="upgrade_title">Atualizar dispositivos conectados</string>
     <string name="upgrade_toast_no_wifi">"Não foi possível conectar"</string>
     <string name="upgrade_toast_login_error">Ative o \"Definir fuso horário automaticamente\" nas Configurações e tente novamente</string>
-    <string name="upgrade_toast_no_wifi">Não foi possível conectar-se</string>
     <string name="upgrade_tv_device_tip">• As atualizações são fornecidas pela TV Xiaomi</string>
     <string name="upgrade_ver_can_upgrade">Atualização disponível</string>
     <string name="upgrade_ver_can_upgrade_1to2">Atualização da versão %1$d para %2$d</string>

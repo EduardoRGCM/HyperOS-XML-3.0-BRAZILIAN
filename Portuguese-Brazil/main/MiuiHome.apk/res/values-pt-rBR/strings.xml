@@ -812,6 +812,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="wallpaper">Plano de fundo</string>
+    <string name="wallpaper_zoom_title">Efeitos de zoom do plano de fundo</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

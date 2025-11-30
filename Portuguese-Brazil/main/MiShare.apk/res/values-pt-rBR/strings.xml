@@ -120,8 +120,7 @@
     <string name="error_has_occurred">Ocorreu um erro</string>
     <string name="error_mirror_working">"Não é possível compartilhar itens enquanto compartilha a tela"</string>
     <string name="error_local_ap_in_use">Desative o hotspot neste dispositivo e tente novamente</string>
-    <string name="error_local_easytether">Desativar o compartilhamento de conectividade neste dispositivo e tente novamente</string>
-    <string name="error_remote_easytether">Desative o compartilhamento de conectividade no outro dispositivo e tente novamente</string>
+    <string name="error_local_easytether">Desative a Conectividade compartilhada neste dispositivo e tente novamente</string>
     <string name="error_local_mirror">Desative o Screen Combo neste dispositivo e tente novamente</string>
     <string name="error_local_p2p_in_use">Desative os recursos entre dispositivos e tente novamente</string>
     <string name="error_local_screening">Pare a transmissão neste dispositivo e tente novamente</string>
@@ -809,5 +808,4 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="yesterday">Ontem</string>
     <string name="zte">ZTE</string>
     <string name="zte_phone">ZTE</string>
-    <string name="yesterday">Ontem</string>
 </resources>

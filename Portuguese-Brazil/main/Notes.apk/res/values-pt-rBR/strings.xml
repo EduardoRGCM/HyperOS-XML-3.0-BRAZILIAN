@@ -74,7 +74,6 @@
     <string name="ai_chat_declare_double_link"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="ai_chat_dlg_content">Para diversas fontes de informação em diferentes cenários (como links ou texto que aparecem em apps como navegadores, WeChat e Feishu), a função de coletar e resumir informações rapidamente, bem como gerá-las e apresentá-las automaticamente em uma entrada unificada para arquivamento, pode ser alcançado.</string>
     <string name="ai_createing_text">Geração de IA…</string>
-    <string name="ai_check">Revisão de IA</string>
     <string name="ai_complete_summary_title">Resumo</string>
     <string name="ai_content_generates_reminders">Este conteúdo foi gerado por IA e é fornecido apenas para a sua referência.</string>
     <string name="ai_dialog_cancel_message">Experimente desativar o suporte computacional para usar a Escrita por IA na nuvem.</string>
@@ -694,7 +693,6 @@
     <string name="mind_note_toolbar_delete_node">Excluir nó</string>
     <string name="mind_note_toolbar_demote">Um nível abaixo</string>
     <string name="mind_note_toolbar_promote">Um nível acima</string>
-    <string name="miui_penengine_more_tool_pencil_hotkey">Botões de atalho da stylus</string>
     <string name="miui_penengine_button_cancel">"Cancelar"</string>
     <string name="miui_penengine_button_confirm">"OK"</string>
     <string name="miui_penengine_more_tool_add_text">Insira o texto</string>
@@ -914,12 +912,10 @@
     <string name="new_audio_create_talkback_des">Toque para criar uma nota em texto. Pressione e segure para criar uma nota de voz. Solte o botão para parar a gravação e criar uma nota, ou deslize para cima para cancelar.</string>
     <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
     <string name="new_data_empty_note">Sem itens</string>
-    <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
-    <string name="new_sync_desc_state_disable">Ative a sincronização com a nuvem para notas, tarefas e mais</string>
+    <string name="new_sync_desc_state_disable">Ative a sincronização com a nuvem para notas, tarefas e muito mais.</string>
     <string name="new_notes_create_talkback_des">Toque para criar uma nota</string>
     <string name="new_todo_create_talkback_des">Toque para criar uma tarefa</string>
     <string name="night">"PM"</string>
-    <string name="new_sync_desc_state_disable">Ative a sincronização na nuvem para notas, tarefas e muito mais.</string>
     <string name="no_network">"Não é possível conectar-se à rede"</string>
     <string name="noon">"PM"</string>
     <string name="not_now">Agora não</string>

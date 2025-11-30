@@ -3593,7 +3593,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="failed_attempts_now_wiping_user">Muitas tentativas incorretas. Este usuário será excluído.</string>
     <string name="fgs_dot_content_description">Nova informação</string>
     <string name="fgs_manager_app_item_stop_button_label">Parar</string>
-    <string name="fgs_manager_app_item_stop_button_stopped_label">Parou</string>
+    <string name="fgs_manager_app_item_stop_button_stopped_label">Inativo</string>
     <string name="fgs_manager_dialog_title">Apps ativos</string>
     <string name="fingerprint_re_enroll_dialog_content">"Para configurar o Desbloqueio com impressão digital novamente, suas imagens e modelos de impressão digital atuais serão excluídos. Depois que eles forem excluídos, você precisará configurar o Desbloqueio com impressão digital novamente para usar sua impressão digital para desbloquear o dispositivo ou verificar sua identidade."</string>
     <string name="fingerprint_re_enroll_dialog_content_singular">"Para configurar o Desbloqueio com impressão digital novamente, suas imagens e modelo de impressão digital atuais serão excluídos. Depois que eles forem excluídos, você precisará configurar o Desbloqueio com impressão digital novamente para usar sua impressão digital para desbloquear o dispositivo ou verificar sua identidade."</string>
@@ -3839,9 +3839,8 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_admin_restricted_network">Não permitido pela sua organização</string>
     <string name="wifitrackerlib_checking_for_internet_access">Verificando acesso à internet…</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Indisponível com as configurações de segurança atuais</string>
-    <string name="format_week_day_style2">dd EE</string>
+    <string name="format_week_day_style2">EE dd</string>
     <string name="gxzw_icon_access_tips">Ícone de impressão digital</string>
-    <string name="kg_wrong_pattern">Padrão incorreto</string>
     <string name="miui_depth_pets_moth_format">d 'de' MMM</string>
     <string name="stream_assistant">Assistente de voz</string>
 </resources>

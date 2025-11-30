@@ -525,10 +525,10 @@ d/M"</string>
     <string name="miui_oversize_a_date">"d
 /
 M"</string>
-    <string name="miui_pad_c_date">d.M</string>
+    <string name="miui_pad_c_date">d/M</string>
     <string name="miui_rhombus_clock_date">"dd 'de' MMMM"</string>
     <string name="miui_smart_frame_clock_date">d/M</string>
-    <string name="miui_smart_frame_clock_date_dot">d.M</string>
+    <string name="miui_smart_frame_clock_date_dot">d/M</string>
     <string name="miui_smart_frame_clock_week">"EEE"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>

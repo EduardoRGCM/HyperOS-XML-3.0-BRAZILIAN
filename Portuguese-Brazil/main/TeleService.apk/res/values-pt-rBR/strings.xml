@@ -170,7 +170,6 @@
     <string name="accessor_expires_text">O lease expira em %s</string>
     <string name="accessor_info_title">Apps que compartilham dados</string>
     <string name="accessor_no_description_text">Nenhuma descrição fornecida pelo app.</string>
-    <string name="accessibility_settings_activity_title">Acessibilidade</string>
     <string name="accessibility_sliding_button_state_description_off">Desativado</string>
     <string name="accessibility_sliding_button_state_description_on">Ativado</string>
     <string name="accessibility_tab_state_description_unselect">Não selecionado</string>
@@ -460,7 +459,6 @@ Seleção"</string>
     <string name="cached_apps_freezer_disabled">Desativado</string>
     <string name="cached_apps_freezer_enabled">Ativado</string>
     <string name="cached_apps_freezer_reboot_dialog_text">É necessário reinicializar o dispositivo para que a mudança seja aplicada. Faça isso agora ou cancele.</string>
-    <string name="bf_news_settings">Notícias de Negócios e Finanças</string>
     <string name="business_hall_settings_summary">Controle suas chamadas e uso de dados</string>
     <string name="business_hall_settings_title">Configurações do plano da operadora</string>
     <string name="calibrate_rotate_again">Tentar novamente</string>
@@ -1199,7 +1197,6 @@ Seleção"</string>
     <string name="fiveg_sa_switch_warning_toast">Reinicie seu dispositivo para aplicar as alterações</string>
     <string name="fiveg_sa_vice_switch_summary">Permitir que o SIM secundário use rede 5G independente</string>
     <string name="fiveg_sa_vice_switch_title">Rede SA no SIM 2</string>
-    <string name="fiveg_switch_title">Rede 5G</string>
     <string name="fiveg_signal_strength1">Força do sinal 5G:</string>
     <string name="fiveg_switch_per_slot_summary">Use o 5G para aumentar a velocidade de conexão de dados móveis</string>
     <string name="fiveg_switch_per_slot_title">5G</string>
@@ -2083,7 +2080,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="picture_color_mode_desc">Usar sRGB</string>
     <string name="pin2_attempts">"
 %d tentativas restantes."</string>
-    <string name="pin2_changed">PIN2 alterado.</string>
     <string name="pin2_error_exception">Erro de rede ou no cartão SIM</string>
     <string name="pin2_invalid">O FDN não foi atualizado porque você inseriu um PIN incorreto.</string>
     <string name="pin2_invalid_or_name_is_too_long">O código PIN ou o nome inseridos são inválidos.</string>
@@ -2203,7 +2199,6 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">2G/3G/4G automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G preferencial</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G preferencial)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM automático</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (Automático)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G automático</string>
@@ -2717,7 +2712,6 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="speed_label_slow">Lenta</string>
     <string name="speed_label_very_fast">Muito rápida</string>
     <string name="speed_label_very_slow">Muito lenta</string>
-    <string name="speed_limit_card_toast">"Você usou todos os dados com a velocidade total. A velocidade de conexão será limitada agora."</string>
     <string name="standby_bucket_summary">Estado em espera do app: %s</string>
     <string name="start_call_record">Iniciar</string>
     <string name="status_hint_label_incoming_wifi_call">Chamada Wi-Fi de</string>
@@ -2732,7 +2726,6 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="stock_quotes_disable">Cotações de ações desativada</string>
     <string name="stock_quotes_enable">Cotação de ações ativada</string>
     <string name="storage_category">Armazenamento</string>
-    <string name="strPasswordLengthIncorrect">4-16 números!</string>
     <string name="strict_mode">Modo restrito ativado</string>
     <string name="strict_mode_summary">Piscar tela se apps demorarem no processo principal</string>
     <string name="sum_call_barring_disabled">Desativado</string>
@@ -2768,7 +2761,6 @@ Por favor, confirme a configuração da sua conta de chamada padrão."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="support_forbidden_fakecell">Nota: A restrição de conexão a estações base falsas pode reduzir o sinal em áreas com pouca cobertura.</string>
     <string name="supp_service_additional_call_forwarded">Chamada adicional encaminhada.</string>
     <string name="supp_service_additional_ect_connected">Transferência de chamada explícita concluída.</string>
     <string name="supp_service_additional_ect_connecting">Transferência de chamada explícita em andamento.</string>
@@ -3026,7 +3018,6 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="user_switch_to_user">Mudar para %s</string>
     <string name="username_title">Nome de usuário</string>
     <string name="ussdRunning">Código USSD em execução…</string>
-    <string name="ussdinitiated_title">USSD Iniciado</string>
     <string name="ut_not_support">O UT não está disponível</string>
     <string name="ut_unavailable_to_set_video_cf_toast">O UT não está disponível para definir o encaminhamento de chamadas para vídeo, feche esta página e saia.</string>
     <string name="v7_preference_off">DESATIVADO</string>

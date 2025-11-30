@@ -53,9 +53,9 @@
         <item>Assistência de rede</item>
     </string-array>
     <string-array name="settings_search_relay_network_2">
-        <item>Compartilhamento de conectividade</item>
-        <item>Interconectividade/Compartilhamento de conectividade</item>
-        <item>Compartilhamento de conectividade</item>
+        <item>Conectividade compartilhada</item>
+        <item>Interconectividade/Conectividade compartilhada</item>
+        <item>Conectividade compartilhada</item>
     </string-array>
     <string-array name="settings_search_relay_network_global">
         <item>Sincronização de rede</item>

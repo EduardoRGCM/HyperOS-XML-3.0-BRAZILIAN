@@ -398,8 +398,6 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="biometric_not_recognized">Não reconhecido</string>
     <string name="biometric_or_screen_lock_app_setting_name">Use a biometria ou bloqueio de tela</string>
     <string name="biometric_or_screen_lock_dialog_default_subtitle">Use sua biometria ou bloqueio de tela para continuar</string>
-    <string name="bugreport_message">Isso coletará informações sobre o estado atual do seu dispositivo, para enviar como uma mensagem de e-mail. Levará um pouco de tempo desde o início do relatório de bugs até que ele esteja pronto para ser enviado; por favor, aguarde.</string>
-    <string name="bugreport_option_full_summary">Use esta opção para interferência mínima no sistema quando seu dispositivo não estiver respondendo ou estiver muito lento, ou quando você precisar de todas as seções do relatório. Não permite inserir mais detalhes ou fazer capturas de tela adicionais.</string>
     <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
     <string name="bluetooth_airplane_mode_toast">O Bluetooth permanecerá ativado no Modo avião</string>
     <string name="bugreport_countdown">{count, plural, =1 {Captura de tela para relatório de bug em # segundo.} other {Captura de tela para relatório de bug em # segundos.}}</string>
@@ -2301,7 +2299,6 @@ Quando sua conexão for criptografada novamente, você receberá outra notifica�
     <string name="unknownName">Desconhecido</string>
     <string name="unpin_specific_target">Liberar %1$s</string>
     <string name="unpin_target">Liberar guia</string>
-    <string name="unsupported_compile_sdk_message">%1$s foi criado para uma versão incompatível do SO Android e pode se comportar de maneira inesperada. Uma versão atualizada do app pode estar disponível.</string>
     <string name="unsupported_compile_sdk_check_update">Verificar atualizações</string>
     <string name="unsupported_compile_sdk_message">O app %1$s foi criado para uma versão incompatível do sistema operacional Android e pode se comportar de forma inesperada. Uma versão atualizada do app pode estar disponível.</string>
     <string name="unsupported_compile_sdk_show">Mostrar sempre</string>
