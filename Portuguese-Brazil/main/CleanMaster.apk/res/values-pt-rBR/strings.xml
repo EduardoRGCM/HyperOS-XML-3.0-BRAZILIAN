@@ -458,6 +458,7 @@
     <string name="gb_global_icon_ad_card_btn">OBTER</string>
     <string name="gb_global_icon_ad_card_title">Sugeridos para você</string>
     <string name="gigabyteShort">"GB"</string>
+    <string name="global_summary_wa_setting">Receba notificações quando a lixeira do WhatsApp ultrapassar o tamanho selecionado</string>
     <string name="global_wa_audio">Áudio</string>
     <string name="global_wa_audio_item_title">Mensagens de voz</string>
     <string name="global_wa_backend_alert_dialog_content">Libere espaço limpando os arquivos do WhatsApp</string>
@@ -643,6 +644,7 @@
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
+    <string name="miuix_appcompat_action_sheet_default_message">Selecionar</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mais</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
@@ -721,6 +723,7 @@
     <string name="native_media_view">Visualização de mídia</string>
     <string name="nb_clear_set">Limpar cache, ver informações de bateria e lista de bloqueio na Área de notificações</string>
     <string name="network_not_available">"Não é possível conectar-se à rede"</string>
+    <string name="never_remind">Nunca</string>
     <string name="news_change">Alterar</string>
     <string name="next_step">Próximo</string>
     <string name="night">"PM"</string>
@@ -816,6 +819,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="open_app">Abrir</string>
     <string name="open_browser">Abrir no navegador</string>
     <string name="open_file_error">"Não foi possível encontrar um app que abra este arquivo"</string>
+    <string name="out">Mais de %s</string>
     <string name="optimizecenter_data_support_cm">Desenvolvido por CleanMaster</string>
     <string name="optimizecenter_data_support_tc">Desenvolvido por Tencent</string>
     <string name="output_videos">Exportar vídeos</string>
@@ -846,10 +850,12 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="pref_category_title_cleanup_white_list">Exceções</string>
     <string name="pref_category_title_engine_settings">Configurações de verificação</string>
     <string name="pref_category_title_garbage_cleanup_check">Notificações</string>
+    <string name="pref_category_title_notification_settings">Notificações</string>
     <string name="pref_category_title_other_clean_settings">Configurações adicionais</string>
     <string name="pref_content_cleanup_white_list_none">Nenhum</string>
     <string name="pref_summary_auto_clean_and_alert">Programar limpeza para executar automaticamente</string>
     <string name="pref_summary_auto_update_cleanup_db">Última atualização: %s</string>
+    <string name="pref_summary_clean_settings">Receba notificações quando a lixeira ultrapassar o tamanho selecionado</string>
     <string name="pref_summary_cleanup_white_list">Impede que arquivos selecionados sejam limpos</string>
     <string name="pref_summary_expand_cache_group">Mostrar detalhes do cache automaticamente</string>
     <string name="pref_summary_garbage_auto_clean_content">Escolher quais itens limpar automaticamente</string>
@@ -857,6 +863,8 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="pref_summary_garbage_cleanup_check_time">Programar rotina de limpeza</string>
     <string name="pref_summary_garbage_process_mode">Definir notificações para quando a limpeza iniciar</string>
     <string name="pref_summary_open_optimizer_cloud_scan">Fazer upload e comparar arquivos com nomes desconhecidos usando definições online</string>
+    <string name="pref_summary_reminder_interval">Receba apenas uma notificação dentro do período selecionado</string>
+    <string name="pref_summary_wechat_clean_settings">Receba notificações quando a lixeira do WeChat ultrapassar o tamanho selecionado</string>
     <string name="pref_title_apps_cleanup_size">Quando o tamanho do cache atingir</string>
     <string name="pref_title_auto_clean_content_choose">Escolher itens para limpar</string>
     <string name="pref_title_auto_update_cleanup_db">Atualizar automaticamente</string>
@@ -906,6 +914,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="reset_app_dialog_summary">"Você está prestes a redefinir os apps selecionados. Todos os dados destes apps (incluindo seu status de login, configurações, imagens em cache, vídeos, arquivos e bate-papos) serão excluídos permanentemente, trazendo o app de volta ao estado inicial."</string>
     <string name="reset_app_dialog_title">Redefinindo apps</string>
     <string name="reset_selected">Redefinir %s</string>
+    <string name="reminder_interval">Intervalo de lembrete</string>
     <string name="report_issue">Relatar problema</string>
     <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> mais arquivos podem ser limpos. Libere mais espaço.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Você pode limpar &lt;font color=#ff0000 >%1$s&lt;/font> de cache gerado pelo QQ.</Data></string>
