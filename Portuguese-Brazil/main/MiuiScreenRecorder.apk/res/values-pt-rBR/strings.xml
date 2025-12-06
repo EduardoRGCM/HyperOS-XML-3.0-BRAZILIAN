@@ -45,6 +45,8 @@
     <string name="button_confirm">"OK"</string>
     <string name="button_goon_recorder">Retomar</string>
     <string name="camera_high_spec_recording">"Não é possível gravar a tela durante a gravação do vídeo em %1$s"</string>
+    <string name="cancel">Negar</string>
+    <string name="candraw_overlays_permission_text">Permita que o Gravador de tela mostre itens sobre outros apps. Você pode conceder esta permissão em Configurações.</string>
     <string name="cancel_edit">Cancelar</string>
     <string name="cannot_change_frames">A taxa de quadros só pode ser personalizada para gravações com taxa de quadros fixa.</string>
     <string name="cannot_change_parames">"Não é possível alterar os parâmetros durante uma gravação"</string>
@@ -348,7 +350,7 @@
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
-    <string name="timer_format">%s</string>
+    <string name="to_open">Configurações</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="tuesday">Terça</string>

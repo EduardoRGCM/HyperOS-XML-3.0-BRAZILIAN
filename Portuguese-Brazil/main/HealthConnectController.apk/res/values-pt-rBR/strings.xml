@@ -524,7 +524,7 @@ Isso não afeta outras permissões que este app possa ter, como câmera, microfo
     <string name="inactive_apps">Apps inativos</string>
     <string name="inactive_apps_message">Estes apps não podem mais ler ou gravar %s, mas ainda têm dados armazenados no Health Connect</string>
     <string name="inactive_apps_section_message">Estes apps não têm mais acesso, mas ainda têm dados armazenados no Health Connect</string>
-    <string name="inactive_apps_section_title">Apps inativos</string>															 
+    <string name="inactive_apps_section_title">Apps inativos</string>
     <string name="indeterminate">Parcialmente selecionada</string>
     <string name="install_type_instant">App instantâneo</string>
     <string name="intermenstrual_bleeding_read_content_description">Ler sangramento intermenstrual</string>

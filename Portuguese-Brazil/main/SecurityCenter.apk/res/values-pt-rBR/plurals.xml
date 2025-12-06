@@ -225,6 +225,14 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">%s minutos</item>
         <item quantity="one">%s minuto</item>
     </plurals>
+    <plurals name="fast_open_list_not_open_title">
+        <item quantity="one">"O modo de abertura rápida não pode interromper %s app"</item>
+        <item quantity="other">"O modo de abertura rápida não pode interromper %s apps"</item>
+    </plurals>
+    <plurals name="fast_open_list_open_title">
+        <item quantity="one">O modo de abertura rápida pode interromper %s app</item>
+        <item quantity="other">O modo de abertura rápida pode interromper %s apps</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pesquisar entre %d apps</item>
         <item quantity="one">Pesquisar entre %d app</item>
@@ -360,6 +368,10 @@ Você pode testar gratuitamente por %d dia agora!"</item>
     <plurals name="gd_app_edit_desc_new">
         <item quantity="other">Adicione até %d apps. Pressione e segure para reorganizar.</item>
         <item quantity="one">Adicione até %d app. Pressione e segure para reorganizar.</item>
+    </plurals>
+    <plurals name="group_have_hongbao">
+        <item quantity="one">%2$d envelope vermelho de %1$s</item>
+        <item quantity="other">%2$d envelopes vermelhos de %1$s</item>
     </plurals>
     <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Este recurso reduz o brilho da tela automaticamente após %d minutos de inatividade para economizar energia. Manter esse recurso ativado?</item>

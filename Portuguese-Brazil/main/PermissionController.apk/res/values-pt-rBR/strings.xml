@@ -365,7 +365,7 @@ As práticas de compartilhamento de dados podem variar de acordo com a versão d
     <string name="denied_header">Não permitido</string>
     <string name="denied_permission_decision">Você não permitiu que o app %1$s acesse %2$s</string>
     <string name="deny_fine_keep_blur_location">Localização aproximada</string>
-    <string name="deny_fine_keep_blur_location_dont_ask_again">Sempre permitir aproximada</string>																								
+    <string name="deny_fine_keep_blur_location_dont_ask_again">Sempre permitir aproximada</string>
     <string name="deny_permission_deny_and_dont_ask_again">Não permitir e não perguntar de novo</string>
     <string name="deny_read_media_aural_warning">Este app foi projetado para uma versão mais antiga do Android. Se você negar a ele o acesso a músicas e outros áudios, o acesso a fotos e vídeos também será negado.</string>
     <string name="deny_read_media_visual_warning">Este app foi projetado para uma versão mais antiga do Android. Se você negar a ele o acesso a fotos e vídeos, o acesso a músicas e outros áudios também será negado.</string>

@@ -822,7 +822,7 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="pure_introduction_label2">Sistema</string>
     <string name="pure_introduction_label3">Finança</string>
     <string name="pure_introduction_label4">Privacidade</string>
-    <string name="pure_introduction_label5">Antifraude</string>	
+    <string name="pure_introduction_label5">Antifraude</string>
     <string name="pure_mode_des">A Proteção Mi garante que todos os apps instalados no seu dispositivo tenham passado testes de segurança da Xiaomi.</string>
     <string name="pure_mode_install_completed_setting"><u>Gerenciar este app</u></string>
     <string name="pure_mode_install_completed_tip1">• Oculte os identificadores e impeça o rastreamento</string>

@@ -60,7 +60,7 @@
     <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
     <string name="btn_sure">Confirm</string>
     <string name="cancel">Cancel</string>
-    <string name="change_payment_amount">Change payment amount</string>										 
+    <string name="change_payment_amount">Change payment amount</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de %2$d caracteres excedido em %1$d</string>
     <string name="chip_text">Chip text</string>
@@ -339,7 +339,7 @@
     <string name="nfc_enabled_text">NFC is enabled. Click here to go to the system NFC settings.</string>
     <string name="nfc_hint1">Use authenticator via NFC</string>
     <string name="nfc_hint2">Place the authenticator on the back of the device. The authenticator will vibrate when the process is complete.</string>
-    <string name="nfctext">NFC is disabled in the system</string>									   
+    <string name="nfctext">NFC is disabled in the system</string>
     <string name="night">"PM"</string>
     <string name="no">Cancel</string>
     <string name="noknok_about">Nok Nok Labs™ Fingerprint Passport provides faster, easier and safer access to your online accounts. Log in to FIDO Ready™ online services using the fingerprint sensor on your Samsung device instead of using a password.</string>
@@ -446,7 +446,7 @@ Try again later."</string>
     <string name="toomanyattempts">"Too many attempts.
 Try again later."</string>
     <string name="touch_finger_hint">Verify your fingerprint</string>
-    <string name="transaction_confirmation">Confirmar</string>			
+    <string name="transaction_confirmation">Confirmar</string>
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>

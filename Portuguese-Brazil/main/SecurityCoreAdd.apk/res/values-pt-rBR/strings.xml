@@ -220,7 +220,7 @@ Você pode visualizar os logs gerados no Arquivos."</string>
     <string name="dump_log_title">Sobre este recurso</string>
     <string name="early_morning">"AM"</string>
     <string name="edge_mode_state_summary">"A área ao redor das bordas curvas não responde ao toque"</string>
-    <string name="edge_mode_state_title">Ignore o toque acidental nas bordas</string>						   
+    <string name="edge_mode_state_title">Ignore o toque acidental nas bordas</string>
     <string name="enable">Ativar</string>
     <string name="ent_activating">Ativando…</string>
     <string name="ent_activation">Ativar</string>

@@ -215,7 +215,7 @@
     <string name="audio_dialog_mode_meeting_sum">O Modo reunião permite que você reconheça as vozes de %1$d-%2$d pessoas diferentes. Alguns erros de reconhecimento podem ocorrer na versão Beta.</string>
     <string name="audio_dialog_mode_meeting_use">Iniciar</string>
     <string name="audio_pause_talkback">Pausar</string>
-    <string name="audio_play_talkback">Reproduzir</string>														  
+    <string name="audio_play_talkback">Reproduzir</string>
     <string name="audio_record_install_content">Instale o Gravador para gravar áudio. Instalar agora?</string>
     <string name="audio_record_install_title">Instalar Gravador</string>
     <string name="audio_record_upadte_content">Atualize o Gravador para a versão mais recente para gravar áudio. Atualizar agora?</string>
