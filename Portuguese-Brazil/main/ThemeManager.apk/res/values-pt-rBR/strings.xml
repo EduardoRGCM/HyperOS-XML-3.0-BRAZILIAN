@@ -155,6 +155,7 @@
     <string name="ai_wallpaper_not_conform_to_generation_condition">"Não é possível gerar um plano de fundo para esta imagem"</string>
     <string name="ai_wallpaper_notification_title">Temas</string>
     <string name="ai_wallpaper_retry">Tentar novamente</string>
+    <string name="ai_wallpaper_save_to_gallery">Salvo com sucesso</string>
     <string name="ai_wallpaper_select_picture">Selecionar</string>
     <string name="ai_wallpaper_selection_prompt">Selecionar fotos</string>
     <string name="ai_wallpaper_selection_prompt_message">Para melhores resultados, selecione fotos que se encaixem nas seguintes categorias e certifique-se de que o tema principal da imagem esteja nítido e sem obstruções.</string>

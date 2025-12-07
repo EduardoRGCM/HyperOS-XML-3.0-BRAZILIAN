@@ -916,7 +916,7 @@ Se os dois dispositivos não puderem ser conectados à mesma rede, ative o Mirac
     <string name="help_page_text_06_new_2">%1$d. Certifique-se de que seu dispositivo móvel e monitor externo estejam conectados à mesma rede Wi-Fi.
 %2$d. Em algumas TVs Xiaomi, você pode configurar a transmissão da TV, bem como personalizar a pesquisa de dispositivos e os métodos de verificação.</string>
     <string name="help_page_text_06_new_3">• Você pode definir preferências de transmissão para sua TV nas configurações de transmissão.</string>
-    <string name="help_page_text_06_new_4">TVs, decodificadores e projetores não Xiaomi:</string>
+    <string name="help_page_text_06_new_4">TVs, decodificadores e projetores que não seja Xiaomi:</string>
     <string name="help_page_text_06_new_5">%1$d. Certifique-se de que seu dispositivo móvel e monitor externo estejam conectados à mesma rede Wi-Fi.
 %2$d. Em algumas marcas de TV, você precisará ativar o Miracast para poder transmitir.</string>
     <string name="help_page_text_06_new_6">Saiba mais</string>
@@ -947,7 +947,7 @@ Conecte o seu dispositivo móvel e o monitor externo (ex.: sua TV) para a mesma 
     <string name="help_page_text_14_global">"%1$d. Se você quiser usar um dispositivo Xiaomi, mas não consegue encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
 Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel. Se não houver nenhuma rede disponível ou se você não puder conectar ambos os dispositivos à mesma rede, verifique se os recursos de transmissão no seu monitor externo estão atualizados, ative o Bluetooth no seu dispositivo móvel e no monitor externo e ative o Miracast na sua TV.
 %2$d. Se você estiver transmitindo em um dispositivo Xiaomi pela primeira vez, é necessário concluir a verificação.
-%3$d. Se você quiser usar um dispositivo não Xiaomi, mas não conseguir encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
+%3$d. Se você quiser usar um dispositivo que não seja Xiaomi, mas não conseguir encontrá-lo na lista de dispositivos disponíveis, tente o seguinte:
 Conecte seu dispositivo móvel e o monitor externo (ex.: sua TV) à mesma rede Wi-Fi, ou conecte o monitor externo ao hotspot do dispositivo móvel."</string>
     <string name="help_page_text_15">Funcionalidade Miracast em diferentes dispositivos</string>
     <string name="help_page_text_16">Xiaomi TV/Mi Projector</string>

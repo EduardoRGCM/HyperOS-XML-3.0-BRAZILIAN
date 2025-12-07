@@ -495,10 +495,11 @@ Protocolo de conexão mais rápido"</string>
     <string name="offline_call_notification_broadcast_location">A Comunicação Offline Xiaomi está compartilhando sua localização</string>
     <string name="offline_call_notification_broadcast_start">A Comunicação Offline Xiaomi está transmitindo</string>
     <string name="offline_call_remove">Remover</string>
-    <string name="offline_call_settings_summary">Comunique-se com dispositivos Xiaomi próximos quando estiver offline e quando o Bluetooth estiver ativado em ambos os dispositivos</string>
+    <string name="offline_call_settings_summary">Comunique-se com celulares Xiaomi próximos quando estiver offline, desde que o Bluetooth esteja ativado em ambos os dispositivos</string>
     <string name="offline_call_settings_title">Comunicação Offline Xiaomi</string>
     <string name="offline_call_show_location_title">Compartilhar minha localização com pessoas próximas</string>
     <string name="offline_chat_summary">"Converse com contatos próximos via Bluetooth quando não estiver conectado à internet. Este recurso não oferece suporte ao uso de fones de ouvido Bluetooth durante chamadas."</string>
+    <string name="offline_chat_summary_global">Comunique-se com celulares Xiaomi próximos quando estiver offline, desde que o Bluetooth esteja ativado em ambos os dispositivos (Dispositivo atual: %1$s)</string>
     <string name="offline_chat_title">Comunicação Offline Xiaomi</string>
     <string name="offline_connecting">Conectando…</string>
     <string name="ok_button">"OK"</string>

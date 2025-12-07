@@ -1392,6 +1392,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="confirm_package_type">Confirme seu plano de dados</string>
     <string name="confirm_prompt_all_permission">Solicitar permissão para todos os apps?</string>
     <string name="confirm_reject_all_permission">Restringir todos os apps de usarem este recurso?</string>
+    <string name="confirm_reject_all_permission_only_opening_screen">Restringir esta permissão durante a inicialização do app para todos os apps?</string>
     <string name="confirm_take">Obter</string>
     <string name="confirm_upgrade">Opções</string>
     <string name="connect_internet_by_mobiledata">Conexão de dados móveis</string>
@@ -2342,6 +2343,21 @@ Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção
     <string name="game_toolbox_performance_config_frc_notice_new">O Melhor desempenho melhora a taxa de quadros por meio da Taxa de quadros inteligente. &lt;font color=%s>A taxa de quadros real é exibida no painel de desempenho.&lt;/font></string>
     <string name="game_toolbox_performance_config_resolution_notice">Quando a Melhor imagem está ativada, a taxa de quadros real é exibida no painel de desempenho.</string>
     <string name="game_toolbox_performance_config_resolution_notice_new">A Melhor imagem melhora a qualidade da imagem através da Super resolução e gerencia a taxa de quadros através da Taxa de quadros inteligente. &lt;font color=%s>A taxa de quadros real é exibida no painel de desempenho.&lt;/font></string>
+    <string name="game_toolbox_screen_brightness_talkback">Brilho da tela</string>
+    <string name="game_toolbox_settings_talkback">Configurações</string>
+    <string name="game_toolbox_slow_charge_desc">Ativar o Carregamento bypass Plus pode melhorar sua experiência de jogo durante o carregamento e reduzir a temperatura do dispositivo, mas a velocidade de carregamento será menor. Ativar agora?</string>
+    <string name="game_toolbox_slow_charge_dialog_btn">Entendi</string>
+    <string name="game_toolbox_slow_charge_negative_btn">Cancelar</string>
+    <string name="game_toolbox_slow_charge_notification_msg">Este recurso pode melhorar a experiência de jogo durante o carregamento e reduzir a temperatura do dispositivo, mas a velocidade de carregamento será menor.</string>
+    <string name="game_toolbox_slow_charge_notification_title">Carregamento bypass Plus</string>
+    <string name="game_toolbox_slow_charge_positive_btn">Ativar</string>
+    <string name="game_toolbox_slow_charge_title">Carregamento bypass Plus</string>
+    <string name="game_toolbox_slow_charge_toast">O Carregamento bypass Plus está ativado</string>
+    <string name="game_toolbox_smart_charge_title">Carregamento inteligente</string>
+    <string name="game_toolbox_smotion_vibrate_close_toast">"O feedback tátil não funciona com layouts originais. O feedback tátil está desativado."</string>
+    <string name="game_toolbox_smotion_vibrate_conflic_toast">"O feedback tátil não funciona com layouts originais"</string>
+    <string name="game_toolbox_smotion_vibrate_desc">Adicione feedback tátil de acordo com os movimentos do jogo. Apenas alguns jogos são compatíveis.</string>
+    <string name="game_toolbox_smotion_vibrate_title">Feedback tátil</string>
     <string name="game_toolbox_super_follow_up_msg">Melhore a resposta ao toque e o rastreamento por meio de todo o pipeline de hardware-software</string>
     <string name="game_toolbox_super_shake_msg">Reduza a imprecisão ao tocar e deslizar, melhorando a estabilidade do controle.</string>
     <string name="game_toolbox_title">Ferramentas de jogo</string>
@@ -3494,6 +3510,7 @@ Seu dispositivo está %s mais rápido agora."</string>
     <string name="more_setting_summary">Personalize lembretes e defina o Não Perturbe para este recurso</string>
     <string name="more_settings">Mais</string>
     <string name="morning">"AM"</string>
+    <string name="msg_only_opening_screen">O acesso será restrito pelos primeiros %d segundos após a inicialização do app</string>
     <string name="mtp_ptp_mode_summary">MTP ou PTP está ativado</string>
     <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
     <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
@@ -3797,7 +3814,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="open_applock_password_type">Tipo de senha</string>
     <string name="open_applock_tips">Bloqueie apps e faça a verificação de sua identidade ao abri-los. O Bloqueio de app possui dois tipos de senha e suporta verificação biométrica.</string>
     <string name="open_callwait">Ativado</string>
-    <string name="open_dnd_mode">Modo Não Perturbe</string>
+    <string name="open_dnd_mode">Não Perturbe</string>
     <string name="open_dnd_mode_summary">Silenciar lembretes durante um período definido</string>
     <string name="open_extreme_power_save_mode_title">Ativar a Economia extrema de bateria</string>
     <string name="open_fast_open_mode">Modo de abertura rápida</string>
@@ -4100,8 +4117,18 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_xiaoai_create_auto_task">Nova tarefa do Mi AI</string>
     <string name="pc_xiaoai_voice_control_close">"Desative o \"Acorde com voz\" do Mi AI"</string>
     <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
+    <string name="percent_formatted_text">%s%%</string>
+    <string name="percent_symbol">%</string>
+    <string name="percent_text_formatted">%s%%</string>
+    <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
     <string name="perfermance_optimization_title">Otimização de desempenho</string>
+    <string name="performance_frame_enhance_super_display_tips">"A taxa de quadros aprimorada e a super-resolução não podem funcionar ao mesmo tempo. Ativar uma delas desativará a outra."</string>
+    <string name="performance_frame_insert_super_display_tips">"A taxa de quadros inteligente e a super-resolução não podem funcionar ao mesmo tempo. Ativar uma desativará a outra."</string>
+    <string name="perm_desc_accessibility">Esta permissão é necessária para visualizar e controlar a tela, operar apps e sensores de hardware de acordo com suas instruções, e interagir com apps em seu nome.</string>
+    <string name="perm_disable_dialog_message">"A permissão deste app (%1$s) não passou na revisão."</string>
+    <string name="perm_disable_dialog_title">Permissões restritas</string>
+    <string name="perm_disable_note_text">"Esta permissão não passou na revisão e está restrita agora: %1$s"</string>
     <string name="perm_intercept_content">Conceder a este app a seguinte permissão: %1s?</string>
     <string name="performance_frame_enhance_super_display_tips">"A Taxa de quadros aprimorada e a Super resolução não funcionam ao mesmo tempo. Ativar um irá desativar o outro."</string>
     <string name="performance_frame_insert_super_display_tips">"A Taxa de quadros inteligente e a Super resolução não podem funcionar ao mesmo tempo. Ativar um irá desativar o outro."</string>
@@ -4111,6 +4138,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="perm_intercept_unknown_title">Permitir que o app %1s instale apps de fontes desconhecidas pode acarretar nos seguintes riscos:</string>
     <string name="perm_list_header_title">"Apps"</string>
     <string name="perm_list_header_title_has_storage">Apps com permissão de armazenamento</string>
+    <string name="perm_manage_external_storage">Acesso a todos os arquivos</string>
+    <string name="perm_manage_zen_modes_access">Acesso a modos</string>
+    <string name="permdesc_coarse_location">Localização aproximada</string>
+    <string name="permdesc_fine_location">Localização</string>
+    <string name="permdesc_get_installed_apps">Permitir que \"%1$s\" acesse informações sobre apps instalados?</string>
     <string name="permdesc_in_calls">Monitorar chamadas recebidas</string>
     <string name="permdesc_out_calls">Monitorar chamadas realizadas</string>
     <string name="permgroupdesc_calendar">Acessar eventos da agenda</string>
@@ -4196,8 +4228,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="permission_instruction_send_mms">Esta permissão permite aos apps enviar mensagens multimídia, o que pode gerar taxas adicionais. Apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
     <string name="permission_instruction_send_payment_sms">Esta permissão permite aos apps enviar mensagens de texto pagas.</string>
     <string name="permission_instruction_send_sms">Esta permissão permite que os apps enviem mensagens de texto, o que pode gerar taxas adicionais. Os apps maliciosos podem usar esta permissão para enviar mensagens pagas sem seu consentimento.</string>
-    <string name="permission_instruction_shake">"Esta permissão permite que os apps rastreiem a orientação e o movimento do seu dispositivo (ex.: agitação, inclinação e rotação)"</string>
-    <string name="permission_instruction_show_locked">Esta permissão permite que os apps exibam itens em sua Tela de bloqueio. Apps maliciosos podem usar esta permissão para mostrar anúncios irritantes.</string>
+    <string name="permission_instruction_shake">"Esta permissão permite que apps detectem a posição do dispositivo no espaço, reconheçam agitação, determinem a orientação da tela, bem como usem controles de jogos e navegação por mapa."</string>    <string name="permission_instruction_show_locked">Esta permissão permite que os apps exibam itens em sua Tela de bloqueio. Apps maliciosos podem usar esta permissão para mostrar anúncios irritantes.</string>
     <string name="permission_instruction_sociality">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade o HyperOS permite que você decida se também deseja que esses apps acessem os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_storage">Se você permitir que os apps acessem arquivos em suas próprias pastas, para proteger sua privacidade o HyperOS permite que você decida se também deseja que esses apps acessem os itens em sua Galeria e os arquivos gerados em apps de mídia social. Como os apps com API do Android de nível 29 ou superior já oferecem suporte a partições de armazenamento, essa opção não será fornecida para eles.</string>
     <string name="permission_instruction_touch_pay">Esta permissão permite que os apps realizem pagamentos sem contato.</string>
@@ -4548,6 +4579,28 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_wireless_update_notification_title">Atualização de carregamento sem fio</string>
     <string name="power_wireless_update_text">Atualizado</string>
     <string name="power_wireless_update_tv_text">Atualizando o firmware… Não desligue o dispositivo.</string>
+    <string name="pp_agent_app_ctl_manager">Gerenciar Controle Inteligente de IA</string>
+    <string name="pp_agent_app_ctl_manager_desc">Gerenciar quais apps o %s pode controlar</string>
+    <string name="pp_agent_app_ctl_title">Permitir que o %s controle estes apps</string>
+    <string name="pp_agent_request_screen_ctl_app_title">Ativar o Controle Inteligente com IA para %s</string>
+    <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Quando este recurso estiver ativado, %1s poderá ajudá-lo a controlar %2s.</string>
+    <string name="pp_agent_request_screen_ctl_title">Ativar o Controle Inteligente com IA</string>
+    <string name="pp_agent_request_screen_info_app_title">Ativar o Reconhecimento de tela IA para %s</string>
+    <string name="pp_agent_request_screen_info_app_title_msg">Quando este recurso estiver ativado, o %1$s poderá acessar o conteúdo da tela do %2$s</string>
+    <string name="pp_agent_request_screen_info_app_title_msg_setting">Ative o \"Reconhecimento de tela IA\" para %s nas Configurações para continuar. Ativar agora?</string>
+    <string name="pp_agent_request_screen_info_app_title_setting">Permissões necessárias</string>
+    <string name="pp_agent_request_screen_info_positive_button_setting">Ativar</string>
+    <string name="pp_agent_request_screen_info_title">Ativar o Reconhecimento de Tela por IA</string>
+    <string name="pp_agent_screen_ctl">Controle Inteligente com IA</string>
+    <string name="pp_agent_screen_ctl_app_disable">"%1$s não pode ser controlado pelo %2$s agora."</string>
+    <string name="pp_agent_screen_ctl_desc">Quando este recurso estiver ativado, %s poderá ajudá-lo a controlar apps neste dispositivo.</string>
+    <string name="pp_agent_screen_info">Reconhecimento de Tela por IA</string>
+    <string formatted="false" name="pp_agent_screen_info_app_disable">"%2s não pode reconhecer o conteúdo da tela do %1s agora"</string>
+    <string name="pp_agent_screen_info_desc">"Quando este recurso estiver ativado, %s poderá reconhecer e acessar o que é exibido na sua tela em tempo real."</string>
+    <string name="pp_agent_screen_info_manager">Gerenciar Reconhecimento de tela IA</string>
+    <string name="pp_agent_screen_info_manager_desc">Gerenciar quais apps o %s pode reconhecer na tela</string>
+    <string name="pp_agent_screen_info_title">Permitir que o %s reconheça conteúdo nestes apps</string>
+    <string name="pp_agent_screen_privacy">Reconhecimento de Tela por IA e Controle Inteligente</string>
     <string name="pp_anti_track_summary">Não permite o rastreamento de sua atividade</string>
     <string name="pp_antitrack_detail">Os apps podem rastrear sua atividade por meio de identificadores pessoais, informações de localização e outros tipos de informações pessoais compartilhadas com os mesmos. O rastreamento de sua atividade em diferentes apps e sites, permite que eles personalizem anúncios e recomendem conteúdo relevante para você.</string>
     <string name="pp_app_behavior_record_detail">Registra o comportamento de todos os apps</string>
@@ -4584,6 +4637,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_interception_net_visit_content_manager_detail">Selecione quais apps têm permissão para acessar a sua Galeria e os arquivos de apps de redes sociais</string>
     <string name="pp_lab_compact_blur_location">Apps acessando a localização aproximada</string>
     <string name="pp_lab_compact_blur_location_summary">"Selecione \"Padrão\" para usar a funcionalidade de localização aproximada do Android ou \"Todos\" para alternar para HyperOS."</string>
+    <string name="pp_lead_down_calenadr">Instalar o Calendário</string>
+    <string name="pp_lead_down_calenadr_desc">Eventos e lembretes são fornecidos pelo Calendário. Instale-o para usar esses recursos.</string>
+    <string name="pp_more_privacy_func">Recursos de privacidade adicionais</string>
     <string name="pp_local_msg">Informações de localização</string>
     <string name="pp_manage_apps_location_information">Permite que apps acessem sua localização</string>
     <string name="pp_manage_track">Monitorar rastreadores</string>
@@ -5080,6 +5136,7 @@ Retirar o consentimento agora?"</string>
     <string name="recommended">Destaque</string>
     <string name="reject_all">Restringir tudo</string>
     <string name="reject_countdown">Recusar (%d)</string>
+    <string name="reject_only_opening_screen">Restringir acesso durante a inicialização do app para todos os apps</string>
     <string name="reject_usb_install">A instalação via USB dos seguintes apps foi negada</string>
     <string name="release_meminfo">Liberado %d MB</string>
     <string name="release_memory">Limpar cache</string>
@@ -6293,7 +6350,7 @@ Os dados restantes incluem dados remanescentes do mês anterior."</string>
     <string name="txv_dnd_end_time_title">Horário de término</string>
     <string name="txv_dnd_start_time_title">Horário de início</string>
     <string name="txv_dnd_type_demo">Silenciar som</string>
-    <string name="txv_dnd_type_title">Modo Não Perturbe</string>
+    <string name="txv_dnd_type_title">Não Perturbe</string>
     <string name="txv_lucky_money_group_text">Apenas notificações de grupo</string>
     <string name="unable_connect_internet">Sem conexão com a internet</string>
     <string name="uninstall_app_dialog_msg">A desinstalação removerá todos os dados deste app.</string>
@@ -6833,7 +6890,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="miui_blur_location">Permitir que todos os apps acessem a localização aproximada</string>
     <string name="model_type_pad">Plano</string>
     <string name="model_type_phone">Celular</string>
-    <string name="more_setting_summary">Suportar tipos de lembrete de envelope vermelho, janelas de suspensão de desktop, não perturbar o tempo e outras funções.</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="new_result_sound_only">Som</string>
@@ -6844,11 +6900,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string formatted="false" name="normal4">%1s, %2s, %3s, %4s. Toque para alterar.</string>
     <string name="not_available">Nenhum por enquanto</string>
     <string name="open_alarm_right_now">Ligue imediatamente</string>
-    <string name="open_dnd_mode">Não perturbe</string>
-    <string name="open_dnd_mode_summary">Não perturbe o período de tempo, lembrete de envelope vermelho e despertamento do envelope vermelho distúrbio grátis</string>
-    <string name="open_fast_open_mode">Abra o modo de gratificação de velocidade</string>
-    <string name="open_fast_open_mode_summary">Abra o modo de agarrar de velocidade. Quando o envelope vermelho for recebido, o sistema abrirá automaticamente a página do envelope vermelho.</string>
-    <string name="open_right_now_short">Pegar</string>
     <string name="pc_batery_information">Informações da bateria</string>
     <string name="pc_batery_protection">Proteção da bateria</string>
     <string name="pc_battery_charge_protect">Proteção de carregamento</string>
@@ -6908,11 +6959,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="pc_toady_charge_time_title">Carregamentos hoje</string>
     <string name="pc_work_in_save_mode">Economia de bateria</string>
     <string name="pc_work_in_super_save_mode">Ultra economia de bateria</string>
-    <string name="percent_formatted_text">%s%%</string>
-    <string name="percent_symbol">%</string>
-    <string name="percent_text_formatted">%s%%</string>
-    <string name="percentage">%d%%</string>
-    <string name="permdesc_get_installed_apps">Permitir que \"%1$s\" acesse informações sobre apps instalados?</string>
     <string name="permgroupdesc_installapplist">Acesse a lista de apps instalados neste dispositivo</string>
     <string name="permgroupdesc_readmediafile">Acesse fotos, vídeos e áudio armazenados neste dispositivo</string>
     <string name="permisison_usage_menu_all">Todos</string>
@@ -6940,6 +6986,9 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_instruction_receive_sms_mms">Esta permissão permite que os apps leiam todos os SMS e MMS. Essas mensagens podem conter senhas, detalhes de contas bancárias e outras informações pessoais.</string>
     <string name="permission_legacy_storage">Acessar fotos, vídeos, áudio e arquivos</string>
     <string name="permission_oaid_desc">Permitir que %1$s monitore suas atividades em outros apps e sites?</string>
+    <string name="permission_only_opening_screen">Restringir acesso durante a inicialização do app</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">"Os apps não pedirão sua permissão antes de ler seus contatos, ver seu histórico de chamadas, alterar configurações do sistema ou acessar a câmera e outros recursos do dispositivo. Você pode ativar este recurso nas Configurações de permissão."</string>
+    <string name="permission_permission_control_closed_desc_dialog_title">Gerenciador de permissões</string>
     <string name="permission_precise_location">Localização precisa</string>
     <string name="permission_precise_location_sumary">Quando esse recurso estiver desativado, os apps só poderão acessar sua localização aproximada</string>
     <string name="permission_risk_app_for_desc">Este app pode representar riscos de segurança. Conceder as permissões mesmo assim?</string>
@@ -7054,7 +7103,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="screen_share_warning_positive_button">Parar</string>
     <string name="screen_type_external">Tela externa</string>
     <string name="screen_type_internal">Tela interna</string>
-    <string name="secondart_setting_title">Configuração do lembrete do envelope vermelho</string>
     <string name="setting_alarm_summary">O lembrete oficial de despertadores do Evento Red Envelope das principais plataformas</string>
     <string name="share_uid_sec">Este app compartilha permissões com %1s. As alterações serão sincronizadas.</string>
     <string name="share_uid_app">Apps com permissões compartilhadas</string>
@@ -7241,7 +7289,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="terminal_behavior_screen">"%1s acessou a tela deste dispositivo"</string>
     <string name="textDirection">litro</string>
     <string name="text_error">As versões de software relacionadas são muito antigas ou não instaladas</string>
-    <string name="title_more_setting">Mais configurações</string>
     <string name="track_auto_collapsed">Salvo automaticamente</string>
     <string name="track_click_bubble_message">Clique na bolha lateral</string>
     <string name="track_inner_screen">Tela interna</string>
@@ -7257,11 +7304,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="track_switch_off">Desativado</string>
     <string name="track_switch_on">Ativado</string>
     <string name="track_yes">Sim</string>
-    <string name="txv_dnd_end_time_title">Fim do tempo</string>
-    <string name="txv_dnd_start_time_title">Hora de início</string>
-    <string name="txv_dnd_type_demo">Bloqueie apenas o som</string>
-    <string name="txv_dnd_type_title">Não perturbe</string>
-    <string name="txv_lucky_money_group_text">Lembre apenas os envelopes vermelhos do grupo</string>
     <string name="ufs_size_suffix">%1$s+%2$s</string>
     <string name="wake_path_start_callee">%1$s iniciado automaticamente</string>
     <string name="wakepath_all">Remover todas as permissões</string>
@@ -7328,18 +7370,4 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="widget_button_text">Adicione peças pequenas</string>
     <string name="widget_cleaner_message">Pode limpar o lixo</string>
     <string name="widget_cleaner_size_unit">MB</string>
-    <string name="pp_agent_app_ctl_title">Permitir que \"%s\" controle os seguintes apps</string>
-    <string name="pp_agent_request_screen_ctl_app_title">Ativar o Controle Inteligente com IA para %s</string>
-    <string name="pp_agent_request_screen_ctl_app_title_msg" formatted="false">Quando este recurso estiver ativado, %1s poderá ajudá-lo a controlar %2s.</string>
-    <string name="pp_agent_request_screen_ctl_title">Ativar o Controle Inteligente com IA</string>
-    <string name="pp_agent_request_screen_info_title">Ativar o Reconhecimento de Tela por IA</string>
-    <string name="pp_agent_screen_ctl">Controle Inteligente com IA</string>
-    <string name="pp_agent_screen_ctl_app_disable" formatted="false">"\"%1s\" não pode controlar \"%2s\""</string>
-    <string name="pp_agent_screen_ctl_desc">Quando este recurso estiver ativado, %s poderá ajudá-lo a controlar apps neste dispositivo.</string>
-    <string name="pp_agent_screen_info">Reconhecimento de Tela por IA</string>
-    <string name="pp_agent_screen_info_desc">"Quando este recurso estiver ativado, %s poderá reconhecer e acessar o que é exibido na sua tela em tempo real."</string>
-    <string name="pp_agent_screen_privacy">Reconhecimento de Tela por IA e Controle Inteligente</string>
-    <string name="pp_lead_down_calenadr">Instalar o Calendário</string>
-    <string name="pp_lead_down_calenadr_desc">Eventos e lembretes são fornecidos pelo Calendário. Instale-o para usar esses recursos.</string>
-    <string name="pp_more_privacy_func">Mais recursos de privacidade</string>
 </resources>

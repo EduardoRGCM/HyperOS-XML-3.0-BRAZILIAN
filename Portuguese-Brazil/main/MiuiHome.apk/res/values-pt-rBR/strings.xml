@@ -172,6 +172,11 @@
     <string name="category_group">Categorizar apps</string>
     <string name="category_group_summary">Categorizar apps na Gaveta de apps</string>
     <string name="category_not_selected">Apps disponíveis</string>
+    <string name="change_layout_type_dialog_action_negative">Cancelar</string>
+    <string name="change_layout_type_dialog_action_positive">Alterar</string>
+    <string name="change_layout_type_dialog_content_small_search">Aplicar o layout \"%1$s\" desativará a \"Pesquisa compacta\" e seus apps serão reorganizados.</string>
+    <string name="change_layout_type_dialog_content_super_xiao_ai">Aplicar o layout \"%1$s\" desativará o \"Perguntar ao Xiaomi Hyper XiaoAI\" e seus apps serão reorganizados.</string>
+    <string name="change_layout_type_dialog_title">Alterar layout da Tela inicial</string>
     <string name="change_wallpaper">Alterar</string>
     <string name="chooser_wallpaper">Escolha um novo plano de fundo</string>
     <string name="clearable_edittext_clear_description">Limpar</string>

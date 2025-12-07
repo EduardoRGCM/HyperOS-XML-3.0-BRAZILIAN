@@ -310,7 +310,7 @@ Você pode alterar manualmente qual recurso será exibido ao deslizar para baixo
     <string name="download">Continuar</string>
     <string name="downloading">Carregando...</string>
     <string name="dropdown_menu">Menu suspenso</string>
-    <string name="early_morning">Manhã</string>
+    <string name="early_morning">"AM"</string>
     <string name="eras_ad">d.C.</string>
     <string name="eras_bc">a.C.</string>
     <string name="error_a11y_label">Erro: inválido</string>
@@ -546,7 +546,7 @@ Você pode alterar manualmente qual recurso será exibido ao deslizar para baixo
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
-    <string name="morning">Manhã</string>
+    <string name="morning">"AM"</string>
     <string name="mraid_alert_accept">Aceitar</string>
     <string name="mraid_alert_decline">Recusar</string>
     <string name="mraid_allow_calendar_event">Permitir que o anúncio crie um evento de calendário?</string>
@@ -604,7 +604,7 @@ Você pode alterar manualmente qual recurso será exibido ao deslizar para baixo
     <string name="news_banner_match_vs">VS</string>
     <string name="night">"PM"</string>
     <string name="no_scalable_applications">Todos os apps estão atualizados</string>
-    <string name="noon">Meio-dia</string>
+    <string name="noon">"PM"</string>
     <string name="not_selected">Não selecionado</string>
     <string name="not_set">Não definido</string>
     <string name="occupy">%s ocupados</string>
