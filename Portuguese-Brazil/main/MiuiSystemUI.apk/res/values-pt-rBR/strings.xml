@@ -882,7 +882,7 @@ Toque para reajustar"</string>
     <string name="controls_favorite_toast_no_changes">Alterações não salvas</string>
     <string name="controls_in_progress">Em progresso</string>
     <string name="controls_media_active_session">A sessão de mídia atual não pode ser ocultada.</string>
-    <string name="controls_media_close_session">Ocultar a sessão atual.</string>
+    <string name="controls_media_close_session">Ocultar controle de mídia para %1$s?</string>
     <string name="controls_media_dismiss_button">Ocultar</string>
     <string name="controls_media_playing_item_description">%1$s de %2$s está sendo reproduzida por %3$s</string>
     <string name="controls_media_resume">Continuar</string>
@@ -3518,7 +3518,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="clipboard_send_nearby_description">Enviar para um dispositivo próximo</string>
     <string name="clipboard_text_copied">Texto copiado</string>
     <string name="clipboard_text_hidden">Toque para ver</string>    
-    <string name="close_button_text">Fechar</string>
+    <string name="close_button_text">Fechar %1$s</string>
     <string name="close_text">Fechar</string>
     <string name="controls_dialog_remove">Remover</string>
     <string name="controls_favorite_add_controls">Adicionar controles</string>
