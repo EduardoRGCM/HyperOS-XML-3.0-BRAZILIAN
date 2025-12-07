@@ -969,8 +969,8 @@ Você pode testar gratuitamente por %d dia agora!"</item>
         <item quantity="one">%1$s | Foi impedido de editar seus contatos %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_deny_wake_path">
-        <item quantity="other">%1$s | A inicialização automática deste app foi negada %2$s %3$d vezes</item>
-        <item quantity="one">%1$s | A inicialização automática deste app foi negada %3$d vez</item>
+        <item quantity="one">%1$s | Este app foi impedido de iniciar automaticamente %2$s %3$d vez</item>
+        <item quantity="other">%1$s | Este app foi impedido de iniciar automaticamente %2$s %3$d vezes</item>
     </plurals>
     <plurals name="permission_usage_deny_wakepath">
         <item quantity="other">%1$s | Não permitido %2$d vezes</item>

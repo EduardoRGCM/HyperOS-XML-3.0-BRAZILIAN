@@ -1951,7 +1951,7 @@ monitoramento de terremotos"</string>
     <string name="ew_no_contact_tips">Nenhum contato aqui</string>
     <string name="ew_not_support_area">Os avisos não são suportados nesta área</string>
     <string name="ew_open_tips">O alerta de terremotos está ativado</string>
-    <string name="ew_push_message">Intensidade estimada: %s. Espere um tremor leve perto de você.</string>
+    <string name="ew_push_message">Intensidade prevista: %1$s. Você pode sentir tremores leves em %2$s.</string>
     <string name="ew_push_title">Alerta | Terremoto de magnitude %2$s próximo a %1$s</string>
     <string name="ew_safe_place_no_maps_tips">Não é possível pesquisar agora. Instale o Baidu Maps ou o Amap primeiro</string>
     <string name="ew_setting_desc_message">O HyperOS estima a intensidade do terremoto com base em sua magnitude, a localização do epicentro e sua localização. Quanto maior a intensidade estimada, mais devastador será o terremoto na sua área.</string>
@@ -5253,7 +5253,7 @@ Retirar o consentimento agora?"</string>
     <string name="screen_share_protection_warning_positive_button">Compartilhar</string>
     <string name="screen_share_warning_button">Entendi</string>
     <string name="screen_share_warning_summary">"Suas notificações recebidas não serão exibidas na tela compartilhada."</string>
-    <string name="screen_share_warning_title">"Notificações não serão exibidas"</string>
+    <string name="screen_share_warning_title">%s está acessando o conteúdo da tela</string>
     <string name="screenrecord_not_find">Instale a última versão do Gravador de tela e tente novamente.</string>
     <string name="sd_eject">Ejetar cartão SD</string>
     <string name="sd_eject_summary">Ejete o cartão SD para removê-lo com segurança</string>

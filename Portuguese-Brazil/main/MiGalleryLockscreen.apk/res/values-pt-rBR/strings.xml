@@ -93,7 +93,7 @@
     <string name="cancel_service_running">Cancelando serviços…</string>
     <string name="cancel_service_summary">"Se continuar, você cancelará os serviços do Carrossel de planos de fundo. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Cancelar serviços mesmo assim?"</string>
     <string name="carousel_declaration_btn_text">Ativar o Carrossel de planos de fundo</string>
-    <string name="carousel_declaration_cta">"O Carrossel de planos de fundo precisa de conexão com a internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa aceitar a nossa Política de Privacidade. Aceitar?"</string>
+    <string name="carousel_declaration_cta">"O Carrossel de planos de fundo precisa de conexão com a internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa aceitar a nossa &lt;a href='%s'>Política de Privacidade&lt;/a>. Aceitar?"</string>
     <string name="carousel_declaration_cta_btn_text">Aceitar e ativar</string>
     <string name="carousel_declaration_des2">Adicione as suas imagens ao Carrossel de planos de fundo</string>
     <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha novas imagens e histórias entregues na Tela de bloqueio diariamente</string>
