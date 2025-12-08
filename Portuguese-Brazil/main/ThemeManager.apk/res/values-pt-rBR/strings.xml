@@ -399,9 +399,9 @@
     <string name="detail_reward_build_order_error">"Não foi possível criar o pedido. Aguarde um momento e tente novamente."</string>
     <string name="detail_reward_custom_amount">Montante personalizado</string>
     <string name="detail_reward_duplicate_order_error">Muitas tentativas. Aguarde um momento e tente novamente.</string>
-    <string name="detail_reward_exceed_limit">A recompensa pode ser de até 200 CNY</string>
+    <string name="detail_reward_exceed_limit">A recompensa podem conter até %d CNY</string>
     <string name="detail_reward_know_it">Entendi</string>
-    <string name="detail_reward_limited_to_200">A recompensa pode ter até 200 Mi Créditos</string>
+    <string name="detail_reward_limited_to_200">A recompensa podem conter até %d Mi Créditos</string>
     <string name="detail_reward_loading_failed">"Não foi possível carregar as informações. Tente novamente."</string>
     <string name="detail_reward_no_one">Sem recompensas ainda. Dê a primeira!</string>
     <string name="detail_reward_reached_upper_limit">Não foi possível recompensar hoje. Volte amanhã!"</string>
@@ -410,7 +410,7 @@
     <string name="detail_reward_successed">Recompensado com sucesso</string>
     <string name="detail_reward_thanks_for_fans_support">Obrigado pelo seu suporte!</string>
     <string name="detail_reward_thanks_for_your_support">Obrigado pelo seu suporte!</string>
-    <string name="detail_reward_user_limited_to_display">Apenas as 100 primeiras pessoas são exibidas</string>
+    <string name="detail_reward_user_limited_to_display">Apenas os primeiros %d fãs da Xiaomi são exibidos</string>
     <string name="dev_options">Opções do desenvolvedor</string>
     <string name="dev_options_summary">Recursos web</string>
     <string name="dialog_apply_lock_screen_wallpaper_content">O tema atual pode não suportar a alteração do plano de fundo da Tela de bloqueio.</string>
@@ -1277,9 +1277,9 @@ Visualizar e usar os itens que você comprou ou adicionou aos favoritos."</strin
     <string name="privacy_log_off_succeed">Serviços cancelados com sucesso</string>
     <string name="privacy_loging_off_warning">Cancelando serviços…</string>
     <string name="privacy_logoff_services_title">Cancelar serviços</string>
-    <string name="privacy_logoff_theme_content_1">1. Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi. Você não poderá mais usar os itens que comprou.</string>
-    <string name="privacy_logoff_theme_content_2">2. Todas as informações sobre seus gostos, comentários, classificações e seguidores geradas nos dispositivos Xiaomi.</string>
-    <string name="privacy_logoff_theme_content_5">5. Todos os itens de personalização usados atualmente neste dispositivo. As preferências de personalização padrão serão restauradas.</string>
+    <string name="privacy_logoff_theme_content_1">%d. Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi. Você não poderá mais usar os itens que comprou.</string>
+    <string name="privacy_logoff_theme_content_2">%d. Todas as informações sobre seus gostos, comentários, classificações e seguidores geradas nos dispositivos Xiaomi.</string>
+    <string name="privacy_logoff_theme_content_5">%d. Todos os itens de personalização usados atualmente neste dispositivo. As preferências de personalização padrão serão restauradas.</string>
     <string name="privacy_logoff_theme_service_warning">Os seguintes itens serão excluídos permanentemente após os serviços serem cancelados:</string>
     <string name="privacy_network_exception">Ocorreu um erro de rede. Aguarde um momento e tente novamente.</string>
     <string name="privacy_pad_fold_Read_write_storage">Acessar armazenamento</string>
@@ -1315,8 +1315,8 @@ Sempre que você usar os itens armazenados neste dispositivo para personalizaç�
     <string name="privacy_phone_important_prompt_content">"Parece que você ainda não aceitou o nosso Contrato do Usuário e a Política de Privacidade. No entanto, os recursos e serviços básicos do Temas ainda estão disponíveis para você.
 Sempre que você usar os itens armazenados neste dispositivo para personalização (ex.: configurá-los como planos de fundo ou toques), pediremos que você permita que este app acesse o armazenamento do dispositivo."</string>
     <string name="privacy_phone_logoff_service_content">Cancelar serviços do Temas</string>
-    <string name="privacy_phone_logoff_theme_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
+    <string name="privacy_phone_logoff_theme_content_3">%d. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
+    <string name="privacy_phone_logoff_theme_content_4">%d. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
     <string formatted="false" name="privacy_phone_logoff_theme_service_detail_content_1">"%d. Certifique-se de que você tem o direito de cancelar os serviços antes de continuar.
 %2$d. O cancelamento dos serviços de Temas não afetará o uso normal de outros produtos Xiaomi.
 %3$d. O cancelamento do serviço é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão após o cancelamento dos serviços. Os seguintes dados serão excluídos permanentemente ou anonimizados após o cancelamento do serviço (exceto conforme previsto por leis e regulamentos, ou conforme exigido por autoridades reguladoras):"</string>
@@ -1325,7 +1325,7 @@ Todas as informações sobre suas curtidas, comentários, avaliações e seguido
 Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.
 Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.
 Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. O cancelamento do serviço não implica isenção ou mitigação das responsabilidades decorrentes de ações praticadas antes do cancelamento dos serviços.</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">%d. O cancelamento do serviço não implica isenção ou mitigação das responsabilidades decorrentes de ações praticadas antes do cancelamento dos serviços.</string>
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Declaração sobre o Cancelamento de Serviços do Temas</string>
     <string name="privacy_phone_logoff_theme_service_detail_title">Leia e aceite a \"Declaração sobre o Cancelamento de Serviços do Temas\" antes de cancelar nossos serviços.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Você está prestes a cancelar os serviços do Temas."</string>
@@ -1333,8 +1333,8 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_phone_read_and_write_storage_above_eleven">Acessar o armazenamento</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre o Cancelamento de Serviços do Temas&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Li e aceito a \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas&lt;/a>&lt;/font>\"."</Data></string>
-    <string name="privacy_phone_revoke_agree_content_3">3. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
+    <string name="privacy_phone_revoke_agree_content_3">%d. Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.</string>
+    <string name="privacy_phone_revoke_agree_content_4">%d. Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens armazenados em cache gerados neste dispositivo.</string>
     <string formatted="false" name="privacy_phone_revoke_agree_detail_content_1">"%1$d. Certifique-se de que você tem o direito de retirar o consentimento antes de continuar.
 %2$d. A retirada de consentimento à Política de Privacidade do Temas não afetará o uso normal de outros produtos Xiaomi.
 %d. A retirada do consentimento é uma ação irreversível. Faça backup de todos os itens importantes antes de continuar, pois eles podem ser excluídos permanentemente. Lembre-se de que você não poderá reconsiderar sua decisão após a retirada do seu consentimento. Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada do consentimento (exceto conforme previsto por leis e regulamentos, ou conforme exigido por autoridades reguladoras):"</string>
@@ -1343,8 +1343,8 @@ Todas as informações sobre suas curtidas, comentários, avaliações e seguido
 Todos os temas, planos de fundo, planos de fundo dinâmicos, fontes, ícones e toques baixados para este dispositivo.
 Todos os registros do histórico de pesquisa, preferências de permissões, configurações e itens em cache gerados neste dispositivo.
 Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas."</string>
-    <string name="privacy_phone_revoke_agree_detail_content_3">"4. Após retirar o seu consentimento à Política de Privacidade do Temas, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. 
-5. A retirada de consentimento não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações praticadas antes da retirada de consentimento."</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"%1$d. Após retirar o seu consentimento à Política de Privacidade do Temas, deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. 
+%2$d. A retirada de consentimento não implica isenção ou mitigação em relação às responsabilidades decorrentes de ações praticadas antes da retirada de consentimento."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas</string>
     <string name="privacy_phone_revoke_agree_detail_title">Leia e aceite a \"Declaração sobre a Retirada de Consentimento à Política de Privacidade do Temas\" antes de retirar seu consentimento.</string>
     <string name="privacy_phone_revoke_agree_introduce">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Temas. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como o Temas fornece seus serviços com base na coleta das informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Temas."</string>
@@ -1356,9 +1356,9 @@ Todos os itens de personalização usados ​​atualmente neste dispositivo. As
     <string name="privacy_remind_user_mode_content"><Data>Aceite a nossa Política de Privacidade para usar este recurso. Leia a nossa &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a>&lt;/font> para saber como coletamos, usamos, divulgamos, processamos e armazenamos as informações pessoais que você nos fornece quando usa o Temas.</Data></string>
     <string name="privacy_remind_user_mode_title">Atenção!</string>
     <string name="privacy_revoke_agree_content">Retirada de consentimento</string>
-    <string name="privacy_revoke_agree_content_1">1. Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi onde você usou sua Conta Xiaomi. Você não poderá mais usar os itens que comprou.</string>
-    <string name="privacy_revoke_agree_content_2">2. Todas as informações sobre seus gostos, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Xiaomi.</string>
-    <string name="privacy_revoke_agree_content_5">5. Todos os itens de personalização usados ​​atualmente neste dispositivo. As preferências de personalização padrão serão restauradas.</string>
+    <string name="privacy_revoke_agree_content_1">%d. Todos os pedidos (incluindo pedidos pagos) feitos nos dispositivos Xiaomi onde você usou sua Conta Xiaomi. Você não poderá mais usar os itens que comprou.</string>
+    <string name="privacy_revoke_agree_content_2">%d. Todas as informações sobre seus gostos, comentários, avaliações e seguidores gerados nos dispositivos Xiaomi onde você usou sua Conta Xiaomi.</string>
+    <string name="privacy_revoke_agree_content_5">%d. Todos os itens de personalização usados atualmente neste dispositivo. As preferências de personalização padrão serão restauradas.</string>
     <string name="privacy_revoke_agree_data_warning">Os seguintes dados serão excluídos permanentemente ou anonimizados após a retirada de consentimento (exceto quando disposto de outra forma por leis e regulamentos, ou de outra forma exigido pelas autoridades reguladoras):</string>
     <string name="privacy_revoke_succeed">Retirou consentimento com sucesso</string>
     <string name="privacy_revoking_warning">Retirando consentimento…</string>
@@ -1487,7 +1487,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_detail_update_log_title">Atualizações</string>
     <string name="resource_detail_window_title">Detalhes de %1$s</string>
     <string name="resource_download">Baixar</string>
-    <string name="resource_download_notification_title_one">Tema baixado com sucesso</string>
+    <string name="resource_download_notification_title_one">%1$s baixado com sucesso</string>
     <string name="resource_download_trial">Teste grátis</string>
     <string name="resource_downloaded_title">Recursos baixados</string>
     <string name="resource_downloading">Baixando</string>
@@ -1513,8 +1513,8 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_failed_to_load_list">"Não é possível carregar o tema."</string>
     <string name="resource_free_download">Download grátis</string>
     <string name="resource_get_auth_checking">Verificando…</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">10 dispositivos já foram autorizados nesta conta</string>
-    <string name="resource_get_auth_exceed_max_limit_tips_pad">Você pode usar a Personalização com uma conta em até 10 dispositivos.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Você pode usar o Temas com uma conta em até %d dispositivos por ano.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips_pad">Você pode usar a Personalização com uma conta em até %d dispositivos por ano.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Número de dispositivos autorizados excedido</string>
     <string name="resource_get_auth_has_been_undercarriaged">Este tema não está mais disponível.</string>
     <string name="resource_get_auth_not_official">Temas obtidos de terceiros não são suportados</string>

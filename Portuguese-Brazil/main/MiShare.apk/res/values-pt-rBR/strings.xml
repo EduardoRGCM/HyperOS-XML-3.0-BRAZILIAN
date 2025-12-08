@@ -577,7 +577,7 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="some_files_receive_completed">"Veja os arquivos que você já recebeu em %1$s."</string>
     <string name="somepc_send_muchfile_files">%1$s está enviando mais de %2$d arquivos para você…</string>
     <string name="start_advertise">INICIAR ANÚNCIO</string>
-    <string name="start_receive_much_files_from_pc">Recebendo mais de 200 arquivos de %1$s…</string>
+    <string name="start_receive_much_files_from_pc">Recebendo mais de %2$d arquivos de %1$s…</string>
     <string name="start_scan">INICIAR VERIFICAÇÃO</string>
     <string name="stop_advertise">PARAR ANÚNCIO</string>
     <string name="stop_scan">PARAR VERIFICAÇÃO</string>
@@ -605,10 +605,10 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
 %2$d. No seu dispositivo Xiaomi, atualize o Xiaomi Share para a versão %3$s.
 %4$d. No seu iPhone, instale o app Interconectividade Xiaomi."</string>
     <string name="tap_share_condition_describe_os3">"%1$d. Certifique-se de que ambos os dispositivos estejam desbloqueados e tenham NFC, Bluetooth e Wi-Fi ativados.
-%2$d. Atualize seu dispositivo Xiaomi para HyperOS 3 ou posterior. Você também pode procurar o Xiaomi Share em Configurações para verificar se o \"Toque para compartilhar\" é compatível.
+%2$d. Atualize seu dispositivo Xiaomi para %3$s ou posterior. Você também pode procurar o Xiaomi Share em Configurações para verificar se o \"Toque para compartilhar\" é compatível.
 %4$d. Verifique se você está usando um iPhone 12 ou um modelo mais recente e se ele está executando o iOS 17 ou posterior. Instale a versão mais recente da Interconectividade Xiaomi em seu iPhone."</string>
     <string name="tap_share_condition_describe_os3_china">"%1$d. Certifique-se de que ambos os dispositivos estejam desbloqueados e tenham NFC, Bluetooth e WLAN ativados.
-%2$d. Atualize seu dispositivo Xiaomi para HyperOS ou posterior. Você também pode procurar o Xiaomi Share em Configurações para verificar se o \"Toque para compartilhar\" é compatível.
+%2$d. Atualize seu dispositivo Xiaomi para %3$s ou posterior. Você também pode procurar o Xiaomi Share em Configurações para verificar se o \"Toque para compartilhar\" é compatível.
 %4$d. Verifique se você está usando um iPhone 12 ou um modelo mais recente e se ele está executando o iOS 17 ou posterior. Instale a versão mais recente da Interconectividade Xiaomi em seu iPhone."</string>
     <string name="tap_share_connecting_this_wifi">Conectando-se a esta rede Wi-Fi</string>
     <string name="tap_share_connecting_this_wlan">Conectando-se a esta rede Wi-Fi</string>

@@ -1045,7 +1045,7 @@ apps vem"</string>
     <string name="sure_ok">Entendi</string>
     <string name="tango_dialog_content">Ative o Modo de compatibilidade de apps para poder instalar apps de %1$d bits.</string>
     <string name="tango_dialog_title">Modo de compatibilidade de apps</string>
-    <string name="thirty_days_no_asking">"Não pergunte novamente por 30 dias"</string>
+    <string name="thirty_days_no_asking">"Não lembrar novamente por %1$d dias"</string>
     <string name="this_installation">Instalar</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>

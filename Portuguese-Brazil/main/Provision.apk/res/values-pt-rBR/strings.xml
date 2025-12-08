@@ -138,7 +138,7 @@
     <string name="download_introduction">Downloads é um app fornecido por Xunlei usado para downloads e gerenciamento de conteúdo baixado (incluindo conteúdo da App Store, vídeos, atualizações do sistema, temas e conteúdo do navegador) para usuários de dispositivos Xiaomi.</string>
     <string name="early_morning">"AM"</string>
     <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
-    <string name="enable_accessibility_dialog_message">Você ativou o TalkBack ao pressionar a tela com 2 dedos por mais de 10 segundos. o TalkBack fornece retorno de voz para pessoas com deficiências visuais. Se você ativou a função por engano, toque no botão Cancelar e em seguida dê um toque duplo na tela.</string>
+    <string name="enable_accessibility_dialog_message">Você ativou o TalkBack ao pressionar a tela com %1$d dedos por mais de %2$d segundos. o TalkBack fornece retorno de voz para pessoas com deficiências visuais. Se você ativou a função por engano, toque no botão Cancelar e em seguida dê um toque duplo na tela.</string>
     <string name="enable_accessibility_dialog_negative_btn">Cancelar</string>
     <string name="enable_accessibility_dialog_positive_btn">"OK"</string>
     <string name="enable_or_disable_bluetooth">Ativando e desativando o Bluetooth</string>
