@@ -1298,8 +1298,8 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela internet.
     <string name="backup_summary_state_off">Desativado</string>
     <string name="backup_summary_state_on">Ativado</string>
     <string name="badge_title">Exibir indicador no ícone do app</string>
-    <string name="band_24G">" (2.4 GHz)"</string>
-    <string name="band_5G">" (5 GHz)"</string>
+    <string name="band_24G">" (%f GHz)"</string>
+    <string name="band_5G">" (%d GHz)"</string>
     <string name="baseband_version">Versão da baseband</string>
     <string name="batch_delete_saved_network">Excluir redes selecionadas: %s?</string>
     <string name="batch_delete_saved_networks">Excluir todas as redes selecionadas</string>
@@ -2014,7 +2014,7 @@ Para parear o esquerdo, verifique se ele está ligado e pronto para pareamento."
     <string name="bluetooth_pairing_group_late_bonding">Adicionar novo membro ao conjunto coordenado existente</string>
     <string name="bluetooth_pairing_key_msg">Código de pareamento Bluetooth</string>
     <string name="bluetooth_pairing_page_title">Parear novo dispositivo</string>
-    <string name="bluetooth_pairing_pin_error_message">"PIN ou senha incorretos. Não foi possível parear."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Não foi possível parear com %1$s devido a um PIN ou chave de acesso incorretos."</string>
     <string name="bluetooth_pairing_pref_title">Parear novo dispositivo</string>
     <string name="bluetooth_pairing_rejected_error_message">Pareamento rejeitado por %1$s.</string>
     <string name="bluetooth_pairing_request">Parear com %1$s?</string>
@@ -2181,7 +2181,7 @@ Enquanto conectado, %2$s receberá todas as chamadas feitas a %3$s."</string>
     <string name="bluetooth_talkback_phone">Telefone</string>
     <string name="bluetooth_tether_checkbox_text">Ancoragem Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Compartilhando a conexão à internet deste telefone via Bluetooth</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Compartilhando a conexão de internet deste telefone com 1 dispositivo por Bluetooth</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Compartilhando a conexão de internet deste telefone com %d dispositivo por Bluetooth</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Compartilhando a conexão de internet deste telefone com %1$d dispositivos por Bluetooth</string>
     <string name="bluetooth_tethering_errored_subtext">Não está ancorado</string>
     <string name="bluetooth_tethering_off_subtext">Compartilhe a conexão com a internet do seu telefone usando o Bluetooth</string>
@@ -2455,9 +2455,9 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="call_records_name_1">Diorgenes Setubal</string>
     <string name="call_records_name_2">Igor Miguel</string>
     <string name="call_records_name_3">Eduardo Rodrigues</string>
-    <string name="call_records_summary_1">9:35 AM | 26 segundos</string>
-    <string name="call_records_summary_2">16 de Agosto | 1m 16s</string>
-    <string name="call_records_summary_3">16 de Agosto | 2m 24s</string>
+    <string name="call_records_summary_1">%1$d:%2$d AM | %3$d segundos</string>
+    <string name="call_records_summary_2">%1$d de Agosto | %2$dm %3$ds</string>
+    <string name="call_records_summary_3">%1$d de Agosto | %2$dm %3$ds</string>
     <string name="call_settings_primary_user_only">Altere as configurações de chamada no Primeiro espaço</string>
     <string name="call_settings_summary">Configurar correio voz, encaminhamento, espera etc.</string>
     <string name="call_settings_title">Conf. de chamada</string>
@@ -2993,7 +2993,7 @@ Toque em \"Apagar e converter…\" para continuar."</string>
     <string name="credentials_install">Instalar um certificado</string>
     <string name="credentials_install_summary">Instalar certificados do armazenamento</string>
     <string name="credentials_not_erased">Armaz. de creden. não apagado.</string>
-    <string name="credentials_password_too_short">Pelo menos 8 caracteres</string>
+    <string name="credentials_password_too_short">Pelo menos %d caracteres</string>
     <string name="credentials_reset">Limpar credenciais</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
     <string name="credentials_reset_summary">Remover todos os certificados</string>
@@ -6150,7 +6150,7 @@ Conecte pelo menos 4 pontos."</string>
     <string name="long_press_menu_key">Pressionar e segurar o botão Menu</string>
     <string name="long_press_menu_key_when_lock">Pressionar e segurar o botão Menu na Tela de bloqueio</string>
     <string name="long_press_power_key">Pressionar e segurar o botão [Liga/Desliga]</string>
-    <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por 0.5s para acionar o Google Assistente</string>
+    <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por %fs para acionar o Google Assistente</string>
     <string name="long_press_power_key_half_second">Pressione e segure o botão [Liga/Desliga] por %s s</string>
     <string name="long_press_power_key_tips">&lt;Data>Pressionar e segurar o botão [Liga/Desliga] é &lt;font color=#999999>mais rápido e conveniente&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Pressionar e segurar [Volume -]</string>
@@ -7108,7 +7108,7 @@ Selecione seu sistema operacional:"</string>
     <string name="multi_face_input_reach_upper_limit">Não foi possível adicionar dados faciais. Aguarde um momento e tente novamente.</string>
     <string name="multi_face_input_success_name_title">Nome</string>
     <string name="multi_face_list">Dados faciais</string>
-    <string name="multi_face_name_prefix">"Rosto "</string>
+    <string name="multi_face_name_prefix">Dados faciais %s</string>
     <string name="multi_face_number_reach_limit">Não é possível adicionar dados para mais de 2 rostos</string>
     <string name="multi_music_coexistence_summary">"Não ajuste o volume da mídia durante notificações recebidas ou enquanto o áudio de outra fonte estiver sendo reproduzido"</string>
     <string name="multi_music_coexistence_title">Múltiplas fontes de áudio</string>
@@ -8055,9 +8055,9 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="power_key_how_power_force_off">Como forçar a reinicialização do dispositivo</string>
     <string name="power_key_how_power_force_off_detail">Pressione e segure o botão [Liga/Desliga] até o dispositivo reiniciar</string>
     <string name="power_key_how_power_off">Como abrir a tela de desligamento</string>
-    <string name="power_key_how_power_off_detail">Pressione e segure o botão [Liga/Desliga] por 3s</string>
+    <string name="power_key_how_power_off_detail">Pressione e segure o botão [Liga/Desliga] por %ds</string>
     <string name="power_key_how_start">Como ativar o Google Assistente</string>
-    <string name="power_key_how_start_detail">Pressione e segure o botão [Liga/Desliga] por 0.5s. Solte para falar.</string>
+    <string name="power_key_how_start_detail">Pressione e segure o botão [Liga/Desliga] por %fs. Solte para falar.</string>
     <string name="power_key_start_enjoy">Comece a usar o Google Assistente</string>
     <string name="power_key_start_guide">Ativando o Google Assistente usando o botão [Liga/Desliga] em dispositivos com tela infinita</string>
     <string name="power_label">Energia</string>
@@ -9846,7 +9846,7 @@ Mudar para %1$s não cancelará seu serviço %2$s."</string>
 A comutação não cancelará seu serviço %1$s."</string>
     <string name="sim_action_switch_sub_dialog_title">Mude para %1$s?</string>
     <string name="sim_action_yes">Sim</string>
-    <string name="sim_bad_pin">O PIN deve conter de 4 a 8 dígitos</string>
+    <string name="sim_bad_pin">O PIN deve conter de %1$d-%2$d dígitos</string>
     <string name="sim_call_back_title">Retornar chamada com o chip padrão</string>
     <string name="sim_calls_always_use">Sempre usar esta opção para chamadas</string>
     <string name="sim_calls_ask_first_prefs_title">Perguntar sempre</string>
@@ -10266,8 +10266,8 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="status_service_state">Status do serviço</string>
     <string name="status_signal_strength">Potência do sinal</string>
     <string name="status_sim">Status do cartão SIM</string>
-    <string name="status_sim_1">Cartão SIM 1</string>
-    <string name="status_sim_2">Cartão SIM 2</string>
+    <string name="status_sim_1">Cartão SIM %d</string>
+    <string name="status_sim_2">Cartão SIM %d</string>
     <string name="status_summary">Toque para ver</string>
     <string name="status_unavailable">Indisponível</string>
     <string name="status_up_time">Tempo em atividade</string>
@@ -12003,7 +12003,7 @@ Veja a Política de Privacidade da sua operadora para obter detalhes."</string>
     <string name="wifi_ap_choose_vendor_dual_band">"Dual band"</string>
     <string name="wifi_ap_hidden_ssid">Ocultar o SSID</string>
     <string name="wifi_ap_prefer_5G">Banda 5 GHz preferencial</string>
-    <string name="wifi_ap_prefer_6G">Banda 6.0 GHz preferencial</string>
+    <string name="wifi_ap_prefer_6G">Banda %s GHz preferencial</string>
     <string name="wifi_ap_ssid_off">Desativado</string>
     <string name="wifi_ap_ssid_on">Ativado</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Ponto de acesso temporariamente cheio</string>
