@@ -4123,15 +4123,13 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
     <string name="perfermance_optimization_title">Otimização de desempenho</string>
-    <string name="performance_frame_enhance_super_display_tips">"A taxa de quadros aprimorada e a super-resolução não podem funcionar ao mesmo tempo. Ativar uma delas desativará a outra."</string>
-    <string name="performance_frame_insert_super_display_tips">"A taxa de quadros inteligente e a super-resolução não podem funcionar ao mesmo tempo. Ativar uma desativará a outra."</string>
+    <string name="performance_frame_enhance_super_display_tips">"A Taxa de quadros aprimorada e a Super resolução não funcionam ao mesmo tempo. Ativar um irá desativar o outro."</string>
+    <string name="performance_frame_insert_super_display_tips">"A Taxa de quadros inteligente e a Super resolução não podem funcionar ao mesmo tempo. Ativar um irá desativar o outro."</string>
     <string name="perm_desc_accessibility">Esta permissão é necessária para visualizar e controlar a tela, operar apps e sensores de hardware de acordo com suas instruções, e interagir com apps em seu nome.</string>
     <string name="perm_disable_dialog_message">"A permissão deste app (%1$s) não passou na revisão."</string>
     <string name="perm_disable_dialog_title">Permissões restritas</string>
     <string name="perm_disable_note_text">"Esta permissão não passou na revisão e está restrita agora: %1$s"</string>
     <string name="perm_intercept_content">Conceder a este app a seguinte permissão: %1s?</string>
-    <string name="performance_frame_enhance_super_display_tips">"A Taxa de quadros aprimorada e a Super resolução não funcionam ao mesmo tempo. Ativar um irá desativar o outro."</string>
-    <string name="performance_frame_insert_super_display_tips">"A Taxa de quadros inteligente e a Super resolução não podem funcionar ao mesmo tempo. Ativar um irá desativar o outro."</string>
     <string name="perm_intercept_notification_title">Permitir que o app %1s use notificações permitirá que ele execute as seguintes ações:</string>
     <string name="perm_intercept_privacy_content">Estas ações podem expor os seus dados pessoais. Conceder a permissão (%1s) mesmo assim?</string>
     <string name="perm_intercept_title">Conceder a permissão de acesso aos dados de uso para %1s, permitirá que este app execute as seguintes ações:</string>
@@ -6987,8 +6985,6 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="permission_legacy_storage">Acessar fotos, vídeos, áudio e arquivos</string>
     <string name="permission_oaid_desc">Permitir que %1$s monitore suas atividades em outros apps e sites?</string>
     <string name="permission_only_opening_screen">Restringir acesso durante a inicialização do app</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">"Os apps não pedirão sua permissão antes de ler seus contatos, ver seu histórico de chamadas, alterar configurações do sistema ou acessar a câmera e outros recursos do dispositivo. Você pode ativar este recurso nas Configurações de permissão."</string>
-    <string name="permission_permission_control_closed_desc_dialog_title">Gerenciador de permissões</string>
     <string name="permission_precise_location">Localização precisa</string>
     <string name="permission_precise_location_sumary">Quando esse recurso estiver desativado, os apps só poderão acessar sua localização aproximada</string>
     <string name="permission_risk_app_for_desc">Este app pode representar riscos de segurança. Conceder as permissões mesmo assim?</string>
