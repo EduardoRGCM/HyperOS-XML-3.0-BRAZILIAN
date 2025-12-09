@@ -3406,7 +3406,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="default_notification_assistant">Notificações adaptáveis</string>
     <string name="default_phone_title">Discador</string>
     <string name="default_print_service_main_switch_title">Use o serviço de impressão</string>
-    <string name="default_rule_name">Temporizador 1</string>
+    <string name="default_rule_name">Temporizador %d</string>
     <string name="default_see_all_apps_title">Veja todos os apps</string>
     <string name="default_sound">Som padrão</string>
     <string name="default_spell_checker">Corretor ortográfico padrão</string>
