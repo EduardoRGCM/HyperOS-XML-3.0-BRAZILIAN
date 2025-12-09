@@ -275,8 +275,8 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="guide_text3">Aprendi a usar o Mi Ditto!</string>
     <string name="have_been_added">Adicionado</string>
     <string name="have_been_created">Criado</string>
-    <string name="hint_function_online_available">Conecte-se à rede para usar este recurso</string>
     <string name="have_downloaded_text">Baixado</string>
+    <string name="hint_function_online_available">Conecte-se à rede para usar este recurso</string>
     <string name="hint_text_edit">\"Editar\"</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>
     <string name="identify_sound">Idioma de origem</string>
@@ -451,13 +451,23 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="month_february_short">Fev</string>
     <string name="month_february_shortest">Fev</string>
     <string name="month_january">Janeiro</string>
+    <string name="month_january_short">"Jan"</string>
+    <string name="month_january_shortest">"Jan"</string>
     <string name="month_july">Julho</string>
+    <string name="month_july_short">"Jul"</string>
+    <string name="month_july_shortest">"Jul"</string>
     <string name="month_june">Junho</string>
+    <string name="month_june_short">"Jun"</string>
+    <string name="month_june_shortest">"Jun"</string>
     <string name="month_march">Março</string>
+    <string name="month_march_short">"Mar"</string>
+    <string name="month_march_shortest">"Mar"</string>
     <string name="month_may">Maio</string>
     <string name="month_may_short">Mai</string>
     <string name="month_may_shortest">Mai</string>
     <string name="month_november">Novembro</string>
+    <string name="month_november_short">"Nov"</string>
+    <string name="month_november_shortest">"Nov"</string>
     <string name="month_october">Outubro</string>
     <string name="month_october_short">Out</string>
     <string name="month_october_shortest">Out</string>
@@ -507,6 +517,7 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada de texto</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a visualização \"Ano\"</string>
     <string name="mtrl_timepicker_cancel">Cancelar</string>
+    <string name="mtrl_timepicker_confirm">"OK"</string>
     <string name="multi_entry_toast_one_cn">Desative as Legendas por IA primeiro</string>
     <string name="multi_entry_toast_one_global">Desative as Legendas por IA primeiro</string>
     <string name="multi_window_mode_guide_dialog_content">Você pode exibir o idioma selecionado no visor traseiro</string>
@@ -595,6 +606,7 @@ Observação: As legendas geradas de conteúdos de vídeo ou áudio não podem s
     <string name="privacy_statement"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="privacy_text">Privacidade</string>
     <string name="privacy_update_text">Política de Privacidade atualizada</string>
+    <string name="problem_feedback">"Feedback"</string>
     <string name="real_translate">Idioma da legenda</string>
     <string name="recognition_error_text">Não foi possível reconhcer. Tente novamente.</string>
     <string name="refuse_text">Sair</string>
@@ -618,6 +630,7 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
 Se você retirar o consentimento, não poderá mais usar os serviços do Tradutor Mi AI. Se desejar usar esses serviços no futuro, você precisará concordar com nossa Política de Privacidade novamente. Retirar o consentimento agora?"</string>
     <string name="revoke_privacy_no_network_content_text_cn">Seu dispositivo precisa se conectar à rede para você poder retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="revoke_privacy_no_network_content_text_global">Seu dispositivo precisa se conectar à rede para você poder retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="revoke_privacy_no_network_good_text">"OK"</string>
     <string name="revoke_privacy_text">Retirada de consentimento</string>
     <string name="revoke_privacy_title_text_cn">Retirada de consentimento</string>
     <string name="revoke_privacy_title_text_global">Retirada de consentimento</string>
