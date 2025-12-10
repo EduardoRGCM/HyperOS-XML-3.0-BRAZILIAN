@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedback_content">
+        <item>Não tenho interesse</item>
+        <item>Repetitivo</item>
+        <item>Conteúdo impróprio</item>
+        <item>Enganoso ou fraude</item>
+        <item>Conteúdo ilegal</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
