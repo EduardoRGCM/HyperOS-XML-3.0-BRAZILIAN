@@ -7080,7 +7080,7 @@ Selecione seu sistema operacional:"</string>
     <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
     <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
     <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Navegue até Ano %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegue até Ano %1$d</string>
     <string name="mtrl_picker_out_of_range">Fora da faixa: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data inicial – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data final</string>
@@ -7914,7 +7914,7 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="password_unlock_title">Bloqueio de tela</string>
     <string name="payment_summary">%1$s é padrão</string>
     <string name="pc_install_manager">Instalar via USB</string>
-    <string name="peak_refresh_rate_summary">Aumenta automaticamente a taxa de atualização de 60 para %1$s Hz para alguns conteúdos. Maior uso da bateria.</string>
+    <string name="peak_refresh_rate_summary">Aumenta automaticamente a taxa de atualização para %1$d Hz para alguns conteúdos. Maior uso da bateria.</string>
     <string name="peak_refresh_rate_title">Tela suave</string>
     <string name="peek_notification_icon_title">Mostrar ícones para notificações recebidas</string>
     <string name="performance_category">Desempenho</string>

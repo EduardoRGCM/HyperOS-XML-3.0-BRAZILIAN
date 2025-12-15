@@ -537,7 +537,7 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
     <string name="mtrl_picker_end_date_description">Data de término %1$s</string>
     <string name="mtrl_picker_navigate_to_current_year_description">Ir para o ano %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$d</string>
     <string name="mtrl_picker_save">Salvar</string>
     <string name="mtrl_picker_start_date_description">Data de início %1$s</string>
     <string name="mtrl_picker_today_description">Hoje %1$s</string>

@@ -991,7 +991,7 @@ Permitir que o app %4$s faça upload do relatório de bug?"</string>
     <string name="post_drive_permission_decision_reminder_summary_1_app_1_permission">Enquanto dirigia, você deu ao app %1$s acesso a: %2$s</string>
     <string name="post_drive_permission_decision_reminder_summary_1_app_2_permissions">Enquanto dirigia, você deu ao app %1$s acesso a: %2$s e %3$s</string>
     <string name="post_drive_permission_decision_reminder_summary_1_app_multi_permission">Enquanto dirigia, você concedeu %1$d permissões ao app %2$s</string>
-    <string name="post_drive_permission_decision_reminder_summary_multi_apps">{count,plural, =1{Enquanto dirigia, você permitiu o acesso de %1$s e # outro app}one{Enquanto dirigia, você permitiu o acesso de %1$s e # outro app}many{Enquanto dirigia, você permitiu o acesso de %1$s e outros # de apps}other{Enquanto dirigia, você permitiu o acesso de %1$s e # outros apps}}</string>
+    <string name="post_drive_permission_decision_reminder_summary_multi_apps">{count,plural, =1{Enquanto dirigia, você permitiu o acesso de %1$s e # outro app} other {Enquanto dirigia, você permitiu o acesso de %1$s e # outros apps}}</string>
     <string name="post_drive_permission_decision_reminder_title">Conferir as permissões recentes</string>
     <string name="pp_privacy_lab_operator_introduction">Atenção!</string>
     <string name="precise_image_description">Localização exata</string>

@@ -1250,7 +1250,7 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
     <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
     <string name="mtrl_picker_navigate_to_current_year_description">Navegue até o ano atual %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$d</string>
     <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de término</string>

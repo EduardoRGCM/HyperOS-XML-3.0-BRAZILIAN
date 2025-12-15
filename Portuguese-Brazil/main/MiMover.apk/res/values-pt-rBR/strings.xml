@@ -68,7 +68,8 @@
     <string name="appname_app_data_suffix">Dados do app %1$s</string>
     <string name="apps_cannot_be_transfered_confirm_button">Iniciar</string>
     <string name="apps_cannot_be_transfered_next_button">Próximo</string>
-    <string name="apps_cannot_be_transfered_summary">"Esses apps de %1$d bits não podem ser transferidos para um dispositivo de %2$d bits. Você pode baixá-los diretamente do GetApps após a transferência."</string>
+    <string name="apps_cannot_be_transfered_summary">"Esses apps de 64-bits não podem ser transferidos para um dispositivo de 32-bits. Você pode baixá-los diretamente do GetApps após a transferência."</string>
+    <string name="apps_cannot_be_transfered_summary_formatted">"Esses apps de %1$d-bits não podem ser transferidos para um dispositivo de %2$d-bits. Você pode baixá-los diretamente do GetApps após a transferência."</string>
     <string name="apps_cannot_be_transfered_title">"Não é possível transferir estes apps"</string>
     <string name="audio">Áudio</string>
     <string name="audio_video_document">Áudio, vídeo e documentos</string>
