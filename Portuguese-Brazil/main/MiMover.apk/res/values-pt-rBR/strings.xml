@@ -548,16 +548,16 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="new_trans_intro_desc_6_phone">"Não é possível transferir dados de apps porque o Mi Mover não tem as permissões necessárias em dispositivos que não seja Xiaomi."</string>
     <string name="new_trans_intro_desc_7">O Mi Mover será capaz de retomar de onde você parou. No entanto, pode ser necessário reiniciar se os problemas de compatibilidade do dispositivo impedirem a retomada da transferência interrompida.</string>
     <string name="new_trans_intro_desc_8">O histórico do WeChat do seu antigo dispositvo substituirá o histórico do WeChat do seu novo dispositivo durante a transferência.</string>
-    <string name="new_trans_intro_desc_new">"%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo está atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou usar este link: %1$s.
+    <string name="new_trans_intro_desc_new">"%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo está atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou usar este link: %2$s.
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações do Wi-Fi e verifique se você consegue vê-lo lá. Nesse caso, volte para Mi Mover e toque no nome do hotspot."</string>
     <string name="new_trans_intro_desc_new_click">Baixar</string>
     <string name="new_trans_intro_desc_new_pad">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
-	    <string name="new_trans_intro_desc_new_pad_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
+	<string name="new_trans_intro_desc_new_pad_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
-	    <string name="new_trans_intro_desc_new_phone">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
+	<string name="new_trans_intro_desc_new_phone">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
-	    <string name="new_trans_intro_desc_new_phone_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
+	<string name="new_trans_intro_desc_new_phone_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
     <string name="new_trans_intro_question_1">"%d. Por que não consigo ver o hotspot do novo dispositivo no antigo?"</string>
     <string name="new_trans_intro_question_1_pad">"%d. Por que não consigo ver o hotspot do novo dispositivo no antigo?"</string>

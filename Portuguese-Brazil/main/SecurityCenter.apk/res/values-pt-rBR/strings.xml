@@ -273,8 +273,8 @@
     <string name="antivirus_privacy_dialog_cloudscan">Fazer upload de nomes de apps e detalhes</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Para detectar e neutralizar vírus com maior eficiência, enviaremos os nomes dos pacotes dos apps e propriedades a fim de verificá-los através de um mecanismo na nuvem.</string>
     <string name="antivirus_privacy_dialog_ok">"OK"</string>
-    <string name="antivirus_privacy_dialog_summary">&lt;Data>Este recurso é fornecido por um mecanismo de antivírus de terceiros. Para saber mais, leia o &lt;a href=\"%1$s\">Contrato de Licença&lt;/a> fornecido pelo terceiro.&lt;/Data></string>
-    <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data>"Quando você está executando uma verificação de segurança, o modelo do seu dispositivo e resultados da verificação serão enviados para os servidores da %1$s e usados de acordo com os &lt;a href=\"%2$s\">termos e condições&lt;/a> correspondentes.&lt;br/>&lt;br/>Leia e aceite os termos e condições da %3$s antes de executar verificações de segurança.&lt;br/>&lt;br/> Se você não aceitar em enviar os dados para os servidores da %4$s, você ainda poderá usar as definições de vírus armazenadas localmente no seu dispositivo."&lt;/Data></string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Este recurso é fornecido por um mecanismo de antivírus de terceiros. Para saber mais, leia o &lt;a href=\"%1$s\">Contrato de Licença&lt;/a> fornecido pelo terceiro.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Quando você está executando uma verificação de segurança, o modelo do seu dispositivo e resultados da verificação serão enviados para os servidores da %1$s e usados de acordo com os &lt;a href=\"%2$s\">termos e condições correspondentes&lt;/a>.&lt;br/>&lt;br/>Leia e aceite os termos e condições da %3$s antes de executar verificações de segurança.&lt;br/>&lt;br/> Se você não aceitar em enviar os dados para os servidores da %4$s, você ainda poderá usar as definições de vírus armazenadas localmente no seu dispositivo."</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
     <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
     <string name="antivirus_privacy_dialog_title_kddi">Termos e Condições</string>
@@ -1989,13 +1989,13 @@ monitoramento de terremotos"</string>
     <string name="exit">Sair</string>
     <string name="exit_dialog_exit">Sair</string>
     <string name="exit_dialog_garbage_clean_message">O lixo em seu dispositivo está ocupando mais de %s. Limpar lixo?</string>
-    <string name="exit_dialog_garbage_clean_message_new">&lt;Data>A Limpeza pode liberar &lt;font color=#0099ff>%s&lt;/font> de espaço de armazenamento. Limpar agora?&lt;/Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>A Limpeza pode liberar &lt;font color=#0099ff>%s&lt;/font> de espaço de armazenamento. Limpar agora?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Limpar</string>
     <string name="exit_dialog_garbage_clean_title">Liberar espaço de armazenamento</string>
     <string name="exit_dialog_homepage_optimise_message">A pontuação de desempenho do dispositivo está abaixo de 80 pontos. Otimizar agora?</string>
     <string name="exit_dialog_release_memory_positive_button">Fechar</string>
     <string name="exit_dialog_release_memory_title"><Data>Acelere seu dispositivo em &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
-    <string name="exit_dialog_release_memory_title_new">&lt;Data>Acelere seu dispositivo em &lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Acelere seu dispositivo em &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Mais de 80% do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
     <string name="exit_dialog_release_storage_message_new">Mais de %s do armazenamento está ocupado. Libere espaço desinstalando apps que você não usa.</string>
     <string name="exit_dialog_release_storage_positive_button">Liberar espaço</string>
@@ -2370,7 +2370,7 @@ Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção
     <string name="game_wid_viewpoint_buttom">Dê uma pausa.</string>
     <string name="gamebooster_confirm_dialog_negative_btn">"Não aceitar"</string>
     <string name="gamebooster_confirm_dialog_positive_btn">Aceitar</string>
-    <string name="gamebooster_confirm_dialog_tip">&lt;Data>&lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Booster&lt;/Data></string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>&lt;br>&lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Booster</Data></string>
     <string name="gamebooster_confirm_dialog_title">Aceite nossa Política de Privacidade</string>
     <string name="gamebooster_dialog_recover">Renovar</string>
     <string name="gamebooster_dialog_start_booster">Iniciar</string>
@@ -2654,7 +2654,7 @@ mas também aumenta o consumo de energia e pode causar superaquecimento"</string
     <string name="gb_predownload_dialog_cancel">Não, obrigado</string>
     <string name="gb_predownload_dialog_checked">"Não exibir novamente"</string>
     <string name="gb_predownload_dialog_confirm">Ativar</string>
-    <string name="gb_predownload_dialog_message_china">&lt;Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e aceite a &lt;a href=\"%1$s\">Declaração sobre atualizações em 2º plano&lt;/a> antes de usar este recurso."&lt;/Data></string>
+    <string name="gb_predownload_dialog_message_china"><Data>"O conteúdo atualizado para este jogo pode ser baixado para este dispositivo automaticamente após você se conectar ao Wi-Fi e bloquear a tela. Assim, você poderá usar a nova versão assim que for lançada.&lt;br>&lt;br>Leia e aceite a &lt;a href=\"%1$s\">Declaração sobre atualizações em 2º plano&lt;/a> antes de usar este recurso."</Data></string>
     <string name="gb_predownload_dialog_title">Atualizações em 2º plano já estão disponíveis</string>
     <string name="gb_predownload_message">"Atualize King of Glory, Game for Peace e outros jogos compatíveis em 2º plano enquanto você não estiver usando este dispositivo"</string>
     <string name="gb_predownload_message_new">Update compatible games automatically while not using device</string>
@@ -2852,7 +2852,7 @@ das suas sessões de jogos"</string>
     <string name="gd_sidebar_edit_quick_title">Atalhos</string>
     <string name="gd_sidebar_long_press_tips">Pressione e segure o indicador para movê-lo enquanto segura o dispositivo verticalmente</string>
     <string name="gd_splite_screen_tips">"A Tela dividida não suporta janelas flutuantes"</string>
-    <string name="gdpr_msg">&lt;Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e aceite a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não aceite a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.&lt;/Data></string>
+    <string name="gdpr_msg"><Data>Para poder detectar riscos de segurança e proteger seus dados, precisamos coletar a quantidade necessária de informações sobre seu dispositivo. Leia e aceite a nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a> antes de usar nossos serviços. Caso você não aceite a coleta destas informações, você ainda poderá usar o app, mas alguns recursos não estarão disponíveis.</Data></string>
     <string name="get_detail_by_click">Toque para ver detalhes</string>
     <string name="get_phone_num_fail">Número de telefone desconhecido</string>
     <string name="get_sys_info">Obtendo informações…</string>
@@ -2944,11 +2944,11 @@ Pressione e segure o indicador para mover a janela."</string>
     <string name="gtb_dialog_btn_open">Ativar</string>
     <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo > Configurações.</string>
     <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID da Conta Xiaomi para registrar a duração da sua associação."</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new">&lt;Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Turbo</string>
     <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará seu ID da Conta Xiaomi para registrar a duração da sua associação."</string>
-    <string name="gtb_dialog_privacy_voice_tips">&lt;Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."&lt;/Data></string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Modificador de voz Xunyou Game</string>
     <string name="gtb_dialog_summary_smart_5g">Sempre que o Game Turbo detectar uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso da rede. Ativar este recurso agora?</string>
     <string name="gtb_dialog_title_smart_5g">Otimização de rede 5G</string>
@@ -4590,7 +4590,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_agent_request_screen_info_positive_button_setting">Ativar</string>
     <string name="pp_agent_request_screen_info_title">Ativar o Reconhecimento de Tela por IA</string>
     <string name="pp_agent_screen_ctl">Controle Inteligente com IA</string>
-    <string name="pp_agent_screen_ctl_app_disable">"%1$s não pode ser controlado pelo %2$s agora."</string>
+    <string formatted="false" name="pp_agent_screen_ctl_app_disable">"%1$s não pode ser controlado pelo %2$s."</string>
     <string name="pp_agent_screen_ctl_desc">Quando este recurso estiver ativado, %s poderá ajudá-lo a controlar apps neste dispositivo.</string>
     <string name="pp_agent_screen_info">Reconhecimento de Tela por IA</string>
     <string formatted="false" name="pp_agent_screen_info_app_disable">"%2s não pode reconhecer o conteúdo da tela do %1s agora"</string>
@@ -4827,8 +4827,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_dialog_camera_message">Para proteger a sua privacidade, o HyperOS não permite que apps usem a sua câmera em 2º plano.</string>
     <string name="privacy_dialog_camera_title">Restringir uso de câmera em 2º plano</string>
     <string name="privacy_dialog_content_part1">Bem-vindo à Segurança! Este app verifica seu dispositivo em busca de lixo e vírus, além de permitir que você gerencie apps, controle o uso de dados móveis, bloqueie chamadas e mensagens e muito mais.</string>
-    <string name="privacy_dialog_content_part2">&lt;Data>O app Segurança precisa coletar informações pessoais necessárias para lhe fornecer seus serviços e para poder aprimorar os seus recursos. Você pode saber mais sobre como gerenciamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade do app Segurança a qualquer momento nas Configurações.&lt;/Data></string>
-    <string name="privacy_dialog_content_part3">&lt;Data>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o app Segurança. Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, a sua funcionalidade básica ainda estará disponível para você.&lt;/Data></string>
+    <string name="privacy_dialog_content_part2"><Data>O app Segurança precisa coletar informações pessoais necessárias para lhe fornecer seus serviços e para poder aprimorar os seus recursos. Você pode saber mais sobre como gerenciamos as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento à Política de Privacidade do app Segurança a qualquer momento nas Configurações.</Data></string>
+    <string name="privacy_dialog_content_part3"><Data>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o app Segurança. Se você não aceitar em usar os serviços mencionados, você não poderá usar alguns recursos do app; no entanto, a sua funcionalidade básica ainda estará disponível para você.</Data></string>
     <string name="privacy_dialog_danger_mission_message">O Android possui várias permissões de alto risco (ex.: a permissão para enviar notificações push para você). Para proteger a sua privacidade, o HyperOS perguntará se você permite tais comportamentos, e fornecerá opções de restrição.</string>
     <string name="privacy_dialog_danger_mission_title">Permissões de alto risco</string>
     <string name="privacy_dialog_feedback">"Feedback"</string>
@@ -4971,7 +4971,7 @@ Retirar o consentimento agora?"</string>
     <string name="privacy_revoke_dialog_title_cn">Atenção!</string>
     <string name="privacy_revoke_failed_dialog_content">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="privacy_revoke_failed_dialog_title">"Não foi possível retirar o consentimento"</string>
-    <string name="privacy_revoke_tip_dialog_content">&lt;Data>"Você não poderá continuar usando %1$s a menos que você aceite a nova versão de sua Política de Privacidade. Aceitar a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> %2$s atualizada agora?"&lt;/Data></string>
+    <string name="privacy_revoke_tip_dialog_content"><Data>"Você não poderá continuar usando %1$s a menos que você aceite a nova versão de sua Política de Privacidade. Aceitar a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> %2$s atualizada agora?"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">"Não é possível usar o app"</string>
     <string name="privacy_revoke_title">Retirada de consentimento</string>
     <string name="privacy_risk_app">Apps com risco</string>
@@ -5068,7 +5068,7 @@ Retirar o consentimento agora?"</string>
     <string name="privacy_thumbnail_shield_top_tip">Mascarar visualizações para apps exibidos nos Recentes</string>
     <string name="privacy_type_open">Ativado</string>
     <string name="privacy_update_dialog_content_1">A Política de Privacidade de %s foi atualizada:</string>
-    <string name="privacy_update_dialog_content_2">&lt;Data>Leia e aceite a nova versão da &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="privacy_update_dialog_content_2"><Data>Leia e aceite a nova versão da &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="privacy_update_dialog_title">Política de Privacidade atualizada</string>
     <string name="privacy_using_camera">Usar a câmara</string>
     <string name="privacy_using_location">Acesso à localização</string>
@@ -5893,26 +5893,26 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_declare_agree">Aceitar</string>
     <string name="system_permission_declare_analytics_declare">Convidamos você a se inscrever no nosso Programa de Experiência do Usuário. Este app precisa de se ligar à internet e usar as seguintes permissões ou recursos para recolher estatísticas, a fim de melhorar os serviços que lhe prestamos. Recolhemos dados aqui apenas para fins estatísticos, e não podemos identificá-lo pessoalmente com base nos dados que coletamos.</string>
     <string name="system_permission_declare_disagree">Sair</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_double_link"><Data>Leia e concorde com o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string formatted="false" name="system_permission_declare_main_purpose">Bem-vindo ao %1s! Este app permite que você use os seguintes recursos: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Ao mesmo tempo, para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_double_link"><Data>Leia e concorde com o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement"><Data>Leia e concorde com o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> antes de continuar.</Data></string>
     <string name="system_permission_declare_no_say_no">Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar normalmente.</string>
     <string name="system_permission_declare_no_say_no_analytics">Se você não quiser conceder estas permissões, você pode cancelar sua inscrição em Configurações > Configurações adicionais > Privacidade > Programa de Experiência do Usuário.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Se você optar por não conceder as permissões necessárias ou não permitir que coletemos e usemos os seus dados, este app poderá não funcionar totalmente.</string>
     <string name="system_permission_declare_optional">"Para fornecer serviços adicionais enquanto você usa o app, podemos precisar das seguintes permissões: %s. Você sempre pode ajustar suas preferências de permissão nas Configurações."</string>
-    <string name="system_permission_declare_optional_default_grant">&lt;Data>Para fornecer uma melhor experiência ao usuário, este app precisa das seguintes permissões adicionais: %1s. Para mais detalhes sobre como processamos as suas informações pessoais, toque &lt;a href=\"test\">aqui&lt;/a>. Você pode gerencias as suas permissões a qualquer momento nas Configurações.&lt;/Data></string>
+    <string name="system_permission_declare_optional_default_grant"><Data>Para fornecer uma melhor experiência ao usuário, este app precisa das seguintes permissões adicionais: %1s. Para mais detalhes sobre como processamos as suas informações pessoais, toque &lt;a href=\"test\">aqui&lt;/a>. Você pode gerencias as suas permissões a qualquer momento nas Configurações.</Data></string>
     <string name="system_permission_declare_privacy_declare">"Este app precisa conectar-se à internet e requer as seguintes permissões para funcionar normalmente:"</string>
     <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para poder funcionar normalmente:</string>
     <string name="system_permission_declare_privacy_no_permission">" Este app precisa conectar-se à internet e coletar os dados pessoais necessários para poder funcionar normalmente."</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_privacy_policy"><Data>Leia e concorde com a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
     <string name="system_permission_declare_revoke_system">Você pode sair deste app.</string>
     <string name="system_permission_declare_revoke_uninstallable">Você pode sair, desinstalar este app ou revogar a sua autorização em Segurança > Gerenciar apps > Permissões > Permissões.</string>
     <string name="system_permission_declare_title">Atenção!</string>
     <string name="system_permission_declare_use_network">Conectar-se à rede</string>
     <string name="system_permission_declare_use_network_no_permission">Conecte-se à rede</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>.&lt;/Data></string>
+    <string name="system_permission_declare_user_agreement"><Data>Leia e concorde com o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> antes de continuar.</Data></string>
     <string name="system_permission_perm_answer_call">Fazer chamadas</string>
     <string name="system_permission_perm_optional">" (opcional)"</string>
     <string name="system_permission_perm_read_mms">Ler MMS</string>

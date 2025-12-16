@@ -519,8 +519,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="net_permission_cancel">"Não aceitar"</string>
     <string name="net_permission_ok">Aceitar</string>
-    <string name="network_privacy">&lt;Data>Para obter informações relevantes sobre feriados públicos locais e ajustar alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?&lt;/Data></string>
-    <string name="network_privacy_global">&lt;Data>Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?&lt;/Data></string>
+    <string name="network_privacy"><Data>Para obter informações relevantes sobre feriados públicos locais e ajustar alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="network_privacy_global"><Data>Para fornecer serviços personalizados, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
     <string name="never">Uma vez</string>
     <string name="new_label">Adicionar rótulo do alarme</string>
     <string name="night">"PM"</string>
