@@ -3517,7 +3517,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="clipboard_overlay_window_name">Prancheta</string>
     <string name="clipboard_send_nearby_description">Enviar para um dispositivo próximo</string>
     <string name="clipboard_text_copied">Texto copiado</string>
-    <string name="clipboard_text_hidden">Toque para ver</string>    
+    <string name="clipboard_text_hidden">Toque para ver</string>
     <string name="close_button_text">Fechar %1$s</string>
     <string name="close_text">Fechar</string>
     <string name="controls_dialog_remove">Remover</string>
@@ -3650,7 +3650,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="guest_notification_session_active">Você está no modo visitante</string>
     <string name="guest_reset_and_restart_dialog_message">Isso iniciará uma nova sessão de convidado e excluirá todos os apps e dados da sessão atual</string>
     <string name="guest_reset_and_restart_dialog_title">Redefinir sessão de convidado?</string>
-    <string name="gxzw_quick_open_search_sub">Navegador</string>    
+    <string name="gxzw_quick_open_search_sub">Navegador</string>
     <string name="hdmi_cec_set_menu_language_accept">Mudar idioma</string>
     <string name="hdmi_cec_set_menu_language_decline">Manter o idioma atual</string>
     <string name="hdmi_cec_set_menu_language_description">Alteração de idioma do sistema solicitada por outro dispositivo</string>
@@ -3663,7 +3663,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="health_chart_sleep_time_very_good">Bom</string>
     <string name="health_chart_step_count_unit">Passos</string>
     <string name="health_no_data">Sem dados de saúde</string>
-    <string name="health_sleep_desc">Duração do sono %1$s, qualidade do sono: %2$s</string>    
+    <string name="health_sleep_desc">Duração do sono %1$s, qualidade do sono: %2$s</string>
     <string name="humidity_format">Umidade %s</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">"Não é possível alternar entre espaços no modo Estação de trabalho"</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"Não é possível usar o Segundo espaço no Modo hibernação"</string>
