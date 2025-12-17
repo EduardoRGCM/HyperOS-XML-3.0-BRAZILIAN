@@ -4590,7 +4590,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pp_agent_request_screen_info_positive_button_setting">Ativar</string>
     <string name="pp_agent_request_screen_info_title">Ativar o Reconhecimento de Tela por IA</string>
     <string name="pp_agent_screen_ctl">Controle Inteligente com IA</string>
-    <string formatted="false" name="pp_agent_screen_ctl_app_disable">"\"%1s"\ não pode ser controlado pelo \"%2s\""</string>
+    <string name="pp_agent_screen_ctl_app_disable">"%1$s não pode ser controlado por %2$s no momento."</string>
     <string name="pp_agent_screen_ctl_desc">Quando este recurso estiver ativado, %s poderá ajudá-lo a controlar apps neste dispositivo.</string>
     <string name="pp_agent_screen_info">Reconhecimento de Tela por IA</string>
     <string formatted="false" name="pp_agent_screen_info_app_disable">"%2s não pode reconhecer o conteúdo da tela do %1s agora"</string>
