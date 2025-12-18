@@ -592,8 +592,8 @@ Qualquer pessoa pode ler esta informação na sua Tela de bloqueio e ligar para 
     <string name="next">Próxima</string>
     <string name="no">Não</string>
     <string name="no_application">Nada</string>
-    <string name="no_info_provided">"Nenhuma informação sobre o proprietário do telefone"</string>    <string name="not_default_data_content_description">Sem configuração para uso de dados</string>
-    <string name="not_default_data_content_description">Não definido para usar dados</string>
+    <string name="no_info_provided">"Nenhuma informação sobre o proprietário do telefone"</string>
+    <string name="not_default_data_content_description">Sem configuração para uso de dados</string>
     <string name="not_grant_admin">Não, não transformar o usuário em administrador</string>
     <string name="not_set">Não definido</string>
     <string name="not_specified">Não especificado</string>
