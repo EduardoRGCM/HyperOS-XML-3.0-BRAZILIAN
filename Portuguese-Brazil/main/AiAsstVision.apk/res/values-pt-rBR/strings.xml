@@ -124,8 +124,9 @@
     <string name="camera_translate">Traduzir câmera</string>
     <string name="cancel_text">Cancelar</string>
     <string name="caption_guide_know">Entendido</string>
-    <string name="caption_text_size_large">G</string>
-    <string name="caption_text_size_small">P</string>
+    <string name="caption_text_size_large">"G"</string>
+    <string name="caption_text_size_mid">"M"</string>
+    <string name="caption_text_size_small">"P"</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="check_hint">*Marque essa opção para que o conteúdo da legenda seja separado por voz para facilitar a leitura</string>
@@ -142,6 +143,7 @@
     <string name="cn_to_en">Chinês para Inglês</string>
     <string name="cn_to_ja">Chinês para Japonês</string>
     <string name="cn_to_ko">Chinês para Coreano</string>
+    <string name="college_entrance_examination">Vestibular</string>
     <string name="common_delete">Excluir</string>
     <string name="common_edit">Editar</string>
     <string name="common_expressions">Frases frequentes</string>
@@ -269,6 +271,10 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="full_screen_camera_translate_hint">Traduza fotos num instante</string>
+    <string name="full_screen_dialogue_translate_hint">Traduza entre %1$d idiomas</string>
+    <string name="full_screen_screen_translate_hint">Abra uma janela flutuante e traduza sua tela</string>
+    <string name="full_screen_subtitle_hint">Transcreva e traduza falas</string>
     <string name="function">Recursos</string>
     <string name="generate_abstract_content_description">Gerar abstract</string>
     <string name="generate_summary">Gerar resumo</string>
@@ -349,6 +355,7 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="language_sk">Eslovaco</string>
     <string name="language_sl">Esloveno</string>
     <string name="language_sv">Sueco</string>
+    <string name="language_ta">Tâmil</string>
     <string name="language_th">Tailandês</string>
     <string name="language_tr">Turco</string>
     <string name="language_uz">Uzbeque</string>
@@ -372,6 +379,7 @@ Salve o conteúdo da legenda como anotações"</string>
     <string name="material_minute_suffix">%1$s minutos</string>
     <string name="material_slider_range_end">Fim do intervalo</string>
     <string name="material_slider_range_start">Início do intervalo</string>
+    <string name="material_slider_value">Valor</string>
     <string name="material_timepicker_am">"AM"</string>
     <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
     <string name="material_timepicker_hour">Hora</string>
@@ -435,8 +443,8 @@ Atualize para a versão mais recente para poder usar esse recurso."</string>
     <string name="model_download_show_text_fail_no_storage">Armazenamento insuficiente. Limpe o armazenamento e tente baixar novamente.</string>
     <string name="model_download_show_text_fail_other">Não foi possível baixar. Aguarde alguns minutos e tente novamente.</string>
     <string name="model_download_show_text_go_on">Baixar</string>
-    <string formatted="false" name="model_download_show_text_mobile_net_tip_cn">O download dos pacotes de idioma %s usará %d MB de dados móveis. Baixar agora?</string>
-    <string formatted="false" name="model_download_show_text_mobile_net_tip_en">O download dos pacotes de idioma %s usará %d MB de dados móveis. Baixar agora?</string>
+    <string name="model_download_show_text_mobile_net_tip_cn" formatted="false">O download dos pacotes de idioma %s usará %d MB de dados móveis. Baixar agora?</string>
+    <string name="model_download_show_text_mobile_net_tip_en" formatted="false">O download dos pacotes de idioma %s usará %d MB de dados móveis. Baixar agora?</string>
     <string name="model_download_show_text_switch_cn">Mudar para Chinês</string>
     <string name="model_download_show_text_switch_en_to_cn">Mudar para Inglês</string>
     <string name="model_download_show_text_unzip_cn">Descompactando o pacote de idiomas off-line %s…</string>
@@ -579,6 +587,7 @@ Observação: As legendas geradas de conteúdos de vídeo ou áudio não podem s
     <string name="phrase_empty">Nenhum item aqui ainda</string>
     <string name="please_choose_the_correct_language">Selecione o idioma</string>
     <string name="pm">"PM"</string>
+    <string name="postgraduate_entrance_examination">Exame de pós-graduação</string>
     <string name="pp_app_warning_permission_tips">Permissões sensíveis</string>
     <string name="pref_auto_setting_title">Configurações automáticas</string>
     <string name="pref_play_timbre_title">Tom de reprodução</string>
@@ -721,9 +730,11 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="sys_app_prot_cracked_confirm">Entendido</string>
     <string name="sys_sound">Áudio do sistema</string>
     <string name="sys_sound_content">Ideal para traduzir legendas ao assistir vídeos</string>
-    <string name="text_big">G</string>
+    <string name="text_big">"G"</string>
     <string name="text_size">Tamanho do texto</string>
-    <string name="text_small">P</string>
+    <string name="text_small">"P"</string>
+    <string name="text_standard">"M"</string>
+    <string name="text_subtitle_language">Idioma da legenda</string>
     <string name="text_translate_local_error">Ocorreu um erro. Aguarde um pouco e tente novamente.</string>
     <string name="text_translate_offline_notice">Rede desconectada. Apenas a tradução entre Inglês e Chinês está disponível.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
@@ -770,6 +781,8 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="tip_add_shortcut_after_exit_desktop_mode">Saia do modo de Estação de trabalho e tente novamente</string>
     <string name="tip_no_support_insert_summary_to_notes">O resumo é muito longo. Não é possível salvar como uma anotação.</string>
     <string name="title_how_to_open">Como faço para ativar o Mi Ditto?</string>
@@ -798,6 +811,10 @@ Se você retirar o consentimento, não poderá mais usar os serviços do Traduto
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
+    <string name="tx_clear_history_record_dialog_hint">Excluir permanentemente o histórico de pesquisa agora?</string>
+    <string name="tx_clear_history_record_dialog_title">Excluir histórico</string>
+    <string name="tx_history_record">Histórico</string>
+    <string name="tx_min_window_run_screen_translate_hint">A tradução de tela requer o uso de janelas flutuantes</string>
     <string name="txt_contact_us">Fale conosco</string>
     <string name="txt_service_phone">Telefone de atendimento ao cliente</string>
     <string name="unknown_app">App desconhecido</string>

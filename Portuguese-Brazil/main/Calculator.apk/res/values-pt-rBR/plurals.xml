@@ -84,6 +84,10 @@
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">%1$d item selecionado</item>
+        <item quantity="other">%1$d itens selecionados</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d anos (%2$d meses)</item>
         <item quantity="one">%1$d ano (%2$d meses)</item>
@@ -103,5 +107,29 @@
     <plurals name="tenure_years">
         <item quantity="other">%d anos</item>
         <item quantity="one">%d ano</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="one">"Byte"</item>
+        <item quantity="other">"Bytes"</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="one">"Gigabyte"</item>
+        <item quantity="other">"Gigabytes"</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="one">"Kilobyte"</item>
+        <item quantity="other">"Kilobytes"</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="one">"Megabyte"</item>
+        <item quantity="other">"Megabytes"</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="one">"Petabyte"</item>
+        <item quantity="other">"Petabytes"</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="one">"Terabyte"</item>
+        <item quantity="other">"Terabytes"</item>
     </plurals>
 </resources>
