@@ -2501,8 +2501,8 @@ Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção
     <string name="gb_audition_play_instruction">Use fones de ouvido para um melhor efeito</string>
     <string name="gb_award_noti_message">Ative as atualizações de plano de fundo do Game for Peace no Game Turbo para obter recompensas</string>
     <string name="gb_award_noti_title">As recompensas do Game for Peace chegaram!</string>
-    <string name="gb_balance_disbale_wild_mode_pad_desc">&lt;Data>"Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo ultimate está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"&lt;/Data></string>
-    <string name="gb_balance_disbale_wild_mode_phone_desc">&lt;Data>"Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo ultimate está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança. &lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"&lt;/Data></string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>"Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo ultimate está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>"Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo ultimate está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança. &lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
     <string name="gb_bar_high">Alta</string>
     <string name="gb_bar_low">Baixa</string>
     <string name="gb_bar_mid">Média</string>
@@ -2637,7 +2637,7 @@ Grave sequências e use-as a qualquer momento!"</string>
     <string name="gb_ngtb_gpu">"GPU"</string>
     <string name="gb_not_support_on_device">Este app não pode ser usado na tela externa</string>
     <string name="gb_operat_frequently">Não tão rápido!</string>
-    <string name="gb_performace_guide_disable_desc">&lt;Data>Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"&lt;/Data></string>
+    <string name="gb_performace_guide_disable_desc"><Data>Não é possível alternar para o modo Balanceado no Game Turbo quando o Modo desempenho está ativado em todo o sistema. Você pode alterar as configurações da bateria em Segurança.&lt;br>&lt;a href=\"#\">Abrir Segurança&lt;/a>"</Data></string>
     <string name="gb_performace_switch_toast">Mudou para o Modo desempenho. Seu dispositivo pode esquentar e consumir mais energia.</string>
     <string name="gb_performace_tips_button">Mudar</string>
     <string name="gb_performace_tips_title">Mude para o Modo desempenho para uma melhor experiência</string>
@@ -2944,7 +2944,7 @@ Pressione e segure o indicador para mover a janela."</string>
     <string name="gtb_dialog_btn_open">Ativar</string>
     <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo > Configurações.</string>
     <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID da Conta Xiaomi para registrar a duração da sua associação."</string>
-    <string name="gtb_dialog_privacy_speed_tips"><Data>>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Turbo</string>
     <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará seu ID da Conta Xiaomi para registrar a duração da sua associação."</string>
