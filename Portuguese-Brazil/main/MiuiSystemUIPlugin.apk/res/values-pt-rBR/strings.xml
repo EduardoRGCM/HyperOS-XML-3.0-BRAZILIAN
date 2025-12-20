@@ -290,6 +290,7 @@ Usuários de outros fones de ouvido: redefina seus fones de ouvido nas configura
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Fechar</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Atualizado com sucesso</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Atualizando…</string>
@@ -408,6 +409,7 @@ Usuários de outros fones de ouvido: redefina seus fones de ouvido nas configura
     <string name="online">"Online"</string>
     <string name="open_system_optimization">Ative a otimização do sistema primeiro</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
+    <string name="phone_case_disassembly_prompt">Remova a capa do seu telefone para usar o carregamento sem fio reverso</string>
     <string name="pm">"PM"</string>
     <string name="power_off">Desligar</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
@@ -446,6 +448,7 @@ Usuários de outros fones de ouvido: redefina seus fones de ouvido nas configura
     <string name="quick_settings_bluetooth_detail_empty_text">Nenhum dispositivo emparelhado disponível</string>
     <string name="quick_settings_bluetooth_label">"Bluetooth"</string>
     <string name="quick_settings_camera_grip_charge">Carregar via grip</string>
+    <string name="quick_settings_carsickness">Alívio de enjoo de movimento</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Os dados móveis (WCDMA/LTE) serão desativados. A menos que você use Wi-Fi, você não poderá mais usar apps que requerem uma conexão de dados. O envio ou recebimento de mensagens multimídia será restrito.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Os dados móveis serão ativados. A conexão a redes móveis pode resultar em custos adicionais, dependendo do seu plano de dados.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancelar</string>
@@ -539,6 +542,8 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="super_volume_initial_remind_toast">O aumento de volume está ativado. Seu dispositivo pode aquecer e usar mais energia.</string>
+    <string name="super_volume_nearly_full_toast">O aumento de volume está ativado</string>
     <string name="super_volume_toast">Aumento de volume ativado</string>
     <string name="switch_bar_off">Desativado</string>
     <string name="switch_bar_on">Ativado</string>
@@ -625,9 +630,4 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="wordless_mode_subtitle_text">Ative para exibir os nomes dos ícones na Central de Controle.</string>
     <string name="wordless_mode_title_text">Exibir nomes dos ícones na Central de Controle.</string>
     <string name="yesterday">Ontem</string>
-    <string name="miuix_pairing_dialog_closable_icon_description">Fechar</string>
-    <string name="phone_case_disassembly_prompt">Remova a capa do seu telefone para usar o carregamento sem fio reverso</string>
-    <string name="quick_settings_carsickness">Alívio de enjoo de movimento</string>
-    <string name="super_volume_initial_remind_toast">O aumento de volume está ativado. Seu dispositivo pode aquecer e usar mais energia.</string>
-    <string name="super_volume_nearly_full_toast">O aumento de volume está ativado</string>
 </resources>

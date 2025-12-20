@@ -39,12 +39,12 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="ad">Anúncios</string>
     <string name="ad_download">Instalar</string>
-    <string name="add_download_download">"Download"</string>
-    <string name="add_download_error_not_support">"Este link não é compatível"</string>
-    <string name="add_download_text_hint">Insira um link HTTP/HTTPS</string>
     <string name="ad_mark">Anúncios</string>
     <string name="ad_title">Outras pessoas também baixaram com %1$s</string>
     <string name="ad_title_other">As pessoas que baixaram esta imagem também baixaram</string>
+    <string name="add_download_download">"Download"</string>
+    <string name="add_download_error_not_support">"Este link não é compatível"</string>
+    <string name="add_download_text_hint">Insira um link HTTP/HTTPS</string>
     <string name="add_flow_fail_haveget_msg">O período de testes expirou</string>
     <string name="add_flow_fail_vip_msg">Acelerador Xunlei ativado</string>
     <string name="add_flow_success_msg">%s adicionados este mês</string>
@@ -74,9 +74,9 @@
     <string name="cancel_running_download">Cancelar</string>
     <string name="cancle">Cancelar</string>
     <string name="category">Categoria</string>
+    <string name="character_counter_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="check_new_downloaded_file">Novo arquivo encontrado</string>
     <string name="choose_open_picture">Selecionar ação</string>
-    <string name="character_counter_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="choose_open_time">Escolher quando quer começar</string>
     <string name="clear_data">Limpar</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -137,7 +137,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_content_limit0">Restringido</string>
     <string name="dialog_content_limit_max">Ilimitado</string>
     <string name="dialog_delete_positive">Excluir</string>
-    <string formatted="false" name="dialog_download_dir_content">A pasta de destino padrão para seus downloads foi alterada de \"%s\" para \"%s/DLManager\".</string>
+    <string name="dialog_download_dir_content" formatted="false">A pasta de destino padrão para seus downloads foi alterada de \"%s\" para \"%s/DLManager\".</string>
     <string name="dialog_download_dir_title">Nova pasta de destino</string>
     <string name="dialog_failed_body">Tentar baixar mais tarde ou excluir da lista de espera?</string>
     <string name="dialog_file_already_exists">Este arquivo já existe</string>
@@ -239,9 +239,9 @@ Por favor, envie este código para o técnico."</string>
     <string name="extend">Mais</string>
     <string name="extra_ad_title">Você pode gostar</string>
     <string name="extract_file">Descompactando arquivo…</string>
+    <string name="fastest_speed">Velocidade máxima</string>
     <string name="feature_page_message">"Não é possível usar esta versão do app. Desinstale-o e baixe a nova versão do GetApps."</string>
     <string name="feature_page_uninstall">Desinstalar</string>
-    <string name="fastest_speed">Velocidade máxima</string>
     <string name="file_exist_hint">Este arquivo já existe</string>
     <string name="file_picker">Escolha um local</string>
     <string name="file_size">Tamanho:</string>
@@ -450,7 +450,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="open_download">Abrir</string>
     <string name="open_folder">Abrir pasta</string>
     <string name="open_vip_hint">Toque para se tornar um membro Xunlei</string>
-    <string name="open_vip_speedup">Torne-se um membro para otimizar a velocidade </string>
+    <string name="open_vip_speedup">Torne-se um membro para otimizar a velocidade</string>
     <string name="open_xunlei_speed_service">Iniciar o Acelerador Xunlei</string>
     <string name="original_price">Preço</string>
     <string name="other">Outros</string>
@@ -486,9 +486,9 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="preferences_title">Configurações</string>
     <string name="privacy">Privacidade</string>
-    <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_agree_dialog_msg"><Data>"Bem-vindo ao Downloads! Você pode usar este app para baixar arquivos.&lt;BR>Downloads precisa coletar as informações pessoais necessárias para fornecer a você os serviços que geram estatísticas de download. Você pode aprender como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.&lt;BR>Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o app Downloads.&lt;BR>Você pode retirar o seu consentimento à Política de Privacidade do app Downloads nas Configurações a qualquer momento. Se você não aceitar a Política de Privacidade, você não poderá usar alguns recursos do app; no entanto, seus recursos básicos ainda estarão disponíveis para você."</Data></string>
     <string name="privacy_agree_dialog_title">Termos e Condições</string>
+    <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_revoke_dialog_later">Cancelar</string>
     <string name="privacy_revoke_dialog_msg">Ao desativar o seletor, você retira seu consentimento para a Política de Privacidade do app Downloads. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, conforme exigido pelas leis aplicáveis. O app Downloads precisa coletar informações pessoais necessárias para fornecer-lhe serviços que geram estatísticas de downloads. Sua retirada de consentimento de sua Política de Privacidade será considerada como recusa em aceitar seus serviços com base nas informações pessoais coletadas.</string>
     <string name="privacy_revoke_dialog_ok">Retirar</string>
@@ -624,7 +624,7 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="sniff_terms_msg_bold_new">Termos de Serviço</string>
     <string name="sniff_terms_reject">Rejeitar</string>
     <string name="sniff_terms_title">Atenção!</string>
-    <string name="sniff_text_sniff_next_page">Continuar &gt;</string>
+    <string name="sniff_text_sniff_next_page">Continuar ></string>
     <string name="sniff_vip_tip_speedup">Você pode testar a otimização de velocidade gratuitamente uma vez</string>
     <string name="sniff_vip_tip_vip">O Acelerador Xunlei otimiza a sua velocidade</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
@@ -802,7 +802,7 @@ Acelere downloads em todos os seus dispositivos."</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="xl_annual_vip_open">Inscrição anual (%1$s Mi Créditos ou %2$s mensalmente)</string>
     <string name="xl_annual_vip_renew">Renovar por 1 ano (%1$s Mi Créditos ou %2$s mensalmente)</string>
-    <string name="xl_bind_account">Adicionar conta Xunlei existente </string>
+    <string name="xl_bind_account">Adicionar conta Xunlei existente</string>
     <string name="xl_extend">Mais</string>
     <string name="xl_highway_autoopen">Canal de alta velocidade</string>
     <string name="xl_highway_autoopen_info">Ativar canal de alta velocidade automaticamente</string>

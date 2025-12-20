@@ -326,6 +326,7 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="auto_data_switch_content">Você pode alterar isso a qualquer momento nas Configurações</string>
     <string name="auto_data_switch_title">Dados alterados para %s</string>
     <string name="autoclick_feature_name">Clique automático</string>
+    <string name="autofill">Preenchimento automático</string>
     <string name="autofill_address_type_same_as_re">igual a</string>
     <string name="autofill_address_type_use_my_re">usar meu</string>
     <string name="autofill_area">Área</string>
@@ -336,7 +337,6 @@ Você pode alterar este atalho para outro recurso em Configurações > Acessibil
     <string name="autofill_emirate">Emirado</string>
     <string name="autofill_error_cannot_autofill">Não é possível preencher os conteúdos automaticamente</string>
     <string name="autofill_island">Ilha</string>
-    <string name="autofill">Preenchimento automático</string>
     <string name="autofill_parish">Paróquia</string>
     <string name="autofill_picker_accessibility_title">Opções de preenchimento automático</string>
     <string name="autofill_picker_no_suggestions">Sem sugestões de preenchimento automático</string>

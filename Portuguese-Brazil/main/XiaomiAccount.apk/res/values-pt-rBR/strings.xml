@@ -91,7 +91,7 @@ ID da sua conta: %s"</string>
     <string name="bind_sns_description">Fazer login com %s</string>
     <string name="bind_weixin">Conecte sua Conta do WeChat</string>
     <string name="binded">Conectada</string>
-    <string formatted="false" name="binded_description">"%s foi conectado à sua Conta Xiaomi.
+    <string name="binded_description" formatted="false">"%s foi conectado à sua Conta Xiaomi.
 Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="button_agree">Aceitar</string>
     <string name="button_close">Fechar</string>
@@ -250,8 +250,8 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="find_device_interrupted">A ação foi interrompida. Aguarde um momento e tente novamente.</string>
     <string name="find_device_io_error">"Não é possível conectar-se à rede"</string>
     <string name="find_device_location">Localizar</string>
-    <string formatted="false" name="find_device_locked_account_email">%s, endereço de e-mail associado: %s</string>
-    <string formatted="false" name="find_device_locked_account_phone">%s, número de telefone associado: %s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s, endereço de e-mail associado: %s</string>
+    <string name="find_device_locked_account_phone" formatted="false">%s, número de telefone associado: %s</string>
     <string name="find_device_message">O dispositivo está bloqueado. Mensagem: %1$s. Ligue para %2$s.</string>
     <string name="find_device_null_credential_error">"Não é possível obter informações do dispositivo, entre em contato com o atendimento ao cliente Xiaomi"</string>
     <string name="find_device_open">Ativado</string>

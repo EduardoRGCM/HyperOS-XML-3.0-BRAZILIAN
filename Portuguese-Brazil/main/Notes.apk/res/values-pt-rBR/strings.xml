@@ -35,8 +35,8 @@
     <string name="action_collapse">Ocultar</string>
     <string name="action_copy">Copiar</string>
     <string name="action_expand">Mostrar mais</string>
-    <string name="action_insert">Inserir resumo</string>
     <string name="action_folder_description">Ver pastas</string>
+    <string name="action_insert">Inserir resumo</string>
     <string name="action_mode_cancel_folder_priority">Não mostrar pastas primeiro</string>
     <string name="action_mode_switcher_folder_priority">Mostrar pastas primeiro</string>
     <string name="action_mode_switcher_grid_description">Visualização em grade</string>
@@ -51,9 +51,9 @@
     <string name="actionbar_home_description">Voltar</string>
     <string name="add_account_desc">Sincronizar suas notas com sua Conta Xiaomi?</string>
     <string name="add_excerpt_summary">Adicionar à lista de resumo</string>
+    <string name="add_modifications">Sugestão: Adicione \"%1$s\"</string>
     <string name="add_pic_excerpt_summary">Adicionar resumo de imagem</string>
     <string name="add_text_excerpt_summary">Adicionar resumo de texto</string>
-    <string name="add_modifications">Sugestão: Adicione \"%1$s\"</string>
     <string name="add_to_clip_toast">Copiado com sucesso</string>
     <string name="added_to_clipboard">Copiado com sucesso</string>
     <string name="adopt">Usar</string>
@@ -67,15 +67,15 @@
     <string name="ai_button_cancel">Cancelar</string>
     <string name="ai_button_close">Desligar</string>
     <string name="ai_button_retry">Tentar novamente</string>
+    <string name="ai_chat_declare_double_link"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
+    <string name="ai_chat_dlg_content">Para diversas fontes de informação em diferentes cenários (como links ou texto que aparecem em apps como navegadores, WeChat e Feishu), a função de coletar e resumir informações rapidamente, bem como gerá-las e apresentá-las automaticamente em uma entrada unificada para arquivamento, pode ser alcançado.</string>
     <string name="ai_check">Revisão por IA</string>
     <string name="ai_comment_bad">Negativo</string>
     <string name="ai_comment_good">Positivo</string>
     <string name="ai_comment_normal">Neutro</string>
-    <string name="ai_chat_declare_double_link"><Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.</Data></string>
-    <string name="ai_chat_dlg_content">Para diversas fontes de informação em diferentes cenários (como links ou texto que aparecem em apps como navegadores, WeChat e Feishu), a função de coletar e resumir informações rapidamente, bem como gerá-las e apresentá-las automaticamente em uma entrada unificada para arquivamento, pode ser alcançado.</string>
-    <string name="ai_createing_text">Geração de IA…</string>
     <string name="ai_complete_summary_title">Resumo</string>
     <string name="ai_content_generates_reminders">Este conteúdo foi gerado por IA e é fornecido apenas para a sua referência.</string>
+    <string name="ai_createing_text">Geração de IA…</string>
     <string name="ai_dialog_cancel_message">Experimente desativar o suporte computacional para usar a Escrita por IA na nuvem.</string>
     <string name="ai_dialog_retry_message">Toque no botão abaixo para tentar novamente.</string>
     <string name="ai_dialog_title">Não é possível usar este recurso agora</string>
@@ -367,8 +367,8 @@
     <string name="cta_v2_agree_desc">Permita que este app conecte-se à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="cta_v2_app_purpose">Criação, visualização e gerenciamento de notas</string>
     <string name="cta_v2_app_purpose_v12">Bem-vindo ao Notas! Você pode usar este app para criar tarefas e notas que contenham texto, imagens e áudio.</string>
-    <string name="data_empty_folder">Nenhuma outra pasta para exibir</string>
     <string name="cta_v2_app_purpose_v12_lite">Bem-vindo ao Notas! Você pode usar este app para criar notas e tarefas.</string>
+    <string name="data_empty_folder">Nenhuma outra pasta para exibir</string>
     <string name="data_empty_note">Nenhuma nota aqui ainda</string>
     <string name="data_empty_todo">Nenhuma tarefa aqui ainda</string>
     <string name="date_calculate_today">0 dias</string>
@@ -457,7 +457,7 @@
     <string name="doodle_guide_dialog_confirm">"OK"</string>
     <string name="doodle_guide_dialog_skip">Pular</string>
     <string name="doodle_guide_dialog_title">Desenho</string>
-    <string formatted="false" name="doodle_guide_quick_shape_hint">Pressione e segure o desenho por %d-%d segundos para ajustar os traços automaticamente</string>
+    <string name="doodle_guide_quick_shape_hint" formatted="false">Pressione e segure o desenho por %d-%d segundos para ajustar os traços automaticamente</string>
     <string name="doodle_palette">Paleta de cores</string>
     <string name="doodle_save_progress_text">Salvando…</string>
     <string name="doodle_saving">Salvando…</string>
@@ -505,13 +505,13 @@
     <string name="excerpt_image_summary_fail">Falha na análise de conteúdo. Revise a imagem original ou tente novamente mais tarde.</string>
     <string name="excerpt_image_summary_huangfan">O conteúdo é sensível. Por favor, consulte a imagem original.</string>
     <string name="excerpt_link_bubble_tips">Toque para salvar em Notas</string>
+    <string name="excerpt_note">Meus excertos</string>
     <string name="excerpt_original_image">Imagem original:</string>
     <string name="excerpt_original_text">Texto original:</string>
     <string name="excerpt_summary_fail">Falha na análise de conteúdo. Por favor, clique no link original para visualizar ou tente novamente mais tarde.</string>
     <string name="excerpt_summary_huangfan">O conteúdo é sensível. Por favor, clique no link original para ver.</string>
     <string name="excerpt_summary_link_bubble_tips">Toque para salvar o resumo em Notas.</string>
     <string name="excerpt_text_min">Há muito pouco texto para gerar um resumo. Por favor, consulte a imagem original.</string>
-    <string name="excerpt_note">Meus excertos</string>
     <string name="excerpted_to_note">Excerto salvo em Notas</string>
     <string name="excerpting">Criando um excerto…</string>
     <string name="expand_button_title">Avançado</string>
@@ -570,9 +570,9 @@
     <string name="folder_operation_rename">Renomear</string>
     <string name="folder_other">Outras pastas</string>
     <string name="foler_pinned">Pastas fixadas</string>
+    <string name="force_touch_menu_add">Nova nota</string>
     <string name="foregound_content">O widget Mi AI Texto está funcionando…</string>
     <string name="foregound_tile">Texto IA</string>
-    <string name="force_touch_menu_add">Nova nota</string>
     <string name="format_move_note_out_folder">Esta nota foi movida</string>
     <string name="format_move_note_to_folder">Movido para %1$s</string>
     <string name="format_move_notes_out_folder">%1$s movida</string>
@@ -633,8 +633,8 @@
     <string name="load_note_dialog">Aguarde…</string>
     <string name="loading_text">Aguarde…</string>
     <string name="login_sync">Fazer login e sincronizar</string>
-    <string name="main_body">Texto completo</string>
     <string name="lunar_day">%1$s lunar</string>
+    <string name="main_body">Texto completo</string>
     <string name="manage_folders">Gerenciar pastas</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_24h_suffix">%1$s horas</string>
@@ -750,8 +750,8 @@
     <string name="miui_plus_app_state_description_view_todo">Ver tarefa</string>
     <string name="miui_plus_relay_waring_data_not_find">"Não foi possível encontrar o item que você está vendo em outro dispositivo. Certifique-se de que todos os itens estejam sincronizados."</string>
     <string name="miuix_access_state_desc">Selecionado</string>
-    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_accessibility_title">Título</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Recolhido</string>
     <string name="miuix_appcompat_accessibility_expand_state">Expandido</string>
     <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Sair do modo de edição</string>
@@ -910,10 +910,10 @@
     <string name="new_audio_create_done_talkback_des">Criada</string>
     <string name="new_audio_create_guide_tip">Pressione e segure para criar uma nota de voz</string>
     <string name="new_audio_create_talkback_des">Toque para criar uma nota em texto. Pressione e segure para criar uma nota de voz. Solte o botão para parar a gravação e criar uma nota, ou deslize para cima para cancelar.</string>
-    <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
     <string name="new_data_empty_note">Sem itens</string>
-    <string name="new_sync_desc_state_disable">Ative a sincronização com a nuvem para notas, tarefas e muito mais.</string>
+    <string name="new_lite_audio_create_talkback_des">Toque para criar uma nota</string>
     <string name="new_notes_create_talkback_des">Toque para criar uma nota</string>
+    <string name="new_sync_desc_state_disable">Ative a sincronização com a nuvem para notas, tarefas e muito mais.</string>
     <string name="new_todo_create_talkback_des">Toque para criar uma tarefa</string>
     <string name="night">"PM"</string>
     <string name="no_network">"Não é possível conectar-se à rede"</string>
@@ -973,8 +973,8 @@
     <string name="pad_insert_image_menu_take_photo_by_phone">Câmera do dispositivo</string>
     <string name="pad_note_create_hint">Toque no botão para criar uma nota</string>
     <string name="pad_note_list_not_text_stub">Sem texto</string>
-    <string name="page_reach_max_point_count_toast">Muito conteúdo nesta página. Não é possível editar.</string>
     <string name="pad_todo_create_hint">Adicionar tarefa</string>
+    <string name="page_reach_max_point_count_toast">Muito conteúdo nesta página. Não é possível editar.</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="paste_unsupported_data">"Não é possível colar este conteúdo"</string>
     <string name="pc_action_create_new_folder">Pasta</string>
@@ -1189,6 +1189,9 @@
     <string name="sns_hint_title">Assunto (opcional)</string>
     <string name="sns_message_disconnect">Não é possível conectar-se à rede. Verifique sua conexão e tente novamente.</string>
     <string name="sns_title_edit">Compartilhar nota</string>
+    <string name="sns_title_send">Enviar mensagem</string>
+    <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
+    <string name="sns_toast_over_limit">Enviado como imagem</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
@@ -1213,9 +1216,6 @@
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="sns_title_send">Enviar mensagem</string>
-    <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
-    <string name="sns_toast_over_limit">Enviado como imagem</string>
     <string name="splash_note">Caneta</string>
     <string name="stealth_mode_tip">Você está anônimo. Não é possível usar o microfone agora.</string>
     <string name="suggested_delete">Sugestão: Exclua \"%1$s\"</string>
@@ -1328,9 +1328,9 @@
     <string name="toast_refuse_to_record_when_in_call">"Não é possível usar este recurso durante chamadas"</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Não é possível usar este recurso com a Tela dividida</string>
     <string name="toast_refuse_to_record_when_in_multi_window_new">"Não é possível usar este recurso em Tela dividida ou janelas flutuantes"</string>
+    <string name="toast_refuse_to_record_when_mic_in_use">Não é possível gravar áudios com o microfone em uso</string>
     <string name="toast_refuse_to_use_contact">"As permissões de contatos estão restritas.
 Permita que o app Notas leia seus contatos e encontre contas no seu dispositivo."</string>
-    <string name="toast_refuse_to_record_when_mic_in_use">Não é possível gravar áudios com o microfone em uso</string>
     <string name="toast_refuse_to_use_external_storage">"As permissões de armazenamento estão restritas.
 Permita que o app Notas leia o conteúdo do seu cartão SD."</string>
     <string name="toast_refuse_to_use_phone_state">"As permissões do dispositivo estão restritas.

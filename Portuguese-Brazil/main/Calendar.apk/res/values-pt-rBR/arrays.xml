@@ -209,7 +209,7 @@
         <item>todos</item>
         <item>inteligente</item>
     </string-array>
-        <string-array name="prefValues_alerts_vibrateWhen">
+    <string-array name="prefValues_alerts_vibrateWhen">
         <item>sempre</item>
         <item>silencioso</item>
         <item>nunca</item>

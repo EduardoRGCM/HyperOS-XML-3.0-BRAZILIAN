@@ -52,8 +52,8 @@
     <string name="activity_title_uninstall_apps">"Apps"</string>
     <string name="activity_title_video">Excluir vídeos</string>
     <string name="activity_title_white_list">Exceções</string>
-    <string name="ad_flag_text">Anúncio</string>
     <string name="ad_description" formatted="false">%s | Versão %s | %s | %s</string>
+    <string name="ad_flag_text">Anúncio</string>
     <string name="ad_install_success_dialog_lunch">Abrir</string>
     <string name="ad_install_success_dialog_title">%1$s instalado com sucesso. Abrir agora?</string>
     <string name="afternoon">"PM"</string>
@@ -791,14 +791,14 @@
     <string name="notification_wechat_clean_middle_level_text_b">"O lixo do WeChat deixa o app lento"</string>
     <string name="notification_whatsapp_clean_button_text">Limpar</string>
     <string name="notification_whatsapp_clean_size">O cache do WhatsApp atingiu %s</string>
-    <string name="notify_when">Receber notificação quando o lixo atingir 100 MB</string>
-    <string name="offline_notification_text">Toque para abrir o anúncio</string>
     <string name="notifications_permission_confirm">Permitir</string>
     <string name="notifications_permission_decline">"Não permitir"</string>
     <string name="notifications_permission_title">Permitir que o app envie notificações para você?</string>
+    <string name="notify_when">Receber notificação quando o lixo atingir 100 MB</string>
     <string name="offline_dialog_image_description">Ícone</string>
     <string name="offline_dialog_text">"Agradecemos seu interesse.
 Compartilharemos mais quando você estiver online novamente."</string>
+    <string name="offline_notification_text">Toque para abrir o anúncio</string>
     <string name="offline_notification_title">"Você está online novamente! Vamos continuar de onde paramos"</string>
     <string name="offline_notification_title_with_advertiser">Você está online novamente! Continue aprendendo sobre %s.</string>
     <string name="offline_opt_in_confirm">"OK"</string>
@@ -819,9 +819,9 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="open_app">Abrir</string>
     <string name="open_browser">Abrir no navegador</string>
     <string name="open_file_error">"Não foi possível encontrar um app que abra este arquivo"</string>
-    <string name="out">Mais de %s</string>
     <string name="optimizecenter_data_support_cm">Desenvolvido por CleanMaster</string>
     <string name="optimizecenter_data_support_tc">Desenvolvido por Tencent</string>
+    <string name="out">Mais de %s</string>
     <string name="output_videos">Exportar vídeos</string>
     <string name="permission_dialog_storage_btn1">Configurações</string>
     <string name="permission_dialog_storage_btn2">Cancelar</string>
@@ -911,11 +911,11 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="recommend_news">Receber recomendações</string>
     <string name="recommend_the_following">Tome as seguintes ações para tirar o máximo proveito de seu dispositivo</string>
     <string name="recommended">Destaque</string>
+    <string name="reminder_interval">Intervalo de lembrete</string>
+    <string name="report_issue">Relatar problema</string>
     <string name="reset_app_dialog_summary">"Você está prestes a redefinir os apps selecionados. Todos os dados destes apps (incluindo seu status de login, configurações, imagens em cache, vídeos, arquivos e bate-papos) serão excluídos permanentemente, trazendo o app de volta ao estado inicial."</string>
     <string name="reset_app_dialog_title">Redefinindo apps</string>
     <string name="reset_selected">Redefinir %s</string>
-    <string name="reminder_interval">Intervalo de lembrete</string>
-    <string name="report_issue">Relatar problema</string>
     <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> mais arquivos podem ser limpos. Libere mais espaço.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Você pode limpar &lt;font color=#ff0000 >%1$s&lt;/font> de cache gerado pelo QQ.</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> de cache do WeChat. Libere mais espaço.</Data></string>
@@ -1023,6 +1023,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="terabyteShort">"TB"</string>
+    <string name="text_optimizer">Fazer upload do nome das pastas</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -1063,7 +1064,6 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="the_united_nations_day">Dia das Nações Unidas</string>
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
-    <string name="text_optimizer">Fazer upload do nome das pastas</string>
     <string name="there_is_no">Tudo em ordem, volte mais tarde</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
@@ -1265,7 +1265,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="tt_sys_error">Erro no sistema</string>
     <string name="tt_template_load_fail">Falha no carregamento do modelo principal!</string>
     <string name="tt_text_privacy_app_version">Versão: V</string>
-    <string name="tt_text_privacy_development">Desenvolvedor: </string>
+    <string name="tt_text_privacy_development">"Desenvolvedor: "</string>
     <string name="tt_tip">Dica</string>
     <string name="tt_toast_ad_on_rewarded">Anúncio recompensado</string>
     <string name="tt_toast_later_download">Baixar depois</string>

@@ -149,9 +149,9 @@
     <string name="close_camera_failed">"Não foi possivel desligar a câmera…"</string>
     <string name="close_camera_requesting">Desativando câmera…</string>
     <string name="cloud_video_conference">Videoconferência na nuvem</string>
-    <string formatted="false" name="conference_call_description">%s, %s etc., total de %s</string>
+    <string name="conference_call_description" formatted="false">%s, %s etc., total de %s</string>
     <string name="conference_call_recorder_title">Chamada em conferência</string>
-    <string formatted="false" name="conference_call_single_description">%s etc., total de %s</string>
+    <string name="conference_call_single_description" formatted="false">%s etc., total de %s</string>
     <string name="conference_caller_info_name">"Chamada de conferência de %1$s"</string>
     <string name="conference_callers_exceeded">"Não é possível adicionar mais pessoas"</string>
     <string name="contacts_icon_label">Contatos</string>
@@ -388,6 +388,7 @@
     <string name="onscreen_message_text">Mensagens</string>
     <string name="onscreen_mute_text">Mudo</string>
     <string name="onscreen_note_calls_text">Nota</string>
+    <string name="onscreen_open_preview_camera">Abrir câmera</string>
     <string name="onscreen_swap_calls_text">Trocar</string>
     <string name="onscreen_switch_camera">Mudar</string>
     <string name="package_not_available">O app \"%s\" não está disponível</string>
@@ -396,9 +397,11 @@
     <string name="payphone">Telefone público</string>
     <string name="picking_participant">Obtendo informações de contato…</string>
     <string name="pm">"PM"</string>
-    <string name="private_num">Número privado</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
+    <string name="private_num">Número privado</string>
     <string name="prompt_no_volte_when_failed">Não é possível fazer chamadas. Certifique-se de que seu dispositivo está conectado a uma rede 4G com suporte ao VoLTE.</string>
+    <string name="relay_cal_focus_notification_device_name">%1$s está atendendo</string>
+    <string name="relay_cal_focus_notification_release_relay">Voltar para este dispositivo</string>
     <string name="relay_cal_from_device_name">De %1$s</string>
     <string name="relay_call">Não interferir</string>
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
@@ -414,6 +417,14 @@
     <string name="remind_unlock_message">Seu dispositivo está bloqueado agora. \"%s\" estará disponível após desbloquear seu dispositivo. Desbloquear agora?</string>
     <string name="remind_unlock_screen_message">Desbloqueie seu dispositivo para poder usar \"%s\". Desbloquear agora?</string>
     <string name="respond_via_sms_custom_message">SMS personalizado</string>
+    <string name="rtt_call_back_talkback">Voltar</string>
+    <string name="rtt_call_incoming">Chamada RTT recebida</string>
+    <string name="rtt_call_mute_talkback">Silenciar</string>
+    <string name="rtt_call_timer_text">Chamada RTT</string>
+    <string name="rtt_call_waiting">Aguardando o outro dispositivo aceitar a chamada RTT…</string>
+    <string name="rtt_error_toast">"Não foi possível estabelecer a chamada RTT. Alternado para chamada de voz."</string>
+    <string name="rtt_input_hint">Digite a mensagem aqui</string>
+    <string name="rtt_message_submit_talkback">Enviar</string>
     <string name="saf_permission_content">"As permissões do sistema foram atualizadas. Para poder gravar chamadas, primeiro conceda a permissão.
 
 Como conceder permissão
@@ -597,6 +608,8 @@ Mantenha o dispositivo nesta posição."</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="unknown">Desconhecido</string>
     <string name="unlock_phone">Desbloquear dispositivo</string>
+    <string name="upgrade_rtt_accept">Aceitar</string>
+    <string name="upgrade_rtt_prompt">Aceitar a solicitação para mudar para RTT?</string>
     <string name="upgrade_vt_prompt">Mudar para videochamada?</string>
     <string name="user_locked_prompt">Desbloqueie o dispositivo para acessar os contatos.</string>
     <string name="v7_preference_off">DESATIVADO</string>
@@ -619,17 +632,4 @@ VoLTE"</string>
 WiFi"</string>
     <string name="xiaoai_assistant">Assistente de chamada Mi AI</string>
     <string name="yesterday">Ontem</string>
-    <string name="onscreen_open_preview_camera">Abrir câmera</string>
-    <string name="relay_cal_focus_notification_device_name">%1$s está atendendo</string>
-    <string name="relay_cal_focus_notification_release_relay">Voltar para este dispositivo</string>
-    <string name="rtt_call_back_talkback">Voltar</string>
-    <string name="rtt_call_incoming">Chamada RTT recebida</string>
-    <string name="rtt_call_mute_talkback">Silenciar</string>
-    <string name="rtt_call_timer_text">Chamada RTT</string>
-    <string name="rtt_call_waiting">Aguardando o outro dispositivo aceitar a chamada RTT…</string>
-    <string name="rtt_error_toast">"Não foi possível estabelecer a chamada RTT. Alternado para chamada de voz."</string>
-    <string name="rtt_input_hint">Digite a mensagem aqui</string>
-    <string name="rtt_message_submit_talkback">Enviar</string>
-    <string name="upgrade_rtt_accept">Aceitar</string>
-    <string name="upgrade_rtt_prompt">Aceitar a solicitação para mudar para RTT?</string>
 </resources>

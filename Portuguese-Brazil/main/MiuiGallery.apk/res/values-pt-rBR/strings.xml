@@ -74,8 +74,8 @@
     <string name="add_to_secret_failed_with_reason">"Não é possível adicionar ao álbum privado. %1$s."</string>
     <string name="add_to_secret_successful">Adicionado ao álbum privado</string>
     <string name="add_to_share_album_not_delete">"Não é possível excluir a foto do Álbum compartilhado"</string>
-    <string name="added_to_album_module">Adicionado a \"Álbuns\"</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
+    <string name="added_to_album_module">Adicionado a \"Álbuns\"</string>
     <string name="added_to_clipboard_description">"Este vídeo não foi baixado para seu dispositivo. Baixar e copiar para a área de transferência agora?"</string>
     <string name="added_to_clipboard_toast">Copiado com sucesso</string>
     <string name="added_to_favorites">Adicionado aos favoritos</string>
@@ -132,7 +132,7 @@ Tente criar a imagem IA com fotos diferentes."</string>
     <string name="ai_create_image_fail_by_net">"Não foi possível criar a imagem IA. Nossos servidores estão muito ocupados agora. Tente novamente."</string>
     <string name="ai_create_image_photo_tip">As fotos serão excluídas de nossos servidores após a criação da imagem IA</string>
     <string name="ai_create_image_tip">As fotos serão excluídas de nossos servidores após a criação da imagem IA</string>
-    <string formatted="false" name="ai_create_remain_time">Tempo de espera: %1s %2s</string>
+    <string name="ai_create_remain_time" formatted="false">Tempo de espera: %1s %2s</string>
     <string name="ai_creating_image_tip">"Você receberá uma notificação quando sua imagem estiver pronta"</string>
     <string name="ai_creating_image_title">Criando imagem IA…</string>
     <string name="ai_creation_button">Criar retrato</string>
@@ -222,8 +222,8 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_privacy_tip_2">Retrato de aniversário</string>
     <string name="ai_privacy_tip_input">Descrição do texto</string>
     <string name="ai_privacy_title">Declaração de privacidade</string>
-    <string name="ai_process_grogress_tip">Analisando itens da Galeria: %1$s </string>
-    <string name="ai_process_grogress_tip_search">Analisando imagens da Galeria: %1$s </string>
+    <string name="ai_process_grogress_tip">"Analisando itens da Galeria: %1$s "</string>
+    <string name="ai_process_grogress_tip_search">"Analisando imagens da Galeria: %1$s "</string>
     <string name="ai_progress_click_talkback_show">Ver detalhes</string>
     <string name="ai_progress_grogress_tip_guide">"Seu dispositivo analisará itens mais rapidamente quando estiver carregando e a tela estiver desligada."</string>
     <string name="ai_re_create_image">Tentar novamente</string>
@@ -235,9 +235,9 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_refuse_update_toast">Selecione novas fotos para poder atualizar esta imagem AI</string>
     <string name="ai_search_picker_next_step">Próximo</string>
     <string name="ai_search_picker_title">Selecione o segmento</string>
-    <string formatted="false" name="ai_select_people_sub_title">%1d–%2d melhores fotos serão selecionadas automaticamente</string>
+    <string name="ai_select_people_sub_title" formatted="false">%1d–%2d melhores fotos serão selecionadas automaticamente</string>
     <string name="ai_select_people_title">Selecione uma pessoa para criar sua imagem IA</string>
-    <string formatted="false" name="ai_select_photo_complete_description">"Selecione %1d–%2d fotos de rosto ou corpo inteiro.
+    <string name="ai_select_photo_complete_description" formatted="false">"Selecione %1d–%2d fotos de rosto ou corpo inteiro.
 As melhores fotos foram selecionadas automaticamente. Você pode adicionar mais fotos manualmente."</string>
     <string name="ai_select_photo_complete_toast">Melhores fotos filtradas com sucesso</string>
     <string name="ai_select_photo_count">Fotos selecionadas (%d)</string>
@@ -379,7 +379,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="already_create_baby_album">O Álbum do bebê já existe na Xiaomi Cloud.</string>
     <string name="already_share">Compartilhado</string>
     <string name="am">"AM"</string>
-    <string name="and"> e </string>
+    <string name="and">" e "</string>
     <string name="annual_babies_title">Eles crescem tão rápido</string>
     <string name="annual_group_people_title">Juntos</string>
     <string name="annual_pets_title">Pata na pata</string>
@@ -557,7 +557,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="btn_exit_send">Sair</string>
     <string name="btn_gallery_widget_pre_edit">Editar</string>
     <string name="btn_sure">"OK"</string>
-    <string formatted="false" name="burst_image_download_item_title">Baixar original (%s|%s)</string>
+    <string name="burst_image_download_item_title" formatted="false">Baixar original (%s|%s)</string>
     <string name="burst_photo_enter">Contínuo</string>
     <string name="burst_photo_preview_thumbnail_content_description">Foto %d</string>
     <string name="burst_preview_title">Disparo contínuo</string>
@@ -940,13 +940,13 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="device_storage_space_low_textline_button">Iniciar</string>
     <string name="device_storage_space_low_textline_des">"Libere %s de armazenamento. "</string>
     <string name="device_type_pc">Computador</string>
-    <string name="dialog_jumpto_choose">"Não mostrar novamente"</string>
-    <string name="dialog_jumpto_content">Mudar para o Mi Vídeo para acessar recursos adicionais de reprodução?</string>
-    <string name="dialog_jumpto_title">Mi Vídeo</string>
     <string name="diagnosis_log_send_failed">"Não foi possível enviar logs. Tente novamente."</string>
     <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
 ID: %s
 Envie este código para o supervisor."</string>
+    <string name="dialog_jumpto_choose">"Não mostrar novamente"</string>
+    <string name="dialog_jumpto_content">Mudar para o Mi Vídeo para acessar recursos adicionais de reprodução?</string>
+    <string name="dialog_jumpto_title">Mi Vídeo</string>
     <string name="disable_auto_upload_tip">Desativar a sincronização com a nuvem para este álbum?</string>
     <string name="disable_auto_upload_title">Desativar sincronização com a nuvem</string>
     <string name="disable_secret_album_upload_message">Novas fotos não serão mais sincronizadas com a nuvem se você desativar esse recurso. Desativar?</string>
@@ -1483,7 +1483,7 @@ estão disponíveis"</string>
     <string name="galleryplus_network_not_wifi">O uso de dados móveis para transmitir vídeos pode gerar taxas adicionais da operadora</string>
     <string name="galleryplus_network_not_wifi_china">O uso de dados móveis para transmitir vídeos pode gerar taxas adicionais da operadora</string>
     <string name="galleryplus_next_step">Próximo</string>
-    <string formatted="false" name="galleryplus_notification_linkvideo_subtitle1">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gerencie arquivos %$s Adicione legendas %$s Transmita vídeos %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Proteja seus vídeos privados com uma senha %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Baixe vídeos do TikTok, Instagram e Twitter %$s</string>
     <string name="galleryplus_notification_linkvideo_title1">%$s Confira todos os recursos legais do Mi Vídeo!</string>
@@ -2401,9 +2401,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_dialog_nick_name_prefix">Apelido: %s</string>
     <string name="passport_dialog_phone_number_prefix">Número de telefone: %s</string>
     <string name="passport_dialog_register_other">"Não, vou criar uma"</string>
+    <string name="passport_doing_query_account">Verificando informações da conta…</string>
     <string name="passport_email">Endereço de e-mail</string>
     <string name="passport_empty_password">"A senha não pode ficar vazia"</string>
-    <string name="passport_doing_query_account">Verificando informações da conta…</string>
     <string name="passport_error_auth_fail">Sessão expirada. Faça login novamente.</string>
     <string name="passport_error_device_id">"Não é possível obter o ID do dispositivo"</string>
     <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Xiaomi.</string>
@@ -2434,9 +2434,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
-    <string name="passport_header_back">Voltar</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="passport_google_login_btn_content_description">Fazer login com o Google</string>
+    <string name="passport_header_back">Voltar</string>
     <string name="passport_help">Ajuda</string>
     <string name="passport_i_know">Entendi</string>
     <string name="passport_identification_expired">Código de verificação expirado. Recomeçar.</string>
@@ -2491,8 +2491,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_send_sms_to">Código enviado para %1$s</string>
     <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="passport_sending_vcode">Enviando código…</string>
-    <string name="passport_set_password">Configurar senha</string>
     <string name="passport_service_error">Erro de servidor</string>
+    <string name="passport_set_password">Configurar senha</string>
     <string name="passport_set_password_no_phone_msg">Adicione seu número de telefone para proteger sua conta.</string>
     <string name="passport_skip_query_account">Pular</string>
     <string name="passport_sns_access_token_expired_warning">Sessão expirada. Faça login novamente para reconectar esta conta.</string>
@@ -3166,8 +3166,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="send_secret_file_failed">"Não foi possível compartilhar"</string>
     <string name="send_secret_file_space_low">Não há espaço de armazenamento suficiente</string>
     <string name="send_special_video_duration_more_than_40s">Vídeos processados com mais de %d minutos só podem ser compartilhados em seu formato original, que pode não ser compatível com o dispositivo receptor. Continuar?</string>
-    <string name="senor_control_angle">Controlar direção de visualização com acelerômetro</string>
     <string name="send_too_many_files_error">É possível enviar até %d itens de uma só vez</string>
+    <string name="senor_control_angle">Controlar direção de visualização com acelerômetro</string>
     <string name="service_is_provided_by_miui_cloud_service">Este serviço é fornecido pela Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Definir como fundo da Tela de bloqueio</string>
     <string name="set_as_slide_wallpaper_description">Esta imagem é uma miniatura, baixar a original?</string>
@@ -3332,7 +3332,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="slim_dialog_empty_message">"Não foi possível encontrar itens para otimizar."</string>
     <string name="slim_dialog_empty_positive">Entendi</string>
     <string name="slim_dialog_empty_title">Atenção!</string>
-    <string formatted="false" name="slim_dialog_message">"Substitua fotos e vídeos originais por cópias de alta qualidade em %d dias após os itens serem criados. Os arquivos originais serão armazenados na nuvem. Você poderá liberar cerca de %s de armazenamento local."</string>
+    <string name="slim_dialog_message" formatted="false">"Substitua fotos e vídeos originais por cópias de alta qualidade em %d dias após os itens serem criados. Os arquivos originais serão armazenados na nuvem. Você poderá liberar cerca de %s de armazenamento local."</string>
     <string name="slim_dialog_positive">Otimizar</string>
     <string name="slim_dialog_title">Otimizar armazenamento</string>
     <string name="slim_exit_dialog_positive">Parar</string>
@@ -3649,7 +3649,6 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
     <string name="text_recognition">Reconhecer texto</string>
     <string name="text_segment">Recorte de foto</string>
-    <string name="thanksgiving_day">Ação de Graças</string>
     <string name="text_tab_bubble">Bolha</string>
     <string name="text_tab_city">Cidade</string>
     <string name="text_tab_festival">Feriado</string>
@@ -3663,6 +3662,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="text_tab_scene">Cena</string>
     <string name="text_tab_spot">Cenário</string>
     <string name="text_tab_watermark">Texto</string>
+    <string name="thanksgiving_day">Ação de Graças</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>
@@ -3923,6 +3923,10 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="video_editor_auto_trim">Redução automática</string>
     <string name="video_editor_auto_trim_tip">Cortando…</string>
     <string name="video_editor_cancel">Cancelar</string>
+    <string name="video_editor_component_delete_btn_content_description">Remover segmento %d</string>
+    <string name="video_editor_component_next_step">Próximo %1$d/%2$d</string>
+    <string name="video_editor_component_next_step_enabled_content_description">Próximo</string>
+    <string name="video_editor_component_picked_imageview_content_description">Segmento adicionado ao slot %d</string>
     <string name="video_editor_done">Concluído</string>
     <string name="video_editor_down_load_later">Depois</string>
     <string name="video_editor_down_load_no_wifi_tips">Conecte-se ao Wi-Fi para baixar</string>
@@ -3959,13 +3963,10 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="video_editor_loading_warning_msg">Devido a um erro de codificação, alguns recursos e visualizações poderão estar indisponíveis durante o processo de edição. O vídeo final não será afetado.</string>
     <string name="video_editor_loading_warning_title">Erro de codificação</string>
     <string name="video_editor_more">Avançado</string>
-    <string name="video_editor_component_delete_btn_content_description">Remover segmento %d</string>
-    <string name="video_editor_component_next_step">Próximo %1$d/%2$d</string>
-    <string name="video_editor_component_next_step_enabled_content_description">Próximo</string>
-    <string name="video_editor_component_picked_imageview_content_description">Segmento adicionado ao slot %d</string>
     <string name="video_editor_not_support_8k_tips">"Não é possível editar vídeos em %dK"</string>
     <string name="video_editor_not_support_tips">Este formato de vídeo não é suportado</string>
     <string name="video_editor_ok">"OK"</string>
+    <string name="video_editor_picker_duration_too_short">O vídeo é muito curto</string>
     <string name="video_editor_regulator">Ajustar</string>
     <string name="video_editor_res_download_failed_tips">Não foi possível baixar, verifique as configurações de rede e tente novamente</string>
     <string name="video_editor_res_download_mobil_network_confirm_msg">Baixar as trilhas sonoras usando dados móveis?</string>
@@ -4009,7 +4010,6 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="video_editor_video_is_short">Não é possível editar este vídeo.</string>
     <string name="video_editor_video_loading">Preparando vídeo… Aguarde alguns segundos e tente novamente.</string>
     <string name="video_editor_watermark">"Marca d'água"</string>
-    <string name="video_editor_picker_duration_too_short">O vídeo é muito curto</string>
     <string name="video_err">"Não é possível reproduzir o vídeo"</string>
     <string name="video_not_exist">"O vídeo não existe"</string>
     <string name="video_post_download_failed_for_notwork">"Não foi possível baixar. Verifique suas configurações de rede e tente novamente."</string>
@@ -4301,8 +4301,13 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
     <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
     <string name="xiaomi_11">Mi 11</string>
+    <string name="xiaomi_11_lite">"Mi 11 Lite 5G"</string>
+    <string name="xiaomi_11_lite_ne">Mi 11 Lite 5G NE</string>
     <string name="xiaomi_11_pro">Mi 11 Pro</string>
     <string name="xiaomi_11_ultra">Mi 11 Ultra</string>
+    <string name="xiaomi_12">Mi 12</string>
+    <string name="xiaomi_12_pro">Mi 12 Pro</string>
+    <string name="xiaomi_12x">Mi 12X</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -4313,11 +4318,6 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_pro">Mi 9 Pro 5G</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
-    <string name="xiaomi_11_lite">"Mi 11 Lite 5G"</string>
-    <string name="xiaomi_11_lite_ne">Mi 11 Lite 5G NE</string>
-    <string name="xiaomi_12">Mi 12</string>
-    <string name="xiaomi_12_pro">Mi 12 Pro</string>
-    <string name="xiaomi_12x">Mi 12X</string>
     <string name="xiaomi_account_not_exists_toast">A Conta Xiaomi não existe</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>

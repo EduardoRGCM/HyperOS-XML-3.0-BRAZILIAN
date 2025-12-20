@@ -58,12 +58,12 @@
         <item quantity="one">Adicionado %d contato</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas arquivadas.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa arquivada.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversas arquivadas.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversa arquivada.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas excluídas.</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa excluída.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversas excluídas.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversa excluída.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Pastas alteradas.</item>
@@ -74,8 +74,8 @@
         <item quantity="one">+%1$d outra pessoa</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas silenciadas</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa silenciada.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversas silenciadas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversa silenciada.</item>
     </plurals>
     <plurals name="conversation_not_important">
         <item quantity="other">&lt;b>%1$d&lt;/b>" conversas removidas da pasta 'importante'"</item>
@@ -86,12 +86,12 @@
         <item quantity="one">&lt;b>%1$d&lt;/b>" removida da pasta Spam"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas reportadas como spam</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa reportada como spam</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversas reportadas como spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversa reportada como spam</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; conversas marcadas como spam</item>
-        <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; conversa marcada como spam</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> conversas marcadas como spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> conversa marcada como spam</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%d dias</item>

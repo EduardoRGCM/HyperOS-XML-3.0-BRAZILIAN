@@ -408,7 +408,7 @@ Qualquer pessoa pode ler esta informação na sua Tela de bloqueio e ligar para 
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="external_source_trusted">Permitido</string>
     <string name="external_source_untrusted">Não permitido</string>
-    <string name="fail_add_contact">Não foi possível ler as informações de contato corretamente</string> 
+    <string name="fail_add_contact">Não foi possível ler as informações de contato corretamente</string>
     <string name="fail_display_contact">"Não é possível exibir o contato"</string>
     <string name="fail_load_contact_picker">"Não foi possível encontrar um seletor de contatos"</string>
     <string name="failed_attempts_now_wiping_device">Excesso de tentativas incorretas. Os dados deste dispositivo serão excluídos.</string>

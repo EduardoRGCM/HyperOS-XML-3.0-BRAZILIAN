@@ -461,13 +461,6 @@
     <string name="resource_select">Selecionar</string>
     <string name="reveries">Devaneios (estéreo)</string>
     <string name="robot">Robô</string>
-    <string name="softap_notification_enable">Ativado</string>
-    <string name="softap_notification_new_device">Novo dispositivo conectado</string>
-    <string name="softap_notification_unknown_device">Dispositivo sem fio</string>
-    <string name="softap_notification_usage">Hotspot ativo</string>
-    <string name="wallpaper_and_signature_title">Planos de fundo e assinaturas</string>
-    <string name="wallpaper_bright_title">Brilho</string>
-    <string name="wallpaper_manying_title">Sombras</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Telefone Samsung</string>
     <string name="sc_notification_warning_content">"Se o app não for exibido corretamente, você poderá restaurar a visualização padrão ou alterar as preferências de exibição do app nas Configurações."</string>
@@ -550,6 +543,10 @@ para desativar o Modo bolso"</string>
     <string name="small_freeform_exit_tip">Fechar janela flutuante</string>
     <string name="small_freeform_memory_toast_app_type">"Não é possível abrir agora. Este app requer muita memória para funcionar."</string>
     <string name="small_freeform_memory_toast_game_type">"Não é possível abrir agora. Este jogo requer muita memória para funcionar."</string>
+    <string name="softap_notification_enable">Ativado</string>
+    <string name="softap_notification_new_device">Novo dispositivo conectado</string>
+    <string name="softap_notification_unknown_device">Dispositivo sem fio</string>
+    <string name="softap_notification_usage">Hotspot ativo</string>
     <string name="softap_notifif_summary">%d conectado</string>
     <string name="softap_notifif_title">Hotspot \"%s\" ativo</string>
     <string name="softap_stat_toast">Hotspot ativado</string>
@@ -639,6 +636,8 @@ usar a câmera frontal"</string>
     <string name="user_switching_dialog_text">Alternando…</string>
     <string name="voice_assist">"Mi AI"</string>
     <string name="wallpaper_Fragrant_title">Flores</string>
+    <string name="wallpaper_and_signature_title">Planos de fundo e assinaturas</string>
+    <string name="wallpaper_bright_title">Brilho</string>
     <string name="wallpaper_floral_arrangement_title">Arranjo floral</string>
     <string name="wallpaper_geometrically_irregular_title">Geometria abstrata</string>
     <string name="wallpaper_glazed_valley_title">Esmalte</string>
@@ -669,6 +668,7 @@ usar a câmera frontal"</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria das sombras</string>
     <string name="wallpaper_group_system_wallpaper_title">Planos de fundo do sistema</string>
     <string name="wallpaper_group_time_watch_title">Relógios</string>
+    <string name="wallpaper_manying_title">Sombras</string>
     <string name="wallpaper_overlapping_space_title">Forma e sombra</string>
     <string name="wallpaper_softlight_title">Luz suave</string>
     <string name="waterdrop_preview">Gotas</string>

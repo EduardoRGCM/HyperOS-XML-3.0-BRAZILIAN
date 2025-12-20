@@ -359,6 +359,10 @@
     <string name="home_pull_down_content_tips">Você pode alterar suas preferências em Configurações > Tela inicial > Deslize para baixo na Tela inicial.</string>
     <string name="home_pull_down_know">Entendi</string>
     <string name="home_screen">Tela inicial</string>
+    <string name="home_search_bar_change_cancle">Cancelar</string>
+    <string name="home_search_bar_change_confirm">Alterar</string>
+    <string name="home_search_bar_change_content">Se você alterar o estilo da barra de pesquisa, o layout da sua Tela inicial também será alterado. Alterar agora?</string>
+    <string name="home_search_bar_change_title">Alterar estilo da barra de pesquisa</string>
     <string name="home_slide_up_action">Deslizar para cima na Tela inicial</string>
     <string name="home_switch_personal_assistant">Assistente da Tela inicial</string>
     <string name="how_to_back_home">Ir à Tela inicial</string>
@@ -386,6 +390,7 @@ Chamadas mais acessíveis.
 Segurança aprimorada."</string>
     <string name="key_shortcut_settings_title">Botões de atalho</string>
     <string name="keyguard_multi_window_tip">Esta página só pode ser exibida no Modo Tela cheia</string>
+    <string name="large_search_bar">Pesquisa padrão</string>
     <string name="launcher_icon_management">Gerenciar atalhos da Tela inicial</string>
     <string name="launcher_pull_down_title">Deslizar para baixo na Tela inicial</string>
     <string name="launcher_search">Pesquisar na Tela inicial</string>
@@ -565,6 +570,7 @@ Segurança aprimorada."</string>
     <string name="no_space_toast">Não há espaço suficiente</string>
     <string name="no_space_toast_fold">Não há espaço suficiente aqui</string>
     <string name="no_space_toast_when_click_widget">Sem espaço disponível nesta página. Tente arrastar este item para uma página diferente.</string>
+    <string name="none">Nenhum</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>
     <string name="not_support_adding">"A adição deste item ainda não é compatível"</string>
@@ -692,6 +698,7 @@ Segurança aprimorada."</string>
     <string name="show_most_popular_apps_you_used">Mostrar os apps mais usados na Gaveta de apps</string>
     <string name="show_recents_recommend_title">Mostrar sugestões</string>
     <string name="slide_to_open_newhome">Deslize para cima para abrir o Centro de conteúdo</string>
+    <string name="small_search_bar">Pesquisa compacta</string>
     <string name="small_window">Janela flutuante</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
@@ -851,11 +858,4 @@ Tamanho da atualização delta: %2$s"</string>
     <string name="xiaomi_update_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_update_sdk_update_dialog_ok">Atualizar</string>
     <string name="yesterday">Ontem</string>
-    <string name="home_search_bar_change_cancle">Cancelar</string>
-    <string name="home_search_bar_change_confirm">Alterar</string>
-    <string name="home_search_bar_change_content">Se você alterar o estilo da barra de pesquisa, o layout da sua Tela inicial também será alterado. Alterar agora?</string>
-    <string name="home_search_bar_change_title">Alterar estilo da barra de pesquisa</string>
-    <string name="large_search_bar">Pesquisa padrão</string>
-    <string name="none">Nenhum</string>
-    <string name="small_search_bar">Pesquisa compacta</string>
 </resources>

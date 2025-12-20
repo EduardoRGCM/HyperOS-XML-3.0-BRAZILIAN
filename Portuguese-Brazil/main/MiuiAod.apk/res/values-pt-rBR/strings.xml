@@ -825,11 +825,11 @@ dd/MM"</string>
     <string name="time_style">Estilo</string>
     <string name="time_style_layout">"Layout"</string>
     <string name="tiny_accessibility_kg_battery_level">Bateria</string>
-    <string name="tiny_camera_content_description">Câmera</string>
     <string name="tiny_bubble_date_format">d/M</string>
     <string name="tiny_bubble_date_week_content_description">EEEE, dd/MMM</string>
     <string name="tiny_bubble_date_week_format">d/M EEE</string>
     <string name="tiny_bubble_week_format">EE</string>
+    <string name="tiny_camera_content_description">Câmera</string>
     <string name="tiny_classic_date_format">d/M EEE</string>
     <string name="tiny_clock_time_format_12">hh:mm</string>
     <string name="tiny_clock_time_format_24">HH:mm</string>

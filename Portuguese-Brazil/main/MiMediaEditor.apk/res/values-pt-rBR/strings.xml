@@ -949,7 +949,7 @@ ajustar a área de dispersão"</string>
     <string name="kit_mode_item_title1">Retrato Master</string>
     <string name="kit_mode_item_title2">Retrato Leica</string>
     <string name="loading">Aguarde</string>
-    <string formatted="false" name="loading_text_format">Removendo informações privadas das fotos (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Removendo informações privadas das fotos (%d/%d)…</string>
     <string name="loading_video_compress_lib">Baixando o plugin de compressão de vídeo…</string>
     <string name="magic_add_full">Você pode adicionar até %1$d pessoas</string>
     <string name="magic_background">Fundo</string>
@@ -1072,7 +1072,7 @@ ajustar a área de dispersão"</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="midnight">"PM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
-     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar tudo</string>
     <string name="miuix_appcompat_action_mode_select_all">Selecionar tudo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecionar itens</string>
@@ -1428,7 +1428,7 @@ Mantenha a proporção original, escolha a sua própria, ou deixe que a IA decid
     <string name="photo_editor_miui_beauty_no_face">"Não é possível detectar o rosto"</string>
     <string name="photo_editor_mosaic">Mosaico</string>
     <string name="photo_editor_navigator_cancel">Cancelar</string>
-    <string formatted="false" name="photo_editor_navigator_download_network_metered_msg">Baixar %s requer cerca de %2$d MB de dados móveis. Baixar agora?</string>
+    <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Baixar %s requer cerca de %2$d MB de dados móveis. Baixar agora?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Aviso sobre o uso de dados</string>
     <string name="photo_editor_navigator_download_title">Caregando…</string>
     <string name="photo_editor_navigator_export">Salvar</string>

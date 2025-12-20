@@ -217,9 +217,9 @@
     <string name="bh_should_login_to_buy">Faça login na Conta Xiaomi para poder comprar minutos de chamada e dados móveis</string>
     <string name="bh_sim">"SIM %1$d"</string>
     <string name="bh_similar_number_hint">Este número é similar ao %1$s. Recarregar este número mesmo assim?</string>
-    <string name="bh_stop_carrier_services">Desativar os Serviços de operadora Mi</string>
     <string name="bh_state_not_selected_talkback">Não selecionado: SIM %1$s</string>
     <string name="bh_state_selected_talkback">Selecionado: SIM %1$s</string>
+    <string name="bh_stop_carrier_services">Desativar os Serviços de operadora Mi</string>
     <string name="bh_stop_carrier_services_short">Desativar os Serviços de operadora Mi</string>
     <string name="bh_stop_result">"Você não poderá gerenciar seu plano de operadora ou comprar dados e minutos de chamada se desativar os Serviços de operadora Mi. Desativar mesmo assim?"</string>
     <string name="bh_system_recommend">Recomendações do sistema</string>
@@ -327,6 +327,7 @@
     <string name="call_recording_notification_summary">Receba uma notificação depois que a chamada for gravada</string>
     <string name="call_recording_notification_title">Notificar sobre chamadas gravadas</string>
     <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
+    <string name="call_recording_seekbar">Barra de progresso da gravação de chamada</string>
     <string name="call_recording_setting">Gravações de chamadas</string>
     <string name="call_sim1_description">"SIM 1"</string>
     <string name="call_sim1_menu_title">Chamar com o SIM 1</string>
@@ -384,6 +385,7 @@
     <string name="callrecordview_menu_xiaoaiphone">Assistente de chamada Mi AI</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">Descartar as alterações?</string>
+    <string name="cancel_confirmation_dialog_separate">Continuar editando</string>
     <string name="cancel_confirmation_dialog_title">Descartar alterações</string>
     <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
     <string name="cancel_import_confirmation_message">Cancelar a importação de %s?</string>
@@ -710,7 +712,6 @@ Motivo: \"%s\""</string>
     <string name="group_create_fail_toast">"Não foi possível criar o grupo"</string>
     <string name="group_create_success_toast">Grupo criado</string>
     <string name="group_delete_success_toast">Grupo excluído</string>
-    <string name="group_detail_label_placeholder"> </string>
     <string name="group_edit_field_hint_text">Nome do grupo</string>
     <string name="group_member_remove_fail_toast">Não foi possível remover do grupo</string>
     <string name="group_member_remove_success_toast">Removido do grupo</string>
@@ -1496,8 +1497,6 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="special_code_security_exception">"Não foi possível concluir a ação. Este não é o seu discador padrão."</string>
     <string name="splitConfirmation_title">Separar contato?</string>
-    <string name="call_recording_seekbar">Barra de progresso da gravação de chamada</string>
-    <string name="cancel_confirmation_dialog_separate">Continuar editando</string>
     <string name="split_screen_fab_toast">Arraste para discagem em tela cheia</string>
     <string name="starredList">Com estrela</string>
     <string name="starred_contacts">Favoritos</string>
@@ -1515,9 +1514,9 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="t9_search_empty_send_sms">Enviar mensagem</string>
     <string name="t9_search_empty_video_call">Videochamada</string>
     <string name="t9_search_guide_pinyin_title1">Insira números para encontrar contatos</string>
-    <string formatted="false" name="t9_search_guide_pinyin_title2">Digite %d e %d para pesquisar por \"Daniel Silva\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Digite %d e %d para pesquisar por \"Daniel Silva\"</string>
     <string name="t9_search_guide_zhuyin_title1">Insira números para encontrar contatos</string>
-    <string formatted="false" name="t9_search_guide_zhuyin_title2">Digite %d e %d para pesquisar por \"João Moreira\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Digite %d e %d para pesquisar por \"João Moreira\"</string>
     <string name="take_new_photo">Tirar uma nova foto</string>
     <string name="take_photo">Tirar foto</string>
     <string name="text_msim_balance">Usado hoje</string>

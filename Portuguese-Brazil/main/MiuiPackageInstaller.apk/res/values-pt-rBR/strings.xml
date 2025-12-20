@@ -711,8 +711,8 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="passport_talkback_image_captcha">Código de verificação por imagem</string>
     <string name="passport_talkback_switch_image_captcha">Mudar para código de verificação por imagem</string>
     <string name="passport_talkback_switch_voice_captcha">Mudar para código de verificação por voz</string>
-    <string name="passport_third_sns_service_unavailable">"O serviço não está disponível. Certifique-se de que o app esteja instalado e não esteja bloqueado."</string>
     <string name="passport_talkback_voice_captcha">Reproduzir código de verificação por voz</string>
+    <string name="passport_third_sns_service_unavailable">"O serviço não está disponível. Certifique-se de que o app esteja instalado e não esteja bloqueado."</string>
     <string name="passport_ticket_send_by_second">Enviar em %d</string>
     <string name="passport_to_forget_password">Esqueceu sua senha?</string>
     <string name="passport_to_password_login">Fazer login usando senha</string>

@@ -62,6 +62,8 @@
     <string name="customization_quit">Sair</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
+    <string name="distance_perception">Percepção de distância</string>
+    <string name="distance_perception_summary">Quando o som imersivo está ativado, ajusta dinamicamente o volume e o campo sonoro de acordo com sua distância da tela</string>
     <string name="dolby_atoms">"Dolby Atmos"</string>
     <string name="dolby_dax_geq_select_title">Predefinição</string>
     <string name="dolby_dax_geq_title">Equalizador gráfico</string>
@@ -449,7 +451,7 @@
     <string name="music_sound_num">Predef. personalizada %s</string>
     <string name="music_sound_sample">Predefinições do sistema</string>
     <string name="music_sure_to_delete_sound_msg">Excluir as predefinições selecionadas?</string>
-    <string formatted="false" name="music_thirty_to_sixty_years">%d-%d anos</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d anos</string>
     <string name="music_title_dolby_control">"Dolby Digital Plus"</string>
     <string name="music_unsupport_effect_summary">"Fones de ouvido USB não são suportados"</string>
     <string name="music_upper_sixty_years">Mais de %d anos</string>
@@ -660,7 +662,7 @@
     <string name="voice_print_finish">Concluído</string>
     <string name="voice_print_name_change">Alterar nome da impressão de voz</string>
     <string name="voice_print_new">Gravar nova impressão de voz</string>
-    <string formatted="false" name="voice_print_note_description">A otimização da impressão de voz é uma tecnologia fornecida por IA que utiliza as características vocais exclusivas dos usuários para redução de ruído. Essa tecnologia depende de atributos acústicos individuais, como a entonação, o tom e a velocidade da fala. Antes de usar esta tecnologia, você precisa gravar aproximadamente %d a %d segundos da sua voz. O sistema aprenderá com a sua voz, preservando-a durante chamadas e filtrando ruídos de fundo ou outras vozes.</string>
+    <string name="voice_print_note_description" formatted="false">A otimização da impressão de voz é uma tecnologia fornecida por IA que utiliza as características vocais exclusivas dos usuários para redução de ruído. Essa tecnologia depende de atributos acústicos individuais, como a entonação, o tom e a velocidade da fala. Antes de usar esta tecnologia, você precisa gravar aproximadamente %d a %d segundos da sua voz. O sistema aprenderá com a sua voz, preservando-a durante chamadas e filtrando ruídos de fundo ou outras vozes.</string>
     <string name="voice_print_note_device">Desconecte dispositivos externos antes de gravar</string>
     <string name="voice_print_note_environment">"Grave sozinho em um local silencioso. Mantenha o dispositivo a cerca de meio braço de distância de você. Em seguida, pressione e segure o botão abaixo e leia o texto a seguir em um ritmo constante, usando sua voz normal."</string>
     <string name="voice_print_note_generate_error">"Não foi possível gerar a impressão de voz. Grave novamente."</string>
@@ -681,7 +683,4 @@
     <string name="wireless_transmission_definition">"Transmita o sinal do seu microfone a um dispositivo Bluetooth externo"</string>
     <string name="wireless_transmission_prompt">Para transmitir áudio, o alto-falante sem fio precisa ativar o Bluetooth. Ativar agora?</string>
     <string name="yesterday">Ontem</string>
-    <string name="distance_perception">Percepção de distância</string>
-    <string name="distance_perception_summary">Quando o som imersivo está ativado, ajusta dinamicamente o volume e o campo sonoro de acordo com sua distância da tela</string>
-
 </resources>

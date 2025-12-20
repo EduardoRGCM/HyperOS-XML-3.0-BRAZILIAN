@@ -52,8 +52,6 @@
     <string name="airecorder_os2_off_screen_notification_stop">Gravação concluída</string>
     <string name="airecorder_pause_status_focus_notification">Gravação pausada</string>
     <string name="airecorder_record_while_in_call_tip">"Não é possível gravar durante chamadas"</string>
-    <string name="recorder_finished">Gravação finalizada</string>
-    <string name="recorder_started">Gravação iniciada</string>
     <string name="airecorder_recording_status_focus_notification">Gravando</string>
     <string name="airecorder_speaker">"Interlocutor "</string>
     <string name="airecorder_stop_status_focus_notification">Gravação concluída</string>
@@ -110,6 +108,8 @@
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
+    <string name="close_voice_enhancement">Desativar</string>
+    <string name="closed_voice_enhancement">Voz aprimorada desativada</string>
     <string name="cloud_service_state_open_reminder">Ative a sincronização com a nuvem para sincronizar gravações.</string>
     <string name="cloud_status_full_dialog_cancel">Agora não</string>
     <string name="cloud_status_full_dialog_msg">"Seu armazenamento na nuvem está cheio, não é possível sincronizar gravações. Faça o upgrade da sua conta para obter mais espaço de armazenamento."</string>
@@ -415,6 +415,8 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="offline_model_manage">Gerenciar modelos</string>
     <string name="offline_recognize_transfer_format">Transcrevendo…</string>
     <string name="online_recognize_progress">Transcrevendo %s…</string>
+    <string name="open_voice_enhancement">Melhorar voz</string>
+    <string name="opened_voice_enhancement">Voz aprimorada ativada</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>
@@ -702,6 +704,8 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="record_scenes_summaries_voice">Mova o microfone próximo à fonte de som para uma melhor qualidade</string>
     <string name="record_stop_recognize">Parar transcrição</string>
     <string name="record_while_in_call_tip">"Não é possível gravar durante uma chamada"</string>
+    <string name="recorder_finished">Gravação finalizada</string>
+    <string name="recorder_started">Gravação iniciada</string>
     <string name="recording">Gravando</string>
     <string name="recording_quality_high">Qualidade alta</string>
     <string name="recording_quality_low">Qualidade baixa</string>
@@ -943,7 +947,7 @@ Atualmente pausado. A análise será retomada quando você não estiver usando s
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string formatted="false" name="wifi_recommended_body">Usar sua conexão de dados móveis para baixar este arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
+    <string name="wifi_recommended_body" formatted="false">Usar sua conexão de dados móveis para baixar este arquivo (%s) poderá aumentar seu consumo de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente. Para aguardar uma conexão Wi-Fi para concluir o download deste arquivo, toque em %s.</string>
     <string name="wifi_recommended_title">Aviso sobre o uso de dados</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
@@ -952,8 +956,4 @@ Atualmente pausado. A análise será retomada quando você não estiver usando s
     <string name="year_month_day_hour_minute_format">dd-MM-yyyy hh.mm aaa</string>
     <string name="year_month_format">"MMMM 'de' yyyy"</string>
     <string name="yesterday">Ontem</string>
-    <string name="close_voice_enhancement">Desativar</string>
-    <string name="closed_voice_enhancement">Voz aprimorada desativada</string>
-    <string name="open_voice_enhancement">Melhorar voz</string>
-    <string name="opened_voice_enhancement">Voz aprimorada ativada</string>
 </resources>

@@ -49,10 +49,10 @@
     <string name="android_oaid">OAID</string>
     <string name="antispam">Lista de bloqueio</string>
     <string name="app_name">"Mi Mover"</string>
-    <string name="app_update_64_dialog_title_formatted">Atualizar para arquitetura %1$d bits</string>
     <string name="app_update_64_dialog_cancel">Agora não</string>
     <string name="app_update_64_dialog_confirm">Atualizar</string>
     <string name="app_update_64_dialog_title">Atualização para arquitetura de 64 bits</string>
+    <string name="app_update_64_dialog_title_formatted">Atualizar para arquitetura %1$d bits</string>
     <string name="app_update_64_notfication_body">Atualize para impulsionar o desempenho do app</string>
     <string name="app_update_title">Atualize todos os apps</string>
     <string name="apple_calendar">Eventos da Agenda</string>
@@ -201,7 +201,7 @@ Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="dialog_request_permission_message_buttom_content">Permita que este app se conecte à internet e conceda as permissões obrigatórias listadas acima.</string>
     <string name="dialog_request_permission_message_extra_summary">Estas permissões são necessárias para disponibilizar os recursos e serviços básicos deste app.</string>
     <string name="dialog_request_permission_message_extra_title">Permissões obrigatórias</string>
-    <string formatted="false" name="dialog_request_permission_message_link"><Data>"Permita que este app se conecte à internet e conceda as permissões necessárias mencionadas acima. Além disso, para atender plenamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
+    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Permita que este app se conecte à internet e conceda as permissões necessárias mencionadas acima. Além disso, para atender plenamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e aceite o nosso &lt;a href='%1s'>Contrato do Usuário&lt;/a> e a &lt;a href='%2s'>Política de Privacidade&lt;/a>."</Data></string>
     <string name="dialog_request_permission_message_provision_link">Permita que este app se conecte à internet e conceda as permissões necessárias mencionadas acima. Além disso, para atender plenamente seus direitos como usuário, bem como as maneiras pelas quais usamos seus dados, leia e aceite nossos %1$s e %2$s.</string>
     <string name="dialog_request_permission_title">Atenção!</string>
     <string name="dialog_tip_upgrade_summary">Parece que a versão do Mi Mover é muito antiga. Atualize o Mi Mover para sua versão mais recente para poder transferir arquivos.</string>
@@ -438,8 +438,8 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="main_sender_summary">Toque para enviar itens</string>
     <string name="main_sender_summary_pad">Toque para enviar itens</string>
     <string name="main_sender_title">Antigo</string>
-    <string name="manual_connection_summary2">"Se você não conseguir encontrar este hotspot, atualize a lista de redes Wi-Fi disponíveis e tente novamente."</string>
     <string name="manual_connection_hint">Toque em \"Conectar manualmente\" em seu antigo dispositvo.</string>
+    <string name="manual_connection_summary2">"Se você não conseguir encontrar este hotspot, atualize a lista de redes Wi-Fi disponíveis e tente novamente."</string>
     <string name="manual_connection_title">Conecte o antigo dispositvo a este hotspot</string>
     <string name="message_request_manage_external_storage_perm">O Mi Mover precisa acessar todos os arquivos neste dispositivo para poder movê-los do seu antigo dispositvo para um novo.</string>
     <string name="message_request_package_stats_perm">O Mi Mover precisa desta permissão para saber quais apps estão instalados em um dispositivo e transferir esses apps para outro.</string>
@@ -553,11 +553,11 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="new_trans_intro_desc_new_click">Baixar</string>
     <string name="new_trans_intro_desc_new_pad">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
-	<string name="new_trans_intro_desc_new_pad_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
+    <string name="new_trans_intro_desc_new_pad_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
-	<string name="new_trans_intro_desc_new_phone">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
+    <string name="new_trans_intro_desc_new_phone">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
-	<string name="new_trans_intro_desc_new_phone_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
+    <string name="new_trans_intro_desc_new_phone_china">%1$d. Certifique-se de que o Mi Mover no seu novo dispositivo esteja atualizado. Você pode baixar a versão mais recente do Mi Mover no GetApps ou <Data>&lt;a href=%2$s>tocando aqui&lt;/a></Data>".
 %3$d. Se o hotspot ainda não aparecer no Mi Mover, abra as configurações de Wi-Fi e verifique se você consegue vê-lo lá. Se sim, volte para o Mi Mover e toque no nome do hotspot."</string>
     <string name="new_trans_intro_question_1">"%d. Por que não consigo ver o hotspot do novo dispositivo no antigo?"</string>
     <string name="new_trans_intro_question_1_pad">"%d. Por que não consigo ver o hotspot do novo dispositivo no antigo?"</string>
@@ -724,16 +724,16 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="receiver_finish_not_transferred">Não transferido</string>
     <string name="receiver_finish_title">"Você está pronto!"</string>
     <string name="receiver_finish_transferred">Transferido</string>
-    <string name="recent_one_year_formatted">Último %d ano</string>
-    <string name="recent_seven_days_formatted">Últimos %d dias</string>
-    <string name="recent_thirty_days_formatted">Últimos %d dias</string>
     <string name="receiver_video_summary">Desbloquear seu dispositivo antigo, toque em \"Transferir\" e escaneie esta imagem.</string>
     <string name="receiver_video_summary_pad">Desbloqueie seu dispositivo antigo, toque em \"Transferir\" e escaneie esta imagem.</string>
     <string name="receiver_video_title">Transferir do dispositivo antigo</string>
     <string name="receiver_video_title_pad">Transferir do dispositivo antigo</string>
     <string name="recent_one_year">Último 1 ano</string>
+    <string name="recent_one_year_formatted">Último %d ano</string>
     <string name="recent_seven_days">Últimos 7 dias</string>
+    <string name="recent_seven_days_formatted">Últimos %d dias</string>
     <string name="recent_thirty_days">Últimos 30 dias</string>
+    <string name="recent_thirty_days_formatted">Últimos %d dias</string>
     <string name="recommend_hint">Recomendado</string>
     <string name="reconnect">Conectar novamente</string>
     <string name="recreate_soft_ap_tips">Toque no botão abaixo e tente novamente.</string>

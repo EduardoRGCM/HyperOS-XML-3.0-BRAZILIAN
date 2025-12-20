@@ -48,6 +48,18 @@ este recurso será adicionado ao Segundo espaço automaticamente."</string>
     <string name="airspace_users_full">"Não é possível criar mais Espaços de trabalho"</string>
     <string name="alwaysUsePrompt">Lembre-se da minha escolha</string>
     <string name="am">"AM"</string>
+    <string name="aon_gesture_hint_trigger">Execute um gesto agora</string>
+    <string name="aon_learn_double_press_tip">Execute um movimento de pressionamento duplo com a sua palma virada para a câmera para pausar a música</string>
+    <string name="aon_learn_draw_circle_phone_tip">Desenhe um círculo em sentido horário com a sua palma virada para a câmera para atender a chamadas</string>
+    <string name="aon_learn_draw_circle_tip">Desenhe um círculo no sentido horário com a sua palma virada para a câmera para atender chamadas transferidas para o tablet</string>
+    <string name="aon_learn_gesture_position_down_tip">Segure a sua mão com os dedos apontados para baixo de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_gesture_position_left_tip">Segure a sua mão com os dedos apontados para a esquerda de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_gesture_position_right_tip">Segure a sua mão com os dedos apontados para a direita de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_gesture_position_up_tip">Segure a sua mão com os dedos apontados para cima de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
+    <string name="aon_learn_wave_down_tip">Acene com a mão para baixo para deslizar</string>
+    <string name="aon_learn_wave_left_tip">Acene com a mão para a esquerda para reproduzir a música anterior</string>
+    <string name="aon_learn_wave_right_tip">Acene com a mão para a direita para reproduzir a próxima música</string>
+    <string name="aon_learn_wave_up_tip">Acene com a mão para cima para deslizar</string>
     <string name="appData">Apps instalados</string>
     <string name="app_name">Componente de segurança</string>
     <string name="app_switch_key">Recentes</string>
@@ -392,8 +404,8 @@ Esse recurso funciona apenas quando a navegação do sistema está definida para
     <string name="freeform_guide_slide_to_small_freeform_title">Minimize um app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Deslize para cima a partir da barra de ação de uma janela flutuante</string>
     <string name="freeform_guide_slide_up_to_close_title">Fechando janelas flutuantes</string>
-    <string name="freeform_guide_split_screen_combination_settings_fold">Combinação de Tela dividida</string>
     <string name="freeform_guide_split_screen_combination_fold">Combinação de Tela dividida</string>
+    <string name="freeform_guide_split_screen_combination_settings_fold">Combinação de Tela dividida</string>
     <string name="freeform_guide_split_screen_combination_summary">Pressione e segure uma visualização de Tela dividida nos Recentes para criar um atalho para a combinação</string>
     <string name="freeform_guide_split_screen_combination_summary_fold">Crie atalhos para combinações de Tela dividida usando a dock do app na tela interna</string>
     <string name="freeform_guide_split_screen_combination_summary_pad">Crie atalhos para combinações de Tela dividida usando a dock do app</string>
@@ -422,6 +434,7 @@ depois arraste para mover"</string>
     <string name="freeform_recommend_open_switch_summary_fold">Em alguns cenários, os apps recomendados serão abertos em uma janela flutuante na tela externa e em uma janela flutuante ou em Tela dividida na tela interna.</string>
     <string name="freeform_recommend_open_switch_summary_phone">Em alguns cenários, os apps recomendados serão abertos em uma janela flutuante</string>
     <string name="freeform_recommend_open_switch_title">Sugestões inteligentes</string>
+    <string name="freeform_side_app_bar">Barra lateral</string>
     <string name="freeform_slide_to_small_freeform">Minimizar janela flutuante</string>
     <string name="freeform_slide_to_small_freeform_summary">Pressione e segure a barra de ação e arraste para um canto</string>
     <string name="freeform_vedio_description">"• Pressione e segure, e então puxe para baixo uma notificação para abri-la em uma janela flutuante.
@@ -730,7 +743,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="long_press_menu_key">Pressionar e segurar o botão Menu</string>
     <string name="long_press_menu_key_when_lock">Pressionar e segurar o botão Menu na Tela de bloqueio</string>
     <string name="long_press_power_guide_know">Entendi</string>
-    <string formatted="false" name="long_press_power_guide_message">"Pressione e segure o botão [Liga/Desliga] por %s segundos para acionar o assistente digital.
+    <string name="long_press_power_guide_message" formatted="false">"Pressione e segure o botão [Liga/Desliga] por %s segundos para acionar o assistente digital.
 Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</string>
     <string name="long_press_power_guide_settings">Configurações</string>
     <string name="long_press_power_guide_title">Acordar com botão [Liga/Desliga]</string>
@@ -839,18 +852,6 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="more">Mais</string>
     <string name="more_settings">Mais</string>
     <string name="morning">"AM"</string>
-    <string name="aon_gesture_hint_trigger">Execute um gesto agora</string>
-    <string name="aon_learn_double_press_tip">Execute um movimento de pressionamento duplo com a sua palma virada para a câmera para pausar a música</string>
-    <string name="aon_learn_draw_circle_phone_tip">Desenhe um círculo em sentido horário com a sua palma virada para a câmera para atender a chamadas</string>
-    <string name="aon_learn_draw_circle_tip">Desenhe um círculo no sentido horário com a sua palma virada para a câmera para atender chamadas transferidas para o tablet</string>
-    <string name="aon_learn_gesture_position_down_tip">Segure a sua mão com os dedos apontados para baixo de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
-    <string name="aon_learn_gesture_position_left_tip">Segure a sua mão com os dedos apontados para a esquerda de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
-    <string name="aon_learn_gesture_position_right_tip">Segure a sua mão com os dedos apontados para a direita de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
-    <string name="aon_learn_gesture_position_up_tip">Segure a sua mão com os dedos apontados para cima de %1$d a %2$d cm de distância da câmera até o ícone de mão aparecer</string>
-    <string name="aon_learn_wave_down_tip">Acene com a mão para baixo para deslizar</string>
-    <string name="aon_learn_wave_left_tip">Acene com a mão para a esquerda para reproduzir a música anterior</string>
-    <string name="aon_learn_wave_right_tip">Acene com a mão para a direita para reproduzir a próxima música</string>
-    <string name="aon_learn_wave_up_tip">Acene com a mão para cima para deslizar</string>
     <string name="msg_switch_file">Excluir estes arquivos no Primeiro espaço após serem movidos?</string>
     <string name="msg_switch_file_second">Excluir estes arquivos no Segundo espaço depois que forem movidos?</string>
     <string name="msg_switch_photo">Excluir estas fotos no Primeiro espaço após serem movidas?</string>
@@ -1391,7 +1392,7 @@ para entrar no Segundo espaço através da Tela de bloqueio"</string>
     <string name="xspace_default_guide_notification_content">Toque para alterar</string>
     <string name="xspace_default_guide_notification_main_title">Usando o app padrão</string>
     <string name="xspace_default_guide_notification_xspace_title">Usando o dual app</string>
-    <string name="xspace_default_setting_dialog_title"> padrão</string>
+    <string name="xspace_default_setting_dialog_title">" padrão"</string>
     <string name="xspace_default_setting_label">Personalização</string>
     <string name="xspace_description">"Dual apps são cópias de apps que podem ser usadas separadamente com uma conta diferente.
 
@@ -1433,6 +1434,4 @@ merece seu próprio app"</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Ontem</string>
-    <string name="freeform_side_app_bar">Barra lateral</string>
-
 </resources>

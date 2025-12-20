@@ -52,7 +52,7 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="dialog_message_revoke_authorization_accessbility">"Se você continuar, você retirará seu consentimento para a Política de Privacidade da Acessibilidade Mi. Cessaremos a coleta de suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma. Como o Acessibilidade Mi fornece seus serviços com base na coleta de informações pessoais necessárias, sua retirada de consentimento será considerada como recusa em aceitar os serviços da Acessibilidade Mi. Retirar consentimento agora?"</string>
     <string name="dialog_message_revoke_authorization_cancel">Cancelar</string>
-    <string formatted="false" name="dialog_message_revoke_authorization_common">"Se você continuar, você retirará seu consentimento para a Política de Privacidade de %1s. Cessaremos a coleta de suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma. Como %2s fornece seus serviços com base na coleta de informações pessoais necessárias, sua retirada de consentimento será considerada como recusa em aceitar estes serviços."</string>
+    <string name="dialog_message_revoke_authorization_common" formatted="false">"Se você continuar, você retirará seu consentimento para a Política de Privacidade de %1s. Cessaremos a coleta de suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma. Como %2s fornece seus serviços com base na coleta de informações pessoais necessárias, sua retirada de consentimento será considerada como recusa em aceitar estes serviços."</string>
     <string name="dialog_message_revoke_authorization_confirm">Retirar (%ds)</string>
     <string name="dialog_message_revoke_authorization_confirm_finish">Retirar</string>
     <string name="dialog_title_revoke_authorization_new">Retirada de consentimento</string>
@@ -123,7 +123,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="full_bt_content_description">Entrar em tela cheia</string>
-    <string formatted="false" name="fw_title_text">Interpretando (%1s/%2s)</string>
+    <string name="fw_title_text" formatted="false">Interpretando (%1s/%2s)</string>
     <string name="know">Entendi</string>
     <string name="language">Idioma</string>
     <string name="language_arabic">Árabe</string>

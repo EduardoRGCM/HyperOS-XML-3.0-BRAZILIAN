@@ -757,7 +757,7 @@ Clique em retomar para reabrir o app e continuar transferindo seus dados e permi
     <string name="paragliding">Parapente</string>
     <string name="password_toggle_content_description">Exibir senha</string>
     <string name="pause">Pausar</string>
-    <string formatted="false" name="percent">"{value, plural, =1 {1%} other {#%}}"</string>
+    <string name="percent" formatted="false">"{value, plural, =1 {1%} other {#%}}"</string>
     <string name="percent_long">{value, plural, =1 {1 por cento} other {# por cento}}</string>
     <string name="period_day">Dia do período: %1$d de %2$d</string>
     <string name="period_length">{count, plural, =1 {Período (1 dia)} other {Período (# dias)}}</string>

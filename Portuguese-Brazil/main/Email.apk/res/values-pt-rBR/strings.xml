@@ -289,11 +289,11 @@ IMAP"</string>
     <string name="auto_advance_summary">Selecione qual tela será exibida após um e-mail ser excluído</string>
     <string name="auto_login_fail">"Não foi possível fazer login automaticamente"</string>
     <string name="auto_login_fail_to_retry">"Não foi possível fazer login automaticamente, tente novamente."</string>
-    <string name="auto_start_open_prompt">Permita que o app inicie automaticamente para poder sincronizar seus e-mails. Você pode conceder essa permissão nas Configurações.</string>
     <string name="auto_remind_bind">Adicionar</string>
     <string name="auto_remind_discribe_text">Ative para receber lembretes automáticos</string>
     <string name="auto_remind_text">Lembretes automáticos</string>
     <string name="auto_remind_unbind">Parar</string>
+    <string name="auto_start_open_prompt">Permita que o app inicie automaticamente para poder sincronizar seus e-mails. Você pode conceder essa permissão nas Configurações.</string>
     <string name="auto_sync_off">Sincronização automática desativada.</string>
     <string name="automatic_remind_text">Lembrar automaticamente</string>
     <string name="bContact_list_search_hint">Procurar por contatos bloqueados</string>
@@ -529,7 +529,7 @@ IMAP"</string>
     <string name="download_confirm_message">Baixar %1$s anexos?</string>
     <string name="download_confirm_title">Download de anexo</string>
     <string name="download_message_failed_for_too_large">A mensagem é muito grande para ser transferida.</string>
-    <string name="draft_count_format"> (%1$s)</string>
+    <string name="draft_count_format">(%1$s)</string>
     <string name="drawer_bank_bill">Extratos bancários</string>
     <string name="drawer_close">Fechar gaveta de navegação</string>
     <string name="drawer_contacts">Contatos</string>
@@ -1174,7 +1174,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="ntes_had_send_to_content">Se você já enviou um SMS a partir do número de telefone associado, toque em \"Mensagem enviada\" para continuar.</string>
     <string name="ntes_login_auth_too_much">"Não é possível adicionar mais de 5 códigos de verificação. Faça login em sua caixa de entrada em um computador e exclua os códigos que você não está usando."</string>
     <string name="ntes_login_error_exceed_num_limit">Excedeu o limite numérico</string>
-    <string formatted="false" name="ntes_login_error_message">"Não é possível obter informações da conta (Erro %s). %s."</string>
+    <string name="ntes_login_error_message" formatted="false">"Não é possível obter informações da conta (Erro %s). %s."</string>
     <string name="ntes_password_error_hint">"Caso ocorram erros ao inserir a senha, feche esta página e abra-a novamente."</string>
     <string name="ntes_phone_send">Enviar uma mensagem de texto a partir do número de telefone associado</string>
     <string name="ntes_send_to">Enviar para: %s</string>
@@ -1184,7 +1184,7 @@ Tente alternar para uma conta de e-mail diferente."</string>
     <string name="oauth_find_browser_error_description">Instale um navegador antes de fazer login</string>
     <string name="oauth_gmail_login_notify">Digite seu nome de usuário e senha da sua Conta do Google na próxima tela de login.</string>
     <string name="oauth_login_continue">Continuar</string>
-    <string name="oauth_login_continue_qq">Obter código e fazer login &gt;</string>
+    <string name="oauth_login_continue_qq">Obter código e fazer login ></string>
     <string name="obtain_new_auth_code">Obter um novo código</string>
     <string name="ok">"OK"</string>
     <string name="okay_action">"OK"</string>
@@ -1423,9 +1423,9 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="saturday_shortest">Sáb</string>
     <string name="save_action">Salvar</string>
     <string name="save_draft_failed">Falha ao salvar rascunho</string>
-    <string name="save_sign_pdf">Salvar no dispositivo</string>
     <string name="save_power_summary">Definir horário de economia de energia</string>
     <string name="save_power_title">Economia de bateria</string>
+    <string name="save_sign_pdf">Salvar no dispositivo</string>
     <string name="saved">Salvo, %s</string>
     <string name="search_bar_text">Procurar por contatos</string>
     <string name="search_hint">Pesquisar e-mail</string>
@@ -1452,7 +1452,6 @@ Aguarde até que ele esteja totalmente sincronizado ou veja a mensagem em seu co
     <string name="send_encrypt_dialog_fail_title">"Não é possível enviar e-mails criptografados"</string>
     <string name="send_failed">A mensagem não foi enviada.</string>
     <string name="sender_whitelist_cleared">As imagens não serão exibidas automaticamente.</string>
-    <string name="senders_split_token">, </string>
     <string name="sending">Enviando…</string>
     <string name="sending_message">Enviando mensagem…</string>
     <string name="sending_quick_reply">Enviando \"%s\"</string>

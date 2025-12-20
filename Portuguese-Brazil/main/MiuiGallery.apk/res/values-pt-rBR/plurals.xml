@@ -249,13 +249,13 @@
         <item quantity="other">Excluir %d itens?</item>
         <item quantity="one">Excluir %d item?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Excluir %d fotos de todos os dispositivos e da Xiaomi Cloud?</item>
-        <item quantity="one">Excluir %d foto de todos os dispositivos e da Xiaomi Cloud?</item>
-    </plurals>
     <plurals name="delete_media_title">
         <item quantity="other">Excluir %d itens?</item>
         <item quantity="one">Excluir %d item?</item>
+    </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Excluir %d fotos de todos os dispositivos e da Xiaomi Cloud?</item>
+        <item quantity="one">Excluir %d foto de todos os dispositivos e da Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Excluir %d disparos contínuos do seu dispositivo?</item>
@@ -416,13 +416,13 @@
         <item quantity="one">%d item</item>
         <item quantity="other">%d itens</item>
     </plurals>
-    <plurals name="photo_picker_title_format">
-        <item quantity="one">Selecionar %d foto</item>
-        <item quantity="other">Selecionar %d fotos</item>
-    </plurals>
     <plurals name="photo_editor_talkback_crop_scale_value">
         <item quantity="other">Girar %d° graus</item>
         <item quantity="one">Girar %d° grau</item>
+    </plurals>
+    <plurals name="photo_picker_title_format">
+        <item quantity="one">Selecionar %d foto</item>
+        <item quantity="other">Selecionar %d fotos</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d dias</item>

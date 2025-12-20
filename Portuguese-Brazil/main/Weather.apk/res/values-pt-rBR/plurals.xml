@@ -85,8 +85,8 @@
         <item quantity="one">%d item selecionado</item>
     </plurals>
     <plurals name="no_vote_num">
-        <item quantity="other">%1$s pessoas | </item>
-        <item quantity="one">%1$s pessoa | </item>
+        <item quantity="other">"%1$s pessoas | "</item>
+        <item quantity="one">"%1$s pessoa | "</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
@@ -117,7 +117,7 @@
         <item quantity="one">Limpo</item>
     </plurals>
     <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s pessoas</item>
-        <item quantity="one"> | %1$s pessoa</item>
+        <item quantity="other">" | %1$s pessoas"</item>
+        <item quantity="one">" | %1$s pessoa"</item>
     </plurals>
 </resources>

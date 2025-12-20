@@ -803,8 +803,8 @@ Um SMS será enviado para ativar o serviço. Tarifas podem ser aplicadas pela su
     <string name="priority_normal">"Normal"</string>
     <string name="privacy_dialog_error_service">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="privacy_dialog_text_policy_link">Política de Privacidade</string>
-    <string formatted="false" name="privacy_dialog_tips_revoke">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como %s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %s. Retirar o consentimento agora?"</string>
-    <string formatted="false" name="privacy_dialog_tips_update">"%s A Política de Privacidade foi atualizada:
+    <string name="privacy_dialog_tips_revoke" formatted="false">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido o contrário. Como %s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %s. Retirar o consentimento agora?"</string>
+    <string name="privacy_dialog_tips_update" formatted="false">"%s A Política de Privacidade foi atualizada:
 %s
 Leia e aceite a nova versão da Política de Privacidade antes de continuar."</string>
     <string name="privacy_dialog_title_update">Política de Privacidade atualizada</string>
@@ -861,7 +861,7 @@ Leia e aceite a nova versão da Política de Privacidade antes de continuar."</s
     <string name="rcs_bw_menu_refresh">Recarregar</string>
     <string name="rcs_bw_menu_search">Pesquisar na página</string>
     <string name="rcs_bw_menu_share">Enviar para Contatos</string>
-    <string formatted="false" name="rcs_bw_network_error_desc">Mensagem de erro (%d,%s)</string>
+    <string name="rcs_bw_network_error_desc" formatted="false">Mensagem de erro (%d,%s)</string>
     <string name="rcs_bw_network_error_title">Não é possível abrir a página</string>
     <string name="rcs_bw_open_file_failed">Falha no acesso aos arquivos</string>
     <string name="rcs_bw_permission_tip_audio">Solicitar acesso ao seu microfone</string>
@@ -1254,9 +1254,9 @@ Confira chatbots recomendados!"</string>
     <string name="switch_to_editor">Modo editor</string>
     <string name="switch_to_menu">Modo menu</string>
     <string name="system_permission_declare_disagree">Cancelar</string>
-    <string formatted="false" name="system_permission_declare_double_link">Leia e aceite o nosso %1s e a %2s antes de usar este recurso.</string>
+    <string name="system_permission_declare_double_link" formatted="false">Leia e aceite o nosso %1s e a %2s antes de usar este recurso.</string>
     <string name="system_permission_declare_exit">Sair</string>
-    <string formatted="false" name="system_permission_declare_main_purpose">Bem-vindo ao %1s! %2s</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo ao %1s! %2s</string>
     <string name="system_permission_declare_mi_message">Bem-vindo ao Mi Mensagens!</string>
     <string name="system_permission_declare_no_say_no">"Protegeremos suas informações pessoais de acordo com leis, regulamentos e políticas de privacidade relevantes.
 Se você não aceitar em conceder estas permissões ou compartilhar e fazer o envio de suas informações pessoais, você não poderá usar este app."</string>

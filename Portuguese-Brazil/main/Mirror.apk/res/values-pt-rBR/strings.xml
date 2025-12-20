@@ -667,8 +667,8 @@ para continuar"</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
     <string name="time_picker_label_hour">"H"</string>
     <string name="time_picker_label_minute">"M"</string>
-    <string name="to_settings">Configurações</string>
     <string name="tip_connect_fail_for_hotspot">Não foi possível conectar. Desative o hotspot portátil e tente novamente.</string>
+    <string name="to_settings">Configurações</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="transferring">Transferindo arquivos. Permaneça nesta página.</string>

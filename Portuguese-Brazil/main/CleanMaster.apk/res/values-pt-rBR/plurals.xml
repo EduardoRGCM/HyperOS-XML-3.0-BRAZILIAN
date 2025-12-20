@@ -162,6 +162,10 @@
         <item quantity="other">%1$d horas</item>
         <item quantity="one">%1$d hora</item>
     </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d horas atrás</item>
+        <item quantity="one">%1$d hora atrás</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>
     </plurals>
@@ -174,10 +178,6 @@
     <plurals name="in_num_minutes">
         <item quantity="other">em %d minutos</item>
         <item quantity="one">em 1 minuto</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d horas atrás</item>
-        <item quantity="one">%1$d hora atrás</item>
     </plurals>
     <plurals name="install_find_application">
         <item quantity="other">Pesquisar entre %d apps</item>

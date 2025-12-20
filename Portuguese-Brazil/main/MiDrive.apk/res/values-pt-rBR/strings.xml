@@ -514,6 +514,8 @@ Verifique se você está usando a sua Conta Xiaomi associada como sua conta do s
     <string name="setting_clear_cache">Limpar cache</string>
     <string name="setting_create_shortcut">Atalho na Tela inicial</string>
     <string name="setting_title">Configurações</string>
+    <string name="shortcut_dialog_confirm">Criar</string>
+    <string name="shortcut_dialog_content">Criar um atalho na Tela inicial para o Mi Drive?</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
     <string name="solar_term_clear_and_bright">Claro e brilhante</string>
@@ -538,8 +540,6 @@ Verifique se você está usando a sua Conta Xiaomi associada como sua conta do s
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="shortcut_dialog_confirm">Criar</string>
-    <string name="shortcut_dialog_content">Criar um atalho na Tela inicial para o Mi Drive?</string>
     <string name="speed_unit_b">"%s B/s"</string>
     <string name="speed_unit_gb">"%s GB/s"</string>
     <string name="speed_unit_kb">"%s KB/s"</string>

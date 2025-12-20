@@ -30,6 +30,7 @@
     <string name="access_calendar">Acessar a Agenda</string>
     <string name="access_non_personal_data">Se você retirar o consentimento para o acesso e uso de dados não pessoais do seu dispositivo, os serviços do Carrossel de planos de fundo serão desativados e todos os dados coletados serão excluídos dentro do período especificado nas leis e regulamentos aplicáveis.</string>
     <string name="accessibility_enabled">Acessibilidade ativada.</string>
+    <string name="accessibility_settings">Acessibilidade</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="activate_esim_tips">"Não foi possível ativar. Tente novamente."</string>
     <string name="activating_esim_tips">Ativando…</string>
@@ -240,7 +241,9 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="interconnection_service_permission16">Para transferir chamadas entre dispositivos durante o espelhamento de tela</string>
     <string name="interconnection_service_permission17">Acessar a lista de apps instalados</string>
     <string name="interconnection_service_permission18">Para acessar a lista de apps instalados em um dispositivo móvel e espelhamento de tela em computadores</string>
+    <string name="interconnection_service_permission19">Acessar e usar notificações</string>
     <string name="interconnection_service_permission2">Para conectar e transferir dados entre dois dispositivos</string>
+    <string name="interconnection_service_permission20">Para acessar as notificações do dispositivo, incluindo nome do app, título e conteúdo</string>
     <string name="interconnection_service_permission3">Ativar e desativar o Wi-Fi</string>
     <string name="interconnection_service_permission4">Para transferir dados entre dois dispositivos via Wi-Fi</string>
     <string name="interconnection_service_permission5">Gravar áudio</string>
@@ -482,6 +485,10 @@ Você pode desativar as atualizações automáticas em GetApps > Configurações
 Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos.
 Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.
 Você pode ativar ou desativar este recurso pesquisando por \"Uso e diagnósticos\" nas Configurações."</string>
+    <string name="other_settings_upload_debug_log_detail_cn">"Ajude a melhorar sua experiência enviando automaticamente dados de diagnóstico, do dispositivo e de uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, a estabilidade do sistema e dos apps, e mais.
+Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o utiliza (por exemplo, nível da bateria, atividade do sistema e dos apps e erros). Os dados serão usados para melhorar os dispositivos Xiaomi.
+Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.
+Você pode controlar este recurso em Configurações > Privacidade e segurança > Segurança > Configurações adicionais > Uso e diagnóstico."</string>
     <string name="other_settings_upload_debug_log_summary">"Ajude a melhorar sua experiência enviando automaticamente dados de diagnóstico, dispositivo e uso de apps para a Xiaomi. Isso ajudará a melhorar a duração da bateria, a estabilidade do sistema e do app e muito mais. "</string>
     <string name="other_settings_upload_debug_log_title">Enviar dados de uso e diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
@@ -540,6 +547,7 @@ Você pode ativar ou desativar este recurso pesquisando por \"Uso e diagnóstico
     <string name="permission_make_a_call_fast_application_summary">Para permitir que apps façam chamadas;</string>
     <string name="permission_media_storage_summary">Para verificar como os apps usam as permissões relacionadas à privacidade ao acessar arquivos</string>
     <string name="permission_message_introduction">Para enviar mensagens a contatos bloqueados</string>
+    <string name="permission_mi_account">Acessar status da chamada</string>
     <string name="permission_not_agree_service_not_working">"Se você não aceitar as permissões exigidas acima mencionadas, não poderá usar este serviço."</string>
     <string name="permission_number">Acessar número de telefone</string>
     <string name="permission_number_introduction">Para estabelecer uma conexão Bluetooth com sistemas automotivos e fones de ouvido Bluetooth</string>
@@ -554,6 +562,8 @@ Você pode ativar ou desativar este recurso pesquisando por \"Uso e diagnóstico
     <string name="permission_quality_describe_summary">Para coletar informações sobre falhas dos apps</string>
     <string name="permission_read_app_list">Acessar a lista de apps instalados neste dispositivo</string>
     <string name="permission_read_application_list_summary">Para atualizar os apps baixados e confirmar as informações do app usadas pelo instalador do pacote;</string>
+    <string name="permission_read_apps">Acessar a lista de apps instalados neste dispositivo</string>
+    <string name="permission_read_apps_introduction">Para acesso à rede e estatísticas de uso de dados;</string>
     <string name="permission_read_call_records">Editar histórico de chamadas</string>
     <string name="permission_read_call_records_introduction">Para adicionar itens ao histórico de chamadas e excluir chamadas bloqueadas</string>
     <string name="permission_read_contacts">Acessando contatos</string>
@@ -774,6 +784,7 @@ Você pode ativar ou desativar este recurso pesquisando por \"Uso e diagnóstico
     <string name="start_up_slogan">Onde todas as coisas se conectam</string>
     <string name="startup_page_text_hint">Desdobre para ativar o dispositivo</string>
     <string name="study_full_screen_gesture_text">Aprender gestos de navegação</string>
+    <string name="sub_screen_boot_tip">Conclua a configuração na tela principal</string>
     <string name="summary_not_set">Não definido</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -925,15 +936,4 @@ Você precisa aceitar a Política de Privacidade do Teclado Mint antes de usar e
     <string name="withdraw_consent">Se você retirar o consentimento, os serviços do Carrossel de planos de fundo serão desativados.</string>
     <string name="yesterday">Ontem</string>
     <string name="zone_picker_title">Escolher fuso horário</string>
-    <string name="accessibility_settings">Acessibilidade</string>
-    <string name="interconnection_service_permission19">Acessar e usar notificações</string>
-    <string name="interconnection_service_permission20">Para acessar as notificações do dispositivo, incluindo nome do app, título e conteúdo</string>
-    <string name="other_settings_upload_debug_log_detail_cn">"Ajude a melhorar sua experiência enviando automaticamente dados de diagnóstico, do dispositivo e de uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, a estabilidade do sistema e dos apps, e mais.
-Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o utiliza (por exemplo, nível da bateria, atividade do sistema e dos apps e erros). Os dados serão usados para melhorar os dispositivos Xiaomi.
-Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.
-Você pode controlar este recurso em Configurações > Privacidade e segurança > Segurança > Configurações adicionais > Uso e diagnóstico."</string>
-    <string name="permission_mi_account">Acessar status da chamada</string>
-    <string name="sub_screen_boot_tip">Conclua a configuração na tela principal</string>
-    <string name="permission_read_apps">Acessar a lista de apps instalados neste dispositivo</string>
-    <string name="permission_read_apps_introduction">Para acesso à rede e estatísticas de uso de dados;</string>
 </resources>

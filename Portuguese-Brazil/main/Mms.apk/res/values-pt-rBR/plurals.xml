@@ -119,9 +119,17 @@
         <item quantity="other">"%s mensagens | "</item>
         <item quantity="one">"%s mensagem | "</item>
     </plurals>
+    <plurals name="notification_multiple_satellite">
+        <item quantity="one">%s mensagem via satélite</item>
+        <item quantity="other">%s mensagens via satélite</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="one">Retirar (%ds)</item>
+        <item quantity="other">Retirar (%ds)</item>
     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Você recebeu %d convites de chat em grupo</item>
@@ -164,13 +172,5 @@
     <plurals name="vital_signs_data_spo2">
         <item quantity="other">SpO₂: %1$d%% (%2$s)</item>
         <item quantity="one">SpO₂: %1$d%% (%2$s)</item>
-    </plurals>
-    <plurals name="notification_multiple_satellite">
-        <item quantity="one">%s mensagem via satélite</item>
-        <item quantity="other">%s mensagens via satélite</item>
-    </plurals>
-    <plurals name="privacy_state_revoked_revoked_1">
-        <item quantity="one">Retirar (%ds)</item>
-        <item quantity="other">Retirar (%ds)</item>
     </plurals>
 </resources>

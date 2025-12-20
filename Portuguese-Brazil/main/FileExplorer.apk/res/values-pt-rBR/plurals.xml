@@ -74,8 +74,8 @@
         <item quantity="one">%d item</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d itens</item>
-        <item quantity="one"> %1$d item</item>
+        <item quantity="other">" %1$d itens"</item>
+        <item quantity="one">" %1$d item"</item>
     </plurals>
     <plurals name="follow_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> seguidores</item>
@@ -110,8 +110,8 @@
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d itens)</item>
-        <item quantity="one"> (%1$d item)</item>
+        <item quantity="other">" (%1$d itens)"</item>
+        <item quantity="one">" (%1$d item)"</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
@@ -213,16 +213,16 @@
         <item quantity="one">Você pode inserir %d caractere</item>
     </plurals>
     <plurals name="video_ad_download_tip">
-        <item quantity="other"> Downloads</item>
-        <item quantity="one"> Download</item>
+        <item quantity="other">" Downloads"</item>
+        <item quantity="one">" Download"</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> vídeos</item>
         <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> vídeo</item>
     </plurals>
     <plurals name="video_items">
-        <item quantity="other"> %1$d itens</item>
-        <item quantity="one"> %1$d item</item>
+        <item quantity="other">" %1$d itens"</item>
+        <item quantity="one">" %1$d item"</item>
     </plurals>
     <plurals name="video_play_num">
         <item quantity="other">%1$s visualizações</item>

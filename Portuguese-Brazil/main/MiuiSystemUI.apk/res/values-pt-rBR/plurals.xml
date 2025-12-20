@@ -45,6 +45,13 @@
         <item quantity="other">Pressão atmosférica: %s hectopascais</item>
         <item quantity="one">Pressão atmosférica: %s hectopascal</item>
     </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s controles adicionados.</item>
+        <item quantity="one">%s controle adicionado.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia hora atrás</item>
+    </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
         <item quantity="other">%1$s calorias queimadas</item>
         <item quantity="one">%1$s caloria queimada</item>
@@ -92,13 +99,6 @@
     <plurals name="health_chart_step_count_schedule_format">
         <item quantity="other">%1$s/%2$s passos</item>
         <item quantity="one">%1$s/%2$s passo</item>
-    </plurals>
-    <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s controles adicionados.</item>
-        <item quantity="one">%s controle adicionado.</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>

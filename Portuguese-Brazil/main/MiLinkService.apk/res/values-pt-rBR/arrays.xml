@@ -36,7 +36,7 @@
         <item>Xiaomi Share</item>
         <item>Interconectividade/Xiaomi Share</item>
         <item>Xiaomi Share</item>
-     </string-array>
+    </string-array>
     <string-array name="settings_search_relay_app">
         <item>Handoff de app</item>
         <item>Interconectividade/Apps</item>
@@ -72,20 +72,15 @@
         <item>Interconectividade/Transmitir/Ajuda</item>
         <item>Ajuda</item>
     </string-array>
-    <string-array name="settings_search_share_camera">
-        <item>Câmera entre dispositivos</item>
-        <item>Interconectividade/Câmera entre dispositivos</item>
-        <item>Câmera entre dispositivos</item>
-    </string-array>
-    <string-array name="settings_search_upay">
-        <item>Pagamentos entre dispositivos</item>
-        <item>Interconectividade/Pagamentos entre dispositivos</item>
-        <item>Pagamentos entre dispositivos;pagar através de dispositivos</item>
-    </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Tela inicial+</item>
         <item>Interconectividade/Tela inicial+</item>
         <item>Tela inicial+</item>
+    </string-array>
+    <string-array name="settings_search_share_camera">
+        <item>Câmera entre dispositivos</item>
+        <item>Interconectividade/Câmera entre dispositivos</item>
+        <item>Câmera entre dispositivos</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Área de transferência</item>
@@ -101,5 +96,10 @@
         <item>Notificações entre dispositivos</item>
         <item>Interconectividade/Notificações</item>
         <item>Notificações entre dispositivos</item>
+    </string-array>
+    <string-array name="settings_search_upay">
+        <item>Pagamentos entre dispositivos</item>
+        <item>Interconectividade/Pagamentos entre dispositivos</item>
+        <item>Pagamentos entre dispositivos;pagar através de dispositivos</item>
     </string-array>
 </resources>

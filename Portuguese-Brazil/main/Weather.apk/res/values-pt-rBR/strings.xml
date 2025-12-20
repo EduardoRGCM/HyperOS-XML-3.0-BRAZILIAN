@@ -40,6 +40,7 @@
     <string name="act_find_city_location_button_text">Obtenha a localização atual</string>
     <string name="act_find_city_location_title">Localização atual</string>
     <string name="act_find_city_major_city_title">Locais populares</string>
+    <string name="act_find_city_no_location_text">Nenhuma informação de localização</string>
     <string name="act_find_city_search_history_title">Histórico de pesquisa</string>
     <string name="act_location_error_to_find_city">"Não foi possível obter as informações de localização. Você pode adicionar uma localização manualmente."</string>
     <string name="act_set_city_find_side">Localizando</string>
@@ -114,6 +115,7 @@
     <string name="aqi_station_best_quality_station">Melhor nas redondezas</string>
     <string name="aqi_station_min_distance_station">Estação mais próxima</string>
     <string name="aqi_sub_desc">IQA</string>
+    <string name="aqi_title_pad">Qualidade do ar: %1$s</string>
     <string name="aqi_top_pollution">Principais poluentes</string>
     <string name="background_location_dialog_msg">"Para garantir que este app sempre use informações de localização precisas, permita que ele acesse sua localização quando estiver sendo executado em 2º plano. Você pode conceder essa permissão nas Configurações."</string>
     <string name="background_location_dialog_open_button">Configurações</string>
@@ -164,7 +166,9 @@
     <string name="daily_forecast_add_city_add">Seguir</string>
     <string name="daily_forecast_add_city_message">Siga o clima em %1$s para uma previsão mais detalhada.</string>
     <string name="daily_forecast_add_city_title">Siga o clima em %1$s</string>
+    <string name="daily_forecast_card_title">Previsão para %d dias</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_next_15_days">Previsão para os próximos 15 dias</string>
     <string name="daily_forecast_no_data">"Não foi possível obter informações do clima
 Puxe para baixo para atualizar ou verificar as configurações de rede"</string>
     <string name="data_provided_by">Dados fornecidos parcialmente por</string>
@@ -455,6 +459,9 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="open_now">Abrir</string>
     <string name="other_settings">Outras configurações</string>
     <string name="other_warning_settings">Outros alertas</string>
+    <string name="pad_keyboard_add_city">Adicionar localização</string>
+    <string name="pad_keyboard_left_switch">Localização anterior</string>
+    <string name="pad_keyboard_right_switch">Próxima localização</string>
     <string name="particulate_matter_exceeded">Alta</string>
     <string name="particulate_matter_not_exceeded">"Normal"</string>
     <string name="particulate_matter_serious_exceeded">Muito alta</string>
@@ -744,11 +751,4 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="yes_vote_ratio">Para %1$s%%</string>
     <string name="yesterday">Ontem</string>
     <string name="your_location">Sua localização</string>
-    <string name="act_find_city_no_location_text">Nenhuma informação de localização</string>
-    <string name="aqi_title_pad">Qualidade do ar: %1$s</string>
-    <string name="daily_forecast_card_title">Previsão para %d dias</string>
-    <string name="daily_forecast_next_15_days">Previsão para os próximos 15 dias</string>
-    <string name="pad_keyboard_add_city">Adicionar localização</string>
-    <string name="pad_keyboard_left_switch">Localização anterior</string>
-    <string name="pad_keyboard_right_switch">Próxima localização</string>
 </resources>
