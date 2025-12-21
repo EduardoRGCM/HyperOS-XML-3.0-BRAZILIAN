@@ -226,6 +226,8 @@
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_a11y_label">Erro: inválido</string>
+    <string name="error_detail_info">"Detalhes:
+%1$s"</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="ettings_security_mode_open_security_mode">Ativar</string>
     <string name="ettings_security_mode_tip_title1">Proteja sua privacidade</string>
@@ -569,6 +571,7 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="open_safe_mode">Ativar</string>
     <string name="out_of_space_dlg_text">"%1$s não pôde ser instalado. Libere um pouco de espaço e tente novamente."</string>
     <string name="out_of_space_dlg_title">Sem espaço</string>
+    <string name="parse_error_dlg_text_miui">Houve um problema ao analisar o pacote. (%1$s)</string>
     <string name="passed_security_test">Passou nos testes de segurança da Xiaomi</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
