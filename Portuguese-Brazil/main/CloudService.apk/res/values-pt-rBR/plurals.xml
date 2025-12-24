@@ -101,6 +101,10 @@
         <item quantity="other">%d redes Wi-Fi</item>
         <item quantity="one">%d rede Wi-Fi</item>
     </plurals>
+    <plurals name="display_number_of_devices">
+        <item quantity="one">Exibindo apenas o primeiro %s dispositivo não confiável.</item>
+        <item quantity="other">Exibindo apenas os primeiros %s dispositivos não confiáveis.</item>
+    </plurals>
     <plurals name="e2ee_device_verification_num">
         <item quantity="other">%s dispositivos não verificados</item>
         <item quantity="one">%s dispositivo não verificado</item>
@@ -168,9 +172,73 @@
         <item quantity="other">Retomando sincronização em %d minutos</item>
         <item quantity="one">Retomando sincronização em %d minuto</item>
     </plurals>
+    <plurals name="micloud_preference_family_detail">
+        <item quantity="one">Compartilhado com %1$d pessoa. O familiar usou %2$s.</item>
+        <item quantity="other">Compartilhado com %1$d pessoas. Os familiares usaram %2$s.</item>
+    </plurals>
+    <plurals name="micloud_preference_items_count">
+        <item quantity="one">%s item</item>
+        <item quantity="other">%s itens</item>
+    </plurals>
+    <plurals name="micloud_preference_photo_detail">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s fotos</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted">
+        <item quantity="one">Membros Premium podem restaurar itens até %d dia após a exclusão</item>
+        <item quantity="other">Membros Premium podem restaurar itens até %d dias após a exclusão</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_1">
+        <item quantity="one">Usuários sem assinatura podem restaurar itens excluídos em até %d dia</item>
+        <item quantity="other">Usuários sem assinatura podem restaurar itens excluídos em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_2">
+        <item quantity="one">Membros Mega podem restaurar itens excluídos em até %d dia</item>
+        <item quantity="other">Membros Mega podem restaurar itens excluídos em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_3">
+        <item quantity="one">Membros Ultra podem restaurar itens excluídos em até %d dia</item>
+        <item quantity="other">Membros Ultra podem restaurar itens excluídos em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_record_detail">
+        <item quantity="one">%s item</item>
+        <item quantity="other">%s itens</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_deleted_data">
+        <item quantity="one">Membros podem restaurar itens excluídos em até %d dia</item>
+        <item quantity="other">Membros podem restaurar itens excluídos em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary">
+        <item quantity="one">Usuários sem assinatura podem restaurar contatos para qualquer versão salva em até %d dia</item>
+        <item quantity="other">Usuários sem assinatura podem restaurar contatos para qualquer versão salva em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_1">
+        <item quantity="one">Membros Premium podem restaurar contatos para qualquer versão salva em até %d dia</item>
+        <item quantity="other">Membros Premium podem restaurar contatos para qualquer versão salva em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_2">
+        <item quantity="one">Membros Mega podem restaurar contatos para qualquer versão salva em até %d dia</item>
+        <item quantity="other">Membros Mega podem restaurar contatos para qualquer versão salva em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_3">
+        <item quantity="one">Membros Ultra podem restaurar contatos para qualquer versão salva em até %d dia</item>
+        <item quantity="other">Membros Ultra podem restaurar contatos para qualquer versão salva em até %d dias</item>
+    </plurals>
+    <plurals name="micloud_preference_video_detail">
+        <item quantity="one">%1$s vídeo</item>
+        <item quantity="other">%1$s vídeos</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">%1$d item selecionado</item>
+        <item quantity="other">%1$d itens selecionados</item>
+    </plurals>
+    <plurals name="not_authenticated_devices">
+        <item quantity="one">Você tem %s dispositivo não confiável no total.</item>
+        <item quantity="other">Você tem %s dispositivos não confiáveis no total.</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
         <item quantity="other">"Armazenamento está cheio. Não foi possível sincronizar &lt;font color=#F22424>%d apps&lt;/font>."</item>

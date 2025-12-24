@@ -37,6 +37,21 @@
         <item>Só esta vez</item>
         <item>Desativar lembrete repetido</item>
     </string-array>
+    <string-array name="constellation_array">
+        <item>Nenhum</item>
+        <item>Áries</item>
+        <item>Touro</item>
+        <item>Gêmeos</item>
+        <item>Câncer</item>
+        <item>Leão</item>
+        <item>Virgem</item>
+        <item>Libra</item>
+        <item>Escorpião</item>
+        <item>Sagitário</item>
+        <item>Capricórnio</item>
+        <item>Aquário</item>
+        <item>Peixes</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Para frente</item>
         <item>Para trás</item>
@@ -519,6 +534,15 @@
         <item>"QUI"</item>
         <item>"SEX"</item>
         <item>"SÁB"</item>
+    </string-array>
+    <string-array name="week_header_name_phone_landscape">
+        <item>DOM</item>
+        <item>SEG</item>
+        <item>TER</item>
+        <item>QUA</item>
+        <item>QUI</item>
+        <item>SEX</item>
+        <item>SÁB</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Transparente</item>
