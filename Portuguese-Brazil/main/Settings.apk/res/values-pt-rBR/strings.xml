@@ -648,6 +648,9 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="agps_roaming_dia">O uso do A-GPS em roaming pode aumentar seu uso de dados móveis. Caso você exceda o seu plano de dados, sua operadora poderá cobrar o excedente.</string>
     <string name="agps_roaming_dia_title">Usar A-GPS em roaming</string>
     <string name="agps_roaming_summary">Usar dados móveis para auxiliar o GPS durante o roaming</string>
+    <string name="agree_btn">Concordar</string>
+    <string name="agree_face_password_privacy_statement"><Data>"Li e concordo com a &lt;a href=%1$s>Declaração de Privacidade de Dados Faciais e Bloqueio de Tela&lt;/a>."</Data></string>
+    <string name="agree_scanner_app_use">Escanear QR codes e reconhecer imagens. Alguns recursos precisam acessar a localização, usar a câmera ou fazer capturas de tela.</string>
     <string name="ai_button_title">Botão Mi AI</string>
     <string name="ai_button_title_global">Botão IA</string>
     <string name="ai_call_assistant">Chamadas por IA</string>
@@ -655,6 +658,8 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="ai_key_double_click">Pressione duas vezes</string>
     <string name="ai_key_long_press">Pressione e segure</string>
     <string name="ai_key_single_click">Pressione</string>
+    <string name="ai_notification_settings">Resumo de notificações por IA</string>
+    <string name="ai_services_title">Serviços de IA</string>
     <string name="ai_settings_click_title">Pressionar</string>
     <string name="ai_settings_double_click_category">Pressionar 2 vezes o Botão IA</string>
     <string name="ai_settings_double_click_title">Pressionar duas vezes</string>
@@ -663,6 +668,16 @@ Seu administrador pode monitorar e gerenciar configurações, acesso, apps e dad
     <string name="ai_settings_single_press_des">Pressione o Botão IA para falar ao Google Assistente, depois solte para obter uma resposta.</string>
     <string name="airplane_mode">Modo avião</string>
     <string name="airplane_mode_summary">Ative para desconectar seu dispositivo de redes móveis. Você não poderá fazer chamadas, enviar e receber SMS ou usar dados móveis quando este recurso estiver ativado.</string>
+	<string name="airpods_auto_connect_help">Guia de conexão automática</string>
+    <string name="airpods_auto_connect_help_step_one">%1$s. Conecte seus AirPods a um dispositivo Apple</string>
+    <string name="airpods_auto_connect_help_step_one_summary">Após conectar os AirPods, abra a página de detalhes em Ajustes > Bluetooth > AirPods.</string>
+    <string name="airpods_auto_connect_help_step_three">%1$s. Conecte seus AirPods ao seu dispositivo Xiaomi novamente</string>
+    <string name="airpods_auto_connect_help_step_three_summary">Depois disso, seus AirPods se conectarão automaticamente ao dispositivo usado mais recentemente.</string>
+    <string name="airpods_auto_connect_help_step_two">%1$s. Selecione \"Quando Conectado Pela Última Vez a Este iPhone\"</string>
+    <string name="airpods_auto_connect_help_step_two_summary">Na página de detalhes, role até \"Conectar a Este iPhone\" e selecione \"Quando Conectado Pela Última Vez a Este iPhone\".</string>
+    <string name="airpods_auto_connect_help_title">Conectar AirPods automaticamente a dispositivos Xiaomi</string>
+    <string name="airpods_fast_connect_fail_summary">Mantenha pressionado o botão na parte traseira do estojo de recarga, ou toque duas vezes na frente do estojo, até que a luz de status pisque em branco</string>
+    <string name="airpods_fast_connect_fail_summary_single">Mantenha pressionado o botão de controle de ruído nos fones de ouvido até que a luz de status pisque em branco</string>
     <string name="alarm_ringtone_title">Som de alarme padrão</string>
     <string name="alarm_sound_dialog_title">Selecionar som de alarme</string>
     <string name="alarm_sound_title">Alarme</string>
@@ -681,6 +696,10 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="all_apps">Todos os apps</string>
     <string name="all_network_unavailable">Nenhuma rede disponível</string>
     <string name="all_supported_app_locales_title">Todas os idiomas</string>
+    <string name="all_supported_locales_regions_title">Todas as regiões</string>
+    <string name="all_supported_locales_title">Todos os idiomas</string>
+    <string name="all_supported_numbering_system_title">Todos os sistemas de numeração</string>
+    <string name="all_supported_region_title">Todas as regiões</string>
     <string name="all_volume_title">"Volume"</string>
     <string name="allow">Permitir</string>
     <string name="allow_all_rotations_title">Permitir todas as rotações</string>
@@ -991,6 +1010,7 @@ Alterar as configurações agora?"</string>
     <string name="application_permission_manager">Permissões do app</string>
     <string name="application_permissions">Permissões do app</string>
     <string name="application_restrictions">Permitir apps e conteúdo</string>
+    <string name="application_scenario">Cenários de uso</string>
     <string name="application_size_label">Tamanho do app</string>
     <string name="applications_settings">Gerenciar apps</string>
     <string name="applications_settings_header">Configurações do app</string>
@@ -2622,8 +2642,10 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="certificate_warning_install_anyway">Instalar assim mesmo</string>
     <string name="change">Alterar</string>
     <string name="change_brightness">Ajustar o brilho</string>
+    <string name="change_lock_screen_password">Alterar bloqueio de tela</string>
     <string name="change_lock_screen_password_title">Alterar bloqueio de tela</string>
-    <string name="change_nfc_tag_apps_detail_summary">"Permitir que este app seja iniciado quando uma etiqueta NFC for digitalizada. Se esta permissão estiver ativada, o app estará disponível como opção sempre que uma tag for detectada."</string>
+    <string name="change_nfc_tag_apps_detail_summary">"Permitir que este app inicie quando uma tag NFC for lida.
+Se esta permissão estiver ativada, o app estará disponível como uma opção sempre que uma tag for detectada."</string>																									  
     <string name="change_nfc_tag_apps_detail_switch">Permitir inicialização na varredura NFC</string>
     <string name="change_nfc_tag_apps_title">Iniciar via NFC</string>
     <string name="change_password">Alterar bloqueio de tela</string>
@@ -3636,6 +3658,7 @@ Se isso continuar acontecendo, talvez seja necessário desinstalá-lo para melho
     <string name="dialog_yes">Sim</string>
     <string name="direct_boot_unaware_dialog_message">Importate! Após uma reinicialização, este app não iniciará até que você desbloqueie seu dispositivo.</string>
     <string name="disableNetwork">Desativar rede</string>
+    <string name="disable_lock_screen_password">Desativar bloqueio de tela</string>
     <string name="disable_overlays">Desativar sobreposição HW</string>
     <string name="disable_overlays_summary">Sempre usar a GPU para renderização de tela</string>
     <string name="disable_phantom_process_monitor_summary">Desativa restrições sobre o uso de recursos do sistema dos processos filhos do app</string>
@@ -4104,10 +4127,19 @@ Isso ajuda a proteger os dados em dispositivos perdidos ou roubados. Quer solici
     <string name="enhanced_ai_applications_summary">Use IA para aprimorar apps e aproveitar serviços mais inteligentes</string>
     <string name="enhanced_connectivity">Conectividade Aprimorada</string>
     <string name="enhanced_connectivity_summary">Ativa o recurso de Conectividade Aprimorada.</string>
+    <string name="enhanced_listening_experience_summary">Ajusta o som automaticamente com base no ambiente ao seu redor</string>
+    <string name="enhanced_listening_experience_title">Som aprimorado</string>
+    <string name="enrol_biometric_progress_talkback">%s concluído</string>
     <string name="enrol_fingerprint_data">Adicionar impressão digital</string>
+    <string name="enrol_fingerprint_process_talkback">Adicionando impressão digital</string>
+    <string name="enrol_fingerprint_title_talkback">Toque e levante o dedo. O sensor de impressão digital está sob o botão Liga/Desliga.</string>
+    <string name="enrol_gxzw_fingerprint_title_talkback">Adicionar impressão digital. O sensor de impressão digital está na parte central inferior da tela.</string>
+    <string name="enrol_swipe_fingerprint_title_talkback">Mova o dedo para a esquerda e para a direita. O sensor de impressão digital está sob o botão Liga/Desliga.</string>
+    <string name="enroll_face">Adicionar dados faciais</string>
+    <string name="enroll_fingerprint">Cadastrar impressão digital</string>
+    <string name="enrollment_completed">Concluído</string>
+    <string name="enter_current_lock_screen_password">Insira sua senha de bloqueio de tela</string>
     <string name="enter_password">Para iniciar o Android, digite sua senha</string>
-    <string name="enter_pattern">Para iniciar o Android, desenhe seu padrão</string>
-    <string name="enter_pin">Para iniciar o Android, digite seu PIN</string>
     <string name="enterprise_mode">Modo empresarial</string>
     <string name="enterprise_privacy_always_on_vpn_device">A \"VPN sempre ativa\" está ativada</string>
     <string name="enterprise_privacy_always_on_vpn_personal">A \"VPN sempre ativa\" está ativada no seu perfil pessoal</string>
@@ -4128,7 +4160,6 @@ Isso ajuda a proteger os dados em dispositivos perdidos ou roubados. Quer solici
     <string name="enterprise_privacy_failed_password_wipe_work">Tentativas de senha falhas antes de excluir os dados do perfil de trabalho</string>
     <string name="enterprise_privacy_global_http_proxy">Proxy HTTP geral definido</string>
     <string name="enterprise_privacy_header">"Para fornecer acesso aos seus dados de trabalho, sua organização pode alterar configurações e instalar softwares no seu dispositivo.
-
 Para saber mais detalhes, entre em contato com o administrador da sua organização."</string>
     <string name="enterprise_privacy_input_method">Teclado padrão</string>
     <string name="enterprise_privacy_input_method_name">Definir como %s</string>
@@ -4154,7 +4185,6 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="erase_application">Apagar apps</string>
     <string name="erase_application_description">Apagar apps baixados</string>
     <string name="erase_data">Apagar</string>
-    <string name="erase_euicc_data_button">Apagar</string>
     <string name="erase_external_storage">Formatar Drive USB</string>
     <string name="erase_external_storage_description">Apagar todos os dados do armazenamento USB interno, como músicas e fotos</string>
     <string name="erase_internal_storage">Formatar cartão SD fictício</string>
@@ -4165,13 +4195,11 @@ Para saber mais detalhes, entre em contato com o administrador da sua organizaç
     <string name="erase_sd_data">Formatar cartão SD fictício</string>
     <string name="erase_sd_data_description">A formatação apagará todos os dados no cartão SD</string>
     <string name="erase_sim_confirm_button">Apagar</string>
-    <string name="erase_sim_dialog_text">"Apagando este SIM remove o serviço %1$s deste dispositivo.
+    <string name="erase_sim_dialog_text">A exclusão deste eSIM remove o serviço da %1$s deste dispositivo. O serviço da %1$s não será cancelado. Para solicitar um novo eSIM, você precisará entrar em contato com sua operadora.</string>
+    <string name="erase_sim_dialog_title">Excluir este eSIM?</string>
+    <string name="erase_sim_fail_text">"Ocorreu um erro e este eSIM não foi excluído.
 
-O serviço para %1$s não será cancelado."</string>
-    <string name="erase_sim_dialog_title">Apaguar este eSIM?</string>
-    <string name="erase_sim_fail_text">"Este SIM não pode ser apagado devido a um erro.
-
-Reinicie o seu dispositivo e tente novamente."</string>
+Reinicie o dispositivo e tente novamente."</string>
     <string name="erase_sim_fail_title">"Não foi possível apagar SIM"</string>
     <string name="erase_sure">Obrigatório</string>
     <string name="erasing_sim">Apagando SIM…</string>
@@ -4279,9 +4307,20 @@ Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</
     <string name="face_data_suggesstion_first_cn">Para que você possa usar o desbloqueio facial, precisamos coletar seus dados faciais, que serão armazenados localmente neste dispositivo. Para excluí-lo, procure por Desbloqueio facial nas Configurações e selecione Desbloqueio facial > Dados faciais.</string>
     <string name="face_data_suggesstion_first_cn_highlight">O desbloqueio facial é menos seguro do que um PIN, senha, padrão ou impressão digital. Seu dispositivo pode ser desbloqueado com sua foto, assim como por pessoas ou objetos com aparência semelhante a sua.</string>
     <string name="face_data_suggesstion_second">Certifique-se de que todas as partes do seu rosto estão claramente visíveis. Não use acessórios que possam cobrir seu rosto. Mantenha seu rosto uniformemente iluminado e evite a luz direta.</string>
+    <string name="face_enroll_when_slt_on_toast">"Não é possível adicionar um rosto para o Desbloqueio facial ao usar comunicações via satélite Tiantong"</string>
+    <string name="face_enrollment_tips">"Certifique-se de que todas as partes do seu rosto estejam claramente visíveis. Não use chapéus, máscaras, óculos de sol ou outros acessórios."</string>
+    <string name="face_finger_add">Adicionar</string>
+    <string name="face_finger_delete">Excluir</string>
+    <string name="face_finger_rename">Renomear</string>
     <string name="face_intro_error_max">Você adicionou o número máximo de rostos</string>
     <string name="face_intro_error_unknown">Não é possível adicionar mais rostos</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Proteger seu dispositivo com uma opção de bloqueio de tela evita que alguém o utilize caso seja perdido ou roubado. A opção de bloqueio de tela também é necessária para configurar o desbloqueio facial. Para voltar, toque em \"Cancelar\".</string>
+    <string name="face_lock_feature_name">Bloqueio de apps</string>
+    <string name="face_password_unlock">Dados faciais e bloqueio de tela</string>
+    <string name="face_password_unlock_new">Dados faciais e bloqueio de tela</string>
+    <string name="face_recognition_2d">Reconhecimento de dados faciais 2D</string>
+    <string name="face_recognition_warning">O desbloqueio facial é menos seguro que senhas e impressões digitais. Seu dispositivo pode ser desbloqueado por uma foto, uma pessoa parecida com você ou certos objetos.</string>
+    <string name="face_settings">Configurações de dados faciais</string>
     <string name="face_password_unlock">Dados faciais e bloqueio de tela</string>
     <string name="face_password_unlock_new">Dados faciais e bloqueio de tela</string>
     <string name="face_unlock">Desbloqueio facial</string>
@@ -4300,7 +4339,8 @@ Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</
     <string name="face_unlock_offset_right">Mova para a esquerda</string>
     <string name="face_unlock_offset_top">Levante seu telefone um pouco</string>
     <string name="face_unlock_open_eye">Abra um pouco mais os seus olhos</string>
-    <string name="face_unlock_prompt">Pedido de desbloqueio facial</string>
+    <string name="face_unlock_prompt">"Cadastre dados faciais
+de frente para a tela externa"</string>								 
     <string name="face_unlock_quality">Não foi possível ver claramente o seu rosto</string>
     <string name="face_unlock_reveal_eye">Deixe seus olhos visíveis</string>
     <string name="face_unlock_reveal_mouth">Deixe seus lábios visíveis</string>
@@ -4311,9 +4351,11 @@ Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</
     <string name="face_unlock_set_unlock_password">Senha • Desbloqueio facial</string>
     <string name="face_unlock_set_unlock_pattern">Padrão • Desbloqueio facial</string>
     <string name="face_unlock_set_unlock_pin">PIN • Desbloqueio facial</string>
+    <string name="face_unlock_settings">Configurações de dados faciais</string>
     <string name="face_unlock_skip_face">Continuar sem desbloqueio facial</string>
     <string name="face_unlock_stay_away_screen">Fique de 25 a 40cm longe da tela</string>
-    <string name="face_unlock_success_show_message_dialog_msg">Permite que as notificações da Tela de bloqueio possam ser visualizadas na Tela de bloqueio.</string>
+    <string name="face_unlock_success_desc">Agora você pode desbloquear o dispositivo e verificar sua identidade usando dados faciais</string>    <string name="face_unlock_success_show_message_dialog_msg">Permite que as notificações da Tela de bloqueio possam ser visualizadas na Tela de bloqueio.</string>
+    <string name="face_unlock_success_show_message_dialog_msg">Permita notificações na tela de bloqueio para poder visualizá-las na tela de bloqueio.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Não, obrigado</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
     <string name="face_unlock_success_show_message_dialog_title">Notificações na Tela de bloqueio</string>
@@ -4339,6 +4381,12 @@ Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</
     <string name="failed_to_shut_down_find_device_content">"Não foi possível desativar o Encontrar dispositivo. Aguarde um momento e tente novamente."</string>
     <string name="failed_to_shut_down_find_device_title">Não foi possível desativar o Encontrar dispositivo</string>
     <string name="fallback_home_title">Aguarde…</string>
+    <string name="fan_mode">Modo da ventoinha</string>
+    <string name="fan_mode_full_scene_usage">Todos</string>
+    <string name="fan_mode_partial_scene_usage">Selecionados</string>
+    <string name="fan_mode_range_title">Cenários de uso</string>
+    <string name="fan_mode_usage_scenes">Cenários de uso</string>
+    <string name="fast_connect_device_image">Imagem</string>
     <string name="fcc_equipment_id">ID do equipamento</string>
     <string name="feature_flags_dashboard_title">Sinalizações de recursos</string>
     <string name="feedback">"Feedback"</string>
@@ -4347,6 +4395,7 @@ Adicione uma senha na Tela de bloqueio antes de adicionar seus dados faciais."</
     <string name="feedback_settings_new">"Feedback"</string>
     <string name="felica_wallet">Carteira FeliCa</string>
     <string name="felica_wallet_desc">Carteira FeliCa</string>
+    <string name="feminine">Feminino</string>
     <string name="file_privacy_password_role_instruction">Seus arquivos privados serão armazenados aqui.</string>
     <string name="filter">Filtro</string>
     <string name="filter_all_apps">Todos os apps</string>
@@ -4419,18 +4468,26 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="finger_add_user_info_dialog_next">Aceitar</string>
     <string name="finger_add_user_info_dialog_title">Atenção!</string>
     <string name="finger_detail_info_text">Alterar o nome da impressão digital</string>
+    <string name="finger_lock_feature_name">Bloqueio de apps, álbuns privados e notas ocultas</string>
+    <string name="fingerprint_acquired_imager_dirty_udfps">Limpe a tela perto do sensor e tente novamente</string>
     <string name="fingerprint_add_max">É possível adicionar até %d impressões digitais</string>
     <string name="fingerprint_add_title">Adicionar impressão digital</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueio de tela e impressão digital</string>
     <string name="fingerprint_apply_to_privacy_password">Senha de proteção de privacidade</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos, notas e apps.</string>
     <string name="fingerprint_base_title">Impressão digital %s</string>
+    <string name="fingerprint_check_enroll_not_recognized">Impressão digital não reconhecida</string>
+    <string name="fingerprint_check_enroll_touch_sensor">Toque no sensor de impressão digital</string>
+    <string name="fingerprint_check_enrolled_title">Verificar impressões digitais cadastradas</string>
     <string name="fingerprint_delete_message">Quer excluir esta impressão digital?</string>
     <string name="fingerprint_delete_title">Excluir \"%1$s\"</string>
     <string name="fingerprint_double_tap">Dois toques no sensor de impressão digital</string>
     <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de tela</string>
     <string name="fingerprint_enroll_button_add">Adicionar outra</string>
     <string name="fingerprint_enroll_button_next">Próxima</string>
+    <string name="fingerprint_enrollment_desc">Após cadastrar uma impressão digital, você pode usá-la para desbloquear o dispositivo e verificar sua identidade.</string>
+    <string name="fingerprint_enrollment_title">Cadastrar impressão digital</string>
+    <string name="fingerprint_face_password">Impressões digitais, dados faciais e bloqueio de tela</string>
     <string name="fingerprint_face_password_unlock">Impressões digitais, dados faciais e bloqueio de tela</string>
     <string name="fingerprint_face_password_unlock_new">Impressões digitais, dados faciais e bloqueio de tela</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">Rosto (defina a senha da Tela de bloqueio primeiro)</string>
@@ -4460,10 +4517,12 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fingerprint_password_unlock">Impressões digitais e bloqueio de tela</string>
     <string name="fingerprint_payment">Pagamentos por impressão digital</string>
     <string name="fingerprint_removal_failed">Não foi possível remover a impressão digital, tente novamente mais tarde</string>
+    <string name="fingerprint_settings">Configurações de impressão digital</string>    <string name="fingerprint_start_enroll">Gravar</string>
     <string name="fingerprint_start_enroll">Gravar</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Ver notificações rapidamente</string>
     <string name="fingerprint_swipe_for_notifications_summary">Para ver suas notificações, deslize o dedo indicador para baixo no sensor de impressão digital localizado na parte traseira do dispositivo.</string>
     <string name="fingerprint_swipe_for_notifications_title">Deslizar para baixo no sensor de impressão digital para ver as notificações</string>
+    <string name="fingerprint_unlock_capability">Desbloquear e verificar sua identidade via impressão digital</string>
     <string name="fingerprint_unlock_press_type">Apertar</string>
     <string name="fingerprint_unlock_set_unlock_password">Senha • Impressão digital</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Padrão • Impressão digital</string>
@@ -4506,6 +4565,10 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fiveg_sa_vice_switch_title">Rede SA no SIM 2</string>
     <string name="fiveg_vonr_switch_summary">Use VoNR em ambientes de rede 5G para melhorar a experiência de chamada. Este recurso é fornecido apenas para fins de teste.</string>
     <string name="fiveg_vonr_switch_title">Configurações VoNR</string>
+    <string name="fivega_enhanced_network_summary">Conectividade de rede 5G avançada para testes</string>
+    <string name="fivega_enhanced_network_title">Opções de rede 5G-A</string>
+    <string name="fivega_switch_summary">Conectividade de rede 5G avançada para testes (disponível quando fornecido por sua operadora)</string>
+    <string name="fivega_switch_title">NR CA</string>
     <string name="fix_connectivity">Corrigir conectividade</string>
     <string name="flash_drive_backup_disable">Conecte o drive USB primeiro</string>
     <string name="flash_drive_backup_enable">Use um drive USB para fazer backup ou restaurar itens</string>
@@ -4540,6 +4603,24 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="flashback_support_apps_title">Apps disponíveis</string>
     <string name="flashback_title">Cartões didáticos dos apps</string>
     <string name="flashback_wangzhe_summary">Mostrar contagem regressiva de reinício</string>
+    <string name="flip_aod_settings_title">Tela de bloqueio (externa)</string>
+    <string name="flip_aod_settings_title_new">Tela de bloqueio (externa)</string>
+    <string name="flip_application_settings_title">Apps da tela externa</string>
+    <string name="flip_application_settings_title_new">Apps da tela externa</string>
+    <string name="flip_close_lid_settings_title">Tela dobrada</string>
+    <string name="flip_continuity_bottom_text">"Alguns apps ainda não foram otimizados para exibição na tela externa. Os resultados podem variar."</string>
+    <string name="flip_continuity_directly_off_the_screen">Desligar tela</string>
+    <string name="flip_continuity_display_lock_screent">Tela de bloqueio</string>
+    <string name="flip_continuity_settings_title">Tela dobrada</string>
+    <string name="flip_continuity_status_list_title">Tela dobrada</string>
+    <string name="flip_continuity_use_list_title">Continuar usando ao dobrar</string>
+    <string name="flip_continuity_use_subtitle">Quando este recurso estiver ativado, você poderá continuar usando apps selecionados após dobrar o dispositivo</string>
+    <string name="flip_dial_settings_title">Widget</string>
+    <string name="flip_dial_settings_title_new">Widget</string>
+    <string name="flip_quick_switch_settings_title">Centro de controle</string>
+    <string name="flip_screen_settings_title">Tela externa</string>
+    <string name="flip_wallpaper_settings_title">Papel de parede</string>
+    <string name="flip_wallpaper_settings_title_new">Papel de parede</string>
     <string name="floating_window_switch_label">Ativar janelas flutuantes</string>
     <string name="floating_window_switch_label_disable">Desativar janelas flutuantes</string>
     <string name="fluency_mode">Animações do sistema</string>
@@ -6551,9 +6632,12 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_LEAudio_title">Ativar áudio de baixa energia?</string>
     <string name="miheadset_LE_on_toast">Certifique-se de que ambos os fones de ouvido estejam carregados e retire-os do case antes de ativar esse recurso</string>
     <string name="miheadset_LeftEar">Esquerdo</string>
+    <string name="miheadset_MFB_and_minus">Mantenha pressionados os botões MFB e \"-\" por %ds</string>
     <string name="miheadset_RightEar">Direito</string>
     <string name="miheadset_active">Energético</string>
     <string name="miheadset_adaptive">Adaptável</string>
+    <string name="miheadset_air_anc_no_wear_indicate">Coloque os fones de ouvido para usar este recurso</string>
+    <string name="miheadset_air_anc_wear_indicate">Coloque os dois fones de ouvido para usar este recurso</string>
     <string name="miheadset_ancClosed">Desativado</string>
     <string name="miheadset_ancDepth">Profundo</string>
     <string name="miheadset_ancEquilibrium">Equilibrado</string>
@@ -6642,10 +6726,15 @@ Não poderá reverter esta ação."</string>
     <string name="miheadset_head_tracking_summary">Experimente uma sensação aprimorada de espaço e direção para áudio e vídeo suportados</string>
     <string name="miheadset_high_quality">Alta qualidade</string>
     <string name="miheadset_ignore">Desparear</string>
+    <string name="miheadset_immersion">Viagem imersiva</string>
+    <string name="miheadset_immersion_airplane_mode">Avião</string>
+    <string name="miheadset_immersion_high_speed_rail_mode">Trem</string>
+    <string name="miheadset_immersion_subway_mode">Transporte público</string>
     <string name="miheadset_in_ear_check">Deteção de ouvido</string>
     <string name="miheadset_in_ear_check_summary">Pause o áudio quando os fones de ouvido forem retirados e retome automaticamente quando eles forem recolocados</string>
     <string name="miheadset_key_config_ANC_list_title">Controle de ruído</string>
     <string name="miheadset_key_config_call_ai">Assistente de voz</string>
+    <string name="miheadset_key_config_camera_shutter">Disparador da câmera</string>
     <string name="miheadset_key_config_close">Desativado</string>
     <string name="miheadset_key_config_close_summary">Desative o cancelamento de ruído e a transparência</string>
     <string name="miheadset_key_config_gesture_control">Gestos</string>
