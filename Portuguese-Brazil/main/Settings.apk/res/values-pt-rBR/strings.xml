@@ -4871,21 +4871,20 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="force_stop_dlg_title">Forçar fechamento?</string>
     <string name="foreground_traffic">%s em primeiro plano</string>
     <string name="forget">Esquecer</string>
-    <string name="forget_group">Esqueça o grupo</string>
-    <string name="forget_passpoint_dialog_message">Você pode perder o acesso a qualquer tempo ou dado restante. Verifique essa informação com o provedor antes de remover.</string>
+    <string name="forget_group">Esquecer grupo</string>
+    <string name="forget_passpoint_dialog_message">Você pode perder o acesso a qualquer tempo ou dados restantes. Verifique com seu provedor antes de remover.</string>
     <string name="forget_passpoint_wifi_message">Seu dispositivo irá parar de se conectar a esta rede automaticamente.</string>
-    <string name="forget_password_button_text"><u>Esqueci a senha</u></string>
+    <string name="forget_password_button_text"><u>Esquecei a senha</u></string>
     <string name="forget_password_dialog_button_text">Voltar</string>
-    <string name="forget_password_dialog_content_four">3. Selecione [Wipe data], e espere até que seu dispositivo reinicie.</string>
-    <string name="forget_password_dialog_content_one"><Data>Se você esquecer a sua senha, você não será capaz de recuperá-la. Entretanto, você pode redefinir a sua senha depois de &lt;font color=#ec2700>apagar todos os dados no seu dispositivo&lt;/font> (incluindo fotos, contatos, etc.). Faça o backup de todos os seus dados importantes antes disso.</Data></string>
-    <string name="forget_password_dialog_content_three">"1. Desligue seu dispositivo.
-2. Pressione e segure os botões [Liga/Desliga] e [Volume +] simultaneamente, até ver o ícone *".</string>
-    <string name="forget_password_dialog_content_two">Siga estes passos para apagar os dados:</string>
-    <string name="forget_password_dialog_title">Apagar dados</string>
+    <string name="forget_password_dialog_content_four">2. Selecione [Wipe data], e aguarde até que seu dispositivo reinicie.</string>
+    <string name="forget_password_dialog_content_one"><Data>"Se você esquecer sua senha, não poderá restaurá-la. No entanto, você pode redefinir sua senha após &lt;font color=#ec2700>apagar todos os dados do seu dispositivo&lt;/font> (incluindo fotos, contatos, etc.). Faça backup de todos os dados importantes antes disso."</Data></string>
+    <string name="forget_password_dialog_content_three">1. Desligue seu dispositivo. Pressione o botão [Liga/Desliga] e o botão [Volume +] simultaneamente, e mantenha-os pressionados até que o conteúdo seja exibido na tela.</string>
+    <string name="forget_password_dialog_content_two">Siga estas etapas para apagar os dados:</string>
+    <string name="forget_password_dialog_title">Limpar dados</string>
     <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
     <string name="forget_privacy_password_setting">Adicionar Conta Xiaomi</string>
-    <string name="forget_privacy_password_summary">Use sua Conta Xiaomi para redefinir a sua senha</string>
-    <string name="forget_wifi_message">Seu telefone irá parar de se conectar a esta rede automaticamente</string>
+    <string name="forget_privacy_password_summary">Use a Conta Xiaomi para redefinir sua senha</string>
+    <string name="forget_wifi_message">Seu dispositivo parará de se conectar a esta rede automaticamente. Talvez seja necessário inserir a senha ao conectar-se a esta rede novamente.</string>
     <string name="forgot_password_text">Ele pode ajudar você a redefinir seu PIN, seu padrão ou sua senha</string>
     <string name="forgot_password_title">Entre em contato com o admin. de TI</string>
     <string name="found_new_version">Atualização disponível</string>
