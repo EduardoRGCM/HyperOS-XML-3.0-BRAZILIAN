@@ -564,7 +564,7 @@ Segurança aprimorada."</string>
     <string name="new_default_folder_title_tools">Apps do sistema</string>
     <string name="new_folder_picker_sliding_button_tab_text">Ordenar apps automaticamente</string>
     <string name="new_open_personal_assistant_settings_simplified">Assistente</string>
-    <string name="new_privacy_thumbnail_blur_summary">Desfoca a prévias de apps nos Recentes</string>
+    <string name="new_privacy_thumbnail_blur_summary">Ocultar conteúdo nos Recentes</string>
     <string name="new_recents_config_title">Outros</string>
     <string name="night">"PM"</string>
     <string name="no_space_toast">Não há espaço suficiente</string>
@@ -624,9 +624,10 @@ Segurança aprimorada."</string>
     <string name="recents_exit_multi_window_mode">Sair</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"Não é possível usar a Tela divida enquanto estiver transmitindo"</string>
     <string name="recents_incompatible_app_message">"Este app não suporta Tela dividida"</string>
-    <string name="recents_layout_style">Layout nos Recentes</string>
-    <string name="recents_layout_style_horizontal">Horizontalmente</string>
-    <string name="recents_layout_style_vertical">Verticalmente</string>
+    <string name="recents_layout_style">Layout dos Recentes</string>
+    <string name="recents_layout_style_horizontal">Horizontal</string>
+    <string name="recents_layout_style_stack">Empilhado</string>
+    <string name="recents_layout_style_vertical">Vertical</string>
     <string name="recents_smallwindow_drag_text">Arraste aqui para fixar</string>
     <string name="recents_smallwindow_text">Solte para adicionar</string>
     <string name="recents_task_screening">Transmitindo</string>
