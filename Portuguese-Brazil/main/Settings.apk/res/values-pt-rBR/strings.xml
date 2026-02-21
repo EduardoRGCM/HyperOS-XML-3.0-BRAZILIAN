@@ -4602,7 +4602,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="fingerprint_and_password_entrance_title">Bloqueio de tela e impressão digital</string>
     <string name="fingerprint_apply_to_privacy_password">Senha de proteção de privacidade</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">A Senha de proteção de privacidade protege suas mensagens, fotos, arquivos, notas e apps.</string>
-    <string name="fingerprint_base_title">Impressão digital %s</string>
+    <string name="fingerprint_base_title">Digital %s</string>
     <string name="fingerprint_check_enroll_not_recognized">Impressão digital não reconhecida</string>
     <string name="fingerprint_check_enroll_touch_sensor">Toque no sensor de impressão digital</string>
     <string name="fingerprint_check_enrolled_title">Verificar impressões digitais cadastradas</string>
@@ -4874,7 +4874,7 @@ Parecia não haver nenhum cavalo nem animais de nenhuma espécie. Os homens carr
     <string name="forget_group">Esquecer grupo</string>
     <string name="forget_passpoint_dialog_message">Você pode perder o acesso a qualquer tempo ou dados restantes. Verifique com seu provedor antes de remover.</string>
     <string name="forget_passpoint_wifi_message">Seu dispositivo irá parar de se conectar a esta rede automaticamente.</string>
-    <string name="forget_password_button_text"><u>Esquecei a senha</u></string>
+    <string name="forget_password_button_text"><u>Esqueci a senha</u></string>
     <string name="forget_password_dialog_button_text">Voltar</string>
     <string name="forget_password_dialog_content_four">2. Selecione [Wipe data], e aguarde até que seu dispositivo reinicie.</string>
     <string name="forget_password_dialog_content_one"><Data>"Se você esquecer sua senha, não poderá restaurá-la. No entanto, você pode redefinir sua senha após &lt;font color=#ec2700>apagar todos os dados do seu dispositivo&lt;/font> (incluindo fotos, contatos, etc.). Faça backup de todos os dados importantes antes disso."</Data></string>
